@@ -82,6 +82,13 @@ def normalize_legislator(raw: dict) -> dict:
     if website:
         contact_details["website"] = website
 
+    # PA Legislature moved image hosting; rewrite old domain to new one
+    image_url = raw.get("image") or ""
+    image_url = image_url.replace(
+        "https://www.legis.state.pa.us/images/members/",
+        "https://www.palegis.us/resources/images/members/",
+    )
+
     return {
         "id": raw.get("id"),
         "name": raw.get("name"),
@@ -89,7 +96,7 @@ def normalize_legislator(raw: dict) -> dict:
         "chamber": current_role.get("org_classification"),  # 'upper' or 'lower'
         "district": current_role.get("district"),
         "title": current_role.get("title"),
-        "image_url": raw.get("image"),
+        "image_url": image_url or None,
         "openstates_url": raw.get("openstates_url"),
         "web_links": web_links,
         "social_links": {},  # populated by future enrichment step
