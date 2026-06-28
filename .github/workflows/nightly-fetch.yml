@@ -1,0 +1,48 @@
+name: Nightly Data Fetch
+
+on:
+  schedule:
+    - cron: "0 7 * * *"  # 2am ET = 7am UTC
+  workflow_dispatch:      # Manual trigger via GitHub UI
+
+jobs:
+  fetch-data:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+          cache-dependency-path: pipeline/requirements.txt
+
+      - name: Install pipeline dependencies
+        run: pip install -r pipeline/requirements.txt
+
+      - name: Run data pipeline
+        env:
+          OPENSTATES_API_KEY: ${{ secrets.OPENSTATES_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GOOGLE_CIVIC_API_KEY: ${{ secrets.GOOGLE_CIVIC_API_KEY }}
+          LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
+        working-directory: pipeline
+        run: python run_pipeline.py
+
+      - name: Commit updated data files
+        run: |
+          git config user.name "keystonewatch-bot"
+          git config user.email "bot@keystonewatch"
+          git add data/
+          git diff --cached --quiet || git commit -m "chore: nightly data refresh [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          git push
+
+      - name: Trigger Vercel redeploy
+        if: success()
+        run: |
+          curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"

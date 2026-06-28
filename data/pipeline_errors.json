@@ -1,0 +1,50 @@
+[
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "pahouse scrape: no news section found",
+    "timestamp": "2026-06-28T11:25:02.152758"
+  },
+  {
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "404 Client Error: Not Found for url: https://v3.openstates.org/votes?voter_id=ocd-person%2Fbd4c3d05-059a-4084-b8f8-e8598e4eb955&jurisdiction=ocd-jurisdiction%2Fcountry%3Aus%2Fstate%3Apa%2Fgovernment&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor_id=ocd-person%2Fbd4c3d05-059a-4084-b8f8-e8598e4eb955&jurisdiction=ocd-jurisdiction%2Fcountry%3Aus%2Fstate%3Apa%2Fgovernment&page=1&per_page=50"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "pahouse scrape: no news section found",
+    "timestamp": "2026-06-28T11:25:02.152758"
+  },
+  {
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "429 Client Error: Too Many Requests for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fbd4c3d05-059a-4084-b8f8-e8598e4eb955&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "pahouse scrape: no news section found",
+    "timestamp": "2026-06-28T11:25:02.152758"
+  },
+  {
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "404 Client Error: Not Found for url: https://v3.openstates.org/votes?voter_id=ocd-person%2Fbd4c3d05-059a-4084-b8f8-e8598e4eb955&jurisdiction=ocd-jurisdiction%2Fcountry%3Aus%2Fstate%3Apa%2Fgovernment&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor_id=ocd-person%2Fbd4c3d05-059a-4084-b8f8-e8598e4eb955&jurisdiction=ocd-jurisdiction%2Fcountry%3Aus%2Fstate%3Apa%2Fgovernment&page=1&per_page=50"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "pahouse scrape: no news section found",
+    "timestamp": "2026-06-28T11:25:02.152758"
+  },
+  {
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "Rate limit exceeded after 5 retries"
+  }
+]

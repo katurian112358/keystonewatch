@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --democrat: #1d4ed8;
+  --republican: #b91c1c;
+  --independent: #6b7280;
+}
