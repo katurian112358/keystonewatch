@@ -6,16 +6,19 @@ Outputs: data/legislators.json, data/legislators_by_district.json
 import json
 import os
 import sys
+import time
 from pathlib import Path
 
-import requests
 from dotenv import load_dotenv
+
+from _http import get_with_backoff
 
 load_dotenv()
 
 OPENSTATES_API_KEY = os.environ.get("OPENSTATES_API_KEY")
 OPENSTATES_BASE = "https://v3.openstates.org"
 DATA_DIR = Path(__file__).parent.parent / "data"
+REQUEST_DELAY = 1.0
 
 
 def fetch_all_legislators() -> list[dict]:
@@ -35,14 +38,7 @@ def fetch_all_legislators() -> list[dict]:
             "page": page,
             "per_page": per_page,
         }
-        resp = requests.get(
-            f"{OPENSTATES_BASE}/people",
-            headers=headers,
-            params=params,
-            timeout=30,
-        )
-        resp.raise_for_status()
-        data = resp.json()
+        data = get_with_backoff(f"{OPENSTATES_BASE}/people", headers, params, timeout=30)
 
         results = data.get("results", [])
         # Keep only House (lower) and Senate (upper) members
@@ -55,6 +51,8 @@ def fetch_all_legislators() -> list[dict]:
         pagination = data.get("pagination", {})
         max_page = pagination.get("max_page", 1)
         print(f"  Fetched page {page}/{max_page} ({len(results)} legislators kept)")
+
+        time.sleep(REQUEST_DELAY)
 
         if page >= max_page:
             break

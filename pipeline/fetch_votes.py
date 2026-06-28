@@ -11,12 +11,13 @@ Outputs: data/votes/{safe_legislator_id}.json per legislator
 import json
 import sys
 import time
+import os
 from collections import defaultdict
 from pathlib import Path
 
-import requests
 from dotenv import load_dotenv
-import os
+
+from _http import get_with_backoff, QuotaExhausted
 
 load_dotenv()
 
@@ -25,40 +26,6 @@ OPENSTATES_BASE = "https://v3.openstates.org"
 DATA_DIR = Path(__file__).parent.parent / "data"
 SESSIONS = ["2025-2026", "2023-2024"]
 REQUEST_DELAY = 1.0   # seconds between requests to stay under rate limit
-MAX_RETRIES = 4
-MAX_BACKOFF = 60      # cap a single wait so a failure can't stall for minutes
-
-
-class QuotaExhausted(Exception):
-    """Raised when the API keeps returning 429 after all retries — signals the
-    caller to stop scanning rather than hammer a rate-limited endpoint.
-    Carries any partially-collected results so progress isn't lost."""
-
-    def __init__(self, *args, _partial=None):
-        super().__init__(*args)
-        self.partial = _partial or []
-
-
-def get_with_backoff(url: str, headers: dict, params: dict) -> dict:
-    """GET with capped exponential backoff on 429 and 5xx errors."""
-    last_status = None
-    for attempt in range(MAX_RETRIES):
-        try:
-            resp = requests.get(url, headers=headers, params=params, timeout=60)
-            last_status = resp.status_code
-            if resp.status_code in (429, 500, 502, 503, 504):
-                wait = min(2 ** attempt * 5, MAX_BACKOFF)
-                print(f"    HTTP {resp.status_code} — waiting {wait}s (retry {attempt + 1}/{MAX_RETRIES})")
-                time.sleep(wait)
-                continue
-            resp.raise_for_status()
-            return resp.json()
-        except requests.exceptions.ConnectionError:
-            print(f"    Connection error — waiting (retry {attempt + 1}/{MAX_RETRIES})")
-            time.sleep(min(2 ** attempt * 5, MAX_BACKOFF))
-    if last_status == 429:
-        raise QuotaExhausted(f"Rate limit not clearing after {MAX_RETRIES} retries")
-    raise RuntimeError(f"Failed after {MAX_RETRIES} retries: {url}")
 
 
 def fetch_bills_with_votes(session: str) -> list[dict]:
