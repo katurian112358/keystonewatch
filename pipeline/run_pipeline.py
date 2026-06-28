@@ -73,16 +73,19 @@ def main() -> None:
     else:
         print("Skipping full legislator fetch (single-legislator mode)")
 
-    # Step 2: Bills (cheap — a few pages per legislator; run before expensive vote scan)
-    errs = run_step("2. Fetch bills", fetch_bills.main, leg_ids)
-    all_errors.extend(errs)
-
-    # Step 3: Votes (expensive — scans all PA bills; fine for nightly job, quota-heavy locally)
+    # Step 2: Votes — one full scan (~500 requests) yields vote data for ALL
+    # legislators, so run it first to guarantee universal coverage under quota.
     if not args.skip_votes:
-        errs = run_step("3. Fetch votes", fetch_votes.main, leg_ids)
+        errs = run_step("2. Fetch votes", fetch_votes.main, leg_ids)
         all_errors.extend(errs)
     else:
         print("\nSkipping vote scan (--skip-votes)")
+
+    # Step 3: Bills — the expensive step (hundreds of pages each via cosponsorships).
+    # Runs after votes on whatever quota remains; rotates across nights (see
+    # BILLS_FRESH_DAYS) so the whole roster gets covered over time.
+    errs = run_step("3. Fetch bills", fetch_bills.main, leg_ids)
+    all_errors.extend(errs)
 
     # Step 4: Press release scraping (can skip)
     if not args.skip_scrape:
@@ -119,8 +122,11 @@ def main() -> None:
     print(f"  Total runtime: {last_updated['runtime_seconds']}s")
     print(f"  Total errors:  {len(all_errors)}")
     if all_errors:
-        print(f"  See data/pipeline_errors.json for details")
-        sys.exit(1)
+        print("  See data/pipeline_errors.json for details")
+    # NOTE: exit 0 even when individual steps logged errors. Press-release scrapes
+    # fail routinely (many legislator sites use unsupported templates) and quota
+    # limits are expected — these are logged, not fatal. Exiting non-zero here would
+    # cause the GitHub Actions commit step to skip, discarding all fetched data.
 
 
 if __name__ == "__main__":

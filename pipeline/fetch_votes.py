@@ -24,26 +24,40 @@ OPENSTATES_API_KEY = os.environ.get("OPENSTATES_API_KEY")
 OPENSTATES_BASE = "https://v3.openstates.org"
 DATA_DIR = Path(__file__).parent.parent / "data"
 SESSIONS = ["2025-2026", "2023-2024"]
-REQUEST_DELAY = 0.5   # seconds between requests to stay under rate limit
-MAX_RETRIES = 5
+REQUEST_DELAY = 1.0   # seconds between requests to stay under rate limit
+MAX_RETRIES = 4
+MAX_BACKOFF = 60      # cap a single wait so a failure can't stall for minutes
+
+
+class QuotaExhausted(Exception):
+    """Raised when the API keeps returning 429 after all retries — signals the
+    caller to stop scanning rather than hammer a rate-limited endpoint.
+    Carries any partially-collected results so progress isn't lost."""
+
+    def __init__(self, *args, _partial=None):
+        super().__init__(*args)
+        self.partial = _partial or []
 
 
 def get_with_backoff(url: str, headers: dict, params: dict) -> dict:
-    """GET with exponential backoff on 429 and 5xx errors."""
+    """GET with capped exponential backoff on 429 and 5xx errors."""
+    last_status = None
     for attempt in range(MAX_RETRIES):
         try:
             resp = requests.get(url, headers=headers, params=params, timeout=60)
+            last_status = resp.status_code
             if resp.status_code in (429, 500, 502, 503, 504):
-                wait = 2 ** attempt * 10  # 10s, 20s, 40s, 80s, 160s
+                wait = min(2 ** attempt * 5, MAX_BACKOFF)
                 print(f"    HTTP {resp.status_code} — waiting {wait}s (retry {attempt + 1}/{MAX_RETRIES})")
                 time.sleep(wait)
                 continue
             resp.raise_for_status()
             return resp.json()
         except requests.exceptions.ConnectionError:
-            wait = 2 ** attempt * 5
-            print(f"    Connection error — waiting {wait}s (retry {attempt + 1}/{MAX_RETRIES})")
-            time.sleep(wait)
+            print(f"    Connection error — waiting (retry {attempt + 1}/{MAX_RETRIES})")
+            time.sleep(min(2 ** attempt * 5, MAX_BACKOFF))
+    if last_status == 429:
+        raise QuotaExhausted(f"Rate limit not clearing after {MAX_RETRIES} retries")
     raise RuntimeError(f"Failed after {MAX_RETRIES} retries: {url}")
 
 
@@ -61,7 +75,13 @@ def fetch_bills_with_votes(session: str) -> list[dict]:
             "per_page": 20,  # votes are large; keep pages small
             "page": page,
         }
-        data = get_with_backoff(f"{OPENSTATES_BASE}/bills", headers, params)
+        try:
+            data = get_with_backoff(f"{OPENSTATES_BASE}/bills", headers, params)
+        except QuotaExhausted:
+            # Preserve whatever we collected so far rather than losing the scan
+            print(f"    Quota exhausted at page {page} — keeping {len(bills)} bills "
+                  "collected so far", file=sys.stderr)
+            raise QuotaExhausted(_partial=bills)
         results = data.get("results", [])
         bills.extend(results)
 
@@ -173,14 +193,29 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
     print("  Scanning PA bills for vote records (this takes a few minutes)...")
     all_vote_records: dict[str, list] = defaultdict(list)
 
+    errors = []
+    quota_hit = False
     for session in SESSIONS:
         try:
             bills = fetch_bills_with_votes(session)
-            session_index = build_legislator_vote_index(bills)
-            for leg_id, records in session_index.items():
-                all_vote_records[leg_id].extend(records)
+        except QuotaExhausted as e:
+            # Index whatever we managed to collect, then stop scanning
+            bills = e.partial
+            quota_hit = True
         except Exception as e:
             print(f"    ERROR fetching session {session}: {e}", file=sys.stderr)
+            errors.append({"step": "fetch_votes", "session": session, "error": str(e)})
+            continue
+
+        session_index = build_legislator_vote_index(bills)
+        for leg_id, records in session_index.items():
+            all_vote_records[leg_id].extend(records)
+
+        if quota_hit:
+            print("    API quota exhausted — stopping vote scan; writing partial "
+                  "results", file=sys.stderr)
+            errors.append({"step": "fetch_votes", "error": "quota exhausted, partial scan"})
+            break
 
     # Determine which legislators to write
     if legislator_ids:
@@ -190,17 +225,22 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
         legislators = json.loads(leg_path.read_text())
         target_ids = {l["id"] for l in legislators}
 
-    errors = []
     written = 0
     for leg_id in target_ids:
         records = all_vote_records.get(leg_id, [])
+        # On a partial (quota-limited) scan, don't overwrite an existing file with
+        # zeros — a legislator's votes may simply be in pages we never reached.
+        if quota_hit and not records:
+            safe_id = leg_id.replace("/", "_")
+            if (votes_dir / f"{safe_id}.json").exists():
+                continue
         stats = compute_stats(leg_id, records)
-        safe_id = leg_id.replace("/", "_")
-        out = votes_dir / f"{safe_id}.json"
+        out = votes_dir / f"{leg_id.replace('/', '_')}.json"
         out.write_text(json.dumps(stats, indent=2, ensure_ascii=False))
         written += 1
 
-    print(f"  Wrote vote stats for {written} legislators")
+    print(f"  Wrote vote stats for {written} legislators"
+          + (" (partial scan)" if quota_hit else ""))
     return errors
 
 

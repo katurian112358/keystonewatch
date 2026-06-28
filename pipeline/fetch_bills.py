@@ -7,6 +7,7 @@ import json
 import os
 import sys
 import time
+from datetime import datetime, timezone
 from pathlib import Path
 
 import requests
@@ -17,25 +18,38 @@ load_dotenv()
 OPENSTATES_API_KEY = os.environ.get("OPENSTATES_API_KEY")
 OPENSTATES_BASE = "https://v3.openstates.org"
 DATA_DIR = Path(__file__).parent.parent / "data"
-REQUEST_DELAY = 0.5
-MAX_RETRIES = 5
+REQUEST_DELAY = 1.0          # seconds between requests
+MAX_RETRIES = 4
+MAX_BACKOFF = 60             # cap a single wait so a failure can't stall for minutes
+# Skip legislators whose bills were fetched within this many days. Bills are the
+# most expensive step (~hundreds of pages each); under a daily API quota we cannot
+# refresh all 251 in one run, so we rotate — each night fills in the stalest ones.
+BILLS_FRESH_DAYS = 6
+
+
+class QuotaExhausted(Exception):
+    """Raised when the API keeps returning 429 after all retries — signals the
+    caller to stop making requests rather than hammer a rate-limited endpoint."""
 
 
 def get_with_backoff(url: str, headers: dict, params: dict) -> dict:
+    last_status = None
     for attempt in range(MAX_RETRIES):
         try:
             resp = requests.get(url, headers=headers, params=params, timeout=30)
+            last_status = resp.status_code
             if resp.status_code in (429, 500, 502, 503, 504):
-                wait = 2 ** attempt * 10
+                wait = min(2 ** attempt * 5, MAX_BACKOFF)
                 print(f"    HTTP {resp.status_code} — waiting {wait}s (retry {attempt + 1}/{MAX_RETRIES})")
                 time.sleep(wait)
                 continue
             resp.raise_for_status()
             return resp.json()
         except requests.exceptions.ConnectionError:
-            wait = 2 ** attempt * 5
-            time.sleep(wait)
-    raise RuntimeError(f"Failed after {MAX_RETRIES} retries")
+            time.sleep(min(2 ** attempt * 5, MAX_BACKOFF))
+    if last_status == 429:
+        raise QuotaExhausted(f"Rate limit not clearing after {MAX_RETRIES} retries")
+    raise RuntimeError(f"Failed after {MAX_RETRIES} retries: {url}")
 
 # Actions that indicate meaningful progress
 INSTRUMENTAL_KEYWORDS = {
@@ -88,10 +102,12 @@ def fetch_bills_for_legislator(legislator_id: str) -> list[dict]:
                 bill["actions"], key=lambda a: a.get("date", ""), reverse=True
             )[0]
 
-        # Determine sponsorship role
+        # Determine sponsorship role. The API nests the person id under
+        # sponsorship.person.id (not a flat person_id field).
         role = "cosponsor"
         for sponsor in bill.get("sponsorships", []):
-            if sponsor.get("person_id") == legislator_id and sponsor.get("primary"):
+            sponsor_person_id = (sponsor.get("person") or {}).get("id")
+            if sponsor_person_id == legislator_id and sponsor.get("primary"):
                 role = "primary"
                 break
 
@@ -124,18 +140,39 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
     bills_dir = DATA_DIR / "bills"
     bills_dir.mkdir(parents=True, exist_ok=True)
 
+    # Single-legislator runs always refresh; full runs skip recently-fetched files
+    # so each nightly run spends its quota on the stalest legislators.
+    skip_fresh = len(legislator_ids) > 1
+    now = datetime.now(timezone.utc)
+
     errors = []
+    fetched = skipped = 0
     for i, leg_id in enumerate(legislator_ids, 1):
+        out = bills_dir / f"{leg_id.replace('/', '_')}.json"
+
+        if skip_fresh and out.exists():
+            age_days = (now.timestamp() - out.stat().st_mtime) / 86400
+            if age_days < BILLS_FRESH_DAYS:
+                skipped += 1
+                continue
+
         print(f"  [{i}/{len(legislator_ids)}] Fetching bills for {leg_id}")
         try:
             bills = fetch_bills_for_legislator(leg_id)
-            out = bills_dir / f"{leg_id.replace('/', '_')}.json"
             out.write_text(json.dumps(bills, indent=2, ensure_ascii=False))
             print(f"    {len(bills)} bills")
+            fetched += 1
+        except QuotaExhausted:
+            print("    API quota exhausted — stopping bills step early "
+                  f"(fetched {fetched}, {len(legislator_ids) - i} legislators "
+                  "left for a future run)", file=sys.stderr)
+            errors.append({"step": "fetch_bills", "error": "quota exhausted, stopped early"})
+            break
         except Exception as e:
             print(f"    ERROR: {e}", file=sys.stderr)
             errors.append({"legislator_id": leg_id, "error": str(e)})
 
+    print(f"  Bills: {fetched} fetched, {skipped} skipped (still fresh)")
     return errors
 
 

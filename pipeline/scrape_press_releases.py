@@ -7,6 +7,7 @@ Outputs: data/press_releases/{legislator_id}.json (delta — skips already-scrap
 import json
 import re
 import sys
+import time
 from datetime import datetime
 from pathlib import Path
 from urllib.parse import urljoin, urlparse
@@ -250,6 +251,10 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
                 "error": msg,
                 "timestamp": datetime.utcnow().isoformat(),
             })
+
+        # Courtesy delay — many members share pahouse.com / pasenate.com, so pace
+        # requests to avoid being rate-limited or IP-blocked by those hosts.
+        time.sleep(0.5)
 
     errors_path.write_text(json.dumps(errors, indent=2, ensure_ascii=False))
     return errors

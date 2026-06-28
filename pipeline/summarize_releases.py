@@ -57,7 +57,9 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
         print("ERROR: ANTHROPIC_API_KEY not set.", file=sys.stderr)
         sys.exit(1)
 
-    client = anthropic.Anthropic(api_key=api_key)
+    # max_retries lets the SDK back off automatically on 429/529 during the
+    # first large run when many releases are summarized in a burst.
+    client = anthropic.Anthropic(api_key=api_key, max_retries=4)
     pr_dir = DATA_DIR / "press_releases"
 
     if legislator_ids:
