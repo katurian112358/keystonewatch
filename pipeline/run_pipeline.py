@@ -46,6 +46,11 @@ def main() -> None:
         action="store_true",
         help="Skip press release scraping (useful when debugging other steps)",
     )
+    parser.add_argument(
+        "--skip-votes",
+        action="store_true",
+        help="Skip vote scan (saves ~500 API calls; use locally when quota is limited)",
+    )
     args = parser.parse_args()
 
     leg_ids = [args.legislator_id] if args.legislator_id else None
@@ -68,13 +73,16 @@ def main() -> None:
     else:
         print("Skipping full legislator fetch (single-legislator mode)")
 
-    # Step 2: Votes
-    errs = run_step("2. Fetch votes", fetch_votes.main, leg_ids)
+    # Step 2: Bills (cheap — a few pages per legislator; run before expensive vote scan)
+    errs = run_step("2. Fetch bills", fetch_bills.main, leg_ids)
     all_errors.extend(errs)
 
-    # Step 3: Bills
-    errs = run_step("3. Fetch bills", fetch_bills.main, leg_ids)
-    all_errors.extend(errs)
+    # Step 3: Votes (expensive — scans all PA bills; fine for nightly job, quota-heavy locally)
+    if not args.skip_votes:
+        errs = run_step("3. Fetch votes", fetch_votes.main, leg_ids)
+        all_errors.extend(errs)
+    else:
+        print("\nSkipping vote scan (--skip-votes)")
 
     # Step 4: Press release scraping (can skip)
     if not args.skip_scrape:
