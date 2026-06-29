@@ -12,6 +12,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from _http import get_with_backoff
+from jsonio import write_json
 
 load_dotenv()
 
@@ -143,12 +144,12 @@ def main() -> None:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
 
     out_path = DATA_DIR / "legislators.json"
-    out_path.write_text(json.dumps(legislators, indent=2, ensure_ascii=False))
+    write_json(out_path, legislators)
     print(f"Wrote {len(legislators)} legislators to {out_path}")
 
     district_map = build_district_map(legislators)
     map_path = DATA_DIR / "legislators_by_district.json"
-    map_path.write_text(json.dumps(district_map, indent=2, ensure_ascii=False))
+    write_json(map_path, district_map)
     print(f"Wrote district map ({len(district_map)} districts) to {map_path}")
 
     summarize(legislators)

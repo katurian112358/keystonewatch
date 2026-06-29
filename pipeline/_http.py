@@ -15,7 +15,7 @@ MAX_BACKOFF = 60  # cap a single wait so a failure can't stall the job for minut
 
 
 class QuotaExhausted(Exception):
-    """Raised when the API keeps returning 429 after all retries — signals the
+    """Raised when the API keeps returning 429 after all retries - signals the
     caller to stop making requests rather than hammer a rate-limited endpoint.
     Carries any partially-collected results so progress isn't lost."""
 
@@ -60,7 +60,7 @@ def get_with_backoff(
                 else:
                     wait = min(2 ** attempt * 5, MAX_BACKOFF)
                 print(
-                    f"    HTTP {resp.status_code} — waiting {wait}s "
+                    f"    HTTP {resp.status_code} - waiting {wait}s "
                     f"(retry {attempt + 1}/{MAX_RETRIES})"
                 )
                 time.sleep(wait)
@@ -69,7 +69,7 @@ def get_with_backoff(
             return _parse_json(resp)
         except (requests.exceptions.ConnectionError, requests.exceptions.Timeout):
             wait = min(2 ** attempt * 5, MAX_BACKOFF)
-            print(f"    Network error — waiting {wait}s (retry {attempt + 1}/{MAX_RETRIES})")
+            print(f"    Network error - waiting {wait}s (retry {attempt + 1}/{MAX_RETRIES})")
             time.sleep(wait)
     if last_status == 429:
         raise QuotaExhausted(f"Rate limit not clearing after {MAX_RETRIES} retries")

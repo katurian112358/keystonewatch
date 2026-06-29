@@ -1,7 +1,7 @@
 """
 Scrape press releases from PA legislator official websites.
 Handles the ~3 common PA legislative site templates.
-Outputs: data/press_releases/{legislator_id}.json (delta — skips already-scraped)
+Outputs: data/press_releases/{legislator_id}.json (delta - skips already-scraped)
 """
 
 import json
@@ -15,6 +15,8 @@ from urllib.parse import urljoin, urlparse
 import requests
 from bs4 import BeautifulSoup
 from dotenv import load_dotenv
+
+from jsonio import read_json, write_json
 
 load_dotenv()
 
@@ -48,7 +50,7 @@ def detect_template(url: str) -> str:
 
 
 def scrape_legis(base_url: str) -> list[dict]:
-    """legis.state.pa.us — press releases at /cfdocs/legis/pressReleases.cfm"""
+    """legis.state.pa.us - press releases at /cfdocs/legis/pressReleases.cfm"""
     try:
         pr_url = re.sub(r"(legis\.state\.pa\.us/[^/]+).*",
                         r"\1/cfdocs/legis/pressReleases.cfm", base_url)
@@ -80,7 +82,7 @@ def scrape_pahouse(base_url: str) -> list[dict]:
     News index is at {base}/InTheNews/ and release links match NewsRelease/?id=
     """
     # Normalize: strip trailing path, keep scheme+host+member-slug
-    # e.g. http://www.pahouse.com/merski → http://www.pahouse.com/merski
+    # e.g. http://www.pahouse.com/merski -> http://www.pahouse.com/merski
     base = base_url.rstrip("/")
     news_url = f"{base}/InTheNews/"
 
@@ -118,7 +120,7 @@ def scrape_pahouse(base_url: str) -> list[dict]:
 
 
 def scrape_pasenate(base_url: str) -> list[dict]:
-    """pasenate.com subdomain — similar structure to pahouse."""
+    """pasenate.com subdomain - similar structure to pahouse."""
     return scrape_pahouse(base_url)  # same pattern
 
 
@@ -178,7 +180,7 @@ def fetch_release_text(url: str) -> tuple[str, str | None]:
                 date = el.get("datetime") or el.get_text(strip=True)
                 break
 
-        # Extract body text — prefer article/main content areas
+        # Extract body text - prefer article/main content areas
         for selector in ["article", "main", ".content", "#content", ".release-body"]:
             el = soup.select_one(selector)
             if el:
@@ -218,29 +220,29 @@ def scrape_legislator(leg: dict, existing_urls: set[str]) -> list[dict]:
 
 def main(legislator_ids: list[str] | None = None) -> list[dict]:
     leg_path = DATA_DIR / "legislators.json"
-    legislators = json.loads(leg_path.read_text())
+    legislators = read_json(leg_path, [])
 
     if legislator_ids:
         legislators = [l for l in legislators if l["id"] in legislator_ids]
 
     pr_dir = DATA_DIR / "press_releases"
     pr_dir.mkdir(parents=True, exist_ok=True)
-    errors_path = DATA_DIR / "pipeline_errors.json"
-    errors = json.loads(errors_path.read_text()) if errors_path.exists() else []
+
+    # Only this step's errors; the orchestrator owns pipeline_errors.json.
+    errors: list[dict] = []
 
     for i, leg in enumerate(legislators, 1):
         leg_id = leg["id"]
         safe_id = leg_id.replace("/", "_")
         out_path = pr_dir / f"{safe_id}.json"
 
-        existing = json.loads(out_path.read_text()) if out_path.exists() else []
-        existing_urls = {r["url"] for r in existing}
-
         print(f"  [{i}/{len(legislators)}] Scraping {leg['name']} ({leg_id})")
         try:
+            existing = read_json(out_path, [])
+            existing_urls = {r["url"] for r in existing}
             new_releases = scrape_legislator(leg, existing_urls)
             combined = existing + new_releases
-            out_path.write_text(json.dumps(combined, indent=2, ensure_ascii=False))
+            write_json(out_path, combined)
             print(f"    +{len(new_releases)} new releases ({len(combined)} total)")
         except Exception as e:
             msg = str(e)
@@ -252,11 +254,10 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
                 "timestamp": datetime.utcnow().isoformat(),
             })
 
-        # Courtesy delay — many members share pahouse.com / pasenate.com, so pace
+        # Courtesy delay - many members share pahouse.com / pasenate.com, so pace
         # requests to avoid being rate-limited or IP-blocked by those hosts.
         time.sleep(0.5)
 
-    errors_path.write_text(json.dumps(errors, indent=2, ensure_ascii=False))
     return errors
 
 

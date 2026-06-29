@@ -3,5 +3,7 @@
 __pycache__/
 *.pyc
 .next/
+out/
 node_modules/
 .vercel/
+.claude/

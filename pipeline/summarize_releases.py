@@ -11,6 +11,8 @@ from pathlib import Path
 import anthropic
 from dotenv import load_dotenv
 
+from jsonio import read_json, write_json
+
 load_dotenv()
 
 DATA_DIR = Path(__file__).parent.parent / "data"
@@ -19,13 +21,13 @@ SYSTEM_PROMPT = """You are a nonpartisan legislative analyst. Translate the foll
 legislator press release into plain language for a general audience.
 
 Return a JSON object with exactly these fields:
-- "summary": 2–3 sentence plain-language description of what the legislator \
+- "summary": 2-3 sentence plain-language description of what the legislator \
 actually did or said (not what they claimed, what they did)
 - "action_type": one of [bill_introduced, bill_passed, statement, event, \
 award, committee_action, budget, other]
-- "topics": array of 1–3 topic tags from [education, healthcare, public_safety, \
+- "topics": array of 1-3 topic tags from [education, healthcare, public_safety, \
 economy, infrastructure, environment, housing, voting_rights, other]
-- "spin_flag": boolean — true if the release contains significant self-promotional \
+- "spin_flag": boolean - true if the release contains significant self-promotional \
 framing that obscures the actual action taken
 
 Return only valid JSON. No preamble."""
@@ -73,7 +75,7 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
     for f in files:
         if not f.exists():
             continue
-        releases = json.loads(f.read_text())
+        releases = read_json(f, [])
         changed = False
 
         for rel in releases:
@@ -91,7 +93,7 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
             total_summarized += 1
 
         if changed:
-            f.write_text(json.dumps(releases, indent=2, ensure_ascii=False))
+            write_json(f, releases)
 
     print(f"  Summarized {total_summarized} new releases")
     return errors

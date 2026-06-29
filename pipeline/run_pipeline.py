@@ -6,11 +6,12 @@ Usage:
 """
 
 import argparse
-import json
 import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
+
+from jsonio import write_json
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 
@@ -27,7 +28,7 @@ def run_step(name: str, fn, leg_ids: list[str] | None) -> list[dict]:
     try:
         errors = fn(leg_ids) if leg_ids is not None else fn()
         elapsed = time.time() - t0
-        print(f"  Done in {elapsed:.1f}s — {len(errors or [])} error(s)")
+        print(f"  Done in {elapsed:.1f}s - {len(errors or [])} error(s)")
         return errors or []
     except Exception as e:
         elapsed = time.time() - t0
@@ -73,7 +74,7 @@ def main() -> None:
     else:
         print("Skipping full legislator fetch (single-legislator mode)")
 
-    # Step 2: Votes — one full scan (~500 requests) yields vote data for ALL
+    # Step 2: Votes - one full scan (~500 requests) yields vote data for ALL
     # legislators, so run it first to guarantee universal coverage under quota.
     if not args.skip_votes:
         errs = run_step("2. Fetch votes", fetch_votes.main, leg_ids)
@@ -81,7 +82,7 @@ def main() -> None:
     else:
         print("\nSkipping vote scan (--skip-votes)")
 
-    # Step 3: Bills — the expensive step (hundreds of pages each via cosponsorships).
+    # Step 3: Bills - the expensive step (hundreds of pages each via cosponsorships).
     # Runs after votes on whatever quota remains; rotates across nights (see
     # BILLS_FRESH_DAYS) so the whole roster gets covered over time.
     errs = run_step("3. Fetch bills", fetch_bills.main, leg_ids)
@@ -103,10 +104,9 @@ def main() -> None:
         errs = run_step("6. Compile contacts", lambda: fetch_contact_info.main() or [], None)
         all_errors.extend(errs)
 
-    # Write pipeline errors
-    errors_path = DATA_DIR / "pipeline_errors.json"
-    existing = json.loads(errors_path.read_text()) if errors_path.exists() else []
-    errors_path.write_text(json.dumps(existing + all_errors, indent=2, ensure_ascii=False))
+    # Write pipeline errors - overwrite with THIS run's errors only, so the file
+    # reflects the latest run instead of accumulating stale entries forever.
+    write_json(DATA_DIR / "pipeline_errors.json", all_errors)
 
     # Write last_updated
     last_updated = {
@@ -114,9 +114,7 @@ def main() -> None:
         "errors": len(all_errors),
         "runtime_seconds": round(time.time() - t_start, 1),
     }
-    (DATA_DIR / "last_updated.json").write_text(
-        json.dumps(last_updated, indent=2, ensure_ascii=False)
-    )
+    write_json(DATA_DIR / "last_updated.json", last_updated)
 
     log_section("Pipeline complete")
     print(f"  Total runtime: {last_updated['runtime_seconds']}s")
@@ -125,7 +123,7 @@ def main() -> None:
         print("  See data/pipeline_errors.json for details")
     # NOTE: exit 0 even when individual steps logged errors. Press-release scrapes
     # fail routinely (many legislator sites use unsupported templates) and quota
-    # limits are expected — these are logged, not fatal. Exiting non-zero here would
+    # limits are expected - these are logged, not fatal. Exiting non-zero here would
     # cause the GitHub Actions commit step to skip, discarding all fetched data.
 
 

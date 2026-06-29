@@ -11,71 +11,76 @@ interface GeoResult {
 }
 
 export default function ZipLookup() {
-  const [zip, setZip] = useState("");
+  const [address, setAddress] = useState("");
   const [loading, setLoading] = useState(false);
   const [result, setResult] = useState<GeoResult | null>(null);
 
   async function handleLookup(e: React.FormEvent) {
     e.preventDefault();
-    if (zip.length !== 5 || !/^\d+$/.test(zip)) return;
+    if (!address.trim()) return;
     setLoading(true);
     setResult(null);
 
     try {
       const apiKey = process.env.NEXT_PUBLIC_GOOGLE_CIVIC_API_KEY;
-      const url = `https://www.googleapis.com/civicinfo/v2/representatives?address=${zip}+PA&levels=administrativeArea1&roles=legislatorLowerBody&roles=legislatorUpperBody&key=${apiKey}`;
+      // Google's `representatives` endpoint was retired in 2025; `divisionsByAddress`
+      // is still available and returns the OCD division IDs (incl. state legislative
+      // districts) for an address, which we map to our local legislator data.
+      const url = `https://www.googleapis.com/civicinfo/v2/divisionsByAddress?address=${encodeURIComponent(
+        address
+      )}&key=${apiKey}`;
       const resp = await fetch(url);
       if (!resp.ok) throw new Error(`HTTP ${resp.status}`);
       const data = await resp.json();
 
-      // Match officials back to our local legislator data via district
-      const divisions: Record<string, { name: string }> =
-        data.divisions ?? {};
-      const offices: Array<{
-        name: string;
-        divisionId: string;
-        roles: string[];
-        officialIndices: number[];
-      }> = data.offices ?? [];
-
-      // Extract district numbers from division IDs like
-      // ocd-division/country:us/state:pa/sldl:2  or  sldu:2
+      // divisions is an object keyed by division ID, e.g.
+      // "ocd-division/country:us/state:pa/sldl:1" (House) / ".../sldu:49" (Senate)
+      const divisionIds = Object.keys(data.divisions ?? {});
       let houseDistrict: string | null = null;
       let senateDistrict: string | null = null;
-
-      for (const office of offices) {
-        const divId = office.divisionId ?? "";
-        const sldlMatch = divId.match(/sldl:(\d+)/);
-        const slduMatch = divId.match(/sldu:(\d+)/);
-        if (sldlMatch) houseDistrict = sldlMatch[1];
-        if (slduMatch) senateDistrict = slduMatch[1];
+      for (const id of divisionIds) {
+        const sldl = id.match(/sldl:(\d+)/);
+        const sldu = id.match(/sldu:(\d+)/);
+        if (sldl) houseDistrict = String(parseInt(sldl[1], 10));
+        if (sldu) senateDistrict = String(parseInt(sldu[1], 10));
       }
 
-      // Fetch local data and match
+      if (!houseDistrict && !senateDistrict) {
+        setResult({
+          house: null,
+          senate: null,
+          error:
+            "Couldn't pinpoint your districts. Try a full street address (e.g. 123 Main St, Erie PA 16501).",
+        });
+        return;
+      }
+
       const legsResp = await fetch("/legislators.json");
       const legs: Legislator[] = legsResp.ok ? await legsResp.json() : [];
 
       const house = houseDistrict
-        ? (legs.find(
-            (l) => l.chamber === "lower" && l.district === houseDistrict
-          ) ?? null)
+        ? legs.find((l) => l.chamber === "lower" && l.district === houseDistrict) ??
+          null
         : null;
       const senate = senateDistrict
-        ? (legs.find(
-            (l) => l.chamber === "upper" && l.district === senateDistrict
-          ) ?? null)
+        ? legs.find((l) => l.chamber === "upper" && l.district === senateDistrict) ??
+          null
         : null;
 
       if (!house && !senate) {
-        setResult({ house: null, senate: null, error: "No PA legislators found for this zip code." });
+        setResult({
+          house: null,
+          senate: null,
+          error: "No matching PA legislators found for that address.",
+        });
       } else {
         setResult({ house, senate });
       }
-    } catch (err) {
+    } catch {
       setResult({
         house: null,
         senate: null,
-        error: "Lookup failed. Please try again.",
+        error: "Lookup failed. Please try again with a full street address.",
       });
     } finally {
       setLoading(false);
@@ -84,27 +89,29 @@ export default function ZipLookup() {
 
   return (
     <div>
-      <form onSubmit={handleLookup} className="flex gap-3 max-w-sm">
+      <form onSubmit={handleLookup} className="flex gap-3 max-w-xl">
         <input
           type="text"
-          inputMode="numeric"
-          pattern="\d{5}"
-          maxLength={5}
-          value={zip}
-          onChange={(e) => setZip(e.target.value)}
-          placeholder="Enter your ZIP code"
-          aria-label="ZIP code"
+          value={address}
+          onChange={(e) => setAddress(e.target.value)}
+          placeholder="123 Main St, Erie PA 16501"
+          aria-label="Your home address"
+          autoComplete="street-address"
           className="flex-1 border border-gray-300 rounded-lg px-4 py-2 text-base focus:outline-none focus:ring-2 focus:ring-blue-500"
         />
         <button
           type="submit"
-          disabled={loading || zip.length !== 5}
+          disabled={loading || !address.trim()}
           aria-label="Find my representatives"
-          className="bg-blue-700 hover:bg-blue-800 disabled:bg-blue-300 text-white rounded-lg px-5 py-2 font-medium transition"
+          className="bg-blue-700 hover:bg-blue-800 disabled:bg-blue-300 text-white rounded-lg px-5 py-2 font-medium transition whitespace-nowrap"
         >
           {loading ? "…" : "Find"}
         </button>
       </form>
+      <p className="text-xs text-gray-400 mt-2">
+        A full street address gives the most accurate result — a ZIP code alone
+        often spans multiple House districts.
+      </p>
 
       {result?.error && (
         <p className="mt-4 text-red-600 text-sm" role="alert">

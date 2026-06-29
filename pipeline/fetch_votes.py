@@ -18,13 +18,17 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from _http import get_with_backoff, QuotaExhausted
+from jsonio import read_json, write_json
 
 load_dotenv()
 
 OPENSTATES_API_KEY = os.environ.get("OPENSTATES_API_KEY")
 OPENSTATES_BASE = "https://v3.openstates.org"
 DATA_DIR = Path(__file__).parent.parent / "data"
-SESSIONS = ["2025-2026", "2023-2024"]
+# Current session only - see note in fetch_bills.py. A single scan at per_page=50
+# is ~100 requests, leaving room under the daily quota for the bills step.
+SESSIONS = ["2025-2026"]
+VOTES_PER_PAGE = 50
 REQUEST_DELAY = 1.0   # seconds between requests to stay under rate limit
 
 
@@ -39,14 +43,14 @@ def fetch_bills_with_votes(session: str) -> list[dict]:
             "jurisdiction": "pa",
             "session": session,
             "include": ["votes"],
-            "per_page": 20,  # votes are large; keep pages small
+            "per_page": VOTES_PER_PAGE,
             "page": page,
         }
         try:
             data = get_with_backoff(f"{OPENSTATES_BASE}/bills", headers, params)
         except QuotaExhausted:
             # Preserve whatever we collected so far rather than losing the scan
-            print(f"    Quota exhausted at page {page} — keeping {len(bills)} bills "
+            print(f"    Quota exhausted at page {page} - keeping {len(bills)} bills "
                   "collected so far", file=sys.stderr)
             raise QuotaExhausted(_partial=bills)
         results = data.get("results", [])
@@ -179,7 +183,7 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
             all_vote_records[leg_id].extend(records)
 
         if quota_hit:
-            print("    API quota exhausted — stopping vote scan; writing partial "
+            print("    API quota exhausted - stopping vote scan; writing partial "
                   "results", file=sys.stderr)
             errors.append({"step": "fetch_votes", "error": "quota exhausted, partial scan"})
             break
@@ -189,21 +193,21 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
         target_ids = set(legislator_ids)
     else:
         leg_path = DATA_DIR / "legislators.json"
-        legislators = json.loads(leg_path.read_text())
+        legislators = read_json(leg_path, [])
         target_ids = {l["id"] for l in legislators}
 
     written = 0
     for leg_id in target_ids:
         records = all_vote_records.get(leg_id, [])
         # On a partial (quota-limited) scan, don't overwrite an existing file with
-        # zeros — a legislator's votes may simply be in pages we never reached.
+        # zeros - a legislator's votes may simply be in pages we never reached.
         if quota_hit and not records:
             safe_id = leg_id.replace("/", "_")
             if (votes_dir / f"{safe_id}.json").exists():
                 continue
         stats = compute_stats(leg_id, records)
         out = votes_dir / f"{leg_id.replace('/', '_')}.json"
-        out.write_text(json.dumps(stats, indent=2, ensure_ascii=False))
+        write_json(out, stats)
         written += 1
 
     print(f"  Wrote vote stats for {written} legislators"

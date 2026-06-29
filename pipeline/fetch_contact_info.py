@@ -1,17 +1,18 @@
 """
 Compile contact information for all PA legislators from legislators.json.
-Outputs: data/contacts.json — flat lookup keyed by legislator_id
+Outputs: data/contacts.json - flat lookup keyed by legislator_id
 """
 
-import json
 from pathlib import Path
+
+from jsonio import read_json, write_json
 
 DATA_DIR = Path(__file__).parent.parent / "data"
 
 
 def main() -> list[dict]:
     leg_path = DATA_DIR / "legislators.json"
-    legislators = json.loads(leg_path.read_text())
+    legislators = read_json(leg_path, [])
 
     contacts = {}
     for leg in legislators:
@@ -23,7 +24,7 @@ def main() -> list[dict]:
         }
 
     out = DATA_DIR / "contacts.json"
-    out.write_text(json.dumps(contacts, indent=2, ensure_ascii=False))
+    write_json(out, contacts)
     print(f"Wrote contacts for {len(contacts)} legislators to {out}")
     return []
 

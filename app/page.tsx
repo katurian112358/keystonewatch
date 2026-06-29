@@ -28,7 +28,7 @@ export default function HomePage() {
           Find your representatives
         </h2>
         <p className="text-sm text-gray-500 mb-4">
-          Enter your Pennsylvania ZIP code to see your House and Senate members.
+          Enter your Pennsylvania address to see your House and Senate members.
         </p>
         <ZipLookup />
       </div>

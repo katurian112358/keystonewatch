@@ -13,6 +13,7 @@ from pathlib import Path
 from dotenv import load_dotenv
 
 from _http import get_with_backoff, QuotaExhausted
+from jsonio import read_json, write_json
 
 load_dotenv()
 
@@ -22,7 +23,7 @@ DATA_DIR = Path(__file__).parent.parent / "data"
 REQUEST_DELAY = 1.0          # seconds between requests
 # Skip legislators whose bills were fetched within this many days. Bills are the
 # most expensive step (~hundreds of pages each); under a daily API quota we cannot
-# refresh all 251 in one run, so we rotate — each night fills in the stalest ones.
+# refresh all 251 in one run, so we rotate - each night fills in the stalest ones.
 BILLS_FRESH_DAYS = 6
 
 # Actions that indicate meaningful progress
@@ -40,7 +41,10 @@ def is_instrumental(bill: dict) -> bool:
     return False
 
 
-SESSIONS = ["2025-2026", "2023-2024"]
+# Current session only. The free OpenStates quota (~250 req/day) is too small to
+# refresh both sessions plus votes; current-session activity is what the dashboard
+# leads with. Add "2023-2024" back here if the API quota is raised.
+SESSIONS = ["2025-2026"]
 
 
 def fetch_bills_for_legislator(legislator_id: str) -> list[dict]:
@@ -108,7 +112,7 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
 
     if legislator_ids is None:
         leg_path = DATA_DIR / "legislators.json"
-        legislators = json.loads(leg_path.read_text())
+        legislators = read_json(leg_path, [])
         legislator_ids = [l["id"] for l in legislators]
 
     bills_dir = DATA_DIR / "bills"
@@ -133,11 +137,11 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
         print(f"  [{i}/{len(legislator_ids)}] Fetching bills for {leg_id}")
         try:
             bills = fetch_bills_for_legislator(leg_id)
-            out.write_text(json.dumps(bills, indent=2, ensure_ascii=False))
+            write_json(out, bills)
             print(f"    {len(bills)} bills")
             fetched += 1
         except QuotaExhausted:
-            print("    API quota exhausted — stopping bills step early "
+            print("    API quota exhausted - stopping bills step early "
                   f"(fetched {fetched}, {len(legislator_ids) - i} legislators "
                   "left for a future run)", file=sys.stderr)
             errors.append({"step": "fetch_bills", "error": "quota exhausted, stopped early"})
