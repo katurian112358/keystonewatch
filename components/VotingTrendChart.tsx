@@ -25,12 +25,12 @@ const VOTE_COLORS: Record<string, string> = {
 export default function VotingTrendChart({ stats }: { stats: VoteStats }) {
   const gaugeData = [
     {
-      name: "Attendance",
+      name: "Showed up to vote",
       value: stats.attendance_rate != null ? Math.round(stats.attendance_rate * 100) : 0,
       label: pct(stats.attendance_rate),
     },
     {
-      name: "With majority",
+      name: "On the winning side",
       value: stats.partisan_score != null ? Math.round(stats.partisan_score * 100) : 0,
       label: pct(stats.partisan_score),
     },
@@ -55,22 +55,47 @@ export default function VotingTrendChart({ stats }: { stats: VoteStats }) {
       </h2>
 
       {/* Summary stats */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-6">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-3">
         {[
-          { label: "Total votes", value: stats.total_votes.toLocaleString() },
-          { label: "Attendance rate", value: pct(stats.attendance_rate) },
-          { label: "Voted with majority", value: pct(stats.partisan_score) },
-          { label: "Absent / excused", value: stats.absent_count.toLocaleString() },
-        ].map(({ label, value }) => (
+          {
+            label: "Recorded votes",
+            value: stats.total_votes.toLocaleString(),
+            hint: "Roll-call votes this session",
+          },
+          {
+            label: "Showed up to vote",
+            value: pct(stats.attendance_rate),
+            hint: "Cast a Yes or No (vs. absent)",
+          },
+          {
+            label: "On the winning side",
+            value: pct(stats.partisan_score),
+            hint: "Voted with the outcome of each measure",
+          },
+          {
+            label: "Absent / excused",
+            value: stats.absent_count.toLocaleString(),
+            hint: "Did not cast a Yes or No",
+          },
+        ].map(({ label, value, hint }) => (
           <div
             key={label}
             className="bg-white border border-gray-200 rounded-lg p-3 text-center"
           >
             <p className="text-2xl font-bold text-gray-900">{value}</p>
-            <p className="text-xs text-gray-500 mt-1">{label}</p>
+            <p className="text-xs font-medium text-gray-600 mt-1">{label}</p>
+            <p className="text-[11px] text-gray-400 mt-0.5 leading-tight">{hint}</p>
           </div>
         ))}
       </div>
+
+      <p className="text-xs text-gray-500 mb-6 leading-relaxed">
+        <strong>On the winning side</strong> shows how often this member voted with
+        the prevailing result on each measure — the side that got more votes that
+        day. It is <em>not</em> a measure of party loyalty or which party controls
+        the chamber; a member can be on the winning side while voting against their
+        own party, or on the losing side of votes their party wins.
+      </p>
 
       {/* Bar chart */}
       {gaugeData.some((d) => d.value > 0) && (
@@ -83,7 +108,7 @@ export default function VotingTrendChart({ stats }: { stats: VoteStats }) {
               <BarChart data={gaugeData} layout="vertical">
                 <CartesianGrid strokeDasharray="3 3" horizontal={false} />
                 <XAxis type="number" domain={[0, 100]} unit="%" tick={{ fontSize: 11 }} />
-                <YAxis type="category" dataKey="name" width={110} tick={{ fontSize: 12 }} />
+                <YAxis type="category" dataKey="name" width={130} tick={{ fontSize: 11 }} />
                 <Tooltip formatter={(v) => `${v}%`} />
                 <Bar dataKey="value" radius={[0, 4, 4, 0]}>
                   <Cell fill="#1d4ed8" />
