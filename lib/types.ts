@@ -21,6 +21,7 @@ export interface VoteRecord {
   motion: string | null;
   yes_total: number;
   no_total: number;
+  party_majority?: "yes" | "no" | null;
 }
 
 export interface VoteStats {
@@ -31,6 +32,7 @@ export interface VoteStats {
   absent_count: number;
   attendance_rate: number | null;
   partisan_score: number | null;
+  party_unity_score: number | null;
   recent_votes: VoteRecord[];
 }
 

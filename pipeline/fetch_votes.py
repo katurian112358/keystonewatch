@@ -85,10 +85,20 @@ def build_legislator_vote_index(bills: list[dict]) -> dict[str, list[dict]]:
             date = vote_event.get("start_date") or vote_event.get("date")
             motion = vote_event.get("motion_text", "")
 
-            # Tally totals from individual voter records
+            # Tally chamber-wide totals from individual voter records
             voter_records = vote_event.get("votes", [])
             yes_total = sum(1 for v in voter_records if v.get("option", "").lower() == "yes")
             no_total = sum(1 for v in voter_records if v.get("option", "").lower() == "no")
+
+            # Tally per-party totals so we can derive each party's majority choice
+            party_counts: dict[str, dict[str, int]] = defaultdict(
+                lambda: {"yes": 0, "no": 0}
+            )
+            for v in voter_records:
+                opt = v.get("option", "").lower()
+                party = ((v.get("voter") or {}).get("party")) or ""
+                if party and opt in ("yes", "no"):
+                    party_counts[party][opt] += 1
 
             for voter in voter_records:
                 person = voter.get("voter") or {}
@@ -96,6 +106,17 @@ def build_legislator_vote_index(bills: list[dict]) -> dict[str, list[dict]]:
                 if not person_id:
                     continue
                 choice = voter.get("option", "").lower()
+
+                # This member's own party's majority choice on this vote
+                party = person.get("party") or ""
+                pc = party_counts.get(party)
+                party_majority = None
+                if pc:
+                    if pc["yes"] > pc["no"]:
+                        party_majority = "yes"
+                    elif pc["no"] > pc["yes"]:
+                        party_majority = "no"
+
                 index[person_id].append({
                     "bill_id": bill.get("id"),
                     "bill_identifier": bill.get("identifier"),
@@ -105,6 +126,7 @@ def build_legislator_vote_index(bills: list[dict]) -> dict[str, list[dict]]:
                     "motion": motion,
                     "yes_total": yes_total,
                     "no_total": no_total,
+                    "party_majority": party_majority,
                 })
 
     return dict(index)
@@ -112,7 +134,8 @@ def build_legislator_vote_index(bills: list[dict]) -> dict[str, list[dict]]:
 
 def compute_stats(legislator_id: str, vote_records: list[dict]) -> dict:
     yes_count = no_count = absent_count = other_count = 0
-    chamber_align = []
+    chamber_align = []   # voted with the winning side of each measure
+    party_align = []     # voted with the majority of their own party
 
     for r in vote_records:
         choice = r.get("vote", "")
@@ -125,17 +148,25 @@ def compute_stats(legislator_id: str, vote_records: list[dict]) -> dict:
         else:
             other_count += 1
 
-        # Partisan alignment: did legislator vote with the majority of the chamber?
+        if choice not in ("yes", "no"):
+            continue
+
+        # Winning side: did the legislator vote with the chamber's outcome?
         yes_t = r.get("yes_total", 0)
         no_t = r.get("no_total", 0)
         if yes_t + no_t > 0:
             majority = "yes" if yes_t > no_t else "no"
-            if choice in ("yes", "no"):
-                chamber_align.append(1 if choice == majority else 0)
+            chamber_align.append(1 if choice == majority else 0)
+
+        # Party unity: did the legislator vote with their own party's majority?
+        party_majority = r.get("party_majority")
+        if party_majority:
+            party_align.append(1 if choice == party_majority else 0)
 
     total = yes_count + no_count + absent_count + other_count
     attendance_rate = round((yes_count + no_count) / total, 4) if total > 0 else None
     partisan_score = round(sum(chamber_align) / len(chamber_align), 4) if chamber_align else None
+    party_unity_score = round(sum(party_align) / len(party_align), 4) if party_align else None
 
     recent = sorted(vote_records, key=lambda r: r.get("date") or "", reverse=True)[:20]
 
@@ -147,6 +178,7 @@ def compute_stats(legislator_id: str, vote_records: list[dict]) -> dict:
         "absent_count": absent_count,
         "attendance_rate": attendance_rate,
         "partisan_score": partisan_score,
+        "party_unity_score": party_unity_score,
         "recent_votes": recent,
     }
 

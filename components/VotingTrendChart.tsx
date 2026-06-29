@@ -34,6 +34,11 @@ export default function VotingTrendChart({ stats }: { stats: VoteStats }) {
       value: stats.partisan_score != null ? Math.round(stats.partisan_score * 100) : 0,
       label: pct(stats.partisan_score),
     },
+    {
+      name: "Party-unity score",
+      value: stats.party_unity_score != null ? Math.round(stats.party_unity_score * 100) : 0,
+      label: pct(stats.party_unity_score),
+    },
   ];
 
   const recentVotes = stats.recent_votes.slice(0, 20).map((v, i) => ({
@@ -55,7 +60,7 @@ export default function VotingTrendChart({ stats }: { stats: VoteStats }) {
       </h2>
 
       {/* Summary stats */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3 mb-3">
+      <div className="grid grid-cols-2 sm:grid-cols-3 lg:grid-cols-5 gap-3 mb-3">
         {[
           {
             label: "Recorded votes",
@@ -71,6 +76,11 @@ export default function VotingTrendChart({ stats }: { stats: VoteStats }) {
             label: "On the winning side",
             value: pct(stats.partisan_score),
             hint: "Voted with the outcome of each measure",
+          },
+          {
+            label: "Party-unity score",
+            value: pct(stats.party_unity_score),
+            hint: "Voted with the majority of their own party",
           },
           {
             label: "Absent / excused",
@@ -92,9 +102,11 @@ export default function VotingTrendChart({ stats }: { stats: VoteStats }) {
       <p className="text-xs text-gray-500 mb-6 leading-relaxed">
         <strong>On the winning side</strong> shows how often this member voted with
         the prevailing result on each measure — the side that got more votes that
-        day. It is <em>not</em> a measure of party loyalty or which party controls
-        the chamber; a member can be on the winning side while voting against their
-        own party, or on the losing side of votes their party wins.
+        day. <strong>Party-unity score</strong> shows how often they voted with the
+        majority of their <em>own</em> party. The two differ: a member can be on the
+        winning side while breaking with their party, or stay loyal to their party on
+        votes their party loses. Both count only roll calls where the member cast a
+        Yes or No.
       </p>
 
       {/* Bar chart */}
@@ -104,7 +116,7 @@ export default function VotingTrendChart({ stats }: { stats: VoteStats }) {
             Participation metrics
           </p>
           <div aria-hidden="true">
-            <ResponsiveContainer width="100%" height={120}>
+            <ResponsiveContainer width="100%" height={160}>
               <BarChart data={gaugeData} layout="vertical">
                 <CartesianGrid strokeDasharray="3 3" horizontal={false} />
                 <XAxis type="number" domain={[0, 100]} unit="%" tick={{ fontSize: 11 }} />
@@ -113,6 +125,7 @@ export default function VotingTrendChart({ stats }: { stats: VoteStats }) {
                 <Bar dataKey="value" radius={[0, 4, 4, 0]}>
                   <Cell fill="#1d4ed8" />
                   <Cell fill="#7c3aed" />
+                  <Cell fill="#0d9488" />
                 </Bar>
               </BarChart>
             </ResponsiveContainer>
