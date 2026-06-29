@@ -1,0 +1,211 @@
+{
+  "legislator_id": "ocd-person/f4e98ad8-2ee6-45e4-8594-0deaaa51190e",
+  "total_votes": 451,
+  "yes_count": 400,
+  "no_count": 51,
+  "absent_count": 0,
+  "attendance_rate": 1.0,
+  "partisan_score": 0.9911,
+  "recent_votes": [
+    {
+      "bill_id": "ocd-bill/0b47165d-7727-4e2c-8069-4dc69ed21888",
+      "bill_identifier": "HB 2198",
+      "bill_title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to Computer Data Center Equipment Incentive Program; and, in general provisions, providing for data centers.",
+      "vote": "yes",
+      "date": "2026-06-25T13:59:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 197,
+      "no_total": 5
+    },
+    {
+      "bill_id": "ocd-bill/3f63330c-8455-4321-9b76-f26dc1cb7328",
+      "bill_identifier": "HB 2650",
+      "bill_title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; in computer data center equipment incentive program, providing for certification prohibition; providing for Governor's Responsible Infrastructure Development certification and standards; and imposing duties.",
+      "vote": "yes",
+      "date": "2026-06-24T19:29:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 134,
+      "no_total": 68
+    },
+    {
+      "bill_id": "ocd-bill/59640013-2568-40a6-a363-b9c5209df551",
+      "bill_identifier": "HB 2621",
+      "bill_title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in powers and duties of the Department of Health and its departmental administrative and advisory boards, establishing the Pennsylvania Maternal and Infant Outcome Measures Survey Program.",
+      "vote": "yes",
+      "date": "2026-06-24T19:06:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 190,
+      "no_total": 12
+    },
+    {
+      "bill_id": "ocd-bill/ad8bcff3-3cb6-43cc-94e1-68af919e4f3a",
+      "bill_identifier": "HB 2555",
+      "bill_title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated Statutes, in domestic animals, further providing for definitions and providing for requirements for equines sold by dealer.",
+      "vote": "yes",
+      "date": "2026-06-24T19:05:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 194,
+      "no_total": 8
+    },
+    {
+      "bill_id": "ocd-bill/84424aa3-a880-4d19-99fc-12b320759ba6",
+      "bill_identifier": "HB 2496",
+      "bill_title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in general provisions, providing for pause on data center proposals.",
+      "vote": "yes",
+      "date": "2026-06-24T19:01:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 201,
+      "no_total": 1
+    },
+    {
+      "bill_id": "ocd-bill/731c427f-042d-42c4-9391-185da37e19b1",
+      "bill_identifier": "HB 2437",
+      "bill_title": "An Act amending Title 58 (Oil and Gas) of the Pennsylvania Consolidated Statutes, in unconventional gas well fee, further providing for Statewide initiatives.",
+      "vote": "yes",
+      "date": "2026-06-24T18:45:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 202,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/74ebc32b-e662-46e0-b906-d44cc8c0eed7",
+      "bill_identifier": "HB 2388",
+      "bill_title": "An Act providing for rounding of certain payment sums paid by physical legal tender.",
+      "vote": "yes",
+      "date": "2026-06-24T18:42:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 187,
+      "no_total": 15
+    },
+    {
+      "bill_id": "ocd-bill/53d69066-e959-446f-8715-7fc46060bd98",
+      "bill_identifier": "HB 2162",
+      "bill_title": "An Act amending the act of December 14, 1992 (P.L.1116, No.145), known as the Wholesale Prescription Drug Distributors License Act, further providing for definitions and for license application.",
+      "vote": "yes",
+      "date": "2026-06-24T18:39:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 202,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/0b47165d-7727-4e2c-8069-4dc69ed21888",
+      "bill_identifier": "HB 2198",
+      "bill_title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to Computer Data Center Equipment Incentive Program; and, in general provisions, providing for data centers.",
+      "vote": "yes",
+      "date": "2026-06-24T18:33:00+00:00",
+      "motion": "A3904",
+      "yes_total": 202,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/0b47165d-7727-4e2c-8069-4dc69ed21888",
+      "bill_identifier": "HB 2198",
+      "bill_title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to Computer Data Center Equipment Incentive Program; and, in general provisions, providing for data centers.",
+      "vote": "yes",
+      "date": "2026-06-24T18:31:00+00:00",
+      "motion": "A3886",
+      "yes_total": 195,
+      "no_total": 7
+    },
+    {
+      "bill_id": "ocd-bill/c868122b-ab67-4adc-abe9-05e0a4e8be14",
+      "bill_identifier": "HB 2037",
+      "bill_title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in ethics standards and financial disclosure, further providing for definitions and for restricted activities.",
+      "vote": "no",
+      "date": "2026-06-24T18:28:00+00:00",
+      "motion": "A3894",
+      "yes_total": 101,
+      "no_total": 101
+    },
+    {
+      "bill_id": "ocd-bill/c868122b-ab67-4adc-abe9-05e0a4e8be14",
+      "bill_identifier": "HB 2037",
+      "bill_title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in ethics standards and financial disclosure, further providing for definitions and for restricted activities.",
+      "vote": "no",
+      "date": "2026-06-24T18:26:00+00:00",
+      "motion": "A3893",
+      "yes_total": 101,
+      "no_total": 101
+    },
+    {
+      "bill_id": "ocd-bill/c868122b-ab67-4adc-abe9-05e0a4e8be14",
+      "bill_identifier": "HB 2037",
+      "bill_title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in ethics standards and financial disclosure, further providing for definitions and for restricted activities.",
+      "vote": "yes",
+      "date": "2026-06-24T18:23:00+00:00",
+      "motion": "MOTION TO TABLE",
+      "yes_total": 102,
+      "no_total": 100
+    },
+    {
+      "bill_id": "ocd-bill/c868122b-ab67-4adc-abe9-05e0a4e8be14",
+      "bill_identifier": "HB 2037",
+      "bill_title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in ethics standards and financial disclosure, further providing for definitions and for restricted activities.",
+      "vote": "yes",
+      "date": "2026-06-24T18:19:00+00:00",
+      "motion": "A3882",
+      "yes_total": 124,
+      "no_total": 78
+    },
+    {
+      "bill_id": "ocd-bill/59151067-d91a-42ad-9221-4894389d68d3",
+      "bill_identifier": "HR 568",
+      "bill_title": "A Resolution designating June 23, 2026, as \"Dravet Syndrome Awareness Day\" in Pennsylvania.",
+      "vote": "yes",
+      "date": "2026-06-24T18:15:00+00:00",
+      "motion": "House Resolution 568",
+      "yes_total": 200,
+      "no_total": 2
+    },
+    {
+      "bill_id": "ocd-bill/0af6df77-065e-4088-80d4-da59bcd3955e",
+      "bill_identifier": "HR 449",
+      "bill_title": "A Resolution recognizing September 11, 2026, as \"25th Anniversary of the Terrorist Attacks of September 11, 2001, Day\" in Pennsylvania in memory of the civilians and emergency and armed forces personnel who lost their lives in the attacks.",
+      "vote": "yes",
+      "date": "2026-06-24T18:13:00+00:00",
+      "motion": "House Resolution 449",
+      "yes_total": 202,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/b47d9984-6525-4476-9897-fb55d77d2a12",
+      "bill_identifier": "HR 537",
+      "bill_title": "A Resolution designating the week of September 21 through 27, 2026, as \"Rail Safety Week\" in Pennsylvania.",
+      "vote": "yes",
+      "date": "2026-06-24T18:07:00+00:00",
+      "motion": "House Resolution 537",
+      "yes_total": 199,
+      "no_total": 3
+    },
+    {
+      "bill_id": "ocd-bill/3398a7c4-1915-4801-b885-75c478a1d02a",
+      "bill_identifier": "HR 575",
+      "bill_title": "A Resolution designating the month of September 2026 as \"Prostate Cancer Awareness Month\" in Pennsylvania.",
+      "vote": "yes",
+      "date": "2026-06-24T04:00:00+00:00",
+      "motion": "Committee vote (Health): Report Bill As Committed",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/2b87c133-b920-4c3a-b0da-c72ce29a8734",
+      "bill_identifier": "HR 572",
+      "bill_title": "A Resolution recognizing June 27, 2026, as \"PTSD Awareness Day\" in Pennsylvania.",
+      "vote": "yes",
+      "date": "2026-06-24T04:00:00+00:00",
+      "motion": "Committee vote (Health): Report Bill As Committed",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/c585db1d-9cd3-4f27-ad5f-11f57994fb81",
+      "bill_identifier": "SB 1210",
+      "bill_title": "An Act amending the act of May 17, 1921 (P.L.789, No.285), known as The Insurance Department Act of 1921, in insurance producers, further providing for powers and duties of department.",
+      "vote": "yes",
+      "date": "2026-06-24T04:00:00+00:00",
+      "motion": "Committee vote (Insurance): Report Bill As Committed",
+      "yes_total": 26,
+      "no_total": 0
+    }
+  ]
+}

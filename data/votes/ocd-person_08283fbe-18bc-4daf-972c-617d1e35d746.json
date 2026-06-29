@@ -1,0 +1,211 @@
+{
+  "legislator_id": "ocd-person/08283fbe-18bc-4daf-972c-617d1e35d746",
+  "total_votes": 440,
+  "yes_count": 325,
+  "no_count": 115,
+  "absent_count": 0,
+  "attendance_rate": 1.0,
+  "partisan_score": 0.6341,
+  "recent_votes": [
+    {
+      "bill_id": "ocd-bill/0b47165d-7727-4e2c-8069-4dc69ed21888",
+      "bill_identifier": "HB 2198",
+      "bill_title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to Computer Data Center Equipment Incentive Program; and, in general provisions, providing for data centers.",
+      "vote": "yes",
+      "date": "2026-06-25T13:59:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 197,
+      "no_total": 5
+    },
+    {
+      "bill_id": "ocd-bill/fb88c3c5-f8f6-4cfe-ac3d-14f7aeb9ad57",
+      "bill_identifier": "SB 45",
+      "bill_title": "An Act amending Titles 18 (Crimes and Offenses), 23 (Domestic Relations), 42 (Judiciary and Judicial Procedure), 44 (Law and Justice), 61 (Prisons and Parole) and 63 (Professions and Occupations (State Licensed)) of the Pennsylvania Consolidated Statutes, in human trafficking, further providing for definitions, providing for the offense of promoting prostitution, for the offense of living off of prostituted persons and for the offense of patronizing prostitution and further providing for grants; in public indecency, further providing for prostitution and related offenses; establishing the Prevention of Human Trafficking Restricted Account; in child protective services, further providing for definitions; in sentencing, further providing for sexual offenses and tier system; in DNA data and testing, further providing for definitions; in interstate compacts, further providing for supervision of persons paroled by other states; and, in powers and duties relating to the Bureau of Professional and Occupational Affairs, further providing for consideration of criminal convictions.",
+      "vote": "yes",
+      "date": "2026-06-25T04:00:00+00:00",
+      "motion": "Committee vote (Judiciary): Report Bill As Committed",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/bbc17ef8-8fa9-4fb8-89bd-28bae1e37a93",
+      "bill_identifier": "SB 1235",
+      "bill_title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in Pennsylvania Board of Probation and Parole, further providing for Pennsylvania Parole Board and for incompatible offices and removal.",
+      "vote": "yes",
+      "date": "2026-06-25T04:00:00+00:00",
+      "motion": "Committee vote (Judiciary): Report Bill As Amended",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/bbc17ef8-8fa9-4fb8-89bd-28bae1e37a93",
+      "bill_identifier": "SB 1235",
+      "bill_title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in Pennsylvania Board of Probation and Parole, further providing for Pennsylvania Parole Board and for incompatible offices and removal.",
+      "vote": "yes",
+      "date": "2026-06-25T04:00:00+00:00",
+      "motion": "Committee vote (Judiciary): Adopt Amendment",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/b9182d83-5b66-4936-9335-c82233fb977c",
+      "bill_identifier": "SB 111",
+      "bill_title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in general administration relating to correctional institutions, providing for residency of corrections officers.",
+      "vote": "yes",
+      "date": "2026-06-25T04:00:00+00:00",
+      "motion": "Committee vote (Judiciary): Adopt Amendment",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/b9182d83-5b66-4936-9335-c82233fb977c",
+      "bill_identifier": "SB 111",
+      "bill_title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in general administration relating to correctional institutions, providing for residency of corrections officers.",
+      "vote": "yes",
+      "date": "2026-06-25T04:00:00+00:00",
+      "motion": "Committee vote (Judiciary): Report Bill As Amended",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/92cc40aa-7a2a-423e-b9b5-eec3d60cb548",
+      "bill_identifier": "HB 2273",
+      "bill_title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in forfeiture of assets, further providing for motion for return of property; and imposing duties on the Administrative Office of Pennsylvania Courts.",
+      "vote": "yes",
+      "date": "2026-06-25T04:00:00+00:00",
+      "motion": "Committee vote (Judiciary): Report Bill As Committed",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/d784421f-8f5f-49db-b4f5-775562a1b0c2",
+      "bill_identifier": "HB 1434",
+      "bill_title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in minors, further providing for the offense of sale of tobacco products; and imposing penalties.",
+      "vote": "yes",
+      "date": "2026-06-25T04:00:00+00:00",
+      "motion": "Committee vote (Judiciary): Adopt Amendment",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/d784421f-8f5f-49db-b4f5-775562a1b0c2",
+      "bill_identifier": "HB 1434",
+      "bill_title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in minors, further providing for the offense of sale of tobacco products; and imposing penalties.",
+      "vote": "yes",
+      "date": "2026-06-25T04:00:00+00:00",
+      "motion": "Committee vote (Judiciary): Report Bill As Amended",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/fea9d3fa-0404-423c-9056-52306fdb3f72",
+      "bill_identifier": "SB 1259",
+      "bill_title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in Pennsylvania Board of Probation and Parole, further providing for investigation of circumstances of offense and for parole procedure.",
+      "vote": "yes",
+      "date": "2026-06-25T04:00:00+00:00",
+      "motion": "Committee vote (Judiciary): Report Bill As Committed",
+      "yes_total": 26,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/3f63330c-8455-4321-9b76-f26dc1cb7328",
+      "bill_identifier": "HB 2650",
+      "bill_title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; in computer data center equipment incentive program, providing for certification prohibition; providing for Governor's Responsible Infrastructure Development certification and standards; and imposing duties.",
+      "vote": "no",
+      "date": "2026-06-24T19:29:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 134,
+      "no_total": 68
+    },
+    {
+      "bill_id": "ocd-bill/59640013-2568-40a6-a363-b9c5209df551",
+      "bill_identifier": "HB 2621",
+      "bill_title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in powers and duties of the Department of Health and its departmental administrative and advisory boards, establishing the Pennsylvania Maternal and Infant Outcome Measures Survey Program.",
+      "vote": "yes",
+      "date": "2026-06-24T19:06:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 190,
+      "no_total": 12
+    },
+    {
+      "bill_id": "ocd-bill/ad8bcff3-3cb6-43cc-94e1-68af919e4f3a",
+      "bill_identifier": "HB 2555",
+      "bill_title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated Statutes, in domestic animals, further providing for definitions and providing for requirements for equines sold by dealer.",
+      "vote": "yes",
+      "date": "2026-06-24T19:05:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 194,
+      "no_total": 8
+    },
+    {
+      "bill_id": "ocd-bill/84424aa3-a880-4d19-99fc-12b320759ba6",
+      "bill_identifier": "HB 2496",
+      "bill_title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in general provisions, providing for pause on data center proposals.",
+      "vote": "yes",
+      "date": "2026-06-24T19:01:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 201,
+      "no_total": 1
+    },
+    {
+      "bill_id": "ocd-bill/731c427f-042d-42c4-9391-185da37e19b1",
+      "bill_identifier": "HB 2437",
+      "bill_title": "An Act amending Title 58 (Oil and Gas) of the Pennsylvania Consolidated Statutes, in unconventional gas well fee, further providing for Statewide initiatives.",
+      "vote": "yes",
+      "date": "2026-06-24T18:45:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 202,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/74ebc32b-e662-46e0-b906-d44cc8c0eed7",
+      "bill_identifier": "HB 2388",
+      "bill_title": "An Act providing for rounding of certain payment sums paid by physical legal tender.",
+      "vote": "no",
+      "date": "2026-06-24T18:42:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 187,
+      "no_total": 15
+    },
+    {
+      "bill_id": "ocd-bill/53d69066-e959-446f-8715-7fc46060bd98",
+      "bill_identifier": "HB 2162",
+      "bill_title": "An Act amending the act of December 14, 1992 (P.L.1116, No.145), known as the Wholesale Prescription Drug Distributors License Act, further providing for definitions and for license application.",
+      "vote": "yes",
+      "date": "2026-06-24T18:39:00+00:00",
+      "motion": "FINAL PASSAGE",
+      "yes_total": 202,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/0b47165d-7727-4e2c-8069-4dc69ed21888",
+      "bill_identifier": "HB 2198",
+      "bill_title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to Computer Data Center Equipment Incentive Program; and, in general provisions, providing for data centers.",
+      "vote": "yes",
+      "date": "2026-06-24T18:33:00+00:00",
+      "motion": "A3904",
+      "yes_total": 202,
+      "no_total": 0
+    },
+    {
+      "bill_id": "ocd-bill/0b47165d-7727-4e2c-8069-4dc69ed21888",
+      "bill_identifier": "HB 2198",
+      "bill_title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to Computer Data Center Equipment Incentive Program; and, in general provisions, providing for data centers.",
+      "vote": "yes",
+      "date": "2026-06-24T18:31:00+00:00",
+      "motion": "A3886",
+      "yes_total": 195,
+      "no_total": 7
+    },
+    {
+      "bill_id": "ocd-bill/c868122b-ab67-4adc-abe9-05e0a4e8be14",
+      "bill_identifier": "HB 2037",
+      "bill_title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in ethics standards and financial disclosure, further providing for definitions and for restricted activities.",
+      "vote": "yes",
+      "date": "2026-06-24T18:28:00+00:00",
+      "motion": "A3894",
+      "yes_total": 101,
+      "no_total": 101
+    }
+  ]
+}

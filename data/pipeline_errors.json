@@ -46,5 +46,143 @@
   {
     "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
     "error": "Rate limit exceeded after 5 retries"
+  },
+  {
+    "step": "fetch_votes",
+    "error": "quota exhausted, partial scan"
+  },
+  {
+    "legislator_id": "ocd-person/844f3ed7-03df-420f-81bd-3f547c12e61e",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F844f3ed7-03df-420f-81bd-3f547c12e61e&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/db196239-5fca-4218-82ee-ce1f6cf03ec4",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fdb196239-5fca-4218-82ee-ce1f6cf03ec4&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/4bc74848-3896-4a0a-9310-970458f48d1a",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F4bc74848-3896-4a0a-9310-970458f48d1a&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/1b5abb1e-0028-49a3-ae86-cfb90296c796",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F1b5abb1e-0028-49a3-ae86-cfb90296c796&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/be809fa5-6ef4-4071-bb94-ed10fb051f69",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fbe809fa5-6ef4-4071-bb94-ed10fb051f69&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/77755456-0f2a-4bbd-ac96-03d83398d6fc",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F77755456-0f2a-4bbd-ac96-03d83398d6fc&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/a41016aa-660f-4af7-afcd-ef182e544533",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fa41016aa-660f-4af7-afcd-ef182e544533&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/19dca465-48d8-4b4a-84e2-79ef9797c986",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F19dca465-48d8-4b4a-84e2-79ef9797c986&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/628312bf-7920-44b7-b226-90c92f92a123",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F628312bf-7920-44b7-b226-90c92f92a123&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/23f12d9a-928a-445e-abbe-4976cb082809",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F23f12d9a-928a-445e-abbe-4976cb082809&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/0d86d77b-ff68-4182-be53-09ff196b8174",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F0d86d77b-ff68-4182-be53-09ff196b8174&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/999d1ffd-b893-4aac-9fbb-ae43b3039038",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F999d1ffd-b893-4aac-9fbb-ae43b3039038&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/e00e0f63-7058-46a4-8b63-f31dc804c614",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fe00e0f63-7058-46a4-8b63-f31dc804c614&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/57be936d-802b-4d09-b95e-2a5354cb9984",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F57be936d-802b-4d09-b95e-2a5354cb9984&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/ea712eba-1da5-45e2-8d9f-022e8307a614",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fea712eba-1da5-45e2-8d9f-022e8307a614&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/f4e98ad8-2ee6-45e4-8594-0deaaa51190e",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Ff4e98ad8-2ee6-45e4-8594-0deaaa51190e&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/48c5b966-eef2-456a-8ca0-f47d584e7883",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F48c5b966-eef2-456a-8ca0-f47d584e7883&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/b64463e2-41f6-4d58-a725-03db71798c1c",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fb64463e2-41f6-4d58-a725-03db71798c1c&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/1f2c3093-8ce7-41f7-8df0-6cd14ddd354b",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F1f2c3093-8ce7-41f7-8df0-6cd14ddd354b&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/13bfe11c-06e2-4a1d-844d-d195ef18dc06",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F13bfe11c-06e2-4a1d-844d-d195ef18dc06&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fbd4c3d05-059a-4084-b8f8-e8598e4eb955&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/979ea568-4c43-41bd-ba1e-4c2da172bb82",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F979ea568-4c43-41bd-ba1e-4c2da172bb82&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/9aea39f8-1503-4fea-9440-1e0e9c2f8fa3",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F9aea39f8-1503-4fea-9440-1e0e9c2f8fa3&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/e12dc574-f19b-4c9c-9a30-42b68371ea4a",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fe12dc574-f19b-4c9c-9a30-42b68371ea4a&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/1a6e36d3-ff44-4e21-bb9d-397a56482b34",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F1a6e36d3-ff44-4e21-bb9d-397a56482b34&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/0f035e7e-d035-4d8c-bc5b-876ba70452cc",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F0f035e7e-d035-4d8c-bc5b-876ba70452cc&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/7ec5f0f0-0899-4f54-b284-c4c5931c25bc",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F7ec5f0f0-0899-4f54-b284-c4c5931c25bc&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/ac7d02d3-9bb7-4cc1-8cee-4283094fe604",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fac7d02d3-9bb7-4cc1-8cee-4283094fe604&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/e5149ed2-f2bb-4054-8064-e2331ffaf1c0",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fe5149ed2-f2bb-4054-8064-e2331ffaf1c0&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "legislator_id": "ocd-person/fd5d0580-766c-482c-a12f-e4689e0bcf30",
+    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Ffd5d0580-766c-482c-a12f-e4689e0bcf30&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
+  },
+  {
+    "step": "fetch_bills",
+    "error": "quota exhausted, stopped early"
+  },
+  {
+    "step": "4. Scrape press releases",
+    "error": "'utf-8' codec can't decode byte 0x96 in position 751: invalid start byte",
+    "timestamp": "2026-06-29T12:02:45.464239+00:00"
+  },
+  {
+    "step": "5. Summarize releases",
+    "error": "'utf-8' codec can't decode byte 0x96 in position 751: invalid start byte",
+    "timestamp": "2026-06-29T12:09:29.685278+00:00"
   }
 ]
