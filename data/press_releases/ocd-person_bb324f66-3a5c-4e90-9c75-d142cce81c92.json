@@ -4,7 +4,15 @@
     "url": "http://RepStaats.net/",
     "date": "Apr13",
     "raw_text": "Apr\n13\nPress Release\nStaats Announces Local Farmland Preserved\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Legislator Staats announced that farmland in the local area has been preserved, likely through a state or local conservation program. The release appears to highlight the protection of agricultural land from development. Specific acreage, location, and funding details are not available from the headline alone.",
+      "action_type": "statement",
+      "topics": [
+        "environment",
+        "economy"
+      ],
+      "spin_flag": true
+    }
   },
   {
     "title": "Livestreams",
