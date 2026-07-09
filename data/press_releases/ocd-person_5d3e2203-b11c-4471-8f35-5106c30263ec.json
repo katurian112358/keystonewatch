@@ -322,5 +322,33 @@
       ],
       "spin_flag": true
     }
+  },
+  {
+    "title": "Contact Me",
+    "url": "https://www.senatorscotthutchinson.com/contact-me/",
+    "date": null,
+    "raw_text": "Contact Me\nThank you for visiting my website. To send questions, comments or concerns, please use the form below.",
+    "ai_summary": {
+      "summary": "This is a contact form page from a legislator's website, not a press release. No legislative action, statement, or announcement is contained in the provided text.",
+      "action_type": "other",
+      "topics": [
+        "other"
+      ],
+      "spin_flag": false
+    }
+  },
+  {
+    "title": "Request a Letter of Support",
+    "url": "https://www.senatorscotthutchinson.com/request-a-letter-of-support/",
+    "date": null,
+    "raw_text": "Request a Letter of Support\nComments\nThis field is for validation purposes and should be left unchanged.\nApplicant\nApplicant Name - Please include the name of the government entity or organization who is applying for the funding and will serve as the recipient for the funds.\n(Required)\nContact Person - Please include the name of the primary contact person for this request.\n(Required)\nAddress - Please include the mailing address (city, state, and zip code) of the applicant.\n(Required)\nStreet Address\nAddress Line 2\nCity\nAlabama\nAlaska\nAmerican Samoa\nArizona\nArkansas\nCalifornia\nColorado\nConnecticut\nDelaware\nDistrict of Columbia\nFlorida\nGeorgia\nGuam\nHawaii\nIdaho\nIllinois\nIndiana\nIowa\nKansas\nKentucky\nLouisiana\nMaine\nMaryland\nMassachusetts\nMichigan\nMinnesota\nMississippi\nMissouri\nMontana\nNebraska\nNevada\nNew Hampshire\nNew Jersey\nNew Mexico\nNew York\nNorth Carolina\nNorth Dakota\nNorthern Mariana Islands\nOhio\nOklahoma\nOregon\nPennsylvania\nPuerto Rico\nRhode Island\nSouth Carolina\nSouth Dakota\nTennessee\nTexas\nUtah\nU.S. Virgin Islands\nVermont\nVirginia\nWashington\nWest Virginia\nWisconsin\nWyoming\nArmed Forces Americas\nArmed Forces Europe\nArmed Forces Pacific\nState\nZIP Code\nContact Person Phone Number\n(Required)\nContact Person Email Address\n(Required)\nGrant/Loan\nProject Name\n(Required)\nApplication ID Number, if application submitted\nIf application has been submitted, please provide a copy of your application\nAccepted file types: doc, pdf, jpg, docx, Max. file size: 4 MB.\nAccepted files are doc, docx, pdf or jpg.\nMunicipality\n(Required)\nCounty\n(Required)\nRequested Amount\n(Required)\nTotal Project Cost\n(Required)\nFunding Program\n(Required)\nFunding Department, Agency, Bureau, etc.\n(Required)\nBrief Description of the Project\n(Required)\nBrief Impact of the Project\n(Required)\nType of Funding\n(Required)\nGrant\nLoan\nTax Credit\nOther\nSupport Letter\nSupport Letter\n(Required)\nYes\nNo\nSupport Letter Contact Person Role\n(Required)\nApplicant\nEngineer/Consultant\nOther\nSupport Letter Handling\n(Required)\nPlease provide the name and mailing address (if hardcopy) or email address of where the original support letter should be sent.\nSupport Letter Extra Copies\n(Required)\nPlease provide the names and Mailing addresses (if hardcopy) or email addresses of where support letter extra copies should be sent.\nSupport Letter Name\n(Required)\nTo whom would you like electronic/mailed letters directed?\nSupport Letter Title\n(Required)\nSupport Letter Email\n(Required)\nSupport Letter Address\n(Required)\nStreet Address\nAddress Line 2\nCity\nAlabama\nAlaska\nAmerican Samoa\nArizona\nArkansas\nCalifornia\nColorado\nConnecticut\nDelaware\nDistrict of Columbia\nFlorida\nGeorgia\nGuam\nHawaii\nIdaho\nIllinois\nIndiana\nIowa\nKansas\nKentucky\nLouisiana\nMaine\nMaryland\nMassachusetts\nMichigan\nMinnesota\nMississippi\nMissouri\nMontana\nNebraska\nNevada\nNew Hampshire\nNew Jersey\nNew Mexico\nNew York\nNorth Carolina\nNorth Dakota\nNorthern Mariana Islands\nOhio\nOklahoma\nOregon\nPennsylvania\nPuerto Rico\nRhode Island\nSouth Carolina\nSouth Dakota\nTennessee\nTexas\nUtah\nU.S. Virgin Islands\nVermont\nVirginia\nWashington\nWest Virginia\nWisconsin\nWyoming\nArmed Forces Americas\nArmed Forces Europe\nArmed Forces Pacific\nState\nZIP Code\nSupport Letter Due Date\n(Required)\nMonth\nDay\nYear\nSample Letter\nDrop files here or\nSelect files\nMax. file size: 98 MB.",
+    "ai_summary": {
+      "summary": "This content is not a legislator press release. It is a web form that allows organizations or government entities to request a letter of support from a legislator for a grant, loan, or tax credit application. No legislative action, statement, or event is described.",
+      "action_type": "other",
+      "topics": [
+        "other"
+      ],
+      "spin_flag": false
+    }
   }
 ]
