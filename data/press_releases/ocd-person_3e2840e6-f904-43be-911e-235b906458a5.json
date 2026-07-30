@@ -170,7 +170,14 @@
     "url": "https://senatorbrown40.com/2024-veteran-luncheon-at-trout-lake/",
     "date": null,
     "raw_text": "2024 Veteran Luncheon at Trout Lake",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "A Pennsylvania legislator attended or hosted a veteran luncheon event at Trout Lake in 2024. The release appears to announce or recap a community event honoring veterans. No specific legislative action was taken.",
+      "action_type": "event",
+      "topics": [
+        "other"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Voting FAQ",
