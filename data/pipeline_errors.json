@@ -45,58 +45,6 @@
     "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F23f12d9a-928a-445e-abbe-4976cb082809&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
   },
   {
-    "legislator_id": "ocd-person/0d86d77b-ff68-4182-be53-09ff196b8174",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F0d86d77b-ff68-4182-be53-09ff196b8174&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/999d1ffd-b893-4aac-9fbb-ae43b3039038",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F999d1ffd-b893-4aac-9fbb-ae43b3039038&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/e00e0f63-7058-46a4-8b63-f31dc804c614",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fe00e0f63-7058-46a4-8b63-f31dc804c614&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/57be936d-802b-4d09-b95e-2a5354cb9984",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F57be936d-802b-4d09-b95e-2a5354cb9984&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/ea712eba-1da5-45e2-8d9f-022e8307a614",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fea712eba-1da5-45e2-8d9f-022e8307a614&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/f4e98ad8-2ee6-45e4-8594-0deaaa51190e",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Ff4e98ad8-2ee6-45e4-8594-0deaaa51190e&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/48c5b966-eef2-456a-8ca0-f47d584e7883",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F48c5b966-eef2-456a-8ca0-f47d584e7883&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/b64463e2-41f6-4d58-a725-03db71798c1c",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fb64463e2-41f6-4d58-a725-03db71798c1c&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/1f2c3093-8ce7-41f7-8df0-6cd14ddd354b",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F1f2c3093-8ce7-41f7-8df0-6cd14ddd354b&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/13bfe11c-06e2-4a1d-844d-d195ef18dc06",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F13bfe11c-06e2-4a1d-844d-d195ef18dc06&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2Fbd4c3d05-059a-4084-b8f8-e8598e4eb955&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/979ea568-4c43-41bd-ba1e-4c2da172bb82",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F979ea568-4c43-41bd-ba1e-4c2da172bb82&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
-    "legislator_id": "ocd-person/9aea39f8-1503-4fea-9440-1e0e9c2f8fa3",
-    "error": "400 Client Error: Bad Request for url: https://v3.openstates.org/bills?sponsor=ocd-person%2F9aea39f8-1503-4fea-9440-1e0e9c2f8fa3&jurisdiction=pa&session=2025-2026&include=sponsorships&include=actions&page=1&per_page=50"
-  },
-  {
     "step": "fetch_bills",
     "error": "quota exhausted, stopped early"
   },
@@ -104,654 +52,666 @@
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/db196239-5fca-4218-82ee-ce1f6cf03ec4",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:12:49.283853"
+    "timestamp": "2026-08-08T07:44:41.118354"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/4bc74848-3896-4a0a-9310-970458f48d1a",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:12:49.784175"
+    "timestamp": "2026-08-08T07:44:41.618653"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/1b5abb1e-0028-49a3-ae86-cfb90296c796",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:12:50.284449"
+    "timestamp": "2026-08-08T07:44:42.118964"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/77755456-0f2a-4bbd-ac96-03d83398d6fc",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:12:57.557443"
+    "timestamp": "2026-08-08T07:44:51.898828"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/a41016aa-660f-4af7-afcd-ef182e544533",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:12:58.057712"
+    "timestamp": "2026-08-08T07:44:52.399139"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/19dca465-48d8-4b4a-84e2-79ef9797c986",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:12:58.557990"
+    "timestamp": "2026-08-08T07:44:52.899441"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/628312bf-7920-44b7-b226-90c92f92a123",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:12:59.058266"
+    "timestamp": "2026-08-08T07:44:53.399727"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/23f12d9a-928a-445e-abbe-4976cb082809",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:12:59.558543"
+    "timestamp": "2026-08-08T07:44:53.900013"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/999d1ffd-b893-4aac-9fbb-ae43b3039038",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:13:10.771590"
+    "timestamp": "2026-08-08T07:45:01.573048"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/57be936d-802b-4d09-b95e-2a5354cb9984",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:13:18.551168"
+    "timestamp": "2026-08-08T07:45:12.376662"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/f4e98ad8-2ee6-45e4-8594-0deaaa51190e",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:13:57.936688"
+    "timestamp": "2026-08-08T07:45:28.054664"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e12dc574-f19b-4c9c-9a30-42b68371ea4a",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:18:23.209071"
+    "timestamp": "2026-08-08T07:49:18.429895"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0f035e7e-d035-4d8c-bc5b-876ba70452cc",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:18:30.651774"
+    "timestamp": "2026-08-08T07:49:23.943222"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/7ec5f0f0-0899-4f54-b284-c4c5931c25bc",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:18:31.152052"
+    "timestamp": "2026-08-08T07:49:24.443505"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/ac7d02d3-9bb7-4cc1-8cee-4283094fe604",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repsmith.com/",
+    "timestamp": "2026-08-08T07:49:25.158226"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/05f5a4fa-4a1e-4242-8664-eca508f36a3c",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:22:51.072337"
+    "timestamp": "2026-08-08T07:51:25.024183"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d881386d-8aad-45c7-8705-27f3288f20ea",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:25:00.777929"
+    "timestamp": "2026-08-08T07:51:51.562834"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/851902e6-5649-4c0c-948a-57fb9c1dd40d",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:25:01.278193"
+    "timestamp": "2026-08-08T07:51:52.063124"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d83a0679-02c9-469b-89ed-11f9b46166c5",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:25:20.894806"
+    "timestamp": "2026-08-08T07:52:11.350927"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e6a8e555-0d65-4a1f-9673-56ad1e3c7855",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:25:21.395093"
+    "timestamp": "2026-08-08T07:52:11.851232"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/626de4be-b2f3-4a37-bbbc-ede598381d6b",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:26:01.472664"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/e17c51da-556e-4afe-aad4-137ee3a0881e",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repcraigwilliams.com/",
-    "timestamp": "2026-08-07T08:26:08.998194"
+    "timestamp": "2026-08-08T07:52:50.269897"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/402d7e3b-1935-47fa-8124-61490037d016",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:26:09.498558"
+    "timestamp": "2026-08-08T07:53:10.202805"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/70d0ff46-746e-47a0-8c5f-cbe73dbf72ce",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repkephart.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-08-08T07:53:11.164124"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b42a625f-25e4-4f25-b942-928c8a3e0bb2",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:27:41.089308"
+    "timestamp": "2026-08-08T07:54:30.462951"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/431a823e-0268-4921-a62d-5f698211e706",
     "error": "Invalid URL 'https:///www.senatorlaughlin.com/enewsletters/': No host supplied",
-    "timestamp": "2026-08-07T08:27:41.896837"
+    "timestamp": "2026-08-08T07:54:31.307340"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/943fdd89-fe0a-43f6-8077-82cd252bdeb2",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:30:26.924183"
+    "timestamp": "2026-08-08T07:56:57.517937"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/4a0c9e5e-07cc-4b4b-a47a-22be60d1623e",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:33:54.324502"
+    "timestamp": "2026-08-08T07:58:05.987507"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fb4a0115-dd63-4e25-8d36-0ea6afc55faf",
     "error": "429 Client Error: Too Many Requests for url: http://www.repmaloney.com/",
-    "timestamp": "2026-08-07T08:34:04.723110"
+    "timestamp": "2026-08-08T07:58:13.875382"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/c88ccd9a-3378-4284-9dc6-767a4826526e",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:34:05.223474"
+    "timestamp": "2026-08-08T07:58:14.375777"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/2a13f9df-b7e6-4281-82e4-f7263b6fa12e",
     "error": "generic scrape: no news link found",
-    "timestamp": "2026-08-07T08:34:06.230952"
+    "timestamp": "2026-08-08T07:58:16.080528"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/3d3d4070-dadd-4382-9d40-be2892745773",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:37:07.984225"
+    "timestamp": "2026-08-08T07:58:58.252115"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/875b1add-2803-4cc3-964b-0e351ed6ca1c",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:40:46.145516"
+    "timestamp": "2026-08-08T08:00:40.361422"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0910d394-3c42-48ee-aea7-6d4c0c144130",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:41:04.223440"
+    "timestamp": "2026-08-08T08:00:50.751413"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b7373c43-580b-4044-a405-054073ac687b",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:41:04.723721"
+    "timestamp": "2026-08-08T08:00:51.251696"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/3088ff8e-d2d9-46b9-8ea3-bd35af9438c2",
     "error": "503 Server Error: Service Unavailable for url: https://repgaryday.com/",
-    "timestamp": "2026-08-07T08:42:12.910443"
+    "timestamp": "2026-08-08T08:01:46.061505"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/4c88ce64-4ba6-4f5e-a22f-86bf6a0d5b7f",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:42:49.448386"
+    "timestamp": "2026-08-08T08:01:58.030995"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/969ce6cb-ddcb-4347-b69d-2019cfbd6e18",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:44:32.524244"
+    "timestamp": "2026-08-08T08:02:14.014169"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d5f1bbaf-5daf-4266-9b18-16042f49db1b",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:45:00.292301"
+    "timestamp": "2026-08-08T08:02:37.330923"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fefff26b-b89a-4400-b633-99e5aa09523b",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:45:00.792575"
+    "timestamp": "2026-08-08T08:02:37.831231"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fe624f82-e44d-4071-a49f-3a0d4965b7b9",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:45:09.763648"
+    "timestamp": "2026-08-08T08:02:44.550854"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fea0b7c4-d51a-463f-964a-75722678083b",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:45:20.116827"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/e396f514-a357-404f-bdb9-1ba33d97d0a7",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repflick.com/",
-    "timestamp": "2026-08-07T08:45:28.963268"
+    "timestamp": "2026-08-08T08:03:02.265754"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/96cbec5b-b9a4-4325-8346-bd4d08d87237",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:45:29.463617"
+    "timestamp": "2026-08-08T08:03:12.992615"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/6b6602c0-8b45-4e1e-89ba-1782da5d67c6",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:45:29.963940"
+    "timestamp": "2026-08-08T08:03:13.492882"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/4a2176cc-292b-4d19-aff6-8b4c4b460ba0",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:45:46.158051"
+    "timestamp": "2026-08-08T08:03:28.632722"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/08211014-af0e-4d71-92a7-e0045ba8062a",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:48:02.062599"
+    "timestamp": "2026-08-08T08:04:40.398064"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/65b852b7-0c73-487d-aaf4-2b6648fa6383",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:48:02.562849"
+    "timestamp": "2026-08-08T08:04:40.898421"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0df3f8d5-b6df-4cd8-a2c7-1dee651e60a8",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:48:59.968543"
+    "timestamp": "2026-08-08T08:05:23.444353"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/865dbfc4-e6ec-400e-bd5c-257f9a947519",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:49:00.468829"
+    "timestamp": "2026-08-08T08:05:23.944629"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/8b6409e9-8ab6-4222-b6f3-fb8f33800c95",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:49:00.969133"
+    "timestamp": "2026-08-08T08:05:24.444914"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/3b91abb8-4b49-4fa2-85ed-beea4919bccc",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:49:28.630286"
+    "timestamp": "2026-08-08T08:05:35.260757"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/3c3cd25a-658f-4aab-a648-ef2509469c34",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:49:29.130531"
+    "timestamp": "2026-08-08T08:05:35.761057"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/1951ae06-881a-4c43-9635-224878c3ecb5",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:49:40.058716"
+    "timestamp": "2026-08-08T08:05:45.304487"
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b1beaa5c-93d2-479e-9408-47c7687cd212",
-    "error": "429 Client Error: Too Many Requests for url: http://www.rephogan.com/",
-    "timestamp": "2026-08-07T08:51:28.875028"
+    "legislator_id": "ocd-person/0e873ea0-c8a2-4fbb-a408-de0c5bd36de9",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repemrick.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-08-08T08:06:51.002720"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d31e549e-2c3d-4ea3-850b-5285955c3c2f",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:52:20.322720"
+    "timestamp": "2026-08-08T08:08:07.575238"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/00e98952-3983-44cd-aeca-09fb6cd84f3d",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:52:20.822987"
+    "timestamp": "2026-08-08T08:08:08.075504"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/722f324f-db47-4ce2-9cbc-93f29ae38158",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:52:21.323251"
+    "timestamp": "2026-08-08T08:08:08.575777"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/8d5ab463-45d5-4cf0-9c65-85820c08e506",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:53:00.927571"
+    "timestamp": "2026-08-08T08:08:51.774599"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0b0beeaf-a1b0-4049-95cb-4ad5a3952336",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:53:01.427863"
+    "timestamp": "2026-08-08T08:08:52.274895"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/b6a10f6b-3f2e-42df-adf9-7184222af2c2",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repschlegel.com/",
+    "timestamp": "2026-08-08T08:09:29.656615"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/23a2b079-dc91-49b0-b08e-f3ae80fba11f",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repfritz.com/",
+    "timestamp": "2026-08-08T08:09:30.389380"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/2313ce98-7ac4-44b9-a61d-5b128338a405",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:55:59.748994"
+    "timestamp": "2026-08-08T08:09:30.889771"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/2062ecc5-049f-44c4-83bf-850a34b75531",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:56:00.249266"
+    "timestamp": "2026-08-08T08:09:31.390073"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d390f1ac-1f16-478a-9e0d-462c9ed79818",
     "error": "no website URL",
-    "timestamp": "2026-08-07T08:56:06.763329"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/08283fbe-18bc-4daf-972c-617d1e35d746",
-    "error": "429 Client Error: Too Many Requests for url: http://repklunk.com/",
-    "timestamp": "2026-08-07T09:00:00.052797"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/36348b5e-47fe-404a-b6c3-99359115846c",
-    "error": "429 Client Error: Too Many Requests for url: http://www.reprapp.com/",
-    "timestamp": "2026-08-07T09:00:00.779163"
+    "timestamp": "2026-08-08T08:09:36.827152"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/99c32bc9-33c2-4394-94e6-2f9d0ff43133",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:02:20.772820"
+    "timestamp": "2026-08-08T08:11:30.194561"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/5a5a7a42-bc5e-4a07-aee1-d1a01e810385",
     "error": "429 Client Error: Too Many Requests for url: http://www.kerrybenninghoff.com/",
-    "timestamp": "2026-08-07T09:02:21.516394"
+    "timestamp": "2026-08-08T08:11:30.951408"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/009be4f2-d613-4353-8126-6b5642d868bc",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:05:50.145871"
+    "timestamp": "2026-08-08T08:12:49.006893"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/526967db-cef3-4f64-a380-1377f5c6f1fe",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:06:30.572071"
+    "timestamp": "2026-08-08T08:13:29.513386"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/8187ecb2-3e4b-4ba0-819e-a7cfb4b9ac93",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:06:31.072373"
+    "timestamp": "2026-08-08T08:13:30.013665"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/71bb086e-11d9-496d-b274-91d7a8b85eaf",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:06:40.536000"
+    "timestamp": "2026-08-08T08:13:36.839720"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b7c8d063-8db4-4cdf-a159-a0b064b7cae5",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:06:41.036274"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/bc64322a-faaf-4b33-b6c2-cf5059f4121c",
-    "error": "generic scrape: no news link found",
-    "timestamp": "2026-08-07T09:06:42.049244"
+    "timestamp": "2026-08-08T08:13:37.339994"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d927a6f9-9878-4375-ac7d-9996e8968c9d",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:08:18.075568"
+    "timestamp": "2026-08-08T08:14:18.527435"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/de81d407-bc84-48e6-9796-4a56be984cbd",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:08:18.575848"
+    "timestamp": "2026-08-08T08:14:19.027741"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/63f8d7ea-b621-48b7-a326-4e2a732a521c",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:09:48.080038"
+    "timestamp": "2026-08-08T08:16:04.500761"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d26c016b-27e5-4171-849b-94773178023d",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:09:48.580321"
+    "timestamp": "2026-08-08T08:16:05.001075"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/8d16f666-803c-4946-8adc-32f1e80d79d9",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:09:49.080609"
+    "timestamp": "2026-08-08T08:16:05.501421"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/68e26db9-10ba-414b-9d06-440dd1fd3f10",
     "error": "429 Client Error: Too Many Requests for url: http://www.repmarlabrown.com/",
-    "timestamp": "2026-08-07T09:12:24.645579"
+    "timestamp": "2026-08-08T08:17:07.820027"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/93435394-e853-45f2-9e88-65399b3f9042",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repwhite.com/",
+    "timestamp": "2026-08-08T08:17:08.517551"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/171af8ac-41e0-4047-be38-654cc912053b",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repcauser.com/",
+    "timestamp": "2026-08-08T08:17:09.172166"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/7061c75d-7eeb-40aa-841e-8121edba5d8a",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:12:46.956661"
+    "timestamp": "2026-08-08T08:17:09.672565"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/2b9c199b-dd4e-477a-a5d0-849180c956a0",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:13:27.573065"
+    "timestamp": "2026-08-08T08:17:49.126275"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fc1f0752-9166-4d7f-987a-ec15b8bf4048",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:17:55.660929"
+    "timestamp": "2026-08-08T08:20:38.123918"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b4559406-2139-4c7c-9ce9-7a2a604a8a95",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repmiloumackenziepa.com/",
-    "timestamp": "2026-08-07T09:17:56.372658"
+    "error": "429 Client Error: Too Many Requests for url: http://www.repmiloumackenziepa.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-08-08T08:20:39.007689"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/f5b2ec4d-1d69-483a-a6ec-143d50ad395b",
     "error": "generic scrape: no news link found",
-    "timestamp": "2026-08-07T09:17:57.076133"
+    "timestamp": "2026-08-08T08:20:39.859516"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/05326e52-202a-46cd-bbbe-cc8d01d9a44b",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:18:39.285351"
+    "timestamp": "2026-08-08T08:21:19.917806"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d18ccbd7-270a-46c2-8bbd-a19ea82d0e51",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:18:39.785628"
+    "timestamp": "2026-08-08T08:21:20.418080"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/94e57e39-e58d-4374-9506-ece1a01e0ebd",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:18:40.285918"
+    "timestamp": "2026-08-08T08:21:20.918378"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/c7f76970-11d0-483e-81b4-b4750220932c",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:18:48.587431"
+    "timestamp": "2026-08-08T08:21:29.170484"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/c9f6833a-470e-480f-b3ad-d91c887aa4f9",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:20:49.494320"
+    "timestamp": "2026-08-08T08:21:55.081324"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/5df981dc-0f0f-498e-8e0e-72cfa5410b2a",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:22:08.937053"
+    "timestamp": "2026-08-08T08:21:57.231430"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/36e7e815-87a3-4c58-baae-71f210e48114",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:22:16.765147"
+    "timestamp": "2026-08-08T08:22:02.710355"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b5ff17d0-36e8-4f29-8c9b-e51bb9b3ea29",
     "error": "404 Client Error: Not Found for url: https://www.pahouse.com/Error/404",
-    "timestamp": "2026-08-07T09:25:07.864887"
+    "timestamp": "2026-08-08T08:23:06.759832"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/494797a5-3d84-414a-9c8c-caaadd621cdd",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:25:08.365245"
+    "timestamp": "2026-08-08T08:23:07.260164"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/dd35ae63-5dee-4f87-b64e-65907b8adaba",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:25:08.865540"
+    "timestamp": "2026-08-08T08:23:07.760473"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/63936c68-ec65-40a9-9a68-0d956939404a",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:26:01.344393"
+    "timestamp": "2026-08-08T08:23:56.043611"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/a737f4d4-5b45-469b-8d51-98c7aa78183a",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:26:01.844661"
+    "timestamp": "2026-08-08T08:23:56.543885"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/42ffbed1-2284-4018-a60f-b5bfa3f35833",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:26:09.422146"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/17e1e676-8e83-4883-8cf5-4c8ddcce076e",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repkauffman.com/",
-    "timestamp": "2026-08-07T09:26:10.077102"
+    "timestamp": "2026-08-08T08:24:01.999424"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/69faf85a-c63c-4d75-9801-047fffddf228",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:27:04.549389"
+    "timestamp": "2026-08-08T08:25:01.145927"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/c3ad9b17-c8f5-450e-9aaa-f002e1414bd5",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:27:05.049672"
+    "timestamp": "2026-08-08T08:25:01.646242"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/32370423-acb8-4a8e-8336-67af5ed32bb9",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:27:52.854329"
+    "timestamp": "2026-08-08T08:25:29.886278"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0d747b7a-0a5a-42cf-8bb6-1eb0fa69090f",
     "error": "429 Client Error: Too Many Requests for url: http://repwarner.com/",
-    "timestamp": "2026-08-07T09:27:53.579079"
+    "timestamp": "2026-08-08T08:25:30.584715"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/983dc33a-559e-4f01-9c60-08fed48a1415",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:27:54.079460"
+    "timestamp": "2026-08-08T08:25:31.085083"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d8624d56-a38e-4918-98ac-d7795569ad06",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:32:18.842772"
+    "timestamp": "2026-08-08T08:27:01.630372"
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b0d20b05-428a-4e3a-bda1-bbba5c3cfd6a",
-    "error": "generic scrape: no news link found",
-    "timestamp": "2026-08-07T09:32:19.910662"
+    "legislator_id": "ocd-person/9e4954ab-971c-4620-9f9d-ebb68311e3f1",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repdelozier.com/",
+    "timestamp": "2026-08-08T08:28:05.118886"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/bccfe530-42ce-47b0-aadf-ae863b37cf9a",
+    "error": "429 Client Error: Too Many Requests for url: http://repstephanie.com/",
+    "timestamp": "2026-08-08T08:28:05.852468"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/8caab7df-f601-45f0-9be5-35d94175e766",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:36:51.182217"
+    "timestamp": "2026-08-08T08:30:01.230709"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/6fa30029-d933-4f6d-b0fb-343a0c82772c",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:36:51.682492"
+    "timestamp": "2026-08-08T08:30:01.730934"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/105c6361-0cb6-46f4-9222-ff0ffb727d29",
+    "error": "503 Server Error: Service Unavailable for url: http://www.repbonner.com/",
+    "timestamp": "2026-08-08T08:30:32.712343"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/de68158e-3cc9-4651-b3a1-71f5e77b7dab",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:38:05.826470"
+    "timestamp": "2026-08-08T08:30:33.212668"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/686cdc9c-8133-4c1b-a7f0-34b420884559",
+    "error": "429 Client Error: Too Many Requests for url: http://www.reptimtwardzik.com/",
+    "timestamp": "2026-08-08T08:32:04.468506"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/bda0ab75-036f-49bd-9dd5-cfc9c55eec02",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:42:48.573470"
+    "timestamp": "2026-08-08T08:33:33.550724"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d9ad47a6-7e74-45f2-93a5-1b7e40ad36db",
     "error": "no website URL",
-    "timestamp": "2026-08-07T09:45:06.985734"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/c3b27985-614c-434d-b3c0-3e032fad4d6c",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repmako.com/",
-    "timestamp": "2026-08-07T09:49:42.546834"
+    "timestamp": "2026-08-08T08:34:13.159719"
   }
 ]
