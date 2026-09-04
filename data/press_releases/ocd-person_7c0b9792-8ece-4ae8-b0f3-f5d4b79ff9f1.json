@@ -306,5 +306,19 @@
     "date": null,
     "raw_text": "",
     "ai_summary": null
+  },
+  {
+    "title": "First Energy Letters",
+    "url": "https://repshelbylabs.net/firstenergyletters",
+    "date": null,
+    "raw_text": "First Energy (Met Ed) Letters\nFirst Energy Letter\nFirst Energy Response\nSign Up to Receive Legislative Email Updates\nKeep up-to-date on the latest legislative and community news. Your email address will be used strictly for legislative purposes.\nEmail*\nZIP Code\nSubscribe",
+    "ai_summary": {
+      "summary": "This content does not appear to be a press release. It consists of navigation links, a document index, and an email subscription form related to First Energy (Met Ed) correspondence. No legislative action or statement is described.",
+      "action_type": "other",
+      "topics": [
+        "other"
+      ],
+      "spin_flag": false
+    }
   }
 ]
