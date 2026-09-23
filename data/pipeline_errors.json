@@ -64,678 +64,1026 @@
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/db196239-5fca-4218-82ee-ce1f6cf03ec4",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:17:33.331430"
+    "timestamp": "2026-09-23T12:30:27.581563"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/4bc74848-3896-4a0a-9310-970458f48d1a",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:17:33.831717"
+    "timestamp": "2026-09-23T12:30:28.081928"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/1b5abb1e-0028-49a3-ae86-cfb90296c796",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:17:34.332029"
+    "timestamp": "2026-09-23T12:30:28.582217"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/77755456-0f2a-4bbd-ac96-03d83398d6fc",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:17:39.408247"
+    "timestamp": "2026-09-23T12:30:34.033542"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/a41016aa-660f-4af7-afcd-ef182e544533",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:17:39.908551"
+    "timestamp": "2026-09-23T12:30:34.533873"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/19dca465-48d8-4b4a-84e2-79ef9797c986",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:17:40.408856"
+    "timestamp": "2026-09-23T12:30:35.034182"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/628312bf-7920-44b7-b226-90c92f92a123",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:17:40.909171"
+    "timestamp": "2026-09-23T12:30:35.534469"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/23f12d9a-928a-445e-abbe-4976cb082809",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:17:41.409477"
+    "timestamp": "2026-09-23T12:30:36.034724"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/999d1ffd-b893-4aac-9fbb-ae43b3039038",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:17:47.726276"
+    "timestamp": "2026-09-23T12:30:44.177306"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e00e0f63-7058-46a4-8b63-f31dc804c614",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repannflood.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-09-22T12:17:48.593779"
+    "error": "429 Client Error: Too Many Requests for url: http://www.repannflood.com/",
+    "timestamp": "2026-09-23T12:30:44.880852"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/57be936d-802b-4d09-b95e-2a5354cb9984",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:17:49.094313"
+    "timestamp": "2026-09-23T12:30:45.381287"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/ea712eba-1da5-45e2-8d9f-022e8307a614",
+    "error": "403 Client Error: Forbidden for url: http://www.senatorhaywood.com/",
+    "timestamp": "2026-09-23T12:30:46.268989"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/f4e98ad8-2ee6-45e4-8594-0deaaa51190e",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:18:10.498151"
+    "timestamp": "2026-09-23T12:30:46.769467"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/b64463e2-41f6-4d58-a725-03db71798c1c",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /sanchez/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76de15aa90>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:31:18.974830"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/1f2c3093-8ce7-41f7-8df0-6cd14ddd354b",
+    "error": "HTTPSConnectionPool(host='pahouse.com', port=443): Max retries exceeded with url: /waxman/InTheNews/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='pahouse.com', port=443) at 0x7f76de3ea190>, 'Connection to pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:31:39.481508"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/13bfe11c-06e2-4a1d-844d-d195ef18dc06",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /freeman/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76de154890>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:32:00.004123"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /merski/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76de3e83d0>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:32:20.564336"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/9aea39f8-1503-4fea-9440-1e0e9c2f8fa3",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /bmarkosek/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddd29210>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:32:48.584829"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e12dc574-f19b-4c9c-9a30-42b68371ea4a",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:21:47.413261"
+    "timestamp": "2026-09-23T12:32:49.085145"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0f035e7e-d035-4d8c-bc5b-876ba70452cc",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:21:55.897716"
+    "timestamp": "2026-09-23T12:32:55.042457"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/7ec5f0f0-0899-4f54-b284-c4c5931c25bc",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:21:56.398047"
+    "timestamp": "2026-09-23T12:32:55.542738"
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/ac7d02d3-9bb7-4cc1-8cee-4283094fe604",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repsmith.com/",
-    "timestamp": "2026-09-22T12:21:57.068610"
+    "legislator_id": "ocd-person/e5149ed2-f2bb-4054-8064-e2331ffaf1c0",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /Kosierowski/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dcc31f50>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:33:21.150929"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/9b9857aa-5fad-4678-a4f9-7e40bc642f64",
     "error": "429 Client Error: Too Many Requests for url: http://www.repbudcook.com/",
-    "timestamp": "2026-09-22T12:22:40.919569"
+    "timestamp": "2026-09-23T12:33:27.290810"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/cafbffed-be4d-4e5b-9d99-9aec024675e2",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /Hill-Evans/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dde0b550>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:35:52.949468"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/05f5a4fa-4a1e-4242-8664-eca508f36a3c",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:23:46.683052"
+    "timestamp": "2026-09-23T12:35:53.449850"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/91c58c1d-de9d-471b-8178-f6ef89c1286b",
+    "error": "403 Client Error: Forbidden for url: https://www.pasenatorcomitta.com/",
+    "timestamp": "2026-09-23T12:35:54.381742"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d881386d-8aad-45c7-8705-27f3288f20ea",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:24:02.805082"
+    "timestamp": "2026-09-23T12:35:54.882266"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/851902e6-5649-4c0c-948a-57fb9c1dd40d",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:24:03.305403"
+    "timestamp": "2026-09-23T12:35:55.382551"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d83a0679-02c9-469b-89ed-11f9b46166c5",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:24:12.532129"
+    "timestamp": "2026-09-23T12:36:11.670489"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e6a8e555-0d65-4a1f-9673-56ad1e3c7855",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:24:13.032384"
+    "timestamp": "2026-09-23T12:36:12.170771"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/43d9c3c2-aeec-416c-859d-ad90600bbe0e",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /sappey/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76de34ca10>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:36:32.761564"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/626de4be-b2f3-4a37-bbbc-ede598381d6b",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:24:52.344818"
+    "timestamp": "2026-09-23T12:36:33.261931"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e17c51da-556e-4afe-aad4-137ee3a0881e",
     "error": "429 Client Error: Too Many Requests for url: http://www.repcraigwilliams.com/",
-    "timestamp": "2026-09-22T12:25:01.849263"
+    "timestamp": "2026-09-23T12:36:39.472361"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/402d7e3b-1935-47fa-8124-61490037d016",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:25:02.349681"
+    "timestamp": "2026-09-23T12:36:39.972770"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/2608882d-9ae2-4522-b8b2-83d905913d3f",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /Deasy/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dd3e3710>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:37:07.033115"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/96667f6d-d967-4f6a-9cd9-23bf480a98c1",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /frankel/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76de34c350>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:37:27.551504"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b42a625f-25e4-4f25-b942-928c8a3e0bb2",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:26:27.273821"
+    "timestamp": "2026-09-23T12:37:28.051876"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/431a823e-0268-4921-a62d-5f698211e706",
     "error": "Invalid URL 'https:///www.senatorlaughlin.com/enewsletters/': No host supplied",
-    "timestamp": "2026-09-22T12:26:28.059307"
+    "timestamp": "2026-09-23T12:37:29.063752"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/8cb5e285-fdd9-4c63-b7c7-480bf9e477e1",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /williams/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddf38590>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:37:54.418653"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/6678bcaf-292f-408a-aa36-90ed8bc8fd08",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /frielotten/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dd52fdd0>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:38:22.421653"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/a2579707-5a31-4f4b-a9ed-49847d35eae6",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /burgos/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dd08bd50>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:38:42.949085"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/943fdd89-fe0a-43f6-8077-82cd252bdeb2",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:28:42.425184"
+    "timestamp": "2026-09-23T12:38:43.449408"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/c05046a6-87dd-4956-a172-cad035960391",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /delloso/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddc96dd0>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:41:37.625103"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/4a0c9e5e-07cc-4b4b-a47a-22be60d1623e",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:29:45.188954"
+    "timestamp": "2026-09-23T12:41:38.125430"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/fb4a0115-dd63-4e25-8d36-0ea6afc55faf",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repmaloney.com/",
+    "timestamp": "2026-09-23T12:41:48.669953"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/c88ccd9a-3378-4284-9dc6-767a4826526e",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:30:05.356614"
+    "timestamp": "2026-09-23T12:41:49.170364"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/2a13f9df-b7e6-4281-82e4-f7263b6fa12e",
     "error": "generic scrape: no news link found",
-    "timestamp": "2026-09-22T12:30:07.736413"
+    "timestamp": "2026-09-23T12:41:50.461974"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/3d3d4070-dadd-4382-9d40-be2892745773",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:30:57.424656"
+    "timestamp": "2026-09-23T12:44:11.288652"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/c1cb6f95-37c8-4e25-802e-80387e70ad74",
+    "error": "HTTPConnectionPool(host='pahouse.com', port=80): Max retries exceeded with url: /Pashinski/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='pahouse.com', port=80) at 0x7f76dc891410>, 'Connection to pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:44:31.861537"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/90d95881-f6ae-4b29-af31-31a8821b8a7c",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /fiedler/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddf3b250>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:46:56.092263"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/875b1add-2803-4cc3-964b-0e351ed6ca1c",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:32:44.813709"
+    "timestamp": "2026-09-23T12:46:56.592634"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0910d394-3c42-48ee-aea7-6d4c0c144130",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:32:53.972386"
+    "timestamp": "2026-09-23T12:47:04.191703"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b7373c43-580b-4044-a405-054073ac687b",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:32:54.472684"
+    "timestamp": "2026-09-23T12:47:04.692028"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/a60da669-bae3-4e1d-a241-370a7ad2c769",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /Burns/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddf38490>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:47:25.218349"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/3088ff8e-d2d9-46b9-8ea3-bd35af9438c2",
     "error": "503 Server Error: Service Unavailable for url: https://repgaryday.com/",
-    "timestamp": "2026-09-22T12:33:55.081785"
+    "timestamp": "2026-09-23T12:47:41.727313"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/4c88ce64-4ba6-4f5e-a22f-86bf6a0d5b7f",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:34:17.765112"
+    "timestamp": "2026-09-23T12:48:16.656092"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/969ce6cb-ddcb-4347-b69d-2019cfbd6e18",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:34:33.229773"
+    "timestamp": "2026-09-23T12:49:27.814320"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/7a1f510f-12e0-4018-b6da-556b404399be",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /vitali/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddebae10>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:49:48.390074"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d5f1bbaf-5daf-4266-9b18-16042f49db1b",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:34:57.659457"
+    "timestamp": "2026-09-23T12:49:48.890387"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fefff26b-b89a-4400-b633-99e5aa09523b",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:34:58.159805"
+    "timestamp": "2026-09-23T12:49:49.390683"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fe624f82-e44d-4071-a49f-3a0d4965b7b9",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:35:07.135759"
+    "timestamp": "2026-09-23T12:49:58.024585"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/4657c161-af68-44a8-bd60-8b8e88e702d1",
     "error": "429 Client Error: Too Many Requests for url: http://www.repbanta.com/",
-    "timestamp": "2026-09-22T12:35:07.893713"
+    "timestamp": "2026-09-23T12:49:58.980506"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fea0b7c4-d51a-463f-964a-75722678083b",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:35:08.394190"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/e396f514-a357-404f-bdb9-1ba33d97d0a7",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repflick.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-09-22T12:35:20.053770"
+    "timestamp": "2026-09-23T12:49:59.481006"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/96cbec5b-b9a4-4325-8346-bd4d08d87237",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:35:20.554308"
+    "timestamp": "2026-09-23T12:50:11.993852"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/6b6602c0-8b45-4e1e-89ba-1782da5d67c6",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:35:21.054648"
+    "timestamp": "2026-09-23T12:50:12.494178"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/4a2176cc-292b-4d19-aff6-8b4c4b460ba0",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:35:37.949059"
+    "timestamp": "2026-09-23T12:50:28.230845"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/ee6b52c3-d92c-4cd6-a6ea-6869a8c93df0",
+    "error": "403 Client Error: Forbidden for url: http://www.senatorcosta.com/",
+    "timestamp": "2026-09-23T12:50:36.121242"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/ddd14a2f-ebef-4918-bf91-578b71c085e4",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /McNeill/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddec1c10>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:50:56.704070"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/08211014-af0e-4d71-92a7-e0045ba8062a",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:37:00.275242"
+    "timestamp": "2026-09-23T12:50:57.204438"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/65b852b7-0c73-487d-aaf4-2b6648fa6383",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:37:00.775556"
+    "timestamp": "2026-09-23T12:50:57.704815"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/7c8e87fe-1c8e-4736-a03c-35cf729b80e9",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /omara/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dd68ee50>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:51:18.214494"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0df3f8d5-b6df-4cd8-a2c7-1dee651e60a8",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:37:39.461227"
+    "timestamp": "2026-09-23T12:51:18.714912"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/865dbfc4-e6ec-400e-bd5c-257f9a947519",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:37:39.961545"
+    "timestamp": "2026-09-23T12:51:19.215207"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/8b6409e9-8ab6-4222-b6f3-fb8f33800c95",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:37:40.461850"
+    "timestamp": "2026-09-23T12:51:19.715520"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/3b91abb8-4b49-4fa2-85ed-beea4919bccc",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:37:50.532023"
+    "timestamp": "2026-09-23T12:51:27.101601"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/3c3cd25a-658f-4aab-a648-ef2509469c34",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:37:51.032381"
+    "timestamp": "2026-09-23T12:51:27.601949"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/1951ae06-881a-4c43-9635-224878c3ecb5",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:37:58.923691"
+    "timestamp": "2026-09-23T12:51:37.221034"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/c9521d0e-56ca-40d2-b9bc-7a1f1be639bc",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /ciresi/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddd8f590>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:52:02.276852"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/acc00fca-50e5-46f7-8676-d502ecfc94ac",
     "error": "429 Client Error: Too Many Requests for url: http://www.repjoehamm.com/",
-    "timestamp": "2026-09-22T12:38:59.130985"
+    "timestamp": "2026-09-23T12:52:18.048707"
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b1beaa5c-93d2-479e-9408-47c7687cd212",
-    "error": "429 Client Error: Too Many Requests for url: http://www.rephogan.com/",
-    "timestamp": "2026-09-22T12:38:59.812412"
+    "legislator_id": "ocd-person/99728978-f905-406c-8b52-f2912f374602",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /hohenstein/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddf7b990>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:52:43.603221"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d31e549e-2c3d-4ea3-850b-5285955c3c2f",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:39:45.572028"
+    "timestamp": "2026-09-23T12:52:50.889211"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/00e98952-3983-44cd-aeca-09fb6cd84f3d",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:39:46.072330"
+    "timestamp": "2026-09-23T12:52:51.389502"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/722f324f-db47-4ce2-9cbc-93f29ae38158",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:39:46.572638"
+    "timestamp": "2026-09-23T12:52:51.889825"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/676410b6-c3aa-4c17-856f-7d896e6fbc83",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /webster/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dd6590d0>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:53:12.409094"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/8d5ab463-45d5-4cf0-9c65-85820c08e506",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:40:25.962706"
+    "timestamp": "2026-09-23T12:53:12.909421"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0b0beeaf-a1b0-4049-95cb-4ad5a3952336",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:40:26.463030"
+    "timestamp": "2026-09-23T12:53:13.409711"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/c45052c1-f3e4-485e-a3d2-f346fa51839b",
+    "error": "403 Client Error: Forbidden for url: http://pasenatorkane.com/",
+    "timestamp": "2026-09-23T12:53:14.136704"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b6a10f6b-3f2e-42df-adf9-7184222af2c2",
     "error": "429 Client Error: Too Many Requests for url: http://www.repschlegel.com/",
-    "timestamp": "2026-09-22T12:40:57.777290"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/23a2b079-dc91-49b0-b08e-f3ae80fba11f",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repfritz.com/",
-    "timestamp": "2026-09-22T12:40:58.443819"
+    "timestamp": "2026-09-23T12:53:20.445558"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/2313ce98-7ac4-44b9-a61d-5b128338a405",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:40:58.944289"
+    "timestamp": "2026-09-23T12:53:25.980937"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/2062ecc5-049f-44c4-83bf-850a34b75531",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:40:59.444594"
+    "timestamp": "2026-09-23T12:53:26.481266"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/fbb14b8a-8940-4679-9ed8-3ec48096a3a2",
+    "error": "429 Client Error: Too Many Requests for url: http://repkail.com/",
+    "timestamp": "2026-09-23T12:53:27.191221"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d390f1ac-1f16-478a-9e0d-462c9ed79818",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:41:04.653712"
+    "timestamp": "2026-09-23T12:53:27.691647"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/35362d6e-d00a-4cf1-806d-b4f2f2a55f72",
+    "error": "403 Client Error: Forbidden for url: http://www.senatorschwank.com/",
+    "timestamp": "2026-09-23T12:53:28.556690"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/98b96b05-81eb-4871-a81b-2e03c0b92267",
+    "error": "HTTPSConnectionPool(host='pahouse.com', port=443): Max retries exceeded with url: /fleming/InTheNews/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='pahouse.com', port=443) at 0x7f76dd52cb10>, 'Connection to pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:55:42.944485"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/08283fbe-18bc-4daf-972c-617d1e35d746",
+    "error": "429 Client Error: Too Many Requests for url: http://repklunk.com/",
+    "timestamp": "2026-09-23T12:55:49.123752"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/ade3ef98-a98c-4448-a974-ec4e0eede98f",
+    "error": "403 Client Error: Forbidden for url: http://www.senatormuth.com/",
+    "timestamp": "2026-09-23T12:55:56.265187"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/99c32bc9-33c2-4394-94e6-2f9d0ff43133",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:42:57.550653"
+    "timestamp": "2026-09-23T12:56:02.637525"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/5a5a7a42-bc5e-4a07-aee1-d1a01e810385",
+    "error": "429 Client Error: Too Many Requests for url: http://www.kerrybenninghoff.com/",
+    "timestamp": "2026-09-23T12:56:03.331761"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/f451e90b-e93a-4768-a294-67d1ff000396",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /howard/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddec2a50>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:58:36.569129"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/009be4f2-d613-4353-8126-6b5642d868bc",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:44:13.040450"
+    "timestamp": "2026-09-23T12:58:37.069461"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/625784c9-4cd0-417c-9c44-1acd53b34307",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /mullins/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dce2c750>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T12:58:57.596063"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/526967db-cef3-4f64-a380-1377f5c6f1fe",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:44:52.676532"
+    "timestamp": "2026-09-23T12:58:58.096391"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/8187ecb2-3e4b-4ba0-819e-a7cfb4b9ac93",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:44:53.176831"
+    "timestamp": "2026-09-23T12:58:58.596700"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/71bb086e-11d9-496d-b274-91d7a8b85eaf",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:44:59.862040"
+    "timestamp": "2026-09-23T12:59:07.128292"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b7c8d063-8db4-4cdf-a159-a0b064b7cae5",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:45:00.362360"
+    "timestamp": "2026-09-23T12:59:07.628595"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/bc64322a-faaf-4b33-b6c2-cf5059f4121c",
+    "error": "403 Client Error: Forbidden for url: http://www.senatorlindseywilliams.com/",
+    "timestamp": "2026-09-23T12:59:08.514332"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d927a6f9-9878-4375-ac7d-9996e8968c9d",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:46:43.585107"
+    "timestamp": "2026-09-23T13:00:26.250939"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/de81d407-bc84-48e6-9796-4a56be984cbd",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:46:44.085413"
+    "timestamp": "2026-09-23T13:00:26.751226"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/0aa9e1d6-4552-4ad4-b660-e2f3cc17b7dd",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /hanbidge/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dd4b9f90>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:00:47.311959"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/96711736-a47d-4bd6-bcc3-92297ec01516",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /kenyatta/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76de3b9410>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:01:21.464466"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/63f8d7ea-b621-48b7-a326-4e2a732a521c",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:48:07.881574"
+    "timestamp": "2026-09-23T13:01:21.964839"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d26c016b-27e5-4171-849b-94773178023d",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:48:08.381884"
+    "timestamp": "2026-09-23T13:01:22.465147"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/8d16f666-803c-4946-8adc-32f1e80d79d9",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:48:08.882159"
+    "timestamp": "2026-09-23T13:01:22.965457"
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/171af8ac-41e0-4047-be38-654cc912053b",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repcauser.com/",
-    "timestamp": "2026-09-22T12:49:37.702326"
+    "legislator_id": "ocd-person/323c52e8-f841-4a0b-a49e-91103949fbc8",
+    "error": "403 Client Error: Forbidden for url: http://www.senatorcollett.com/",
+    "timestamp": "2026-09-23T13:01:31.147392"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/68e26db9-10ba-414b-9d06-440dd1fd3f10",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repmarlabrown.com/",
+    "timestamp": "2026-09-23T13:01:37.240877"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/93435394-e853-45f2-9e88-65399b3f9042",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repwhite.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-09-23T13:01:38.198652"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/7061c75d-7eeb-40aa-841e-8121edba5d8a",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:49:38.202762"
+    "timestamp": "2026-09-23T13:01:56.079397"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/ac9d319c-4df3-489a-890e-f7daba8c4bda",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /isaacson/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76d9d3bfd0>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:02:16.597125"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/2b9c199b-dd4e-477a-a5d0-849180c956a0",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:50:18.230746"
+    "timestamp": "2026-09-23T13:02:17.097459"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/a15da78b-2475-4606-854f-7477dfc4233d",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /Bradford/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76d9d39d50>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:02:37.623031"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/8ec333cd-97c4-4f5a-92de-13bf8cbc0020",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /115/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dbd4d290>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:02:58.150663"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/2cb7688e-e8ea-431e-9f56-34ee9a9a3ecc",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /shusterman/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76d9d2f790>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:03:18.661682"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/ce5d2c01-e29c-4eac-b06b-208d8c302dff",
+    "error": "429 Client Error: Too Many Requests for url: http://repmikejones.com/",
+    "timestamp": "2026-09-23T13:05:18.594000"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fc1f0752-9166-4d7f-987a-ec15b8bf4048",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:53:11.030713"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b4559406-2139-4c7c-9ce9-7a2a604a8a95",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repmiloumackenziepa.com/",
-    "timestamp": "2026-09-22T12:53:11.734040"
+    "timestamp": "2026-09-23T13:05:19.094478"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/f5b2ec4d-1d69-483a-a6ec-143d50ad395b",
-    "error": "generic scrape: no news link found",
-    "timestamp": "2026-09-22T12:53:12.423962"
+    "error": "429 Client Error: Too Many Requests for url: http://repfee.com/",
+    "timestamp": "2026-09-23T13:05:24.621062"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/610a353c-8973-48ea-a4d4-dac21efc3422",
+    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Max retries exceeded with url: /Cerrato/InTheNews/ (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pahouse.com', port=443) at 0x7f76d9c59890>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:05:45.159474"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/05326e52-202a-46cd-bbbe-cc8d01d9a44b",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:53:49.745734"
+    "timestamp": "2026-09-23T13:05:45.659865"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d18ccbd7-270a-46c2-8bbd-a19ea82d0e51",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:53:50.246081"
+    "timestamp": "2026-09-23T13:05:46.160175"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/94e57e39-e58d-4374-9506-ece1a01e0ebd",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:53:50.746379"
+    "timestamp": "2026-09-23T13:05:46.660492"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/c7f76970-11d0-483e-81b4-b4750220932c",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:53:56.385711"
+    "timestamp": "2026-09-23T13:05:53.419174"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/a160699d-cc7d-4ed7-b486-57008ee0e642",
+    "error": "403 Client Error: Forbidden for url: https://pasenatormiller.com/",
+    "timestamp": "2026-09-23T13:05:54.216132"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/c9f6833a-470e-480f-b3ad-d91c887aa4f9",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:54:28.538125"
+    "timestamp": "2026-09-23T13:05:54.716639"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/5df981dc-0f0f-498e-8e0e-72cfa5410b2a",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:54:52.594005"
+    "timestamp": "2026-09-23T13:07:05.708953"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/36e7e815-87a3-4c58-baae-71f210e48114",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:54:59.394309"
+    "timestamp": "2026-09-23T13:07:12.221858"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/c4a1a8f4-cb29-4700-8235-b103fcb40279",
+    "error": "HTTPConnectionPool(host='pahouse.com', port=80): Max retries exceeded with url: /Harkins/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='pahouse.com', port=80) at 0x7f76d9e17690>, 'Connection to pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:07:32.747273"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b5ff17d0-36e8-4f29-8c9b-e51bb9b3ea29",
-    "error": "404 Client Error: Not Found for url: https://www.pahouse.com/Error/404",
-    "timestamp": "2026-09-22T12:56:14.135135"
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /Kim/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dca61790>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:09:34.033089"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/494797a5-3d84-414a-9c8c-caaadd621cdd",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:56:14.635526"
+    "timestamp": "2026-09-23T13:09:34.533400"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/dd35ae63-5dee-4f87-b64e-65907b8adaba",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:56:15.135831"
+    "timestamp": "2026-09-23T13:09:35.033701"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/e2bc8bc4-33ab-46dd-8f67-da218949efb6",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /Warren/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dcad0590>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:10:06.291270"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/63936c68-ec65-40a9-9a68-0d956939404a",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:57:03.875405"
+    "timestamp": "2026-09-23T13:10:06.791634"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/a737f4d4-5b45-469b-8d51-98c7aa78183a",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:57:04.375725"
+    "timestamp": "2026-09-23T13:10:07.292005"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/42ffbed1-2284-4018-a60f-b5bfa3f35833",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:57:09.773520"
+    "timestamp": "2026-09-23T13:10:12.561666"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/17e1e676-8e83-4883-8cf5-4c8ddcce076e",
+    "error": "429 Client Error: Too Many Requests for url: http://www.repkauffman.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-09-23T13:10:13.558515"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/a7b2e50f-90a6-4f35-b1fb-c33406dc4277",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /Matzie/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76dd6eb610>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:10:34.073136"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/69faf85a-c63c-4d75-9801-047fffddf228",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:58:03.507823"
+    "timestamp": "2026-09-23T13:10:41.125528"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/c3ad9b17-c8f5-450e-9aaa-f002e1414bd5",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:58:04.008161"
+    "timestamp": "2026-09-23T13:10:41.625824"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/32370423-acb8-4a8e-8336-67af5ed32bb9",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:58:28.722094"
+    "timestamp": "2026-09-23T13:11:09.223671"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0d747b7a-0a5a-42cf-8bb6-1eb0fa69090f",
     "error": "429 Client Error: Too Many Requests for url: http://repwarner.com/",
-    "timestamp": "2026-09-22T12:58:29.436519"
+    "timestamp": "2026-09-23T13:11:09.992008"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/983dc33a-559e-4f01-9c60-08fed48a1415",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:58:29.936965"
+    "timestamp": "2026-09-23T13:11:10.492456"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/97b012cd-5cd7-4039-a9ae-fed936aabe37",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /Conklin/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddf65c90>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:11:31.029477"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d8624d56-a38e-4918-98ac-d7795569ad06",
     "error": "no website URL",
-    "timestamp": "2026-09-22T12:59:43.137753"
+    "timestamp": "2026-09-23T13:15:08.488897"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/b0d20b05-428a-4e3a-bda1-bbba5c3cfd6a",
+    "error": "403 Client Error: Forbidden for url: http://www.senatorsharifstreet.com/",
+    "timestamp": "2026-09-23T13:15:09.333108"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/9e4954ab-971c-4620-9f9d-ebb68311e3f1",
     "error": "429 Client Error: Too Many Requests for url: http://www.repdelozier.com/",
-    "timestamp": "2026-09-22T13:00:28.202036"
+    "timestamp": "2026-09-23T13:15:18.036700"
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/bccfe530-42ce-47b0-aadf-ae863b37cf9a",
-    "error": "429 Client Error: Too Many Requests for url: http://repstephanie.com/",
-    "timestamp": "2026-09-22T13:00:28.858590"
+    "legislator_id": "ocd-person/fa1e1564-0a13-4b26-8416-098b39627df7",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /malagari/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddf8eed0>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:15:44.539198"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/34472dfb-dae9-4db4-8901-088457d74904",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /samuelson/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76ddff7ad0>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:16:12.176975"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/91f290d0-3405-4091-bb16-822a97f45af5",
+    "error": "403 Client Error: Forbidden for url: http://www.senatorstevesantarsiero.com/",
+    "timestamp": "2026-09-23T13:16:12.957972"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/8caab7df-f601-45f0-9be5-35d94175e766",
     "error": "no website URL",
-    "timestamp": "2026-09-22T13:02:19.021528"
+    "timestamp": "2026-09-23T13:16:13.458352"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/6fa30029-d933-4f6d-b0fb-343a0c82772c",
     "error": "no website URL",
-    "timestamp": "2026-09-22T13:02:19.521830"
+    "timestamp": "2026-09-23T13:16:13.958657"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/105c6361-0cb6-46f4-9222-ff0ffb727d29",
     "error": "429 Client Error: Too Many Requests for url: http://www.repbonner.com/",
-    "timestamp": "2026-09-22T13:02:49.178882"
+    "timestamp": "2026-09-23T13:16:44.010491"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/de68158e-3cc9-4651-b3a1-71f5e77b7dab",
     "error": "no website URL",
-    "timestamp": "2026-09-22T13:02:49.679315"
+    "timestamp": "2026-09-23T13:16:44.510936"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/5c752a95-ba5d-4f1f-81aa-6cb1c7875581",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /Briggs/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76de094810>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:17:05.040333"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/f9f2479f-0c37-47d1-a4eb-666146e2856f",
+    "error": "403 Client Error: Forbidden for url: http://www.senatorkearney.com/",
+    "timestamp": "2026-09-23T13:17:05.857339"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/686cdc9c-8133-4c1b-a7f0-34b420884559",
-    "error": "429 Client Error: Too Many Requests for url: http://www.reptimtwardzik.com/",
-    "timestamp": "2026-09-22T13:04:01.615846"
+    "error": "429 Client Error: Too Many Requests for url: http://www.reptimtwardzik.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-09-23T13:17:12.151327"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/f9a1f1ab-9538-424c-87f1-65e2a4f4bfc7",
+    "error": "HTTPConnectionPool(host='www.pahouse.com', port=80): Max retries exceeded with url: /davis/InTheNews/ (Caused by ConnectTimeoutError(<HTTPConnection(host='www.pahouse.com', port=80) at 0x7f76de326090>, 'Connection to www.pahouse.com timed out. (connect timeout=20)'))",
+    "timestamp": "2026-09-23T13:17:32.675705"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/f3b4fe8c-05f9-4610-81ef-354c0fcb0cdd",
+    "error": "403 Client Error: Forbidden for url: http://www.senatortartaglione.com/",
+    "timestamp": "2026-09-23T13:17:41.722194"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/bda0ab75-036f-49bd-9dd5-cfc9c55eec02",
     "error": "no website URL",
-    "timestamp": "2026-09-22T13:05:30.350894"
+    "timestamp": "2026-09-23T13:17:48.607447"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/fe79a0f0-7dfd-442a-8b79-f8792613a4de",
+    "error": "403 Client Error: Forbidden for url: http://senatoranthonyhwilliams.com/",
+    "timestamp": "2026-09-23T13:17:49.424851"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d9ad47a6-7e74-45f2-93a5-1b7e40ad36db",
     "error": "no website URL",
-    "timestamp": "2026-09-22T13:06:07.328048"
+    "timestamp": "2026-09-23T13:17:49.925237"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/53a598e0-3595-4b19-8f65-4a538bdc7a74",
+    "error": "403 Client Error: Forbidden for url: http://www.senatorhughes.com/",
+    "timestamp": "2026-09-23T13:17:57.558424"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/b93e4f38-764f-4e95-bd51-4d40dba0aaa4",
+    "error": "403 Client Error: Forbidden for url: http://www.senatorfontana.com/",
+    "timestamp": "2026-09-23T13:17:58.354917"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/c3b27985-614c-434d-b3c0-3e032fad4d6c",
-    "error": "429 Client Error: Too Many Requests for url: http://www.repmako.com/",
-    "timestamp": "2026-09-22T13:07:58.366048"
+    "error": "429 Client Error: Too Many Requests for url: http://www.repmako.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-09-23T13:19:00.539261"
   }
 ]
