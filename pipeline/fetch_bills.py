@@ -150,7 +150,7 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
             break
         except Exception as e:
             print(f"    ERROR: {e}", file=sys.stderr)
-            errors.append({"legislator_id": leg_id, "error": str(e)})
+            errors.append({"step": "fetch_bills", "legislator_id": leg_id, "error": str(e)})
 
     print(f"  Bills: {fetched} fetched, {skipped} skipped (still fresh)")
     return errors
