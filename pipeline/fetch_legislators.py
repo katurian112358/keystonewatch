@@ -5,6 +5,7 @@ Outputs: data/legislators.json, data/legislators_by_district.json
 
 import json
 import os
+import re
 import sys
 import time
 from pathlib import Path
@@ -69,6 +70,9 @@ def normalize_legislator(raw: dict) -> dict:
 
     # Website lives in extras.website; email is a top-level field
     website = extras.get("website") or extras.get("Website") or ""
+    # Source data occasionally has a stray slash ("https:///www..."), which
+    # requests rejects as having no host.
+    website = re.sub(r"^(https?:)/{3,}", r"\1//", website.strip())
     web_links = [website] if website else []
 
     # OpenStates v3 doesn't return social links in people endpoint;

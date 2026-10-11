@@ -21,6 +21,8 @@ OPENSTATES_API_KEY = os.environ.get("OPENSTATES_API_KEY")
 OPENSTATES_BASE = "https://v3.openstates.org"
 DATA_DIR = Path(__file__).parent.parent / "data"
 REQUEST_DELAY = 1.0          # seconds between requests
+# OpenStates v3 caps /bills at 20 results per page; anything larger returns 400.
+BILLS_PER_PAGE = 20
 # Skip legislators whose bills were fetched within this many days. Bills are the
 # most expensive step (~hundreds of pages each); under a daily API quota we cannot
 # refresh all 251 in one run, so we rotate - each night fills in the stalest ones.
@@ -60,7 +62,7 @@ def fetch_bills_for_legislator(legislator_id: str) -> list[dict]:
                 "session": session,
                 "include": ["sponsorships", "actions"],
                 "page": page,
-                "per_page": 50,
+                "per_page": BILLS_PER_PAGE,
             }
             data = get_with_backoff(f"{OPENSTATES_BASE}/bills", headers, params)
             time.sleep(REQUEST_DELAY)
@@ -148,7 +150,7 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
             break
         except Exception as e:
             print(f"    ERROR: {e}", file=sys.stderr)
-            errors.append({"legislator_id": leg_id, "error": str(e)})
+            errors.append({"step": "fetch_bills", "legislator_id": leg_id, "error": str(e)})
 
     print(f"  Bills: {fetched} fetched, {skipped} skipped (still fresh)")
     return errors

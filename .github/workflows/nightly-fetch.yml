@@ -29,6 +29,7 @@ jobs:
         run: pip install -r pipeline/requirements.txt
 
       - name: Run data pipeline
+        id: pipeline
         # Step-level timeout (shorter than the job) so that if the pipeline runs
         # long, it gets cut off here but the commit step below still runs and saves
         # whatever data was written incrementally to disk.
@@ -58,3 +59,12 @@ jobs:
           if [ -n "${{ secrets.VERCEL_DEPLOY_HOOK }}" ]; then
             curl -X POST "${{ secrets.VERCEL_DEPLOY_HOOK }}"
           fi
+
+      - name: Check pipeline health
+        # Runs last so data is already committed and deployed. Fails the job (and
+        # triggers GitHub's failure email) when votes/bills are broken, instead of
+        # letting continue-on-error report green. Scrape misses and quota limits
+        # show as warnings only.
+        if: always()
+        working-directory: pipeline
+        run: python check_health.py --pipeline-outcome "${{ steps.pipeline.outcome }}"

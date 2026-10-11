@@ -25,10 +25,11 @@ load_dotenv()
 OPENSTATES_API_KEY = os.environ.get("OPENSTATES_API_KEY")
 OPENSTATES_BASE = "https://v3.openstates.org"
 DATA_DIR = Path(__file__).parent.parent / "data"
-# Current session only - see note in fetch_bills.py. A single scan at per_page=50
-# is ~100 requests, leaving room under the daily quota for the bills step.
+# Current session only - see note in fetch_bills.py. OpenStates v3 caps /bills at
+# 20 results per page (larger values return 400), so a full scan is a few hundred
+# requests; a quota-limited partial scan is handled below.
 SESSIONS = ["2025-2026"]
-VOTES_PER_PAGE = 50
+VOTES_PER_PAGE = 20
 REQUEST_DELAY = 1.0   # seconds between requests to stay under rate limit
 
 
@@ -231,9 +232,9 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
     written = 0
     for leg_id in target_ids:
         records = all_vote_records.get(leg_id, [])
-        # On a partial (quota-limited) scan, don't overwrite an existing file with
-        # zeros - a legislator's votes may simply be in pages we never reached.
-        if quota_hit and not records:
+        # On a partial (quota-limited or failed) scan, don't overwrite an existing
+        # file with zeros - a legislator's votes may be in pages we never reached.
+        if (quota_hit or errors) and not records:
             safe_id = leg_id.replace("/", "_")
             if (votes_dir / f"{safe_id}.json").exists():
                 continue
