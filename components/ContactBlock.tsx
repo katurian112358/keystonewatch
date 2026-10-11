@@ -7,6 +7,7 @@ export default function ContactBlock({
 }) {
   const c = legislator.contact_details;
   const website = c["website"] || legislator.web_links[0];
+  const phone = c["voice"] || c["phone"];
 
   return (
     <section aria-labelledby="contact-heading">
@@ -30,20 +31,16 @@ export default function ContactBlock({
             </a>
           </div>
         )}
-        {c["voice"] ||
-          (c["phone"] && (
-            <div>
-              <p className="text-xs text-gray-500 uppercase tracking-wide mb-1">
-                Phone
-              </p>
-              <a
-                href={`tel:${c["voice"] || c["phone"]}`}
-                className="text-sm text-gray-900"
-              >
-                {c["voice"] || c["phone"]}
-              </a>
-            </div>
-          ))}
+        {phone && (
+          <div>
+            <p className="text-xs text-gray-500 uppercase tracking-wide mb-1">
+              Phone
+            </p>
+            <a href={`tel:${phone}`} className="text-sm text-gray-900">
+              {phone}
+            </a>
+          </div>
+        )}
         {c["address"] && (
           <div className="sm:col-span-2">
             <p className="text-xs text-gray-500 uppercase tracking-wide mb-1">
