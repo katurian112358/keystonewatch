@@ -51,6 +51,9 @@ jobs:
           git config user.email "bot@keystonewatch"
           git add data/
           git diff --cached --quiet || git commit -m "chore: nightly data refresh [$(date -u +%Y-%m-%dT%H:%MZ)]"
+          # The run takes ~1h; replay the data commit on top of anything merged
+          # meanwhile so the push isn't rejected and the night's data lost.
+          git pull --rebase origin "$GITHUB_REF_NAME"
           git push
 
       - name: Trigger Vercel redeploy
