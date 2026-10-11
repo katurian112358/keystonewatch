@@ -28,6 +28,9 @@ HEADERS = {
     )
 }
 TIMEOUT = 20
+# Pause between individual release fetches. Member sites share hosting and
+# return 429 when hit with a burst of page loads.
+RELEASE_DELAY = 1.0
 
 
 # ---------------------------------------------------------------------------
@@ -49,7 +52,7 @@ def detect_template(url: str) -> str:
     return "generic"
 
 
-def scrape_legis(base_url: str) -> list[dict]:
+def scrape_legis(base_url: str, existing_urls: set[str]) -> list[dict]:
     """legis.state.pa.us - press releases at /cfdocs/legis/pressReleases.cfm"""
     try:
         pr_url = re.sub(r"(legis\.state\.pa\.us/[^/]+).*",
@@ -61,7 +64,7 @@ def scrape_legis(base_url: str) -> list[dict]:
         for link in soup.select("a[href*='pressRelease']"):
             href = urljoin(pr_url, link["href"])
             title = link.get_text(strip=True)
-            if not title:
+            if not title or href in existing_urls:
                 continue
             full_text, date = fetch_release_text(href)
             releases.append({
@@ -76,7 +79,7 @@ def scrape_legis(base_url: str) -> list[dict]:
         raise RuntimeError(f"legis scrape failed: {e}") from e
 
 
-def scrape_pahouse(base_url: str) -> list[dict]:
+def scrape_pahouse(base_url: str, existing_urls: set[str]) -> list[dict]:
     """
     pahouse.com and pahousegop.com member sites.
     News index is at {base}/InTheNews/ and release links match NewsRelease/?id=
@@ -100,6 +103,8 @@ def scrape_pahouse(base_url: str) -> list[dict]:
         if full_url in seen:
             continue
         seen.add(full_url)
+        if full_url in existing_urls:
+            continue
 
         title = a.get_text(strip=True)
         if not title:
@@ -114,17 +119,17 @@ def scrape_pahouse(base_url: str) -> list[dict]:
             "ai_summary": None,
         })
 
-    if not releases:
+    if not seen:
         raise RuntimeError("pahouse scrape: no NewsRelease links found")
     return releases
 
 
-def scrape_pasenate(base_url: str) -> list[dict]:
+def scrape_pasenate(base_url: str, existing_urls: set[str]) -> list[dict]:
     """pasenate.com subdomain - similar structure to pahouse."""
-    return scrape_pahouse(base_url)  # same pattern
+    return scrape_pahouse(base_url, existing_urls)  # same pattern
 
 
-def scrape_generic(base_url: str) -> list[dict]:
+def scrape_generic(base_url: str, existing_urls: set[str]) -> list[dict]:
     """Heuristic fallback: look for links containing 'press' or 'news'."""
     resp = requests.get(base_url, headers=HEADERS, timeout=TIMEOUT)
     resp.raise_for_status()
@@ -149,7 +154,7 @@ def scrape_generic(base_url: str) -> list[dict]:
     for a in soup2.select("a[href]"):
         href = urljoin(news_link, a["href"])
         title = a.get_text(strip=True)
-        if len(title) < 10 or href == news_link:
+        if len(title) < 10 or href == news_link or href in existing_urls:
             continue
         full_text, date = fetch_release_text(href)
         releases.append({
@@ -167,6 +172,7 @@ def scrape_generic(base_url: str) -> list[dict]:
 
 def fetch_release_text(url: str) -> tuple[str, str | None]:
     """Fetch and extract body text from a single press release page."""
+    time.sleep(RELEASE_DELAY)
     try:
         resp = requests.get(url, headers=HEADERS, timeout=TIMEOUT)
         resp.raise_for_status()
@@ -211,11 +217,8 @@ def scrape_legislator(leg: dict, existing_urls: set[str]) -> list[dict]:
     base_url = web_links[0]
     template = detect_template(base_url)
     scraper = SCRAPERS.get(template, scrape_generic)
-    releases = scraper(base_url)
-
-    # Delta: skip URLs already in existing data
-    new_releases = [r for r in releases if r["url"] not in existing_urls]
-    return new_releases
+    # Scrapers skip URLs already on file, so known releases aren't re-downloaded
+    return scraper(base_url, existing_urls)
 
 
 def main(legislator_ids: list[str] | None = None) -> list[dict]:
