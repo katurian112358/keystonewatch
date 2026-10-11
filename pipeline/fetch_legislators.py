@@ -9,6 +9,7 @@ import re
 import sys
 import time
 from pathlib import Path
+from urllib.parse import urlparse
 
 from dotenv import load_dotenv
 
@@ -21,6 +22,13 @@ OPENSTATES_API_KEY = os.environ.get("OPENSTATES_API_KEY")
 OPENSTATES_BASE = "https://v3.openstates.org"
 DATA_DIR = Path(__file__).parent.parent / "data"
 REQUEST_DELAY = 1.0
+
+# Hosts in a person's links that aren't the member's own site: legislature bio
+# pages and social profiles.
+NON_MEMBER_HOSTS = (
+    "legis.state.pa.us", "palegis.us", "twitter.com", "x.com", "facebook.com",
+    "instagram.com", "youtube.com", "linkedin.com",
+)
 
 
 def fetch_all_legislators() -> list[dict]:
@@ -39,6 +47,7 @@ def fetch_all_legislators() -> list[dict]:
             "jurisdiction": "pa",
             "page": page,
             "per_page": per_page,
+            "include": ["links", "offices"],
         }
         data = get_with_backoff(f"{OPENSTATES_BASE}/people", headers, params, timeout=30)
 
@@ -63,27 +72,54 @@ def fetch_all_legislators() -> list[dict]:
     return legislators
 
 
+def clean_url(url: str) -> str:
+    # Source data occasionally has a stray slash ("https:///www..."), which
+    # requests rejects as having no host.
+    return re.sub(r"^(https?:)/{3,}", r"\1//", url.strip())
+
+
+def is_non_member_host(url: str) -> bool:
+    host = urlparse(url).netloc.lower()
+    return any(host == h or host.endswith("." + h) for h in NON_MEMBER_HOSTS)
+
+
 def normalize_legislator(raw: dict) -> dict:
     """Extract and normalize fields we care about from OpenStates person record."""
     current_role = raw.get("current_role") or {}
     extras = raw.get("extras", {}) or {}
 
-    # Website lives in extras.website; email is a top-level field
-    website = extras.get("website") or extras.get("Website") or ""
-    # Source data occasionally has a stray slash ("https:///www..."), which
-    # requests rejects as having no host.
-    website = re.sub(r"^(https?:)/{3,}", r"\1//", website.strip())
+    links = [clean_url(l.get("url") or "") for l in raw.get("links") or []]
+    links = [u for u in links if u]
+
+    # Member site: prefer the links list, which is kept current; extras.website
+    # is missing for about a third of members and stale for others (e.g. members
+    # who moved from the House to the Senate).
+    website = next((u for u in links if not is_non_member_host(u)), "")
+    if not website:
+        website = clean_url(extras.get("website") or extras.get("Website") or "")
     web_links = [website] if website else []
 
-    # OpenStates v3 doesn't return social links in people endpoint;
-    # we store email from the top-level field
-    email = raw.get("email") or ""
-
     contact_details: dict = {}
+    email = raw.get("email") or ""
     if email:
         contact_details["email"] = email
-    if website:
-        contact_details["website"] = website
+    # With no member site, still link the legislature bio page for contact info.
+    # It stays out of web_links so the press-release scraper doesn't crawl it.
+    bio_page = next((u for u in links if "palegis.us" in u), "")
+    if website or bio_page:
+        contact_details["website"] = website or bio_page
+
+    # Capitol office first, then the first district office
+    offices = sorted(
+        raw.get("offices") or [],
+        key=lambda o: o.get("classification") != "capitol",
+    )
+    phone = next((o["voice"] for o in offices if o.get("voice")), "")
+    address = next((o["address"] for o in offices if o.get("address")), "")
+    if phone:
+        contact_details["voice"] = phone
+    if address:
+        contact_details["address"] = address
 
     # PA Legislature moved image hosting; rewrite old domain to new one
     image_url = raw.get("image") or ""
