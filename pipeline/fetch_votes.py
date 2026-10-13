@@ -1,23 +1,33 @@
 """
-Build voting records for PA legislators by scanning all PA bills with vote data.
-OpenStates v3 has no /votes endpoint; votes are embedded in bill results.
+Build voting records and sponsored-bill lists for PA legislators from one
+session-wide scan of OpenStates bills. OpenStates v3 has no /votes endpoint;
+votes (and sponsorships) are embedded in bill results.
 
-Strategy: fetch all PA bills for current + prior session with include=votes,
-then build a per-legislator vote index. Run once, writes all legislators.
+Strategy: page through the session's bills oldest-update-first with
+include=votes,sponsorships,actions, storing a compact copy of each bill in a
+scan cache. The daily API quota can't cover the whole session in one night, so
+the scan resumes from the last updated_at it reached; once it has caught up,
+each night only fetches bills updated since. Votes and bills are then derived
+from the full cache, so totals don't depend on how far tonight's run got.
 
-Outputs: data/votes/{safe_legislator_id}.json per legislator
+The cache lives outside the repo (.cache/, persisted by the workflow with
+actions/cache). If it is lost, the scan rebuilds it over a few nights.
+
+Outputs: data/votes/{safe_legislator_id}.json and
+         data/bills/{safe_legislator_id}.json per legislator
 """
 
-import json
+import os
 import sys
 import time
-import os
 from collections import defaultdict
+from datetime import datetime, timedelta, timezone
 from pathlib import Path
 
 from dotenv import load_dotenv
 
 from _http import get_with_backoff, QuotaExhausted
+from fetch_bills import normalize_bill
 from jsonio import read_json, write_json
 
 load_dotenv()
@@ -25,53 +35,136 @@ load_dotenv()
 OPENSTATES_API_KEY = os.environ.get("OPENSTATES_API_KEY")
 OPENSTATES_BASE = "https://v3.openstates.org"
 DATA_DIR = Path(__file__).parent.parent / "data"
+CACHE_PATH = Path(__file__).parent.parent / ".cache" / "bill_scan.json"
 # Current session only - see note in fetch_bills.py. OpenStates v3 caps /bills at
-# 20 results per page (larger values return 400), so a full scan is a few hundred
-# requests; a quota-limited partial scan is handled below.
+# 20 results per page (larger values return 400).
 SESSIONS = ["2025-2026"]
 VOTES_PER_PAGE = 20
 REQUEST_DELAY = 1.0   # seconds between requests to stay under rate limit
+# Resume a little before the last updated_at reached, so bills sharing that
+# timestamp aren't skipped whether updated_since is inclusive or exclusive.
+RESUME_OVERLAP = timedelta(minutes=5)
 
 
-def fetch_bills_with_votes(session: str) -> list[dict]:
-    """Fetch all PA bills for a session, including embedded vote records."""
+def compact_bill(bill: dict) -> dict:
+    """Keep only what normalize_bill and the vote index need. Same field shapes
+    as the API response, so both accept either form."""
+    return {
+        "id": bill.get("id"),
+        "identifier": bill.get("identifier"),
+        "title": bill.get("title"),
+        "session": bill.get("session"),
+        "latest_action_description": bill.get("latest_action_description"),
+        "subject": bill.get("subject", []),
+        "openstates_url": bill.get("openstates_url"),
+        "updated_at": bill.get("updated_at"),
+        "actions": [
+            {"date": a.get("date"), "description": a.get("description")}
+            for a in bill.get("actions", [])
+        ],
+        "sponsorships": [
+            {
+                "person": {"id": (s.get("person") or {}).get("id")},
+                "primary": s.get("primary"),
+            }
+            for s in bill.get("sponsorships", [])
+            if (s.get("person") or {}).get("id")
+        ],
+        "votes": [
+            {
+                "start_date": v.get("start_date") or v.get("date"),
+                "motion_text": v.get("motion_text", ""),
+                "votes": [
+                    {
+                        "option": vr.get("option", ""),
+                        "voter": {
+                            "id": (vr.get("voter") or {}).get("id") or vr.get("voter_id"),
+                            "party": (vr.get("voter") or {}).get("party"),
+                        },
+                    }
+                    for vr in v.get("votes", [])
+                ],
+            }
+            for v in bill.get("votes", [])
+        ],
+    }
+
+
+def load_cache() -> dict:
+    cache = read_json(CACHE_PATH, None) or {}
+    cache.setdefault("sessions", {})
+    return cache
+
+
+def save_cache(cache: dict) -> None:
+    CACHE_PATH.parent.mkdir(parents=True, exist_ok=True)
+    write_json(CACHE_PATH, cache)
+
+
+def scan_session(session: str, state: dict) -> None:
+    """Fetch bills updated since state["cursor"] into state["bills"], advancing
+    the cursor as pages arrive. Raises QuotaExhausted after recording progress
+    in state."""
     headers = {"X-API-KEY": OPENSTATES_API_KEY}
-    bills = []
+    bills = state.setdefault("bills", {})
+    cursor = state.get("cursor")
+    run_started = datetime.now(timezone.utc).isoformat()
+    newest_seen = cursor
     page = 1
+
+    if cursor:
+        print(f"    Session {session}: resuming from bills updated since {cursor}")
+    else:
+        print(f"    Session {session}: no saved scan, starting from the beginning")
 
     while True:
         params = {
             "jurisdiction": "pa",
             "session": session,
-            "include": ["votes"],
+            "include": ["votes", "sponsorships", "actions"],
+            "sort": "updated_asc",
             "per_page": VOTES_PER_PAGE,
             "page": page,
         }
+        if cursor:
+            params["updated_since"] = cursor
         try:
             data = get_with_backoff(f"{OPENSTATES_BASE}/bills", headers, params)
         except QuotaExhausted:
-            # Preserve whatever we collected so far rather than losing the scan
-            print(f"    Quota exhausted at page {page} - keeping {len(bills)} bills "
-                  "collected so far", file=sys.stderr)
-            raise QuotaExhausted(_partial=bills)
-        results = data.get("results", [])
-        bills.extend(results)
+            if newest_seen and newest_seen != cursor:
+                state["cursor"] = resume_point(newest_seen)
+            state["caught_up"] = False
+            print(f"    Quota exhausted at page {page}; next run resumes from "
+                  f"{state.get('cursor')}", file=sys.stderr)
+            raise
+
+        for raw in data.get("results", []):
+            bills[raw["id"]] = compact_bill(raw)
+            updated = raw.get("updated_at")
+            if updated and (not newest_seen or updated > newest_seen):
+                newest_seen = updated
 
         pagination = data.get("pagination", {})
         max_page = pagination.get("max_page", 1)
-        total = pagination.get("total_items", 0)
         if page == 1:
-            print(f"    Session {session}: {total} bills across {max_page} pages")
+            print(f"    {pagination.get('total_items', 0)} bills to fetch "
+                  f"across {max_page} pages")
         if page % 25 == 0:
             print(f"    ... page {page}/{max_page}")
 
         time.sleep(REQUEST_DELAY)
-
         if page >= max_page:
             break
         page += 1
 
-    return bills
+    # Caught up: next run only needs bills updated after this one started
+    state["cursor"] = resume_point(run_started)
+    state["caught_up"] = True
+
+
+def resume_point(iso_ts: str) -> str:
+    ts = datetime.fromisoformat(iso_ts.replace("Z", "+00:00"))
+    return (ts - RESUME_OVERLAP).isoformat()
 
 
 def build_legislator_vote_index(bills: list[dict]) -> dict[str, list[dict]]:
@@ -133,6 +226,16 @@ def build_legislator_vote_index(bills: list[dict]) -> dict[str, list[dict]]:
     return dict(index)
 
 
+def build_legislator_bill_index(bills: list[dict]) -> dict[str, list[dict]]:
+    """Returns {legislator_id: [normalized bill, ...]} for every sponsor."""
+    index: dict[str, list[dict]] = defaultdict(list)
+    for bill in bills:
+        sponsor_ids = {(s.get("person") or {}).get("id") for s in bill.get("sponsorships", [])}
+        for leg_id in sponsor_ids - {None}:
+            index[leg_id].append(normalize_bill(bill, leg_id))
+    return dict(index)
+
+
 def compute_stats(legislator_id: str, vote_records: list[dict]) -> dict:
     yes_count = no_count = absent_count = other_count = 0
     chamber_align = []   # voted with the winning side of each measure
@@ -190,61 +293,73 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
         sys.exit(1)
 
     votes_dir = DATA_DIR / "votes"
+    bills_dir = DATA_DIR / "bills"
     votes_dir.mkdir(parents=True, exist_ok=True)
+    bills_dir.mkdir(parents=True, exist_ok=True)
 
-    # If running for a single legislator, we still need to scan all bills
-    # (no per-person vote endpoint exists). We scan and then filter.
-    print("  Scanning PA bills for vote records (this takes a few minutes)...")
-    all_vote_records: dict[str, list] = defaultdict(list)
-
+    print("  Scanning PA bills for votes and sponsorships...")
+    cache = load_cache()
     errors = []
-    quota_hit = False
+    all_caught_up = True
     for session in SESSIONS:
+        state = cache["sessions"].setdefault(session, {})
         try:
-            bills = fetch_bills_with_votes(session)
-        except QuotaExhausted as e:
-            # Index whatever we managed to collect, then stop scanning
-            bills = e.partial
-            quota_hit = True
-        except Exception as e:
-            print(f"    ERROR fetching session {session}: {e}", file=sys.stderr)
-            errors.append({"step": "fetch_votes", "session": session, "error": str(e)})
-            continue
-
-        session_index = build_legislator_vote_index(bills)
-        for leg_id, records in session_index.items():
-            all_vote_records[leg_id].extend(records)
-
-        if quota_hit:
-            print("    API quota exhausted - stopping vote scan; writing partial "
-                  "results", file=sys.stderr)
-            errors.append({"step": "fetch_votes", "error": "quota exhausted, partial scan"})
+            scan_session(session, state)
+        except QuotaExhausted:
+            all_caught_up = False
+            errors.append({"step": "fetch_votes",
+                           "error": "quota exhausted, partial scan (resumes next run)"})
             break
+        except Exception as e:
+            all_caught_up = False
+            print(f"    ERROR scanning session {session}: {e}", file=sys.stderr)
+            errors.append({"step": "fetch_votes", "session": session, "error": str(e)})
+        finally:
+            # Persist whatever arrived, even if the scan stopped early
+            save_cache(cache)
 
-    # Determine which legislators to write
+    bills = [b for s in cache["sessions"].values() for b in s.get("bills", {}).values()]
+    # Until the scan has covered the whole session once, totals from the cache
+    # may undercount; don't let them replace larger numbers already published.
+    ever_caught_up = all(s.get("caught_up_once") for s in cache["sessions"].values())
+    if all_caught_up:
+        for s in cache["sessions"].values():
+            s["caught_up_once"] = True
+        save_cache(cache)
+        ever_caught_up = True
+    print(f"    Scan cache: {len(bills)} bills"
+          + ("" if all_caught_up else " (scan still catching up)"))
+
+    vote_index = build_legislator_vote_index(bills)
+    bill_index = build_legislator_bill_index(bills)
+
     if legislator_ids:
         target_ids = set(legislator_ids)
     else:
-        leg_path = DATA_DIR / "legislators.json"
-        legislators = read_json(leg_path, [])
+        legislators = read_json(DATA_DIR / "legislators.json", [])
         target_ids = {l["id"] for l in legislators}
 
-    written = 0
+    votes_written = bills_written = 0
     for leg_id in target_ids:
-        records = all_vote_records.get(leg_id, [])
-        # On a partial (quota-limited or failed) scan, don't overwrite an existing
-        # file with zeros - a legislator's votes may be in pages we never reached.
-        if (quota_hit or errors) and not records:
-            safe_id = leg_id.replace("/", "_")
-            if (votes_dir / f"{safe_id}.json").exists():
-                continue
-        stats = compute_stats(leg_id, records)
-        out = votes_dir / f"{leg_id.replace('/', '_')}.json"
-        write_json(out, stats)
-        written += 1
+        safe_id = leg_id.replace("/", "_")
 
-    print(f"  Wrote vote stats for {written} legislators"
-          + (" (partial scan)" if quota_hit else ""))
+        vote_path = votes_dir / f"{safe_id}.json"
+        stats = compute_stats(leg_id, vote_index.get(leg_id, []))
+        existing = read_json(vote_path, None)
+        if ever_caught_up or not existing or stats["total_votes"] >= existing.get("total_votes", 0):
+            write_json(vote_path, stats)
+            votes_written += 1
+
+        # Merge with what's on file so a partial cache never drops bills
+        bill_path = bills_dir / f"{safe_id}.json"
+        new_bills = bill_index.get(leg_id, [])
+        if new_bills:
+            merged = {b["id"]: b for b in read_json(bill_path, []) or []}
+            merged.update({b["id"]: b for b in new_bills})
+            write_json(bill_path, list(merged.values()))
+            bills_written += 1
+
+    print(f"  Wrote vote stats for {votes_written} and bills for {bills_written} legislators")
     return errors
 
 

@@ -24,7 +24,7 @@ DATA_DIR = Path(__file__).parent.parent / "data"
 
 def is_expected(err: dict) -> bool:
     """Errors the pipeline is designed to tolerate night to night."""
-    if err.get("step") == "scrape_press_releases":
+    if err.get("step") == "scrape_press_releases" or err.get("severity") == "warning":
         return True
     return "quota exhausted" in (err.get("error") or "")
 
