@@ -33,6 +33,17 @@ framing that obscures the actual action taken
 Return only valid JSON. No preamble."""
 
 
+class SummarizerUnavailable(Exception):
+    """The API refused for account reasons (no credit, bad key). Every further
+    call would fail the same way, so the step stops and reports it."""
+
+
+def is_account_error(e: Exception) -> bool:
+    if isinstance(e, (anthropic.AuthenticationError, anthropic.PermissionDeniedError)):
+        return True
+    return isinstance(e, anthropic.BadRequestError) and "credit balance" in str(e)
+
+
 def summarize_release(client: anthropic.Anthropic, raw_text: str) -> dict | None:
     try:
         message = client.messages.create(
@@ -49,6 +60,8 @@ def summarize_release(client: anthropic.Anthropic, raw_text: str) -> dict | None
                 text = text[4:]
         return json.loads(text)
     except Exception as e:
+        if is_account_error(e):
+            raise SummarizerUnavailable(str(e)) from e
         print(f"    Summarization error: {e}", file=sys.stderr)
         return None
 
@@ -70,7 +83,7 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
         files = list(pr_dir.glob("*.json"))
 
     errors = []
-    total_summarized = 0
+    total_summarized = failed = 0
 
     for f in files:
         if not f.exists():
@@ -87,15 +100,31 @@ def main(legislator_ids: list[str] | None = None) -> list[dict]:
                 continue
 
             print(f"    Summarizing: {rel.get('title', '')[:60]}")
-            summary = summarize_release(client, raw)
+            try:
+                summary = summarize_release(client, raw)
+            except SummarizerUnavailable as e:
+                if changed:
+                    write_json(f, releases)
+                print(f"  Anthropic API unavailable - stopping: {e}", file=sys.stderr)
+                errors.append({"step": "summarize_releases",
+                               "error": f"Anthropic API unavailable: {e}"[:300]})
+                print(f"  Summarized {total_summarized} releases before stopping")
+                return errors
+            # A failed summary stays None and is retried next run
             rel["ai_summary"] = summary
             changed = True
-            total_summarized += 1
+            if summary is None:
+                failed += 1
+            else:
+                total_summarized += 1
 
         if changed:
             write_json(f, releases)
 
-    print(f"  Summarized {total_summarized} new releases")
+    print(f"  Summarized {total_summarized} new releases ({failed} failed, will retry)")
+    if failed:
+        errors.append({"step": "summarize_releases", "severity": "warning",
+                       "error": f"{failed} summaries failed (will retry next run)"})
     return errors
 
 

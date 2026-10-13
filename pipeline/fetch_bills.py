@@ -1,6 +1,10 @@
 """
 Fetch sponsored/co-sponsored bills for each PA legislator from OpenStates.
 Outputs: data/bills/{legislator_id}.json per legislator
+
+The nightly pipeline no longer runs this step: fetch_votes builds every
+legislator's bills from its session-wide scan, which costs far fewer requests.
+This remains for refreshing one legislator by hand (--legislator-id).
 """
 
 import json
@@ -49,6 +53,38 @@ def is_instrumental(bill: dict) -> bool:
 SESSIONS = ["2025-2026"]
 
 
+def normalize_bill(bill: dict, legislator_id: str) -> dict:
+    """Shape an OpenStates bill (raw, or the compact form cached by
+    fetch_votes) into the record the site displays for one legislator."""
+    latest_action = None
+    if bill.get("actions"):
+        latest_action = sorted(
+            bill["actions"], key=lambda a: a.get("date", ""), reverse=True
+        )[0]
+
+    # Determine sponsorship role. The API nests the person id under
+    # sponsorship.person.id (not a flat person_id field).
+    role = "cosponsor"
+    for sponsor in bill.get("sponsorships", []):
+        sponsor_person_id = (sponsor.get("person") or {}).get("id")
+        if sponsor_person_id == legislator_id and sponsor.get("primary"):
+            role = "primary"
+            break
+
+    return {
+        "id": bill.get("id"),
+        "identifier": bill.get("identifier"),
+        "title": bill.get("title"),
+        "session": bill.get("session"),
+        "status": bill.get("latest_action_description"),
+        "subjects": bill.get("subject", []),
+        "latest_action": latest_action,
+        "openstates_url": bill.get("openstates_url"),
+        "sponsorship_role": role,
+        "instrumental": is_instrumental(bill),
+    }
+
+
 def fetch_bills_for_legislator(legislator_id: str) -> list[dict]:
     headers = {"X-API-KEY": OPENSTATES_API_KEY}
     all_bills = []
@@ -74,37 +110,7 @@ def fetch_bills_for_legislator(legislator_id: str) -> list[dict]:
                 break
             page += 1
 
-    normalized = []
-    for bill in all_bills:
-        latest_action = None
-        if bill.get("actions"):
-            latest_action = sorted(
-                bill["actions"], key=lambda a: a.get("date", ""), reverse=True
-            )[0]
-
-        # Determine sponsorship role. The API nests the person id under
-        # sponsorship.person.id (not a flat person_id field).
-        role = "cosponsor"
-        for sponsor in bill.get("sponsorships", []):
-            sponsor_person_id = (sponsor.get("person") or {}).get("id")
-            if sponsor_person_id == legislator_id and sponsor.get("primary"):
-                role = "primary"
-                break
-
-        normalized.append({
-            "id": bill.get("id"),
-            "identifier": bill.get("identifier"),
-            "title": bill.get("title"),
-            "session": bill.get("session"),
-            "status": bill.get("latest_action_description"),
-            "subjects": bill.get("subject", []),
-            "latest_action": latest_action,
-            "openstates_url": bill.get("openstates_url"),
-            "sponsorship_role": role,
-            "instrumental": is_instrumental(bill),
-        })
-
-    return normalized
+    return [normalize_bill(bill, legislator_id) for bill in all_bills]
 
 
 def main(legislator_ids: list[str] | None = None) -> list[dict]:

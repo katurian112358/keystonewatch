@@ -28,6 +28,15 @@ jobs:
       - name: Install pipeline dependencies
         run: pip install -r pipeline/requirements.txt
 
+      - name: Restore bill scan cache
+        # fetch_votes resumes its session-wide bill scan from here (see the
+        # docstring in pipeline/fetch_votes.py). Kept out of the repo: it's large.
+        uses: actions/cache/restore@v4
+        with:
+          path: .cache
+          key: bill-scan-${{ github.run_id }}
+          restore-keys: bill-scan-
+
       - name: Run data pipeline
         id: pipeline
         # Step-level timeout (shorter than the job) so that if the pipeline runs
@@ -42,6 +51,14 @@ jobs:
           LEGISCAN_API_KEY: ${{ secrets.LEGISCAN_API_KEY }}
         working-directory: pipeline
         run: python run_pipeline.py
+
+      - name: Save bill scan cache
+        # Explicit save so progress is kept even when a later step fails the job
+        if: always()
+        uses: actions/cache/save@v4
+        with:
+          path: .cache
+          key: bill-scan-${{ github.run_id }}
 
       - name: Commit updated data files
         # Always run — commit whatever data was fetched, even on partial/failed runs.

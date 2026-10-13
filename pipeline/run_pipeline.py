@@ -50,7 +50,7 @@ def main() -> None:
     parser.add_argument(
         "--skip-votes",
         action="store_true",
-        help="Skip vote scan (saves ~500 API calls; use locally when quota is limited)",
+        help="Skip the vote/bill scan (use locally when API quota is limited)",
     )
     args = parser.parse_args()
 
@@ -59,7 +59,6 @@ def main() -> None:
     # Import here so missing deps don't crash before argparse
     import fetch_legislators
     import fetch_votes
-    import fetch_bills
     import scrape_press_releases
     import summarize_releases
     import fetch_contact_info
@@ -74,34 +73,28 @@ def main() -> None:
     else:
         print("Skipping full legislator fetch (single-legislator mode)")
 
-    # Step 2: Votes - one full scan (~500 requests) yields vote data for ALL
-    # legislators, so run it first to guarantee universal coverage under quota.
+    # Step 2: Votes and bills - one resumable scan of the session's bills yields
+    # vote records and sponsored bills for ALL legislators (see fetch_votes.py).
     if not args.skip_votes:
-        errs = run_step("2. Fetch votes", fetch_votes.main, leg_ids)
+        errs = run_step("2. Fetch votes and bills", fetch_votes.main, leg_ids)
         all_errors.extend(errs)
     else:
-        print("\nSkipping vote scan (--skip-votes)")
+        print("\nSkipping vote/bill scan (--skip-votes)")
 
-    # Step 3: Bills - the expensive step (hundreds of pages each via cosponsorships).
-    # Runs after votes on whatever quota remains; rotates across nights (see
-    # BILLS_FRESH_DAYS) so the whole roster gets covered over time.
-    errs = run_step("3. Fetch bills", fetch_bills.main, leg_ids)
-    all_errors.extend(errs)
-
-    # Step 4: Press release scraping (can skip)
+    # Step 3: Press release scraping (can skip)
     if not args.skip_scrape:
-        errs = run_step("4. Scrape press releases", scrape_press_releases.main, leg_ids)
+        errs = run_step("3. Scrape press releases", scrape_press_releases.main, leg_ids)
         all_errors.extend(errs)
     else:
         print("\nSkipping press release scraping (--skip-scrape)")
 
-    # Step 5: AI summarization
-    errs = run_step("5. Summarize releases", summarize_releases.main, leg_ids)
+    # Step 4: AI summarization
+    errs = run_step("4. Summarize releases", summarize_releases.main, leg_ids)
     all_errors.extend(errs)
 
-    # Step 6: Compile contacts
+    # Step 5: Compile contacts
     if leg_ids is None:
-        errs = run_step("6. Compile contacts", lambda: fetch_contact_info.main() or [], None)
+        errs = run_step("5. Compile contacts", lambda: fetch_contact_info.main() or [], None)
         all_errors.extend(errs)
 
     # Write pipeline errors - overwrite with THIS run's errors only, so the file
