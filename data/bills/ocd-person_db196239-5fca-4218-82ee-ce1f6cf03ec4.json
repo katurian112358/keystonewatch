@@ -1767,19 +1767,8 @@
     "status": "Referred to Liquor Control",
     "subjects": [],
     "latest_action": {
-      "id": "2609e379-b7f8-45f4-83c6-53a8005aabc1",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Liquor Control",
       "date": "2025-01-28T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Liquor Control"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB380/",
     "sponsorship_role": "primary",
@@ -1793,20 +1782,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "a61088f8-e3ea-4912-897b-50e347a7c4f6",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Reported as amended",
       "date": "2025-05-07T04:00:00+00:00",
-      "classification": [
-        "amendment-passage",
-        "committee-passage"
-      ],
-      "order": 1,
-      "related_entities": []
+      "description": "Reported as amended"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB977/",
     "sponsorship_role": "cosponsor",
@@ -1820,19 +1797,8 @@
     "status": "Referred to Labor & Industry",
     "subjects": [],
     "latest_action": {
-      "id": "46a04085-8167-4222-99db-0927edc0c178",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Labor & Industry",
       "date": "2025-02-20T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Labor & Industry"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB677/",
     "sponsorship_role": "cosponsor",
@@ -1846,19 +1812,8 @@
     "status": "Referred to Intergovernmental Affairs & Operations",
     "subjects": [],
     "latest_action": {
-      "id": "ed1619bc-8ccd-4fa5-aa8d-0d98faff9c55",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Intergovernmental Affairs & Operations",
       "date": "2025-07-07T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Intergovernmental Affairs & Operations"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1695/",
     "sponsorship_role": "cosponsor",
@@ -1872,19 +1827,8 @@
     "status": "Adopted",
     "subjects": [],
     "latest_action": {
-      "id": "c569715d-c91f-4bb7-882c-8c508fe791e9",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Adopted",
       "date": "2025-06-09T04:00:00+00:00",
-      "classification": [
-        "passage"
-      ],
-      "order": 2,
-      "related_entities": []
+      "description": "Adopted"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR206/",
     "sponsorship_role": "cosponsor",

@@ -1,190 +1,70 @@
 [
   {
     "step": "fetch_votes",
-    "error": "quota exhausted, partial scan"
-  },
-  {
-    "step": "fetch_bills",
-    "error": "quota exhausted, stopped early"
+    "error": "quota exhausted, partial scan (resumes next run)"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e12dc574-f19b-4c9c-9a30-42b68371ea4a",
     "error": "no website URL",
-    "timestamp": "2026-10-13T15:00:20.553954"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/fd5d0580-766c-482c-a12f-e4689e0bcf30",
-    "error": "HTTPSConnectionPool(host='www.repcutler.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:02:02.938508"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/e17c51da-556e-4afe-aad4-137ee3a0881e",
-    "error": "HTTPSConnectionPool(host='www.repcraigwilliams.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:06:23.448866"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/f4071288-fa18-48bb-99f1-41abd60d215e",
-    "error": "HTTPSConnectionPool(host='www.repmoul.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.repmoul.com', port=443) at 0x7f8233f539d0>, 'Connection to www.repmoul.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-13T15:08:07.397983"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/d4de5cc2-b3b9-49a0-9f20-62c6f4f6a052",
-    "error": "HTTPSConnectionPool(host='www.repwatro.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:08:31.590091"
+    "timestamp": "2026-10-14T12:41:45.235689"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/875b1add-2803-4cc3-964b-0e351ed6ca1c",
     "error": "no website URL",
-    "timestamp": "2026-10-13T15:12:16.004138"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b7373c43-580b-4044-a405-054073ac687b",
-    "error": "HTTPSConnectionPool(host='repweaknecht.com', port=443): Max retries exceeded with url: /NewsGroup/Press-Releases (Caused by ConnectTimeoutError(<HTTPSConnection(host='repweaknecht.com', port=443) at 0x7f822c548350>, 'Connection to repweaknecht.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-13T15:13:25.049425"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/4657c161-af68-44a8-bd60-8b8e88e702d1",
-    "error": "HTTPSConnectionPool(host='www.repbanta.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:16:02.872000"
+    "timestamp": "2026-10-14T12:47:49.528505"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fea0b7c4-d51a-463f-964a-75722678083b",
     "error": "no website URL",
-    "timestamp": "2026-10-13T15:16:03.372402"
+    "timestamp": "2026-10-14T12:50:19.601482"
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/82938e14-97ce-44f0-942f-5bd2d7c532ba",
-    "error": "HTTPSConnectionPool(host='www.repbarton.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:16:24.086936"
+    "legislator_id": "ocd-person/96cbec5b-b9a4-4325-8346-bd4d08d87237",
+    "error": "429 Client Error: Too Many Requests for url: https://repwalsh.com/",
+    "timestamp": "2026-10-14T12:50:52.307803"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0df3f8d5-b6df-4cd8-a2c7-1dee651e60a8",
     "error": "no website URL",
-    "timestamp": "2026-10-13T15:19:02.751616"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/343e541b-fbd3-4622-bf42-7843494b1714",
-    "error": "HTTPSConnectionPool(host='www.repjimrigby.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:20:16.803689"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b1beaa5c-93d2-479e-9408-47c7687cd212",
-    "error": "HTTPSConnectionPool(host='www.rephogan.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:22:44.700599"
+    "timestamp": "2026-10-14T12:51:57.389618"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/00e98952-3983-44cd-aeca-09fb6cd84f3d",
     "error": "404 Client Error: Not Found for url: https://senatorpicozzi.com/InTheNews/",
-    "timestamp": "2026-10-13T15:23:13.651093"
+    "timestamp": "2026-10-14T12:53:16.567950"
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b6a10f6b-3f2e-42df-adf9-7184222af2c2",
-    "error": "HTTPSConnectionPool(host='www.repschlegel.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:24:40.134500"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/5a5a7a42-bc5e-4a07-aee1-d1a01e810385",
-    "error": "HTTPSConnectionPool(host='www.kerrybenninghoff.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:30:37.644043"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/68e26db9-10ba-414b-9d06-440dd1fd3f10",
-    "error": "HTTPSConnectionPool(host='www.repmarlabrown.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:37:04.757828"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/93435394-e853-45f2-9e88-65399b3f9042",
-    "error": "HTTPSConnectionPool(host='www.repwhite.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:37:25.508181"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/ce5d2c01-e29c-4eac-b06b-208d8c302dff",
-    "error": "HTTPSConnectionPool(host='www.repmikejones.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:39:50.019239"
+    "legislator_id": "ocd-person/08283fbe-18bc-4daf-972c-617d1e35d746",
+    "error": "429 Client Error: Too Many Requests for url: https://www.repklunk.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-10-14T12:54:13.631542"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/f5b2ec4d-1d69-483a-a6ec-143d50ad395b",
     "error": "generic scrape: no news link found",
-    "timestamp": "2026-10-13T15:40:16.022283"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/c5e053dd-a874-4a51-a071-661a20db33ab",
-    "error": "HTTPSConnectionPool(host='www.repmihalek.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:40:43.430067"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/c9f6833a-470e-480f-b3ad-d91c887aa4f9",
-    "error": "generic scrape: no news link found",
-    "timestamp": "2026-10-13T15:41:25.340837"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/8f7a2783-e165-4bf2-aead-113d98dd7dd2",
-    "error": "HTTPSConnectionPool(host='www.repwentling.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:41:51.866801"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/eb33e206-fb08-40bc-8b9b-1d9a72fcb8fc",
-    "error": "HTTPSConnectionPool(host='www.repperrystambaugh.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.repperrystambaugh.com', port=443) at 0x7f8233ac1690>, 'Connection to www.repperrystambaugh.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-13T15:43:42.796345"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/ff2471f3-f3ff-4a46-8ca7-be5094f0dfdc",
-    "error": "HTTPSConnectionPool(host='www.repirvin.com', port=443): Max retries exceeded with url: /NewsGroup/Press-Releases (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.repirvin.com', port=443) at 0x7f82341e49d0>, 'Connection to www.repirvin.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-13T15:44:08.426625"
+    "timestamp": "2026-10-14T12:58:18.840791"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/69faf85a-c63c-4d75-9801-047fffddf228",
     "error": "no website URL",
-    "timestamp": "2026-10-13T15:45:42.744152"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/5348e28d-bbbe-493f-8f77-a509cb315abe",
-    "error": "HTTPSConnectionPool(host='www.repdiamond.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.repdiamond.com', port=443) at 0x7f82336f3b10>, 'Connection to www.repdiamond.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-13T15:46:43.631908"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/bccfe530-42ce-47b0-aadf-ae863b37cf9a",
-    "error": "HTTPSConnectionPool(host='www.repstephanie.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:50:36.434934"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/932682ef-c7da-4383-8c50-58879fba0ca6",
-    "error": "HTTPSConnectionPool(host='www.repkutz.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-13T15:52:35.178270"
+    "timestamp": "2026-10-14T13:00:55.936553"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/de68158e-3cc9-4651-b3a1-71f5e77b7dab",
     "error": "pahouse scrape: no NewsRelease links found",
-    "timestamp": "2026-10-13T15:53:00.494253"
+    "timestamp": "2026-10-14T13:04:17.142846"
+  },
+  {
+    "step": "summarize_releases",
+    "error": "Anthropic API unavailable: Error code: 400 - {'type': 'error', 'error': {'type': 'invalid_request_error', 'message': 'Your credit balance is too low to access the Anthropic API. Please go to Plans & Billing to upgrade or purchase credits.'}, 'request_id': 'req_011Cg2BQxXMkTfBqFyeUrkiT'}"
   }
 ]

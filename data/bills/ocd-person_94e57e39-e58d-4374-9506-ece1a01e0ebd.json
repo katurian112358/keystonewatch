@@ -1,0 +1,47 @@
+[
+  {
+    "id": "ocd-bill/7a21b733-5eda-4170-9080-67413698d03d",
+    "identifier": "HR 272",
+    "title": "A Resolution designating July 27, 2025, as \"Dick Allen Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-30T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR272/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f363354e-a2a0-4c1d-bc4a-6590734d7d66",
+    "identifier": "HB 2260",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in obstructing governmental operations, providing for civil immigration arrests made on Commonwealth property; and imposing a penalty.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-03T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2260/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7f932b1c-0436-4c6f-932b-7d99cd85de81",
+    "identifier": "HB 2276",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in general administration relating to correctional institutions, providing for boards of prison inspectors in State correctional institutions.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2276/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  }
+]
