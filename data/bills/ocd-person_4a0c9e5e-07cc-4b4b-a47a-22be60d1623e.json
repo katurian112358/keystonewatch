@@ -88,5 +88,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB876/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9e75cc54-d948-40d2-9571-fdfd3ee89d8c",
+    "identifier": "HB 2041",
+    "title": "An Act amending the act of November 3, 2022 (P.L.2135, No.150), known as the Childhood Blood Lead Test Act, further providing for title of act, for legislative purpose, for definitions, for lead poisoning prevention, assessment and testing, for duties of department and for blood lead assessment and testing coverage.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2041/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d3dbf37a-7952-48e9-a65a-b1190c24d35d",
+    "identifier": "HR 47",
+    "title": "A Resolution amending House Rule 14, further providing for members' and employees' expenses.",
+    "session": "2025-2026",
+    "status": "Referred to Rules",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-31T05:00:00+00:00",
+      "description": "Referred to Rules"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR47/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d246b4b6-99ef-4540-b4f5-9a5cbe5e326b",
+    "identifier": "HB 1150",
+    "title": "An Act amending the act of January 17, 1968 (P.L.11, No.5), known as The Minimum Wage Act of 1968, further providing for definitions, for minimum wages and for preemption.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-03T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1150/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

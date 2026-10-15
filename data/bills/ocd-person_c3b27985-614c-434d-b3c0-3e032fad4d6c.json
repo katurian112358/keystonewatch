@@ -43,5 +43,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1952/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/80825205-a6be-4342-981d-707b7164f23c",
+    "identifier": "HR 64",
+    "title": "A Resolution designating the month of April 2025 as \"Community College Month\" in Pennsylvania in recognition of the important role that community colleges play in the education system and economy of this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR64/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1b7bd999-f3c5-4ffe-b52b-209ccf42f020",
+    "identifier": "HB 527",
+    "title": "An Act providing for communication duties between the Department of Health and the Department of Human Services with certain agencies and the Department of Aging relating to abuse of adults and older adults.",
+    "session": "2025-2026",
+    "status": "Referred to Aging & Older Adult Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-10T05:00:00+00:00",
+      "description": "Referred to Aging & Older Adult Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB527/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b3a0987c-0208-4ea8-9d7c-2bb2970cb010",
+    "identifier": "HB 1953",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for licenses.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-16T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1953/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6aba08a6-f28b-4880-adb6-2cae19118a8d",
+    "identifier": "HB 1483",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in licenses and regulations and liquor, alcohol and malt and brewed beverages, further providing for unlawful acts relative to liquor, malt and brewed beverages and licensees.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1483/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

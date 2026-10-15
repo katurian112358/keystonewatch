@@ -133,5 +133,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1837/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ef7289be-ecfd-4be0-b2b8-eb8611cf8dc6",
+    "identifier": "HB 515",
+    "title": "An Act prohibiting restrictions on household appliances by Commonwealth agencies and municipalities; and providing for civil actions authorized.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB515/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dfd1f5c4-411d-4f10-b346-3b0728150988",
+    "identifier": "HB 1619",
+    "title": "An Act providing for regulation of skill gaming; imposing duties on Department of Revenue; establishing a regulatory program within Department of Revenue governing skill gaming; providing for issuance of licenses; imposing criminal and civil penalties; and providing for zoning.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-17T04:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1619/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8953add7-868d-4724-8aad-7ddc25f62a84",
+    "identifier": "HB 2196",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, providing for consumer choice billing; imposing penalties; and making repeals.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-05T05:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2196/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1f125bb1-70b8-4f8a-8a49-f7114ce7e404",
+    "identifier": "HB 310",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, providing for expiration of authority to levy or collect real property taxes.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB310/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/07e5328c-3276-45b1-86e6-110289d26bca",
+    "identifier": "HB 1514",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, providing for tax paid on tipped wages.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-29T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1514/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/725a1bf8-f336-43f5-8688-dc47aa6e81f7",
+    "identifier": "HB 203",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, further providing for days schools not to be kept open and for additional holidays and vacations.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-17T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB203/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/be7321a6-b0cb-4041-a01b-bd6371fa3bdc",
+    "identifier": "HB 1422",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in voting by qualified mail-in electors, further providing for voting by mail-in electors.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1422/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

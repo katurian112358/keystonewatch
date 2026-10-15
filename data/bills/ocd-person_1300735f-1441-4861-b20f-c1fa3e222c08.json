@@ -238,5 +238,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB94/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/55eb0489-77db-4eec-98a9-3c904877f6f3",
+    "identifier": "HB 763",
+    "title": "An Act amending the act of November 26, 1978 (P.L.1375, No.325), known as the Dam Safety and Encroachments Act, further providing for permit issuance and conditions and for enforcement orders.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB763/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c5fbb0d0-f0cd-4fe4-afa3-03dc22b61ecd",
+    "identifier": "HB 1160",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in electronic voting systems, further providing for statistical sample.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-07T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1160/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/770260e3-1088-4cd6-9c4e-2caf869b763e",
+    "identifier": "HB 1207",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in the Secretary of the Commonwealth, further providing for powers and duties of the Secretary of the Commonwealth and for explanation of ballot question and providing for wording of ballot question; in dates of elections and primaries and special elections, further providing for elections on proposed constitutional amendments; in ballots, further providing for form of official election ballot; in voting machines, further providing for form of ballot labels on voting machines; and, in preparation for and conduct of primaries and elections, further providing for publishing constitutional amendments.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-15T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1207/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8e5002c6-8375-4f5e-98b2-1ca01d389beb",
+    "identifier": "HB 1884",
+    "title": "An Act amending the act of June 22, 1937 (P.L.1987, No.394), known as The Clean Streams Law, in general provisions and public policy, providing for general permit modernization.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1884/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/05347d77-6a99-49dd-8b90-d0fcc027b99c",
+    "identifier": "HB 1912",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in falsification and intimidation, providing for the offense of swatting.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-01T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1912/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

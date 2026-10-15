@@ -43,5 +43,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2276/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0d439c2f-4ddb-49e3-9af0-976925ed6351",
+    "identifier": "HB 2259",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, providing for actions not permissible in a courthouse; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2259/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d246b4b6-99ef-4540-b4f5-9a5cbe5e326b",
+    "identifier": "HB 1150",
+    "title": "An Act amending the act of January 17, 1968 (P.L.11, No.5), known as The Minimum Wage Act of 1968, further providing for definitions, for minimum wages and for preemption.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-03T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1150/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

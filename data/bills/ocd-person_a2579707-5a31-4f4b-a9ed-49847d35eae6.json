@@ -388,5 +388,185 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR48/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6ceb40ab-4803-4abe-b98f-05f59019f578",
+    "identifier": "HB 719",
+    "title": "An Act prohibiting discriminatory practices against applicants and enrollees under certain insurance policies based on claims or prescriptions involving prophylaxis HIV medication.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-24T05:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB719/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ba8becf4-0c09-4a33-8622-26b6053d87e6",
+    "identifier": "HB 2043",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, prohibiting certain assault weapons.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2043/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/499d2cd7-33dc-4c5d-86b4-761b5a33c443",
+    "identifier": "HB 777",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in preliminary provisions, providing for minimum hourly wage or living wage for education support professionals; in duties and powers of boards of school directors, further providing for majority vote required and recording; and imposing duties on the Department of Labor and Industry.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB777/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0b3a9252-b4bb-41c8-a3bd-80e7d7e4e792",
+    "identifier": "HR 37",
+    "title": "A Resolution designating March 13, 2025, as \"K9 Veterans Awareness and Services Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-04T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR37/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/80825205-a6be-4342-981d-707b7164f23c",
+    "identifier": "HR 64",
+    "title": "A Resolution designating the month of April 2025 as \"Community College Month\" in Pennsylvania in recognition of the important role that community colleges play in the education system and economy of this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR64/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16c876d7-f8f2-46c6-9052-416a85484b04",
+    "identifier": "HB 2071",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in interactive gaming, further providing for interactive gaming tax.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2071/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aa84f4e1-faa9-4120-a638-aa24777a9890",
+    "identifier": "HR 300",
+    "title": "A Resolution recognizing September 15 through October 15, 2025, as \"Hispanic Heritage Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR300/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3a186301-0719-4455-a42a-7c746336d976",
+    "identifier": "HB 907",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in licensing of drivers, further providing for issuance and content of driver's license.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-13T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB907/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/60ac58bf-8b18-41f8-a382-7e27802999ca",
+    "identifier": "HR 57",
+    "title": "A Resolution designating the month of June 2025 as \"Gun Violence Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR57/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d8b762c3-7036-4981-8c38-7d5bb47e65e7",
+    "identifier": "HB 2195",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; and establishing the child adoption tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2195/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c2d71c06-8ca8-4b61-a6e3-dde8355f0a1f",
+    "identifier": "HB 1928",
+    "title": "An Act amending the act of October 17, 2008 (P.L.1645, No.132), known as the Home Improvement Consumer Protection Act, further providing for definitions and for the offense of home improvement fraud.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-07T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1928/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5043e9dd-1d51-4d1b-ab14-39654c47b294",
+    "identifier": "HB 1297",
+    "title": "An Act amending the act of July 10, 1990 (P.L.404, No.98), known as the Real Estate Appraisers Certification Act, further providing for definitions and for powers and duties of board; and providing for bias and discrimination training, for prohibition of appraisal discrimination and for disparate impact study.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-28T04:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1297/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

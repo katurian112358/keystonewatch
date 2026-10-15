@@ -133,5 +133,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB826/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9e75cc54-d948-40d2-9571-fdfd3ee89d8c",
+    "identifier": "HB 2041",
+    "title": "An Act amending the act of November 3, 2022 (P.L.2135, No.150), known as the Childhood Blood Lead Test Act, further providing for title of act, for legislative purpose, for definitions, for lead poisoning prevention, assessment and testing, for duties of department and for blood lead assessment and testing coverage.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2041/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/80825205-a6be-4342-981d-707b7164f23c",
+    "identifier": "HR 64",
+    "title": "A Resolution designating the month of April 2025 as \"Community College Month\" in Pennsylvania in recognition of the important role that community colleges play in the education system and economy of this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR64/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/090b7c89-1824-40f6-ab04-6e1273ce566b",
+    "identifier": "HB 2099",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, providing for Delayed Payment Plan Program; establishing the Delayed Payment Plan Program Fund; and imposing duties on the Pennsylvania Higher Education Assistance Agency.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-12T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2099/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d8b762c3-7036-4981-8c38-7d5bb47e65e7",
+    "identifier": "HB 2195",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; and establishing the child adoption tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2195/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/50719515-a750-44e2-9b62-60224b63a007",
+    "identifier": "HR 409",
+    "title": "A Resolution designating March 8, 2026, as \"Charter Day\" and Pennsylvania's 345th birthday in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR409/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fafad587-cef4-4f73-b046-167d63dfbbd9",
+    "identifier": "HB 1774",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in general provisions, further providing for petitions for refunds.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-04T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1774/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd7fb88f-8364-4971-9f0b-69fd840509aa",
+    "identifier": "HB 2073",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in commercial drivers, further providing for disqualification; in general provisions relating to operation of vehicles, further providing for obedience to traffic-control devices; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2073/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -88,5 +88,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR45/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c864a57c-e144-4fee-8f23-2abb65f9bd08",
+    "identifier": "HB 2119",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in game or wildlife protection, further providing for killing game or wildlife to protect property.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-08T05:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2119/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

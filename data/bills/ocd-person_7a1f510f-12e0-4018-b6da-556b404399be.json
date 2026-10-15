@@ -313,5 +313,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR48/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/59649605-ff1a-4d20-9ac9-fbbebb1c4d57",
+    "identifier": "HB 272",
+    "title": "An Act establishing the Municipal and Emergency Responder Solar Grant Program; and providing for powers and duties of the Department of Environmental Protection.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB272/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/80825205-a6be-4342-981d-707b7164f23c",
+    "identifier": "HR 64",
+    "title": "A Resolution designating the month of April 2025 as \"Community College Month\" in Pennsylvania in recognition of the important role that community colleges play in the education system and economy of this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR64/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a53a81c3-49a7-4ae7-a00a-a2b759f0a213",
+    "identifier": "HR 251",
+    "title": "A Resolution recognizing October 24, 2025, as \"World Polio Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-09T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR251/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/60ac58bf-8b18-41f8-a382-7e27802999ca",
+    "identifier": "HR 57",
+    "title": "A Resolution designating the month of June 2025 as \"Gun Violence Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR57/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

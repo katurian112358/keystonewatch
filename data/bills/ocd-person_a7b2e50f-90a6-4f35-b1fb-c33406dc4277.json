@@ -58,5 +58,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB675/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/80825205-a6be-4342-981d-707b7164f23c",
+    "identifier": "HR 64",
+    "title": "A Resolution designating the month of April 2025 as \"Community College Month\" in Pennsylvania in recognition of the important role that community colleges play in the education system and economy of this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR64/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/50719515-a750-44e2-9b62-60224b63a007",
+    "identifier": "HR 409",
+    "title": "A Resolution designating March 8, 2026, as \"Charter Day\" and Pennsylvania's 345th birthday in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR409/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aedfe580-5fa9-4ee7-a6c3-b57852e130a3",
+    "identifier": "HR 398",
+    "title": "A Resolution designating the week of March 15 through 21, 2026, as \"Sunshine Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR398/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

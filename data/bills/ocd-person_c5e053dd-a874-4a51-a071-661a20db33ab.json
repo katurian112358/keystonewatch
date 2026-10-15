@@ -28,5 +28,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB977/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1c496a67-ae67-4d24-bfde-c30705bead48",
+    "identifier": "HB 1480",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, in Pennsylvania State Police, providing for nonpublic database registry of domestic violence offenders; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1480/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9e75cc54-d948-40d2-9571-fdfd3ee89d8c",
+    "identifier": "HB 2041",
+    "title": "An Act amending the act of November 3, 2022 (P.L.2135, No.150), known as the Childhood Blood Lead Test Act, further providing for title of act, for legislative purpose, for definitions, for lead poisoning prevention, assessment and testing, for duties of department and for blood lead assessment and testing coverage.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2041/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/41025ade-dc71-4d31-9932-a28e55a58ae3",
+    "identifier": "HB 1684",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in inheritance tax, further providing for appraisement and for deductions.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-30T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1684/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c501f5b0-5f4c-4fdf-b652-b46c77d18e83",
+    "identifier": "HR 178",
+    "title": "A Resolution recognizing the month of May 2025 as \"National Water Safety Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR178/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -328,5 +328,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR48/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0b6c09e6-8c09-4692-9ded-0458ee667618",
+    "identifier": "HR 46",
+    "title": "A Resolution recognizing the week of May 9 through 15, 2025, as \"National Stuttering Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-05T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR46/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0b3a9252-b4bb-41c8-a3bd-80e7d7e4e792",
+    "identifier": "HR 37",
+    "title": "A Resolution designating March 13, 2025, as \"K9 Veterans Awareness and Services Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-04T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR37/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c501f5b0-5f4c-4fdf-b652-b46c77d18e83",
+    "identifier": "HR 178",
+    "title": "A Resolution recognizing the month of May 2025 as \"National Water Safety Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR178/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1d8f8e29-51dc-43da-a717-9f233442dcc9",
+    "identifier": "HR 164",
+    "title": "A Resolution recognizing the month of April 2025 as \"Parkinson's Disease Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR164/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b657272e-8f55-4cc4-9638-e389299c8431",
+    "identifier": "HB 873",
+    "title": "An Act providing for an erosion and sediment control permit, for compliance, for annual report and for duties of the Department of Environmental Protection.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-11T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB873/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

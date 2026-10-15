@@ -118,5 +118,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB557/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b0a0c720-b1c1-4f04-81c0-6e9611648e4f",
+    "identifier": "SB 249",
+    "title": "An Act amending the act of November 24, 1998 (P.L.882, No.111), known as the Crime Victims Act, in crime victims, further providing for responsibilities of State and local law enforcement agencies.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-13T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB249/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e95aa096-c45b-405f-8bef-9c9667f540b6",
+    "identifier": "SB 937",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in additional special funds and restricted accounts, further providing for Sports, Marketing and Tourism Account.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB937/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/492ddb56-d97b-41f1-b0fc-109c55208fe9",
+    "identifier": "SR 49",
+    "title": "A Resolution recognizing March 21, 2025, as \"World Down Syndrome Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR49/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1e3a9952-e15d-4288-a65f-78438509dffe",
+    "identifier": "SB 687",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, in general provisions, further providing for definitions; in procurement organization, further providing for specific construction powers, duties and procedures; in procurement of construction and design professional services, further providing for procurement of design professional services; providing for project delivery methods; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-28T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB687/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/20d5d0a7-98fd-4c32-9ceb-0755da29c8b0",
+    "identifier": "SB 948",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in powers and duties, further providing for data to be supplied by electric utilities.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB948/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/143c00c4-b72f-4439-a78a-aef64fd2dfcb",
+    "identifier": "SB 1074",
+    "title": "An Act amending the act of December 20, 1983 (P.L.260, No.72), referred to as the Public Adjuster Licensing Law, further providing for definitions, for license, for written disclosure of financial interest and for bond; providing for fees, for requirements and prohibitions and for separate pre-contract disclosure; and further providing for contract and for revocation, etc., of license.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-28T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1074/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

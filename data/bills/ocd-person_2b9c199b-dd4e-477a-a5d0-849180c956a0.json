@@ -283,5 +283,185 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB971/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0b6c09e6-8c09-4692-9ded-0458ee667618",
+    "identifier": "HR 46",
+    "title": "A Resolution recognizing the week of May 9 through 15, 2025, as \"National Stuttering Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-05T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR46/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/04be1bcb-eec5-4675-912a-173d52f75359",
+    "identifier": "HB 974",
+    "title": "An Act amending the act of February 14, 2008 (P.L.6, No.3), known as the Right-to-Know Law, in procedure, further providing for written requests.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB974/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6ceb40ab-4803-4abe-b98f-05f59019f578",
+    "identifier": "HB 719",
+    "title": "An Act prohibiting discriminatory practices against applicants and enrollees under certain insurance policies based on claims or prescriptions involving prophylaxis HIV medication.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-24T05:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB719/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0032579a-9566-4af6-832e-aa4e9343b516",
+    "identifier": "HB 1725",
+    "title": "An Act amending the act of June 1, 1956 (1955 P.L.1944, No.655),  referred to as the Liquid Fuels Tax Municipal Allocation Law,  further providing for eligibility for receipt of funds relating to recycled asphalt in mixed use design on road or street maintenance.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-14T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1725/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9e75cc54-d948-40d2-9571-fdfd3ee89d8c",
+    "identifier": "HB 2041",
+    "title": "An Act amending the act of November 3, 2022 (P.L.2135, No.150), known as the Childhood Blood Lead Test Act, further providing for title of act, for legislative purpose, for definitions, for lead poisoning prevention, assessment and testing, for duties of department and for blood lead assessment and testing coverage.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2041/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eddb38da-b16b-46fa-99b4-889568453e70",
+    "identifier": "HB 498",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in protection from abuse, further providing for emergency relief by minor judiciary.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB498/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/499d2cd7-33dc-4c5d-86b4-761b5a33c443",
+    "identifier": "HB 777",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in preliminary provisions, providing for minimum hourly wage or living wage for education support professionals; in duties and powers of boards of school directors, further providing for majority vote required and recording; and imposing duties on the Department of Labor and Industry.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB777/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/55eb0489-77db-4eec-98a9-3c904877f6f3",
+    "identifier": "HB 763",
+    "title": "An Act amending the act of November 26, 1978 (P.L.1375, No.325), known as the Dam Safety and Encroachments Act, further providing for permit issuance and conditions and for enforcement orders.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB763/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/80825205-a6be-4342-981d-707b7164f23c",
+    "identifier": "HR 64",
+    "title": "A Resolution designating the month of April 2025 as \"Community College Month\" in Pennsylvania in recognition of the important role that community colleges play in the education system and economy of this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR64/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/29e166bb-0285-4082-b0c0-00962aab65cb",
+    "identifier": "HB 412",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in Pennsylvania National Guard, further providing for association group life insurance for Pennsylvania National Guard.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB412/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d246b4b6-99ef-4540-b4f5-9a5cbe5e326b",
+    "identifier": "HB 1150",
+    "title": "An Act amending the act of January 17, 1968 (P.L.11, No.5), known as The Minimum Wage Act of 1968, further providing for definitions, for minimum wages and for preemption.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-03T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1150/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fc7dc467-0836-40ed-9bf8-fabfef72b882",
+    "identifier": "HB 1022",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in departmental powers and duties as to licensing, further providing for refusal to issue license, revocation and notice; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1022/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

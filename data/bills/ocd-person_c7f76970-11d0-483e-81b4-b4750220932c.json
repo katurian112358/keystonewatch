@@ -88,5 +88,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB654/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/db2e907f-a852-4158-837b-4e1a121e1009",
+    "identifier": "HR 60",
+    "title": "A Resolution directing the Joint State Government Commission to conduct a study on sports betting and related interactive gambling in this Commonwealth, including recommended methods to further regulate the industry in order to reduce problem gambling behaviors, gambling debt and the exposure of children to sports betting and related interactive gambling advertisements.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Removed from table"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR60/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

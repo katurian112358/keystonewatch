@@ -28,5 +28,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR183/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8953add7-868d-4724-8aad-7ddc25f62a84",
+    "identifier": "HB 2196",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, providing for consumer choice billing; imposing penalties; and making repeals.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-05T05:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2196/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2d0165b5-4e1a-4f85-8b36-dd33df0eaa08",
+    "identifier": "HR 197",
+    "title": "A Resolution recognizing and honoring the members of Delta Sigma Theta Sorority, Inc., for more than a century of commitment to social activism, academic excellence and civic engagement in this Commonwealth on the occasion of \"Delta Day\" at the State Capitol.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-05T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR197/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/02815072-71a6-4da2-b72d-c8b161748213",
+    "identifier": "HB 1517",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, providing for vendor-designed registration plates.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1517/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

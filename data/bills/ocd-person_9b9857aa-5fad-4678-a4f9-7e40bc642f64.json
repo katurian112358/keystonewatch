@@ -238,5 +238,140 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB971/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5c80f0ec-d4ff-4870-b381-db383141a782",
+    "identifier": "HB 955",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in size, weight and load, further providing for authority to issue permits.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB955/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dfd1f5c4-411d-4f10-b346-3b0728150988",
+    "identifier": "HB 1619",
+    "title": "An Act providing for regulation of skill gaming; imposing duties on Department of Revenue; establishing a regulatory program within Department of Revenue governing skill gaming; providing for issuance of licenses; imposing criminal and civil penalties; and providing for zoning.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-17T04:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1619/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f5e4f19f-e151-4916-ae8d-207725cfcc83",
+    "identifier": "HB 2038",
+    "title": "An Act amending the act of December 19, 1988 (P.L.1262, No.156), known as the Local Option Small Games of Chance Act, in preliminary provisions, further providing for definitions; and, in games of chance, further providing for prize limits.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2038/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8f2ade38-5b27-42cc-90e9-02c27b6871ad",
+    "identifier": "HB 690",
+    "title": "An Act amending Title 40 (Insurance) of the Pennsylvania Consolidated Statutes, in regulation of insurers and related persons generally, providing for group market provisions; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-21T05:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB690/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aa411178-42ed-42ee-9c50-0cae6718ed50",
+    "identifier": "HB 319",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in hunting and furtaking licenses, further providing for resident license and fee exemptions.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB319/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f151b847-d977-44ed-ad0f-2ac2c0d88f68",
+    "identifier": "HR 335",
+    "title": "A Resolution honoring the life and legacy of United States Army Air Forces Warrant Officer William J. McMichael, expressing condolences to his family and commending with gratitude and respect the recovery and return of his remains.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Laid on the table"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR335/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/8e5002c6-8375-4f5e-98b2-1ca01d389beb",
+    "identifier": "HB 1884",
+    "title": "An Act amending the act of June 22, 1937 (P.L.1987, No.394), known as The Clean Streams Law, in general provisions and public policy, providing for general permit modernization.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1884/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/07e5328c-3276-45b1-86e6-110289d26bca",
+    "identifier": "HB 1514",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, providing for tax paid on tipped wages.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-29T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1514/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c864a57c-e144-4fee-8f23-2abb65f9bd08",
+    "identifier": "HB 2119",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in game or wildlife protection, further providing for killing game or wildlife to protect property.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-08T05:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2119/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

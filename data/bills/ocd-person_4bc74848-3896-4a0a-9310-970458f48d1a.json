@@ -4761,19 +4761,8 @@
     "status": "Referred to Housing & Community Development",
     "subjects": [],
     "latest_action": {
-      "id": "d9357482-f086-4d33-bbea-fccc5f211fd8",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Housing & Community Development",
       "date": "2025-02-12T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Housing & Community Development"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB570/",
     "sponsorship_role": "cosponsor",
@@ -4787,19 +4776,8 @@
     "status": "Referred to Agriculture & Rural Affairs",
     "subjects": [],
     "latest_action": {
-      "id": "ef0baa61-e8ef-4237-8fee-6ec262dd7e95",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Agriculture & Rural Affairs",
       "date": "2025-12-03T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Agriculture & Rural Affairs"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2071/",
     "sponsorship_role": "cosponsor",
@@ -4813,19 +4791,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "8eebd9f3-7756-4962-83de-563a83da47d8",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Reported as committed",
       "date": "2025-03-19T04:00:00+00:00",
-      "classification": [
-        "committee-passage"
-      ],
-      "order": 1,
-      "related_entities": []
+      "description": "Reported as committed"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB620/",
     "sponsorship_role": "cosponsor",
@@ -4839,19 +4806,8 @@
     "status": "Referred to Labor & Industry",
     "subjects": [],
     "latest_action": {
-      "id": "f3a4d34e-c760-4291-8a94-4972548ccbd4",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Labor & Industry",
       "date": "2025-03-18T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Labor & Industry"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB777/",
     "sponsorship_role": "cosponsor",
@@ -4865,19 +4821,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "e86647b6-9b93-48a8-9824-6cc75d647bb3",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Reported as committed",
       "date": "2025-03-25T04:00:00+00:00",
-      "classification": [
-        "committee-passage"
-      ],
-      "order": 1,
-      "related_entities": []
+      "description": "Reported as committed"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB569/",
     "sponsorship_role": "cosponsor",
@@ -4891,19 +4836,8 @@
     "status": "Referred to Children & Youth",
     "subjects": [],
     "latest_action": {
-      "id": "f2b6d0d7-2dcf-44f1-baf3-aa9c63ecc3e5",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Children & Youth",
       "date": "2025-11-17T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Children & Youth"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2041/",
     "sponsorship_role": "cosponsor",
@@ -4917,19 +4851,8 @@
     "status": "Referred to Insurance",
     "subjects": [],
     "latest_action": {
-      "id": "4bea30e8-4805-4afa-9e25-c5200617cbab",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Insurance",
       "date": "2025-02-24T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Insurance"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB719/",
     "sponsorship_role": "cosponsor",

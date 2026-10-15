@@ -448,5 +448,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR76/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7920ef9e-d698-40b6-bdaa-274209027f45",
+    "identifier": "SR 52",
+    "title": "A Resolution designating the week of April 14 through 18, 2025, as \"Local Government Week\" and April 16, 2025, as \"Local Government Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-20T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR52/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5daa7e37-d285-48ed-8a98-0c9111de27e9",
+    "identifier": "SB 575",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of ethnic intimidation; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB575/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/492ddb56-d97b-41f1-b0fc-109c55208fe9",
+    "identifier": "SR 49",
+    "title": "A Resolution recognizing March 21, 2025, as \"World Down Syndrome Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR49/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/27cf2a37-e324-4b2a-b9dd-db2ee4781d1f",
+    "identifier": "SB 463",
+    "title": "An Act authorizing the provision or sale of Pennsylvania milk in Pennsylvania schools.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB463/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0fd27d36-43e1-44ed-920c-584cfc664f4c",
+    "identifier": "SB 931",
+    "title": "An Act amending Title 15 (Corporations and Unincorporated Associations) of the Pennsylvania Consolidated Statutes, in entities generally, providing for the offense of false, deceptive or misleading names; and imposing a penalty.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-14T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB931/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f7201fca-e289-48d9-9116-b3c665e42b77",
+    "identifier": "SB 139",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, providing for exception from compulsory education for certain children with disabilities.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB139/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4047d301-fc70-43ea-bb05-3bce5b91dc42",
+    "identifier": "SB 1151",
+    "title": "An Act amending the act of June 2, 1915 (P.L.736, No.338), known as the Workers' Compensation Act, in liability and compensation, further providing for schedule of compensation.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-30T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1151/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

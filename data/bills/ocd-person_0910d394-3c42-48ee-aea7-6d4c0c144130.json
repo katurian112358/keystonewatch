@@ -58,5 +58,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB444/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16c876d7-f8f2-46c6-9052-416a85484b04",
+    "identifier": "HB 2071",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in interactive gaming, further providing for interactive gaming tax.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2071/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/712fedbc-4b9b-46ff-807e-6ef8c55b69fd",
+    "identifier": "HB 1170",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in general administration relating to correctional institutions, providing for electronic control gloves.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1170/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c864a57c-e144-4fee-8f23-2abb65f9bd08",
+    "identifier": "HB 2119",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in game or wildlife protection, further providing for killing game or wildlife to protect property.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-08T05:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2119/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6b774963-c405-4f9f-90e9-de11d6f0e4b8",
+    "identifier": "HB 2039",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in preliminary provisions, providing for innovative assessment and accountability demonstration authority.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2039/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

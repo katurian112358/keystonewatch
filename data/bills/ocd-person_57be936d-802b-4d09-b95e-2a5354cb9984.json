@@ -253,5 +253,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB195/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7e528870-9678-49a5-9063-e41ff008510d",
+    "identifier": "HR 139",
+    "title": "A Resolution designating the week of September 14 through 20, 2025, as \"Truck Driver Appreciation Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-30T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR139/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d246b4b6-99ef-4540-b4f5-9a5cbe5e326b",
+    "identifier": "HB 1150",
+    "title": "An Act amending the act of January 17, 1968 (P.L.11, No.5), known as The Minimum Wage Act of 1968, further providing for definitions, for minimum wages and for preemption.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-03T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1150/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cf2d9755-ace2-41cc-a1b7-85557769e24b",
+    "identifier": "HB 215",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in professional employees, providing for professional librarian.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB215/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7643ddf6-9472-41a0-9891-4f44baef080a",
+    "identifier": "HB 964",
+    "title": "An Act providing for employment leave for victims and victims' families because of violence; prohibiting certain acts by employers; prescribing penalties; and providing for a cause of action.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB964/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f67001c3-5bfd-434a-80d4-19375896f961",
+    "identifier": "HR 342",
+    "title": "A Resolution designating November 15, 2025, as \"Articles of Confederation Day\" in Pennsylvania; and recognizing the City of York, York County, for its important contribution to the forging of our nation.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR342/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5043e9dd-1d51-4d1b-ab14-39654c47b294",
+    "identifier": "HB 1297",
+    "title": "An Act amending the act of July 10, 1990 (P.L.404, No.98), known as the Real Estate Appraisers Certification Act, further providing for definitions and for powers and duties of board; and providing for bias and discrimination training, for prohibition of appraisal discrimination and for disparate impact study.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-28T04:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1297/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

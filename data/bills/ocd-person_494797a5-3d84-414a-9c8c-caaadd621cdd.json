@@ -163,5 +163,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB860/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16c876d7-f8f2-46c6-9052-416a85484b04",
+    "identifier": "HB 2071",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in interactive gaming, further providing for interactive gaming tax.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2071/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0d439c2f-4ddb-49e3-9af0-976925ed6351",
+    "identifier": "HB 2259",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, providing for actions not permissible in a courthouse; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2259/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/28d821d4-0982-40cf-b449-f3907c1b2f8f",
+    "identifier": "HB 2180",
+    "title": "An Act imposing requirements when lands containing certain State correctional institutions are offered for sale; and further providing for duties of the Department of Corrections.",
+    "session": "2025-2026",
+    "status": "Referred to Commerce",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-30T05:00:00+00:00",
+      "description": "Referred to Commerce"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2180/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6d393ce8-c66f-4c8d-96ca-20e50cadd662",
+    "identifier": "HB 1897",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for election of members and vacancies.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-30T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1897/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -73,5 +73,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1789/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/770260e3-1088-4cd6-9c4e-2caf869b763e",
+    "identifier": "HB 1207",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in the Secretary of the Commonwealth, further providing for powers and duties of the Secretary of the Commonwealth and for explanation of ballot question and providing for wording of ballot question; in dates of elections and primaries and special elections, further providing for elections on proposed constitutional amendments; in ballots, further providing for form of official election ballot; in voting machines, further providing for form of ballot labels on voting machines; and, in preparation for and conduct of primaries and elections, further providing for publishing constitutional amendments.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-15T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1207/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c864a57c-e144-4fee-8f23-2abb65f9bd08",
+    "identifier": "HB 2119",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in game or wildlife protection, further providing for killing game or wildlife to protect property.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-08T05:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2119/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

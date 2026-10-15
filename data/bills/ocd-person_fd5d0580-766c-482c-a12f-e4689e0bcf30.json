@@ -43,5 +43,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2104/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/133fcaaf-31da-43ef-b08b-040b93bfdc14",
+    "identifier": "HB 1005",
+    "title": "An Act repealing the act of July 13, 1953 (P.L.377, No.85), known as the Use and Storage Tax Act.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1005/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/29e166bb-0285-4082-b0c0-00962aab65cb",
+    "identifier": "HB 412",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in Pennsylvania National Guard, further providing for association group life insurance for Pennsylvania National Guard.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB412/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8e5002c6-8375-4f5e-98b2-1ca01d389beb",
+    "identifier": "HB 1884",
+    "title": "An Act amending the act of June 22, 1937 (P.L.1987, No.394), known as The Clean Streams Law, in general provisions and public policy, providing for general permit modernization.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1884/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fe010db4-a683-416a-bcb9-56e3bb1e0aff",
+    "identifier": "HB 1595",
+    "title": "An Act providing for the abrogation of regulations relating to the Pennsylvania Heavy-Duty Diesel Emissions Control Program and for the applicability of Federal standards.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-11T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1595/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/05347d77-6a99-49dd-8b90-d0fcc027b99c",
+    "identifier": "HB 1912",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in falsification and intimidation, providing for the offense of swatting.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-01T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1912/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

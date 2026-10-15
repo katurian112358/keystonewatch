@@ -103,5 +103,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2153/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1b7bd999-f3c5-4ffe-b52b-209ccf42f020",
+    "identifier": "HB 527",
+    "title": "An Act providing for communication duties between the Department of Health and the Department of Human Services with certain agencies and the Department of Aging relating to abuse of adults and older adults.",
+    "session": "2025-2026",
+    "status": "Referred to Aging & Older Adult Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-10T05:00:00+00:00",
+      "description": "Referred to Aging & Older Adult Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB527/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/712fedbc-4b9b-46ff-807e-6ef8c55b69fd",
+    "identifier": "HB 1170",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in general administration relating to correctional institutions, providing for electronic control gloves.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1170/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6aba08a6-f28b-4880-adb6-2cae19118a8d",
+    "identifier": "HB 1483",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in licenses and regulations and liquor, alcohol and malt and brewed beverages, further providing for unlawful acts relative to liquor, malt and brewed beverages and licensees.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1483/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/05347d77-6a99-49dd-8b90-d0fcc027b99c",
+    "identifier": "HB 1912",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in falsification and intimidation, providing for the offense of swatting.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-01T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1912/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/be7321a6-b0cb-4041-a01b-bd6371fa3bdc",
+    "identifier": "HB 1422",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in voting by qualified mail-in electors, further providing for voting by mail-in electors.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1422/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

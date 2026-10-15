@@ -178,5 +178,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB380/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e937bdad-c245-4c4d-8b2f-9edf3baaa962",
+    "identifier": "HB 569",
+    "title": "An Act amending the act of June 24, 1976 (P.L.424, No.101), referred to as the Emergency and Law Enforcement Personnel Death Benefits Act, further providing for title of act; and adding provisions relating to coroners.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-25T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB569/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b3629da2-d206-4fa4-b98d-3e6d1050708d",
+    "identifier": "HB 975",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in human trafficking, further providing for definitions and providing for the offense of trafficking in undocumented immigrants.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB975/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

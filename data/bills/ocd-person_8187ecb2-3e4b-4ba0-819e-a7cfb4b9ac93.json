@@ -13,5 +13,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR380/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0b3a9252-b4bb-41c8-a3bd-80e7d7e4e792",
+    "identifier": "HR 37",
+    "title": "A Resolution designating March 13, 2025, as \"K9 Veterans Awareness and Services Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-04T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR37/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

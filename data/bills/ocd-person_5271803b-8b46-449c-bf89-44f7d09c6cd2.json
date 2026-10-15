@@ -238,5 +238,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR10/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9b1e5e1a-c714-4297-a9de-1e4ed55aa24b",
+    "identifier": "SB 661",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in budget and finance, establishing the Animal Cruelty Investigation Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-28T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB661/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/130f35b8-db50-483b-b90b-f472302353ee",
+    "identifier": "SB 879",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in game or wildlife protection, providing for unlawful release of certain balloons.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-24T04:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB879/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6d58519f-5d70-494d-a91c-06c2b3b8c59c",
+    "identifier": "SB 1076",
+    "title": "An Act requiring a percentage of workers on a public works project to be hired from the local labor market; imposing duties on the Department of Labor and Industry; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-09T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1076/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c22548bc-bb6c-4282-9a98-27aae330105e",
+    "identifier": "SR 196",
+    "title": "A Resolution honoring the life and extending condolences to the family of Richard Roman, a distinguished public servant of the Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-24T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR196/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/29ce7977-ff66-4109-b53d-f617c7205634",
+    "identifier": "SB 304",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, providing for military education scholarship account; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-25T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB304/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/27cf2a37-e324-4b2a-b9dd-db2ee4781d1f",
+    "identifier": "SB 463",
+    "title": "An Act authorizing the provision or sale of Pennsylvania milk in Pennsylvania schools.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB463/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ff7522d8-48c1-46bb-aef3-f8523a1db3d5",
+    "identifier": "SB 759",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in grounds and buildings, providing for certified point-of-use filter required; establishing the Safe Schools Drinking Water Fund; and imposing duties on the Department of Environmental Protection.",
+    "session": "2025-2026",
+    "status": "Referred to Institutional Sustainability & Innovation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to Institutional Sustainability & Innovation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB759/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/607902cf-f696-46ca-99bc-0273bd1125b3",
+    "identifier": "SR 206",
+    "title": "A Resolution designating the week of January 18 through 25, 2026, as \"Dr. Martin Luther King, Jr., Holiday Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-06T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR206/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
   }
 ]

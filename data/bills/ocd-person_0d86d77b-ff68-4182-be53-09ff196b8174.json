@@ -283,5 +283,245 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB258/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ef7289be-ecfd-4be0-b2b8-eb8611cf8dc6",
+    "identifier": "HB 515",
+    "title": "An Act prohibiting restrictions on household appliances by Commonwealth agencies and municipalities; and providing for civil actions authorized.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB515/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1c496a67-ae67-4d24-bfde-c30705bead48",
+    "identifier": "HB 1480",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, in Pennsylvania State Police, providing for nonpublic database registry of domestic violence offenders; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1480/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0032579a-9566-4af6-832e-aa4e9343b516",
+    "identifier": "HB 1725",
+    "title": "An Act amending the act of June 1, 1956 (1955 P.L.1944, No.655),  referred to as the Liquid Fuels Tax Municipal Allocation Law,  further providing for eligibility for receipt of funds relating to recycled asphalt in mixed use design on road or street maintenance.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-14T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1725/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d09a2dd7-a09e-46b2-b589-ce53d06aa53c",
+    "identifier": "HB 1437",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for exclusions from tax.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1437/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/41025ade-dc71-4d31-9932-a28e55a58ae3",
+    "identifier": "HB 1684",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in inheritance tax, further providing for appraisement and for deductions.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-30T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1684/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aa411178-42ed-42ee-9c50-0cae6718ed50",
+    "identifier": "HB 319",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in hunting and furtaking licenses, further providing for resident license and fee exemptions.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB319/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f151b847-d977-44ed-ad0f-2ac2c0d88f68",
+    "identifier": "HR 335",
+    "title": "A Resolution honoring the life and legacy of United States Army Air Forces Warrant Officer William J. McMichael, expressing condolences to his family and commending with gratitude and respect the recovery and return of his remains.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Laid on the table"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR335/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/29e166bb-0285-4082-b0c0-00962aab65cb",
+    "identifier": "HB 412",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in Pennsylvania National Guard, further providing for association group life insurance for Pennsylvania National Guard.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB412/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7557f1e5-a973-43a2-a716-2845609d56bd",
+    "identifier": "HB 1632",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in certification of teachers, providing for human trafficking awareness and prevention.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1632/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4aa8f98d-65b2-4a6a-89aa-a261b68d6ca0",
+    "identifier": "HB 165",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in abortion, further providing for medical consultation and judgment.",
+    "session": "2025-2026",
+    "status": "Corrective Reprint, Printer's No.  617",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-13T05:00:00+00:00",
+      "description": "Corrective Reprint, Printer's No.  617"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB165/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f5636f8f-2365-4600-b10b-0e696d360b0f",
+    "identifier": "HB 318",
+    "title": "An Act amending the act of December 5, 1936 (2nd Sp.Sess., 1937 P.L.2897, No.1), known as the Unemployment Compensation Law, in compensation, further providing for ineligibility for compensation.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB318/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fe010db4-a683-416a-bcb9-56e3bb1e0aff",
+    "identifier": "HB 1595",
+    "title": "An Act providing for the abrogation of regulations relating to the Pennsylvania Heavy-Duty Diesel Emissions Control Program and for the applicability of Federal standards.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-11T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1595/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c864a57c-e144-4fee-8f23-2abb65f9bd08",
+    "identifier": "HB 2119",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in game or wildlife protection, further providing for killing game or wildlife to protect property.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-08T05:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2119/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/05347d77-6a99-49dd-8b90-d0fcc027b99c",
+    "identifier": "HB 1912",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in falsification and intimidation, providing for the offense of swatting.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-01T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1912/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e8509bff-2078-4db4-9a68-16bc70a3a54e",
+    "identifier": "HB 117",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, further providing for billing.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB117/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b3629da2-d206-4fa4-b98d-3e6d1050708d",
+    "identifier": "HB 975",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in human trafficking, further providing for definitions and providing for the offense of trafficking in undocumented immigrants.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB975/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

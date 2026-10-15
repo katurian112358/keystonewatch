@@ -478,5 +478,140 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB977/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6d793eab-6fab-45b2-96e3-734fdf142334",
+    "identifier": "SB 1011",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for legislative districts.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1011/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2e51652e-3c70-4e29-8d3b-45fe53110655",
+    "identifier": "SB 332",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in dates of elections and primaries and special elections, further providing for general primary and candidates to be nominated and party officers to be elected.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-28T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB332/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c22548bc-bb6c-4282-9a98-27aae330105e",
+    "identifier": "SR 196",
+    "title": "A Resolution honoring the life and extending condolences to the family of Richard Roman, a distinguished public servant of the Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-24T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR196/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/492ddb56-d97b-41f1-b0fc-109c55208fe9",
+    "identifier": "SR 49",
+    "title": "A Resolution recognizing March 21, 2025, as \"World Down Syndrome Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR49/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/92973a7e-d7b2-4acc-a4a5-1564af7c6ef0",
+    "identifier": "SR 142",
+    "title": "A Resolution designating September 1, 2025, as \"Drive Sober or Get Pulled Over Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-04T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR142/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/27cf2a37-e324-4b2a-b9dd-db2ee4781d1f",
+    "identifier": "SB 463",
+    "title": "An Act authorizing the provision or sale of Pennsylvania milk in Pennsylvania schools.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB463/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/607902cf-f696-46ca-99bc-0273bd1125b3",
+    "identifier": "SR 206",
+    "title": "A Resolution designating the week of January 18 through 25, 2026, as \"Dr. Martin Luther King, Jr., Holiday Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-06T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR206/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/c8b10b63-f8ff-449d-a562-d8dd4d21ed67",
+    "identifier": "SR 127",
+    "title": "A Resolution designating June 23, 2025, as \"Dravet Syndrome Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-20T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR127/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/60f3548f-f329-47da-bdea-a7cf3a7577ef",
+    "identifier": "SB 93",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in revenues relating to gaming, providing for revenue from expansion of gaming.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB93/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

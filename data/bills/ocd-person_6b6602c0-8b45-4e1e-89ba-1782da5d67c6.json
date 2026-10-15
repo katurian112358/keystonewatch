@@ -103,5 +103,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB876/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1b7bd999-f3c5-4ffe-b52b-209ccf42f020",
+    "identifier": "HB 527",
+    "title": "An Act providing for communication duties between the Department of Health and the Department of Human Services with certain agencies and the Department of Aging relating to abuse of adults and older adults.",
+    "session": "2025-2026",
+    "status": "Referred to Aging & Older Adult Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-10T05:00:00+00:00",
+      "description": "Referred to Aging & Older Adult Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB527/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a52d721a-c696-4654-819b-43d5d96aa595",
+    "identifier": "HB 2068",
+    "title": "An Act amending the act of November 26, 1982 (P.L.744, No.203), referred to as the Prothonotary Fee Law, further providing for automation fee for prothonotary's office.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2068/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d3dbf37a-7952-48e9-a65a-b1190c24d35d",
+    "identifier": "HR 47",
+    "title": "A Resolution amending House Rule 14, further providing for members' and employees' expenses.",
+    "session": "2025-2026",
+    "status": "Referred to Rules",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-31T05:00:00+00:00",
+      "description": "Referred to Rules"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR47/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a3079520-d610-4f17-9322-e372af5fc87f",
+    "identifier": "HB 2069",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in general provisions relating to operation of vehicles, providing for automated vehicle noise enforcement systems; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2069/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a4486457-4ef2-4979-a5a0-91c2d0b79ba4",
+    "identifier": "HR 93",
+    "title": "A Resolution directing the Joint State Government Commission to conduct a comprehensive study and issue a report on Junior Reserve Officers' Training Corps programs in schools in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR93/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aa84f4e1-faa9-4120-a638-aa24777a9890",
+    "identifier": "HR 300",
+    "title": "A Resolution recognizing September 15 through October 15, 2025, as \"Hispanic Heritage Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR300/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8a857d5e-fae5-4df2-86a1-db4d37e9948f",
+    "identifier": "HB 1960",
+    "title": "An Act providing for an exemption to a business income and receipts tax imposed by a city of the first class.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1960/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

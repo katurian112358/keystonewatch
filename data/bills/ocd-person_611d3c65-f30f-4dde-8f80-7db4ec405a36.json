@@ -283,5 +283,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR76/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5b473716-5df4-4cd6-af02-62b257bc0c38",
+    "identifier": "SB 23",
+    "title": "An Act amending Title 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in assessments of persons and property, providing for senior property tax freeze.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB23/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2e51652e-3c70-4e29-8d3b-45fe53110655",
+    "identifier": "SB 332",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in dates of elections and primaries and special elections, further providing for general primary and candidates to be nominated and party officers to be elected.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-28T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB332/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ff7522d8-48c1-46bb-aef3-f8523a1db3d5",
+    "identifier": "SB 759",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in grounds and buildings, providing for certified point-of-use filter required; establishing the Safe Schools Drinking Water Fund; and imposing duties on the Department of Environmental Protection.",
+    "session": "2025-2026",
+    "status": "Referred to Institutional Sustainability & Innovation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to Institutional Sustainability & Innovation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB759/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5f4569b8-72fd-4450-83d4-e0e82b4e0dbb",
+    "identifier": "SB 105",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in primary and election expenses, further providing for advertising.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB105/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

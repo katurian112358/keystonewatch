@@ -43,5 +43,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR61/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b04f3f3c-2455-4927-89ad-49e2740ad998",
+    "identifier": "HB 293",
+    "title": "An Act amending Title 16 (Counties) of the Pennsylvania Consolidated Statutes, providing for electronic device licenses; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB293/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

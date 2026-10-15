@@ -43,5 +43,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR45/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8953add7-868d-4724-8aad-7ddc25f62a84",
+    "identifier": "HB 2196",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, providing for consumer choice billing; imposing penalties; and making repeals.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-05T05:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2196/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f151b847-d977-44ed-ad0f-2ac2c0d88f68",
+    "identifier": "HR 335",
+    "title": "A Resolution honoring the life and legacy of United States Army Air Forces Warrant Officer William J. McMichael, expressing condolences to his family and commending with gratitude and respect the recovery and return of his remains.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Laid on the table"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR335/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/8e5002c6-8375-4f5e-98b2-1ca01d389beb",
+    "identifier": "HB 1884",
+    "title": "An Act amending the act of June 22, 1937 (P.L.1987, No.394), known as The Clean Streams Law, in general provisions and public policy, providing for general permit modernization.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1884/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

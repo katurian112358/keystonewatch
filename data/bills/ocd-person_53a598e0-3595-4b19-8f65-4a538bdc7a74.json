@@ -838,5 +838,410 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1048/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/270c10c6-2479-416d-b5d4-093c786fa3e5",
+    "identifier": "SB 1047",
+    "title": "An Act providing for a full and independent investigation into a use of deadly force by a police officer.",
+    "session": "2025-2026",
+    "status": "Referred to Law & Justice",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-15T04:00:00+00:00",
+      "description": "Referred to Law & Justice"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1047/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b42ccdea-ce3b-4bcc-a6bc-fdf3233347fe",
+    "identifier": "SB 286",
+    "title": "An Act making appropriations from a restricted revenue account within the General Fund and from Federal augmentation funds to the Pennsylvania Public Utility Commission for the fiscal year July 1, 2025, to June 30, 2026.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-26T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB286/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/def51f38-3dbb-4270-b5c9-f2892b42072f",
+    "identifier": "SB 740",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in medical services, repealing provisions relating to the Medical Services Program and providing for copays and fees prohibited; and abrogating regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-13T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB740/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8d0d966b-b845-403a-a821-7a8dae620de0",
+    "identifier": "SB 190",
+    "title": "An Act providing for pharmaceutical transparency; establishing the Pharmaceutical Transparency Review Board and providing for its powers and duties; establishing the Pharmaceutical Transparency Review Fund; and imposing a penalty.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB190/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fa914629-0a32-4a04-b6b7-6924e539c235",
+    "identifier": "SR 72",
+    "title": "A Resolution designating March 18, 2025, as \"COVID-19 Day of Remembrance\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR72/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/baf439da-b43e-4c29-956a-55d460407f7e",
+    "identifier": "SB 587",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for determination of eligibility and method of submission.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB587/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5daa7e37-d285-48ed-8a98-0c9111de27e9",
+    "identifier": "SB 575",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of ethnic intimidation; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB575/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bb1c1636-81d0-40ff-bee4-b50c040a96b4",
+    "identifier": "SB 1080",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1080/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2338f2eb-1d90-4377-a475-8c00422f31ec",
+    "identifier": "SR 137",
+    "title": "A Resolution designating the month of August 2025 as \"Emergency Management Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-15T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR137/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/31fbf51f-b5a5-43b4-ab41-df82529ee17d",
+    "identifier": "SR 205",
+    "title": "A Resolution recognizing the 250th anniversary of the United States Postal Service.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-22T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR205/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/38c0ffae-4826-4c1f-828e-77c2ee980902",
+    "identifier": "SB 29",
+    "title": "An Act prohibiting discrimination against individuals based on unemployment status; providing for powers and duties of the Department of Labor and Industry; and imposing a penalty.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB29/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/92973a7e-d7b2-4acc-a4a5-1564af7c6ef0",
+    "identifier": "SR 142",
+    "title": "A Resolution designating September 1, 2025, as \"Drive Sober or Get Pulled Over Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-04T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR142/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7c63fec9-f739-4218-aa2c-774933fcee5e",
+    "identifier": "SB 795",
+    "title": "An Act amending Titles 53 (Municipalities Generally), 66 (Public Utilities) and 74 (Transportation) of the Pennsylvania Consolidated Statutes, in transportation network companies, providing for excise fee; in transportation network service, providing for excise fee; and, in sustainable mobility options, further providing for fund.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-16T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB795/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5db38c8e-50e8-4f42-949e-6c58377d5d61",
+    "identifier": "SB 1026",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in Safe2Say Program, further providing for definitions and for Safe2Say Program; in postsecondary institution sexual harassment and sexual violence policy and online reporting system, further providing for definitions, for policy for postsecondary institution sexual harassment and sexual violence and for online reporting system; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-03T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1026/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a1b413ca-3631-4a75-9e2e-810e4d3d0053",
+    "identifier": "SB 1161",
+    "title": "An Act to provide appropriations from the General Fund for the expenses of the Executive, Legislative and Judicial Departments of the Commonwealth, the public debt and the public schools for the fiscal year July 1, 2026, to June 30, 2027, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2026; to provide appropriations from special funds and accounts to the Executive and Judicial Departments for the fiscal year July 1, 2026, to June 30, 2027, and for the payment of bills remaining unpaid at the close of the fiscal year ending June 30, 2026; to provide for the appropriation of Federal funds to the Executive and Judicial Departments for the fiscal year July 1, 2026, to June 30, 2027, and for the payment of bills remaining unpaid at the close of the fiscal year ending June 30, 2026; and to provide for the additional appropriation of Federal and State funds to the Executive and Legislative Departments for the fiscal year July 1, 2025, to June 30, 2026, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2025.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-24T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1161/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e774bca6-141e-4b28-b6c7-81b7a6622d67",
+    "identifier": "SB 281",
+    "title": "An Act making appropriations from the State Employees' Retirement Fund and from the SERS Defined Contribution Fund to provide for expenses of the State Employees' Retirement Board for the fiscal year July 1, 2025, to June 30, 2026, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2025.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-26T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB281/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8c6944b4-d850-4110-b82c-b13075822fa3",
+    "identifier": "SB 882",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in dockets, indices and other records, further providing for enforcement of foreign judgments.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-24T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB882/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8916cd99-24d7-48e8-96e0-d531865d7577",
+    "identifier": "SB 936",
+    "title": "An Act requiring health insurance policies to provide coverage for postexposure prophylaxis HIV medication.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-22T04:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB936/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ff7522d8-48c1-46bb-aef3-f8523a1db3d5",
+    "identifier": "SB 759",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in grounds and buildings, providing for certified point-of-use filter required; establishing the Safe Schools Drinking Water Fund; and imposing duties on the Department of Environmental Protection.",
+    "session": "2025-2026",
+    "status": "Referred to Institutional Sustainability & Innovation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to Institutional Sustainability & Innovation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB759/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/607902cf-f696-46ca-99bc-0273bd1125b3",
+    "identifier": "SR 206",
+    "title": "A Resolution designating the week of January 18 through 25, 2026, as \"Dr. Martin Luther King, Jr., Holiday Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-06T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR206/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/c8b10b63-f8ff-449d-a562-d8dd4d21ed67",
+    "identifier": "SR 127",
+    "title": "A Resolution designating June 23, 2025, as \"Dravet Syndrome Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-20T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR127/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9fa700a5-88cb-46f0-9740-50f445b0397b",
+    "identifier": "SB 816",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school health services, providing for parent educational information regarding eating disorders.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB816/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/97677c92-67b4-4f65-9b4c-c5e48f78e8a6",
+    "identifier": "SR 54",
+    "title": "A Resolution recognizing March 18, 2025, as \"Public Defender Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-20T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR54/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b2c5af12-224b-4f8e-85c4-bef85d4c4e12",
+    "identifier": "SR 21",
+    "title": "A Resolution recognizing the month of February 2025 as \"Black History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR21/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/fabe7ae3-ef42-49b8-9335-8123a236a677",
+    "identifier": "SB 118",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in powers and duties of the Department of Environmental Resources, its officers and departmental and advisory boards and commissions, providing for Office of Environmental Justice.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB118/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/000bdc10-d936-4da4-93e3-8e861bd0efdd",
+    "identifier": "SB 1168",
+    "title": "An Act making appropriations from a restricted revenue account within the General Fund and from Federal augmentation funds to the Pennsylvania Public Utility Commission for the fiscal year July 1, 2026, to June 30, 2027.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-24T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1168/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/47544ba2-dd52-4be2-8bc8-a9ef12c1f5c4",
+    "identifier": "SB 935",
+    "title": "An Act requiring health insurance policies to provide coverage for preexposure prophylaxis HIV medication.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-22T04:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB935/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

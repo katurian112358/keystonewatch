@@ -2853,20 +2853,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "06b7959e-3914-4369-883e-a6ce3f65c2c0",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Reported as amended",
       "date": "2025-05-12T04:00:00+00:00",
-      "classification": [
-        "amendment-passage",
-        "committee-passage"
-      ],
-      "order": 1,
-      "related_entities": []
+      "description": "Reported as amended"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1401/",
     "sponsorship_role": "cosponsor",
@@ -2880,19 +2868,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "f248b8dd-94f0-4376-87c6-300c3f051bca",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-11-19T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2043/",
     "sponsorship_role": "cosponsor",

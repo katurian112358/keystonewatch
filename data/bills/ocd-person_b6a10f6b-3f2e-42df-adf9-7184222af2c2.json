@@ -43,5 +43,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR325/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dfd1f5c4-411d-4f10-b346-3b0728150988",
+    "identifier": "HB 1619",
+    "title": "An Act providing for regulation of skill gaming; imposing duties on Department of Revenue; establishing a regulatory program within Department of Revenue governing skill gaming; providing for issuance of licenses; imposing criminal and civil penalties; and providing for zoning.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-17T04:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1619/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f5e4f19f-e151-4916-ae8d-207725cfcc83",
+    "identifier": "HB 2038",
+    "title": "An Act amending the act of December 19, 1988 (P.L.1262, No.156), known as the Local Option Small Games of Chance Act, in preliminary provisions, further providing for definitions; and, in games of chance, further providing for prize limits.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2038/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a52d721a-c696-4654-819b-43d5d96aa595",
+    "identifier": "HB 2068",
+    "title": "An Act amending the act of November 26, 1982 (P.L.744, No.203), referred to as the Prothonotary Fee Law, further providing for automation fee for prothonotary's office.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2068/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6b774963-c405-4f9f-90e9-de11d6f0e4b8",
+    "identifier": "HB 2039",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in preliminary provisions, providing for innovative assessment and accountability demonstration authority.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2039/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/02815072-71a6-4da2-b72d-c8b161748213",
+    "identifier": "HB 1517",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, providing for vendor-designed registration plates.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1517/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

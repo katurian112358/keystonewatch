@@ -268,5 +268,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB391/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6d793eab-6fab-45b2-96e3-734fdf142334",
+    "identifier": "SB 1011",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for legislative districts.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1011/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5b473716-5df4-4cd6-af02-62b257bc0c38",
+    "identifier": "SB 23",
+    "title": "An Act amending Title 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in assessments of persons and property, providing for senior property tax freeze.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB23/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/130f35b8-db50-483b-b90b-f472302353ee",
+    "identifier": "SB 879",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in game or wildlife protection, providing for unlawful release of certain balloons.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-24T04:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB879/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bb1c1636-81d0-40ff-bee4-b50c040a96b4",
+    "identifier": "SB 1080",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1080/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/607902cf-f696-46ca-99bc-0273bd1125b3",
+    "identifier": "SR 206",
+    "title": "A Resolution designating the week of January 18 through 25, 2026, as \"Dr. Martin Luther King, Jr., Holiday Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-06T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR206/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/b2c5af12-224b-4f8e-85c4-bef85d4c4e12",
+    "identifier": "SR 21",
+    "title": "A Resolution recognizing the month of February 2025 as \"Black History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR21/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
   }
 ]

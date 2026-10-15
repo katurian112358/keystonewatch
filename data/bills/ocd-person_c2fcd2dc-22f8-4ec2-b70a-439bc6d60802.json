@@ -358,5 +358,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR76/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/492ddb56-d97b-41f1-b0fc-109c55208fe9",
+    "identifier": "SR 49",
+    "title": "A Resolution recognizing March 21, 2025, as \"World Down Syndrome Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR49/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/92973a7e-d7b2-4acc-a4a5-1564af7c6ef0",
+    "identifier": "SR 142",
+    "title": "A Resolution designating September 1, 2025, as \"Drive Sober or Get Pulled Over Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-04T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR142/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/27cf2a37-e324-4b2a-b9dd-db2ee4781d1f",
+    "identifier": "SB 463",
+    "title": "An Act authorizing the provision or sale of Pennsylvania milk in Pennsylvania schools.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB463/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c8b10b63-f8ff-449d-a562-d8dd4d21ed67",
+    "identifier": "SR 127",
+    "title": "A Resolution designating June 23, 2025, as \"Dravet Syndrome Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-20T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR127/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

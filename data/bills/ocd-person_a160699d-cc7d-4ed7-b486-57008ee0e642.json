@@ -733,5 +733,200 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB616/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b0a0c720-b1c1-4f04-81c0-6e9611648e4f",
+    "identifier": "SB 249",
+    "title": "An Act amending the act of November 24, 1998 (P.L.882, No.111), known as the Crime Victims Act, in crime victims, further providing for responsibilities of State and local law enforcement agencies.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-13T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB249/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c4b163d7-5f98-4d34-8aa1-054ff7450eb8",
+    "identifier": "SB 767",
+    "title": "An Act amending Title 7 (Banks and Banking) of the Pennsylvania Consolidated Statutes, in mortgage loan industry licensing and consumer protection, further providing for definitions and for powers conferred on certain licensees engaged in the mortgage loan business; and making repeals.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB767/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6d58519f-5d70-494d-a91c-06c2b3b8c59c",
+    "identifier": "SB 1076",
+    "title": "An Act requiring a percentage of workers on a public works project to be hired from the local labor market; imposing duties on the Department of Labor and Industry; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-09T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1076/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/632f0f83-0252-4a7b-a819-defb01ab0f1f",
+    "identifier": "SB 828",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, establishing the Buy American Grant Program and the Buy American Grant Fund; and imposing duties on the Department of Community and Economic Development.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-10T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB828/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/baf439da-b43e-4c29-956a-55d460407f7e",
+    "identifier": "SB 587",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for determination of eligibility and method of submission.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB587/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bb1c1636-81d0-40ff-bee4-b50c040a96b4",
+    "identifier": "SB 1080",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1080/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/beb0703d-e2c8-4845-a2f7-c53c8e7373cf",
+    "identifier": "SB 266",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in administration and enforcement, further providing for list of persons self excluded from gaming activities and for prohibited acts and penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB266/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/296bf585-cc29-4f95-84d8-3e2e3856a7e0",
+    "identifier": "SB 934",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in cyber charter schools, further providing for enrollment and notification.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-17T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB934/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/607902cf-f696-46ca-99bc-0273bd1125b3",
+    "identifier": "SR 206",
+    "title": "A Resolution designating the week of January 18 through 25, 2026, as \"Dr. Martin Luther King, Jr., Holiday Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-06T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR206/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/87c41c29-466c-43a4-aeb8-2b30b6a4189b",
+    "identifier": "SB 592",
+    "title": "An Act relating to the delivery of services and programs to individuals with disabilities; conferring powers and duties on the Office of the Governor; establishing the Office for Individuals with Disabilities and the Advisory Committee for Individuals with Disabilities; and providing for the powers and duties of the office and the committee and for funding of the office and the committee.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB592/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c8b10b63-f8ff-449d-a562-d8dd4d21ed67",
+    "identifier": "SR 127",
+    "title": "A Resolution designating June 23, 2025, as \"Dravet Syndrome Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-20T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR127/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e7a7625a-b20b-4a9e-9f73-d81a2c398e96",
+    "identifier": "SB 144",
+    "title": "An Act providing compensation to persons in active service in connection with the Global War on Terrorism or their beneficiaries; authorizing the incurring of indebtedness and the issue and sale of bonds by the Commonwealth for the payment of compensation contingent upon electorate approval; establishing the Global War on Terrorism Veterans' Compensation Bond Fund and the Global War on Terrorism Veterans' Compensation Bond Sinking Fund; imposing a penalty; making appropriations; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB144/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cd2f8b82-efb5-40d1-88cf-1461a1e18278",
+    "identifier": "SB 272",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, providing for infertility care coverage.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB272/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -133,5 +133,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB206/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5b473716-5df4-4cd6-af02-62b257bc0c38",
+    "identifier": "SB 23",
+    "title": "An Act amending Title 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in assessments of persons and property, providing for senior property tax freeze.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB23/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8b648ee9-a057-4ffb-87c6-4a26321a0198",
+    "identifier": "SB 229",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school safety and security, establishing the Cell Phone Lockable Bag Pilot Program.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB229/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/60f3548f-f329-47da-bdea-a7cf3a7577ef",
+    "identifier": "SB 93",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in revenues relating to gaming, providing for revenue from expansion of gaming.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB93/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

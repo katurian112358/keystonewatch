@@ -148,5 +148,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1837/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ef7289be-ecfd-4be0-b2b8-eb8611cf8dc6",
+    "identifier": "HB 515",
+    "title": "An Act prohibiting restrictions on household appliances by Commonwealth agencies and municipalities; and providing for civil actions authorized.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB515/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/712fedbc-4b9b-46ff-807e-6ef8c55b69fd",
+    "identifier": "HB 1170",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in general administration relating to correctional institutions, providing for electronic control gloves.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1170/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/07c33ff6-3cf5-4906-9799-acb3062fcadc",
+    "identifier": "HB 1845",
+    "title": "An Act amending the act of May 1, 1984 (P.L.206, No.43), known as the Pennsylvania Safe Drinking Water Act, further providing for definitions and for public nuisances.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-09T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1845/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4aa8f98d-65b2-4a6a-89aa-a261b68d6ca0",
+    "identifier": "HB 165",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in abortion, further providing for medical consultation and judgment.",
+    "session": "2025-2026",
+    "status": "Corrective Reprint, Printer's No.  617",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-13T05:00:00+00:00",
+      "description": "Corrective Reprint, Printer's No.  617"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB165/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

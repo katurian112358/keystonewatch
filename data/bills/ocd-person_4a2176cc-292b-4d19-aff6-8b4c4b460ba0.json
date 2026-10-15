@@ -28,5 +28,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1441/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8a857d5e-fae5-4df2-86a1-db4d37e9948f",
+    "identifier": "HB 1960",
+    "title": "An Act providing for an exemption to a business income and receipts tax imposed by a city of the first class.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1960/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

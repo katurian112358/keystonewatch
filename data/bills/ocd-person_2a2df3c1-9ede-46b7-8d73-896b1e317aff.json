@@ -223,5 +223,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR10/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2e51652e-3c70-4e29-8d3b-45fe53110655",
+    "identifier": "SB 332",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in dates of elections and primaries and special elections, further providing for general primary and candidates to be nominated and party officers to be elected.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-28T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB332/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c22548bc-bb6c-4282-9a98-27aae330105e",
+    "identifier": "SR 196",
+    "title": "A Resolution honoring the life and extending condolences to the family of Richard Roman, a distinguished public servant of the Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-24T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR196/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f7201fca-e289-48d9-9116-b3c665e42b77",
+    "identifier": "SB 139",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, providing for exception from compulsory education for certain children with disabilities.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB139/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

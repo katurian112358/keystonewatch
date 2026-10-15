@@ -88,5 +88,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2153/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8e5002c6-8375-4f5e-98b2-1ca01d389beb",
+    "identifier": "HB 1884",
+    "title": "An Act amending the act of June 22, 1937 (P.L.1987, No.394), known as The Clean Streams Law, in general provisions and public policy, providing for general permit modernization.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1884/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/087aef8b-bb8c-4e81-a074-35cfe8e42557",
+    "identifier": "HB 1879",
+    "title": "An Act amending the act of July 23, 1970 (P.L.563, No.195), known as the Public Employe Relations Act, in scope of bargaining, further providing for proper subjects of collective bargaining.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-25T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1879/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eb8ea7f3-5dac-4891-b872-e3468b930275",
+    "identifier": "HB 761",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in inspection of vehicles, further providing for prohibition on expenditures for emission inspection program.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB761/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/66a85591-08d9-49e3-84b5-85124e516ad8",
+    "identifier": "HB 1423",
+    "title": "An Act amending Titles 16 (Counties) and 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in district attorney, assistants and detectives, further providing for filling of vacancies; in general provisions relating to home rule and optional plan government, further providing for limitation on municipal powers; and, in general provisions common to optional plans, further providing for manner of filling vacancies in office.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1423/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -268,5 +268,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB694/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/27cf2a37-e324-4b2a-b9dd-db2ee4781d1f",
+    "identifier": "SB 463",
+    "title": "An Act authorizing the provision or sale of Pennsylvania milk in Pennsylvania schools.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB463/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -223,5 +223,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1198/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6d58519f-5d70-494d-a91c-06c2b3b8c59c",
+    "identifier": "SB 1076",
+    "title": "An Act requiring a percentage of workers on a public works project to be hired from the local labor market; imposing duties on the Department of Labor and Industry; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-09T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1076/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/632f0f83-0252-4a7b-a819-defb01ab0f1f",
+    "identifier": "SB 828",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, establishing the Buy American Grant Program and the Buy American Grant Fund; and imposing duties on the Department of Community and Economic Development.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-10T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB828/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bb1c1636-81d0-40ff-bee4-b50c040a96b4",
+    "identifier": "SB 1080",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1080/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c22548bc-bb6c-4282-9a98-27aae330105e",
+    "identifier": "SR 196",
+    "title": "A Resolution honoring the life and extending condolences to the family of Richard Roman, a distinguished public servant of the Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-24T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR196/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/beb0703d-e2c8-4845-a2f7-c53c8e7373cf",
+    "identifier": "SB 266",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in administration and enforcement, further providing for list of persons self excluded from gaming activities and for prohibited acts and penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB266/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/92973a7e-d7b2-4acc-a4a5-1564af7c6ef0",
+    "identifier": "SR 142",
+    "title": "A Resolution designating September 1, 2025, as \"Drive Sober or Get Pulled Over Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-04T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR142/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c8b10b63-f8ff-449d-a562-d8dd4d21ed67",
+    "identifier": "SR 127",
+    "title": "A Resolution designating June 23, 2025, as \"Dravet Syndrome Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-20T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR127/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

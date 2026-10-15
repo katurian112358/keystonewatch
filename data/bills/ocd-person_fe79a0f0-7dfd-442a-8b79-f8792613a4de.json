@@ -88,5 +88,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB31/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bb1c1636-81d0-40ff-bee4-b50c040a96b4",
+    "identifier": "SB 1080",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1080/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b2c5af12-224b-4f8e-85c4-bef85d4c4e12",
+    "identifier": "SR 21",
+    "title": "A Resolution recognizing the month of February 2025 as \"Black History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR21/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/eb4eb8bb-2b5a-44f6-9775-78cf6218caf3",
+    "identifier": "SB 320",
+    "title": "An Act prohibiting for-profit entities from owning or managing hospitals and health systems in this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to Institutional Sustainability & Innovation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-28T05:00:00+00:00",
+      "description": "Referred to Institutional Sustainability & Innovation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB320/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

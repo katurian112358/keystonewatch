@@ -1638,20 +1638,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "92a47b76-fda5-4bb3-88c9-56839c021997",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Reported as amended",
       "date": "2025-02-05T05:00:00+00:00",
-      "classification": [
-        "amendment-passage",
-        "committee-passage"
-      ],
-      "order": 1,
-      "related_entities": []
+      "description": "Reported as amended"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB162/",
     "sponsorship_role": "primary",
@@ -1665,17 +1653,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "64ed271e-a590-4530-baef-51aedd488901",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Laid on the table",
       "date": "2025-10-08T04:00:00+00:00",
-      "classification": [],
-      "order": 1,
-      "related_entities": []
+      "description": "Laid on the table"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR335/",
     "sponsorship_role": "cosponsor",
@@ -1689,19 +1668,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "91499588-47c1-4dca-b532-e9c501247265",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-12-03T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2068/",
     "sponsorship_role": "cosponsor",
@@ -1715,19 +1683,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "e86647b6-9b93-48a8-9824-6cc75d647bb3",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Reported as committed",
       "date": "2025-03-25T04:00:00+00:00",
-      "classification": [
-        "committee-passage"
-      ],
-      "order": 1,
-      "related_entities": []
+      "description": "Reported as committed"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB569/",
     "sponsorship_role": "cosponsor",
@@ -1741,19 +1698,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "57126509-96b0-47c6-a41f-24704693d88d",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-09-09T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1480/",
     "sponsorship_role": "cosponsor",
