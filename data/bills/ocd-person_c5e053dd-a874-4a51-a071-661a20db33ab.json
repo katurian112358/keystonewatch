@@ -88,5 +88,140 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR178/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/acfb9aad-14ea-41d0-9165-2f58871e3ec7",
+    "identifier": "HR 257",
+    "title": "A Resolution designating the month of November 2025 as \"Diabetes Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-18T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR257/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c8e35738-602d-4d66-8e06-30b468110241",
+    "identifier": "HB 1269",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in administrative organization, further providing for advisory boards and commissions; and, in powers and duties of the Department of Health and its departmental administrative and advisory boards, establishing the Brain Injury Advisory Board.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1269/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/09d19f77-b525-4966-9b08-aae6e2f66f1d",
+    "identifier": "HB 1305",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, establishing the Office of Child Advocate; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-28T04:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1305/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/78f322ab-d2e0-46b7-a886-c4e8878c1aeb",
+    "identifier": "HB 1685",
+    "title": "An Act amending the act of August 24, 1951 (P.L.1304, No.315), known as the Local Health Administration Law, further providing for powers and duties of county departments of health and providing for exception for abatement of asbestos or other similar material.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-01T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/985dbcd9-d6d9-493f-a6b5-12f7dde20a84",
+    "identifier": "HR 113",
+    "title": "A Resolution recognizing April 26, 2025, as \"Diabetic Eye Screening Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR113/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aaf42f5f-2027-4e6f-9d94-87bd6c251352",
+    "identifier": "HR 102",
+    "title": "A Resolution designating the month of March 2025 as \"Colorectal Cancer Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR102/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a361c49c-b294-4bbb-83a5-c26fb828a525",
+    "identifier": "HB 2063",
+    "title": "An Act establishing clean fuels standards; establishing the Clean Fuels Standards Board; imposing duties on the Clean Fuels Standards Board and the Department of Environmental Protection; and establishing the Fair Market Credit Trading Program.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2063/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eb2bfe21-5337-4608-ae99-cf9632194002",
+    "identifier": "HB 1477",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of stalking.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1477/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/669cb875-12a7-4894-a875-a47ff0be74b8",
+    "identifier": "HB 1116",
+    "title": "An Act providing for duty of Department of Environmental Protection to conduct a study on PFAS chemicals in biosolids.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-03T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1116/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

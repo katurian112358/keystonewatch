@@ -73,5 +73,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB777/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c76fdd15-546a-4897-a3e2-e7c178849d4b",
+    "identifier": "HB 894",
+    "title": "An Act establishing the Veterans Entering the Sustainability Sector Program and the Veterans Entering the Sustainability Sector Fund; and imposing duties on the Department of Agriculture, the Department of Community and Economic Development, the Department of Conservation and Natural Resources, the Department of Environmental Protection and the Department of Military and Veterans Affairs.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-13T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB894/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/51ad0a39-1e20-436a-afde-3c3ec768c14d",
+    "identifier": "HB 50",
+    "title": "An Act amending the act of April 14, 2006 (P.L.85, No.28), known as the Water Services Act, in municipal authority approval of actions, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB50/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/254ea1fb-dc26-4ece-8bf1-5d82e36ab0cc",
+    "identifier": "HB 1966",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in bases of jurisdiction and interstate and international procedure, further providing for assistance to tribunals and litigants outside this Commonwealth with respect to service and for issuance of subpoena; in commencement of proceedings, further providing for authority of officers of another state to arrest in this Commonwealth; and, in detainers and extradition, further providing for definitions, for duty of Governor with respect to fugitives from justice and for presigned waiver of extradition.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1966/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/42a46bf1-6fd3-495c-8122-a531992248b9",
+    "identifier": "HB 2004",
+    "title": "An Act establishing the Emergency SNAP Benefits Restricted Account and providing for a transfer to facilitate payment of SNAP benefits to recipients; and imposing duties on the Department of Human Services, the Secretary of the Budget and the State Treasurer.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-30T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2004/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/09374c35-1640-4a19-89f7-25358446e6cf",
+    "identifier": "HB 1496",
+    "title": "An Act amending the act of October 31, 2006 (P.L.1210, No.133), known as the Price Gouging Act, further providing for definitions and for price gouging prohibited.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-30T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1496/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -73,5 +73,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1150/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/19a0a04e-7563-4168-8431-c8a47bb5af0b",
+    "identifier": "HB 1518",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in licensing of drivers, further providing for application for driver's license or learner's permit, for issuance and content of driver's license and for expiration and renewal of drivers' licenses.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1518/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/22051a90-3b10-43b0-8005-4a4c5d120c13",
+    "identifier": "HR 402",
+    "title": "A Resolution urging the Congress of the United States to condition any additional appropriations for the United States Department of Homeland Security and Immigration and Customs Enforcement on meaningful accountability, transparency and civil rights reforms.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-27T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR402/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ef3a9285-f7b4-4adc-943e-f48dd077c455",
+    "identifier": "HR 217",
+    "title": "A Resolution recognizing May 7, 2025, as \"Philadelphia Eagles Day at the Capitol\" in Pennsylvania and honoring the 2024 Philadelphia Eagles as the Super Bowl LIX Champions.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR217/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

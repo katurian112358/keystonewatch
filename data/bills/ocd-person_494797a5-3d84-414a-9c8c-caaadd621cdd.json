@@ -223,5 +223,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1897/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/22051a90-3b10-43b0-8005-4a4c5d120c13",
+    "identifier": "HR 402",
+    "title": "A Resolution urging the Congress of the United States to condition any additional appropriations for the United States Department of Homeland Security and Immigration and Customs Enforcement on meaningful accountability, transparency and civil rights reforms.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-27T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR402/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e0019de0-6609-4792-928f-0cdb81f40624",
+    "identifier": "HB 790",
+    "title": "An Act amending the act of July 19, 1979 (P.L.130, No.48), known as the Health Care Facilities Act, in licensing of health care facilities, providing for hospital emergency abortion services.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB790/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/42a46bf1-6fd3-495c-8122-a531992248b9",
+    "identifier": "HB 2004",
+    "title": "An Act establishing the Emergency SNAP Benefits Restricted Account and providing for a transfer to facilitate payment of SNAP benefits to recipients; and imposing duties on the Department of Human Services, the Secretary of the Budget and the State Treasurer.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-30T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2004/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/619cc505-8afe-4dea-a322-6871d5eb1e39",
+    "identifier": "HB 1898",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in nomination of candidates, further providing for number of signers required for nomination petitions of candidates at primaries.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-30T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1898/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -118,5 +118,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2039/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/99ec889c-1f6e-42d8-ba72-b6056ab9d0ed",
+    "identifier": "HB 437",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for qualifications of electors.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB437/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/584b584b-3305-45b6-a81e-cb83485cc0ee",
+    "identifier": "HB 1091",
+    "title": "An Act amending Title 20 (Decedents, Estates and Fiduciaries) of the Pennsylvania Consolidated Statutes, in intestate succession, further providing for shares of others than surviving spouse.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1091/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6c359ebc-8f08-4796-bc1a-23ff8ed01715",
+    "identifier": "HR 312",
+    "title": "A Resolution recognizing October 15, 2025, as \"White Cane Safety Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR312/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a361c49c-b294-4bbb-83a5-c26fb828a525",
+    "identifier": "HB 2063",
+    "title": "An Act establishing clean fuels standards; establishing the Clean Fuels Standards Board; imposing duties on the Clean Fuels Standards Board and the Department of Environmental Protection; and establishing the Fair Market Credit Trading Program.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2063/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -268,5 +268,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR313/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ef3a9285-f7b4-4adc-943e-f48dd077c455",
+    "identifier": "HR 217",
+    "title": "A Resolution recognizing May 7, 2025, as \"Philadelphia Eagles Day at the Capitol\" in Pennsylvania and honoring the 2024 Philadelphia Eagles as the Super Bowl LIX Champions.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR217/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b4063ccc-cf50-4f06-af9a-7ce13204c1be",
+    "identifier": "HB 1634",
+    "title": "An Act designating the bridge, identified as Bridge Key 28737, carrying 13th Street over Bushkill Creek in the City of Easton, Northampton County, as the Honorable James F. Prendergast Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1634/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/babc33ca-269f-4564-8f18-f3d393d1991a",
+    "identifier": "HB 364",
+    "title": "An Act amending Title 58 (Oil and Gas) of the Pennsylvania Consolidated Statutes, in development, further providing for bonding.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB364/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/24492294-d9a4-4a5b-92b6-d418f3165192",
+    "identifier": "HB 32",
+    "title": "An Act amending the act of June 27, 2006 (1st Sp.Sess., P.L.1873, No.1), known as the Taxpayer Relief Act, in senior citizens property tax and rent rebate assistance, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB32/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b55b315d-e526-4e0f-b2a7-11d762d14539",
+    "identifier": "HR 107",
+    "title": "A Resolution designating March 19, 2025, as \"The Pennsylvania State University IFC/Panhellenic Dance Marathon (THON) Day\" in Pennsylvania and congratulating THON for raising more than $17 million for the Four Diamonds Fund at Penn State Hershey Children's Hospital to help fight pediatric cancer.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR107/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b4a28825-a2ed-45e8-8718-ea2c3addf7e2",
+    "identifier": "HR 39",
+    "title": "A Resolution commemorating the life and contributions of James Earl \"Jimmy\" Carter, Jr., and extending condolences on his passing.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR39/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/65ca045e-b517-4ff4-ac29-edae389142cc",
+    "identifier": "HB 422",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, further providing for classes of income.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB422/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -73,5 +73,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB165/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/05ac685d-e6ac-449a-bbfc-a59486ae444d",
+    "identifier": "HB 351",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in obstructing governmental operations, providing for the offense of enforcement of State law.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB351/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

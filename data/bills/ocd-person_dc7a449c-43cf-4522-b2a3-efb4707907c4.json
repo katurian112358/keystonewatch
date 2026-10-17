@@ -43,5 +43,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2071/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bcc421e8-21b2-445f-b1dc-6d1de6676b55",
+    "identifier": "HB 196",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in nomination of candidates, further providing for number of signers required for nomination petitions of candidates at primaries.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-16T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB196/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fa18894e-feac-4dbd-85e8-47db8fdbb579",
+    "identifier": "HR 238",
+    "title": "A Resolution designating the month of June 2025 as \"Italian-American Heritage Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR238/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

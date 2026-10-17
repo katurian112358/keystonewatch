@@ -73,5 +73,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1150/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c76fdd15-546a-4897-a3e2-e7c178849d4b",
+    "identifier": "HB 894",
+    "title": "An Act establishing the Veterans Entering the Sustainability Sector Program and the Veterans Entering the Sustainability Sector Fund; and imposing duties on the Department of Agriculture, the Department of Community and Economic Development, the Department of Conservation and Natural Resources, the Department of Environmental Protection and the Department of Military and Veterans Affairs.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-13T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB894/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/42a46bf1-6fd3-495c-8122-a531992248b9",
+    "identifier": "HB 2004",
+    "title": "An Act establishing the Emergency SNAP Benefits Restricted Account and providing for a transfer to facilitate payment of SNAP benefits to recipients; and imposing duties on the Department of Human Services, the Secretary of the Budget and the State Treasurer.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-30T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2004/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

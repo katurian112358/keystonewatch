@@ -178,5 +178,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1038/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ff1c9a28-9c4c-4a6e-8d2a-f7146a7fcd63",
+    "identifier": "HB 814",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, providing for tax credit for spouses of first responders killed in line of duty.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-05T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB814/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2f57c741-4924-4904-9fa7-88bc39008032",
+    "identifier": "HR 108",
+    "title": "A Resolution recognizing March 18, 2025, as \"National Transit Worker Appreciation Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-11T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR108/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fb26a9fe-3e31-4a2d-9a57-19983a0f5301",
+    "identifier": "HB 1023",
+    "title": "An Act amending the act of January 17, 1968 (P.L.11, No.5), known as The Minimum Wage Act of 1968, providing for employment in executive capacity, for employment in administrative capacity and for employment in professional capacity.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1023/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a361c49c-b294-4bbb-83a5-c26fb828a525",
+    "identifier": "HB 2063",
+    "title": "An Act establishing clean fuels standards; establishing the Clean Fuels Standards Board; imposing duties on the Clean Fuels Standards Board and the Department of Environmental Protection; and establishing the Fair Market Credit Trading Program.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2063/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e7d8d55d-9876-4f13-b955-9512d122a2a8",
+    "identifier": "HR 163",
+    "title": "A Resolution recognizing June 14, 2025, as \"World Blood Donor Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR163/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/09374c35-1640-4a19-89f7-25358446e6cf",
+    "identifier": "HB 1496",
+    "title": "An Act amending the act of October 31, 2006 (P.L.1210, No.133), known as the Price Gouging Act, further providing for definitions and for price gouging prohibited.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-30T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1496/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/00812d43-bff6-47be-82aa-bced1621bb25",
+    "identifier": "HB 932",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in licenses and regulations and liquor, alcohol and malt and brewed beverages, further providing for monthly shipment of malt or brewed beverages.",
+    "session": "2025-2026",
+    "status": "Referred to Liquor Control",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Liquor Control"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB932/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5eefc52c-a4f0-4c19-816e-6a6745d8593b",
+    "identifier": "HB 1758",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in volunteer firefighters, repealing provisions relating to employment sanctions; and providing for volunteer emergency responders employer tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1758/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

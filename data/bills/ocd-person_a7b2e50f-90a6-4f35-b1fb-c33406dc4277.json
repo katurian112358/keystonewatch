@@ -103,5 +103,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR398/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d8a636a4-86ff-4008-bfc0-53374d996ee4",
+    "identifier": "HR 392",
+    "title": "A Resolution recognizing the week of March 8 through 14, 2026, as \"Multiple Sclerosis Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR392/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c76fdd15-546a-4897-a3e2-e7c178849d4b",
+    "identifier": "HB 894",
+    "title": "An Act establishing the Veterans Entering the Sustainability Sector Program and the Veterans Entering the Sustainability Sector Fund; and imposing duties on the Department of Agriculture, the Department of Community and Economic Development, the Department of Conservation and Natural Resources, the Department of Environmental Protection and the Department of Military and Veterans Affairs.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-13T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB894/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/15ebd963-bd94-41af-9e22-dd16157f2ff4",
+    "identifier": "HR 16",
+    "title": "A Resolution designating February 2, 2025, as \"Rheumatoid Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR16/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/09374c35-1640-4a19-89f7-25358446e6cf",
+    "identifier": "HB 1496",
+    "title": "An Act amending the act of October 31, 2006 (P.L.1210, No.133), known as the Price Gouging Act, further providing for definitions and for price gouging prohibited.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-30T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1496/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

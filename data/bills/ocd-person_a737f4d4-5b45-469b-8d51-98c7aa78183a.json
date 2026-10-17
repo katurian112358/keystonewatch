@@ -43,5 +43,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1401/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ff1c9a28-9c4c-4a6e-8d2a-f7146a7fcd63",
+    "identifier": "HB 814",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, providing for tax credit for spouses of first responders killed in line of duty.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-05T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB814/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ef3a9285-f7b4-4adc-943e-f48dd077c455",
+    "identifier": "HR 217",
+    "title": "A Resolution recognizing May 7, 2025, as \"Philadelphia Eagles Day at the Capitol\" in Pennsylvania and honoring the 2024 Philadelphia Eagles as the Super Bowl LIX Champions.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR217/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/42a46bf1-6fd3-495c-8122-a531992248b9",
+    "identifier": "HB 2004",
+    "title": "An Act establishing the Emergency SNAP Benefits Restricted Account and providing for a transfer to facilitate payment of SNAP benefits to recipients; and imposing duties on the Department of Human Services, the Secretary of the Budget and the State Treasurer.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-30T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2004/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

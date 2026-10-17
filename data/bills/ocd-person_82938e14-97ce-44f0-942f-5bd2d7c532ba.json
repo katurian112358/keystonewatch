@@ -58,5 +58,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2196/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/99ec889c-1f6e-42d8-ba72-b6056ab9d0ed",
+    "identifier": "HB 437",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for qualifications of electors.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB437/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/87ed55a0-12b7-4b31-ada6-cbf9de74633f",
+    "identifier": "HB 1472",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in higher education accountability and transparency, providing for economic and workforce impact review by State-related universities; and imposing duties of the Department of Labor and Industry.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1472/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/00b5ad14-e1e8-4193-ab56-2e4f68ea9baa",
+    "identifier": "HB 633",
+    "title": "An Act designating a bridge, identified as Bridge Key 8387, carrying Pennsylvania Route 53 over Patty's Run in Gallitzin Township, Cambria County, as the USMCR Mary A. Lidwell Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB633/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/56c4d9bb-b734-4e06-a05f-7be355927451",
+    "identifier": "HB 1473",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in higher education accountability and transparency, providing for department approval for campus closures.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1473/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

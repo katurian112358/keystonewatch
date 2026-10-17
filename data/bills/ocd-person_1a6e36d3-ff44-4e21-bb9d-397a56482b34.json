@@ -103,5 +103,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2119/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8b17d32f-cb83-4701-95f4-d045db741c62",
+    "identifier": "HB 1727",
+    "title": "An Act amending the act of May 1, 1933 (P.L.103, No.69), known as The Second Class Township Code, in corporate powers, further providing for care of memorials.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-29T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1727/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fe148a2c-120a-4716-aabc-eab8c9398078",
+    "identifier": "HB 2211",
+    "title": "An Act amending the act of September 30, 1983 (P.L.160, No.39), known as the Public Official Compensation Law, further providing for judicial salaries, for compensation of Governor and Lieutenant Governor, State Treasurer, Auditor General, Attorney General, Commissioners of the Pennsylvania Public Utility Commission and heads of departments and for members of the General Assembly.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-11T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2211/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d2cfb950-c171-47bc-8e32-da5b0c8ca425",
+    "identifier": "HR 360",
+    "title": "A Resolution noting with sadness the death of the Honorable Katherine \"Katie\" True, former eight-term member of the House of Representatives from Lancaster County, who died October 7, 2025.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-28T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR360/",
+    "sponsorship_role": "primary",
+    "instrumental": false
   }
 ]

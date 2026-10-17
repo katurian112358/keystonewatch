@@ -58,5 +58,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB873/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/262de354-4f25-4ef5-991e-074e5c51c805",
+    "identifier": "HR 40",
+    "title": "A Resolution recognizing the month of October 2025 as \"Dyslexia Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-05T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR40/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/56eee7bc-5024-4d6b-9206-f884cbd0b9d5",
+    "identifier": "HB 706",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for licenses.",
+    "session": "2025-2026",
+    "status": "Re-committed to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB706/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

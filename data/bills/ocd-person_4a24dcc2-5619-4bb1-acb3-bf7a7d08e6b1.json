@@ -73,5 +73,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2196/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ab7508f5-76be-4ee9-ab8c-cddd8c8f66da",
+    "identifier": "HB 1566",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in career and technical education, further providing for Cosmetology Training through Career and Technical Center Pilot Program and for Barber Training through Career and Technical Center Pilot Program.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-05T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1566/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/00775471-95cf-4ede-bff2-9dc3d4b6c74a",
+    "identifier": "HB 547",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in lighting equipment, further providing for use and display of illuminated signs.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-11T05:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB547/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2a0ac0c7-0483-4799-b998-09c4cf6a7317",
+    "identifier": "HB 114",
+    "title": "An Act establishing the Independent Energy Office; and providing for powers and duties of the Independent Energy Office.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB114/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

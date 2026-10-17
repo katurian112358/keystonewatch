@@ -73,5 +73,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR335/",
     "sponsorship_role": "primary",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/0d3fc54e-39e8-4926-bb27-acf4db331e4b",
+    "identifier": "HB 1737",
+    "title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in lobbying disclosure, further providing for definitions and for registration.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-16T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1737/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

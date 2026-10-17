@@ -208,5 +208,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB975/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/79829da8-6884-4250-90a5-13a63896f106",
+    "identifier": "HB 1947",
+    "title": "An Act providing for limit on fiscal year spending, emergency spending and requirement for raising revenue; and establishing the Commonwealth Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-16T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1947/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/02d5449b-7255-48f6-b5e1-23ac9fd2cf8c",
+    "identifier": "HB 1370",
+    "title": "An Act amending the act of June 22, 1937 (P.L.1987, No.394), known as The Clean Streams Law, in other pollutions and potential pollution, further providing for potential pollution.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-01T04:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1370/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f160c77c-d4fc-4503-a224-958a37f9394d",
+    "identifier": "HB 1033",
+    "title": "An Act prohibiting gender transition procedures for minors and coverage for gender transition procedures for minors.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1033/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cc956dfc-0356-4b22-b6f5-faf80bd01a09",
+    "identifier": "HB 262",
+    "title": "An Act amending the act of July 23, 1970 (P.L.563, No.195), known as the Public Employe Relations Act, in employee rights, providing for rights and privileges, for civil actions, for limitation of rights and remedies and for notice.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB262/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a3d23d18-ead4-46e5-a8a0-3c0df7ff0186",
+    "identifier": "HB 236",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in public indecency, further providing for the offense of obscene and other sexual materials and performances.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB236/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c59cf834-e3db-441f-9425-9a001ea881a3",
+    "identifier": "HB 1355",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for discount.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-30T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1355/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6901aebf-45bb-4640-aaf0-a4405c1536ac",
+    "identifier": "HR 346",
+    "title": "A Resolution urging the Department of State to comply with the lawful requests for information from the United States Department of Justice and immediately fulfill its obligations to adequately steward the election system of this Commonwealth by fully cooperating with Federal authorities in their efforts to prevent and investigate the registration of noncitizens to vote.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-16T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR346/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

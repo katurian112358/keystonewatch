@@ -118,5 +118,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2259/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c76fdd15-546a-4897-a3e2-e7c178849d4b",
+    "identifier": "HB 894",
+    "title": "An Act establishing the Veterans Entering the Sustainability Sector Program and the Veterans Entering the Sustainability Sector Fund; and imposing duties on the Department of Agriculture, the Department of Community and Economic Development, the Department of Conservation and Natural Resources, the Department of Environmental Protection and the Department of Military and Veterans Affairs.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-13T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB894/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/22051a90-3b10-43b0-8005-4a4c5d120c13",
+    "identifier": "HR 402",
+    "title": "A Resolution urging the Congress of the United States to condition any additional appropriations for the United States Department of Homeland Security and Immigration and Customs Enforcement on meaningful accountability, transparency and civil rights reforms.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-27T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR402/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b73aa0e9-6dc7-46ed-8f99-5e17074a598d",
+    "identifier": "HB 275",
+    "title": "An Act providing for grants to subsidize home ownership; establishing the Pennsylvania Affordable Homeownership Subsidy Program; imposing duties on the Department of Community and Economic Development; and providing for report to General Assembly.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB275/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/09374c35-1640-4a19-89f7-25358446e6cf",
+    "identifier": "HB 1496",
+    "title": "An Act amending the act of October 31, 2006 (P.L.1210, No.133), known as the Price Gouging Act, further providing for definitions and for price gouging prohibited.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-30T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1496/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e6bc3863-c53b-426c-8960-3b1715df8fca",
+    "identifier": "HB 724",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, prohibiting tax deductions for anti-union activities.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-25T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB724/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -58,5 +58,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB293/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3f4daf58-9fea-42d2-949c-ed972ac84da4",
+    "identifier": "HB 292",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in nuisances, providing for the offense of late removal of campaign signage on public property; and imposing a penalty.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB292/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a2fd6d95-1026-4b66-89ad-337e6fa9b16b",
+    "identifier": "HB 295",
+    "title": "An Act amending the act of December 7, 1982 (P.L.784, No.225), known as the Dog Law, in licenses, tags and kennels, further providing for revocation or refusal of kennel licenses and providing for prohibition on sale of dogs bred by certain persons; and, in enforcement and penalties, providing for whistleblower protection.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB295/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/72a2a3e6-507c-40f6-974c-4b6946be772f",
+    "identifier": "HB 484",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in disposition of abandoned and unclaimed property, further providing for certificate of finder registration, for notice and publication of lists of property subject to custody and control of the Commonwealth under this article, for income accruing after payment or delivery, for deposit of funds, for determination of claims, for penalties and for interdepartmental cooperation and providing for annual report.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB484/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

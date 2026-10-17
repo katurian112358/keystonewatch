@@ -28,5 +28,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR37/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/51ad0a39-1e20-436a-afde-3c3ec768c14d",
+    "identifier": "HB 50",
+    "title": "An Act amending the act of April 14, 2006 (P.L.85, No.28), known as the Water Services Act, in municipal authority approval of actions, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB50/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7b7e6fd9-9854-4af4-884f-62c6b57a4ad9",
+    "identifier": "HB 1259",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, in source selection and contract formation, providing for additional qualifications for public work projects; imposing duties on the Office of State Inspector General; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-17T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1259/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/42a46bf1-6fd3-495c-8122-a531992248b9",
+    "identifier": "HB 2004",
+    "title": "An Act establishing the Emergency SNAP Benefits Restricted Account and providing for a transfer to facilitate payment of SNAP benefits to recipients; and imposing duties on the Department of Human Services, the Secretary of the Budget and the State Treasurer.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-30T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2004/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fd534065-5900-4aad-a992-0dc93ed9b328",
+    "identifier": "HB 459",
+    "title": "An Act designating a portion of Pennsylvania Route 352 also known as Middletown Road, from the intersection with State Route 4008, also known as Gradyville Road, in Edgmont Township, Delaware County, to the intersection with Pennsylvania Route 452, also known as North Pennell Road, in Middletown Township, Delaware County, as the Chief Joseph J. Montgomery, Jr. Memorial Highway.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB459/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

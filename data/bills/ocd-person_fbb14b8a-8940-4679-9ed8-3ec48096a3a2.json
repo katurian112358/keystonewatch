@@ -43,5 +43,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2196/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c4003d70-2caf-4052-9322-c2e05e2ab57b",
+    "identifier": "HB 808",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in limitation of time, further providing for no limitation applicable.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-02T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB808/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

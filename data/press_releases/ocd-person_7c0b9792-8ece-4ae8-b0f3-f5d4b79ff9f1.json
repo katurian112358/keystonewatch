@@ -118,7 +118,7 @@
     "date": null,
     "raw_text": "",
     "ai_summary": null,
-    "text_attempts": 1
+    "text_attempts": 2
   },
   {
     "title": "Labs Announces Perkasie Awarded Nearly $1.5 Million for West Park Avenue Improvement Project",
@@ -139,7 +139,14 @@
     "url": "http://www.RepShelbyLabsPA.com/News/37849/Press-Releases/Labs-Announces--10-4-Million-in-Bucks-County-Water-Infrastructure-Projects",
     "date": "Sep15",
     "raw_text": "Sep\n15\nPress Release\nLabs, Coleman Announce Nearly $2 Million for Community Projects\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Two Pennsylvania legislators, Labs and Coleman, announced approximately $2 million in funding directed toward community projects in their district. The release does not provide sufficient detail to determine the specific nature of the projects or the funding source.",
+      "action_type": "other",
+      "topics": [
+        "other"
+      ],
+      "spin_flag": true
+    }
   },
   {
     "title": "Labs Proposes Sales Tax Relief on Personal Care Essentials",
@@ -374,7 +381,14 @@
     "url": "http://www.RepShelbyLabsPA.com/News/38755/Latest-News/Labs--Coleman-Announce-Nearly--2-Million-for-Community-Projects",
     "date": "Sep15",
     "raw_text": "Sep\n15\nPress Release\nLabs, Coleman Announce Nearly $2 Million for Community Projects\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Legislators Labs and Coleman announced nearly $2 million in funding allocated to community projects in their district. The press release does not provide details about the specific projects being funded or the source of the funding. This appears to be an announcement of grant or budget funding directed to local initiatives.",
+      "action_type": "budget",
+      "topics": [
+        "other"
+      ],
+      "spin_flag": true
+    }
   },
   {
     "title": "Sep15Press ReleaseLabs, Santarsiero Announce $350,000 for Plumstead Township Community ProjectsRead More",

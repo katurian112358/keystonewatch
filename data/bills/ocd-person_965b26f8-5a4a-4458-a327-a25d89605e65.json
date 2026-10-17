@@ -178,5 +178,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB93/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/75acbb4e-c733-4783-ae4c-a66e6706cdfb",
+    "identifier": "SB 339",
+    "title": "An Act amending the act of June 30, 1981 (P.L.128, No.43), known as the Agricultural Area Security Law, further providing for purchase of agricultural conservation easements and for Agricultural Conservation Easement Purchase Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-26T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB339/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/595f7945-a28c-44e2-a41f-8678a57ba6e7",
+    "identifier": "SB 183",
+    "title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated Statutes, in food protection, further providing for rules and regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-24T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB183/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7cbaa822-f4b9-4a20-b54c-6d56aa9f500c",
+    "identifier": "SR 125",
+    "title": "A Resolution recognizing the 250th anniversary of the founding of the United States Army.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR125/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
   }
 ]

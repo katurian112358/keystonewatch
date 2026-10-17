@@ -148,5 +148,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR206/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/b55890ac-b0fc-4386-afb2-b34ccb63f651",
+    "identifier": "SB 664",
+    "title": "An Act amending the act of December 19, 1996 (P.L.1478, No.190), entitled \"An act relating to the recycling and reuse of waste tires; providing for the proper disposal of waste tires and the cleanup of stockpiled tires; authorizing investment tax credits for utilizing waste tires; providing remediation grants for the cleanup of tire piles and for pollution prevention programs for small business and households; establishing the Small Business and Household Pollution Prevention Program and management standards for small business hazardous waste; providing for a household hazardous waste program and for grant programs; making appropriations; and making repeals,\" in waste tire recycling, providing for replacement tires.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-13T04:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB664/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d35a9ca7-7464-4018-8466-79c6ce912b18",
+    "identifier": "SB 671",
+    "title": "An Act amending the act of June 29, 1996 (P.L.434, No.67), known as the Job Enhancement Act, in Community Development Bank Grant and Loan Program, further providing for definitions and providing for financial assistance to air ambulance crash impacted businesses.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-30T04:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB671/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9ceae729-b12e-4586-b3ec-231ea1b078ae",
+    "identifier": "SB 912",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, in DNA data and testing, further providing for policy, for definitions, for State DNA Data Base, for State Police recommendation of additional offenses and annual report, for DNA sample required upon conviction, delinquency adjudication and certain ARD cases, for DNA data base exchange, for expungement and for mandatory cost; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to Senate Rule 9)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-09T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to Senate Rule 9)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB912/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0bb811be-cb11-4f07-913c-55aff43e0f25",
+    "identifier": "SB 210",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in miscellaneous provisions relating to operation of vehicles, providing for the offense of interference with operation or movement of a public transit vehicle.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-10T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB210/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0b9d7f09-a93b-459e-bd6a-7e5310875a4d",
+    "identifier": "SB 68",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in arson, criminal mischief and other property destruction, further providing for the offense of institutional vandalism.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB68/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4374366c-7d37-4826-a48b-2e491f1cbb88",
+    "identifier": "SB 880",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, providing for access device security.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-24T04:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB880/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

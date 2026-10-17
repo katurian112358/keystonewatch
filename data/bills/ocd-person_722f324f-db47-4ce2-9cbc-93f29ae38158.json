@@ -58,5 +58,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR107/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/21f6119a-e185-4ef2-99a8-3f5da9164b75",
+    "identifier": "SR 1",
+    "title": "A Resolution adopting Ethical Conduct Rules of the Senate.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-07T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR1/",
+    "sponsorship_role": "primary",
+    "instrumental": false
   }
 ]

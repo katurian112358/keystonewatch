@@ -28,5 +28,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2071/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/46658af8-024b-418b-a16e-351306163caf",
+    "identifier": "HR 120",
+    "title": "A Resolution recognizing the month of April 2025 as \"Financial Literacy Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-23T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR120/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5e67b54c-edcc-4488-83fd-6b9a70db7749",
+    "identifier": "HB 771",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in preliminary provisions, further providing for definitions; in the Secretary of the Commonwealth, further providing for requirements relating to voter identification; in preparation for and conduct of primaries and elections, further providing for manner of applying to vote, persons entitled to vote, voter's certificates, entries to be made in district register, numbered lists of voters and challenges; and, in voting by qualified absentee electors, further providing for canvassing of official absentee ballots and mail-in ballots.",
+    "session": "2025-2026",
+    "status": "Re-committed to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB771/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]
