@@ -297,7 +297,14 @@
     "url": "https://www.repmoul.com/",
     "date": "Sep15",
     "raw_text": "Sep\n15\nPress Release\nMoul Announces Grants Totaling $1.1 Million in 91st District\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "A Pennsylvania legislator named Moul announced that grants totaling $1.1 million have been awarded to recipients in the 91st legislative district. The release appears to publicize the allocation of state or federal grant funding to the local area. No additional detail about the specific purpose or recipients of the grants is provided in the excerpt given.",
+      "action_type": "statement",
+      "topics": [
+        "economy"
+      ],
+      "spin_flag": true
+    }
   },
   {
     "title": "Livestreams",
