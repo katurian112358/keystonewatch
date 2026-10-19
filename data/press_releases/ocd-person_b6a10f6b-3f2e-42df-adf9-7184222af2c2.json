@@ -283,7 +283,16 @@
     "url": "https://www.RepSchlegel.com/",
     "date": "Sep15",
     "raw_text": "Sep\n15\nPress Release\nGebhard, Diamond, Schlegel Announce Over $2 Million in Gaming Revenue to Support Lebanon County Projects\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Three Pennsylvania legislators announced that Lebanon County will receive over $2 million in gaming revenue funding for local projects. The money comes from the state's gaming revenue distribution program, which directs a portion of casino proceeds to local governments. Specific projects to be funded were not detailed in the release title.",
+      "action_type": "other",
+      "topics": [
+        "economy",
+        "infrastructure",
+        "other"
+      ],
+      "spin_flag": true
+    }
   },
   {
     "title": "Livestream",
