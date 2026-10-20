@@ -267,7 +267,14 @@
     "url": "https://www.repdavanzo.com/",
     "date": "Oct7",
     "raw_text": "Oct\n7\nPress Release\nDavanzo Bill Clears Legislature to Governor’s Desk\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "A bill sponsored by legislator Davanzo has passed both chambers of the Pennsylvania Legislature and has been sent to the Governor for signature or veto. The specific content of the bill is not described in the provided press release text.",
+      "action_type": "bill_passed",
+      "topics": [
+        "other"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Livestreams",

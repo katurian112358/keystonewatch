@@ -296,7 +296,15 @@
     "url": "https://www.repkephart.com/",
     "date": "Sep16",
     "raw_text": "Sep\n16\nPress Release\nState Grant Funding Awarded for Damaged Roads, Fire Company, and Public Works Services, Kephart Says\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "A Pennsylvania legislator announced that state grant funding has been awarded to their district for road repairs, a fire company, and public works services. The release highlights the distribution of existing state grant money to local projects. No new legislation was introduced.",
+      "action_type": "statement",
+      "topics": [
+        "infrastructure",
+        "public_safety"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Livestreams",
