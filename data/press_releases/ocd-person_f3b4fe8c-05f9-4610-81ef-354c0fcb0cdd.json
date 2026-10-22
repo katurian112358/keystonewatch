@@ -535,7 +535,15 @@
     "url": "https://senatortartaglione.com/senator-tartaglione-and-rep-hohenstein-present-2m-to-monkewicz-playground",
     "date": null,
     "raw_text": "Senator Tartaglione and Rep. Hohenstein Present $2M to Monkewicz Playground\nOctober 13, 2026",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Senator Tartaglione and Representative Hohenstein presented a $2 million funding award to Monkewicz Playground. The release announces the allocation of public funds for what appears to be a playground facility. No additional details about the source of funds or specific planned improvements are provided in the release title alone.",
+      "action_type": "award",
+      "topics": [
+        "infrastructure",
+        "other"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Senator Tartaglione’s Senior Expo at Community Academy Charter School",

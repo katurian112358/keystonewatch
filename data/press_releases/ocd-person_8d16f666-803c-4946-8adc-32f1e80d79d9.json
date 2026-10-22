@@ -61,7 +61,14 @@
     "url": "https://repmarcanderson.com/roadwork",
     "date": null,
     "raw_text": "York County Road Work\nSign Up to Receive Legislative Email Updates\nKeep up-to-date on the latest legislative and community news. Your email address will be used strictly for legislative purposes.\nEmail*\nZIP Code\nSubscribe",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "A Pennsylvania legislator's press release page appears to contain only a newsletter signup form related to York County road work, with no substantive content about a specific legislative action or statement. The actual details of any road work announcement or legislative activity are not present in the provided text. No meaningful action can be described from the available information.",
+      "action_type": "other",
+      "topics": [
+        "infrastructure"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Hold the Line",
