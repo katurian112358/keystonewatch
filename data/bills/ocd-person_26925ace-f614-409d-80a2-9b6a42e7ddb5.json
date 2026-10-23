@@ -193,5 +193,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2143/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/820ce8a6-12f7-4b47-8b74-617d168f937f",
+    "identifier": "HB 1449",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in budget and finance, further providing for expenses.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-13T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1449/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8870f6bb-a1fd-42be-a9de-3c9559f9c7d0",
+    "identifier": "HB 1481",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, providing for civilian community relations specialists; establishing the Civilian Community Relations Specialists Fund; and imposing duties on the Pennsylvania Commission on Crime and Delinquency.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1481/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/387271f1-1b5b-4e65-81b5-eac52f531363",
+    "identifier": "HB 415",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175),  known\r\n as The Administrative Code of 1929, in powers and duties of Department of\r\n Conservation and Natural Resources, providing for suicide\r\n prevention.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB415/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/09f0ba7b-1a0e-4b12-bbec-619099a43523",
+    "identifier": "HB 285",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, in constables, further providing for restricted account and for fees.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB285/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

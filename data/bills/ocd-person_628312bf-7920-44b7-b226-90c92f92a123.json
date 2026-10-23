@@ -388,5 +388,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR39/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/7cbc0577-9b90-4d09-bf8a-8219bc539245",
+    "identifier": "HB 917",
+    "title": "An Act amending Title 40 (Insurance) of the Pennsylvania Consolidated Statutes, in regulation of insurers and related persons generally, repealing provisions relating to compliance with Federal health care legislation.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB917/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b0748e7b-a452-42d0-8746-5519009b07d5",
+    "identifier": "HB 2046",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in revenues, further providing for establishment of State Gaming Fund and net slot machine revenue distribution; providing for skill video gaming; imposing duties on the Department of Revenue; and imposing a tax and criminal and civil penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-18T05:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2046/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9780fdbc-a56e-4c5e-83d5-cae6f4588710",
+    "identifier": "HB 1589",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in books, furniture and supplies, providing for school library collections.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-11T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1589/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2e2090b3-45ff-4e2d-8314-0a7acc3fec75",
+    "identifier": "HR 67",
+    "title": "A Resolution recognizing the month of May 2025 as \"Mental Health Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR67/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/28f2ccd1-a1e4-45a8-880d-53eabe462f99",
+    "identifier": "HB 614",
+    "title": "An Act establishing the Shared Housing and Resource Exchange Program; and imposing powers and duties on the Department of Aging.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB614/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dc6f7777-d663-482f-a6ae-28145cc743a7",
+    "identifier": "HB 2008",
+    "title": "An Act providing for School-Based Youth Court Pilot Program and for awarding grants; establishing the Youth Court Program Account; and making a transfer.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-06T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2008/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

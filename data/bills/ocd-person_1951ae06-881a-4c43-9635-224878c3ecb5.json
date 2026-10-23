@@ -28,5 +28,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2004/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2369fe5f-184e-4b96-8674-1229b1420988",
+    "identifier": "HR 43",
+    "title": "A Resolution recognizing the month of April 2025 as \"Sexual Assault Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR43/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -208,5 +208,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR52/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e1770fa5-e3d7-4122-8cfa-3417a5820ca2",
+    "identifier": "HB 1439",
+    "title": "An Act amending the act of April 14, 1972 (P.L.233, No.64), known as The Controlled Substance, Drug, Device and Cosmetic Act, further providing for authority to control.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1439/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c320034a-5977-48bd-b5d8-13dba81c7184",
+    "identifier": "HR 2",
+    "title": "A Resolution recognizing March 25, 2025, as \"National Medal of Honor Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR2/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/002ec47e-ed2a-4bb5-889f-aeb94bb097ff",
+    "identifier": "HB 1236",
+    "title": "An Act amending Titles 18 (Crimes and Offenses), 30 (Fish), 34 (Game) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of assault of law enforcement officer; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-17T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1236/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ca94a04a-c29f-4a18-a19b-010da4cf41e2",
+    "identifier": "HR 207",
+    "title": "A Resolution designating the month of May 2025 as \"Nurses Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-23T04:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR207/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

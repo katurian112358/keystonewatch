@@ -298,5 +298,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR22/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/047ffa65-000e-4b56-b5b8-474dd6de62a2",
+    "identifier": "HB 889",
+    "title": "An Act amending Titles 51 (Military Affairs) and 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in Department of Military and Veterans Affairs, further providing for duties of department; in State Veterans' Commission and Deputy Adjutant General for Veterans' Affairs, further providing for specific duties relating to Deputy Adjutant General for Veterans' Affairs; and, in general administration relating to correctional institutions, further providing for powers and duties of department.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-13T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB889/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8831f88c-c2eb-4f50-a88f-249b0efd3d6e",
+    "identifier": "HB 1126",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, further providing for classes of income; in corporate net income tax, further providing for definitions; and providing for personal health investment tax credit.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-08T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1126/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ca8cda31-ba5d-4648-acde-3a37031f7d26",
+    "identifier": "HB 792",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, further providing for Holocaust, genocide and human rights violations instruction.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB792/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eeae7994-ba73-43f5-ba5a-81bd584e2f23",
+    "identifier": "HB 1413",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code,  in preliminary provisions, further providing for definitions; in Pennsylvania Liquor Control Board, further providing for Office of Administrative Law Judge; in licenses and regulations and liquor, alcohol and malt and brewed beverages, further providing for hearings upon refusal of licenses, renewals or transfers and appeals and for renewal of licenses and temporary provisions for licensees in armed service, providing for failure to maintain minimum requirements for licensure and further providing for revocation and suspension of licenses and fines, for applicants to provide State tax identification numbers and statement of State tax status, waiver of confidentiality of information in the possession of the Department of Revenue and other departments and review of State tax status and for rights of municipalities preserved; in distilleries, wineries, bonded warehouses, bailees for hire and transporters for hire, further providing for appeals; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Liquor Control",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-06T04:00:00+00:00",
+      "description": "Referred to Liquor Control"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1413/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/557f9541-db2d-4b69-b45a-f95d96267da9",
+    "identifier": "HR 28",
+    "title": "A Resolution designating March 26, 2025, as \"Bangladesh Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR28/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16dc29b7-ddb7-4738-8569-bb55c27c7981",
+    "identifier": "HR 25",
+    "title": "A Concurrent Resolution establishing the Pennsylvania State Song Commission to study the history of the State song of the Commonwealth, solicit submissions for a new State song and recommend changes to the State song.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to Senate Rule 9)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to Senate Rule 9)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR25/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ba8a648d-f6a1-4616-9ed1-094aa87f5c7e",
+    "identifier": "HB 93",
+    "title": "An Act providing for the annual designations and holiday observances of Rosh Hashanah Day, Yom Kippur Day, Eid al-Fitr Day and Eid al-Adha Day in this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB93/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/26eb3eba-24a9-4e91-b0ba-ad55169dfa8a",
+    "identifier": "HR 112",
+    "title": "A Concurrent Resolution calling for a convention under Article V of the Constitution of the United States to consider amendments to establish a process by which the appointment of United States Supreme Court Justices can occur at regular time intervals and limit how long a Justice may serve on the Court.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-13T04:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR112/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -178,5 +178,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR86/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1d933051-aac0-403f-b26a-89ca7cb18271",
+    "identifier": "SB 597",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in sustainable mobility options, further providing for definitions, for fund, for application and approval process, for Federal funding, for coordination and consolidation, for operating program, for asset improvement program, for new initiatives program, for programs of Statewide significance and for program oversight and administration, providing for small purchase procedures and repealing provisions relating to evaluation of private investment opportunities.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB597/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d1a2d5dd-a41a-4e3c-a638-9f0dfc9a320f",
+    "identifier": "SR 184",
+    "title": "A Resolution designating October 28, 2025, as \"Propane Legislative Day\" in Pennsylvania to highlight propane as a fuel source, as well as the industry's important role in assisting the residents of this Commonwealth meet their unique energy needs.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR184/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e918c7d3-2dce-4e1f-bb12-9b0f1705a582",
+    "identifier": "SB 69",
+    "title": "An Act establishing Recovery-to-work as a pilot program within the Department of Labor and Industry; and providing for local recovery-to-work pilot programs, for incentives to encourage business participation and for powers and duties of the Department of Labor and Industry.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-27T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB69/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9e4cde7d-167d-475a-a39b-ce29a861b533",
+    "identifier": "SB 201",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in Pennsylvania Emergency Management Agency, further providing for organization.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB201/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5185c51c-a734-492f-a50f-12227fbce305",
+    "identifier": "SR 64",
+    "title": "A Resolution recognizing April 15, 2025, as \"Purple Up! for Military Kids Day\" and the month of April 2025 as the \"Month of the Military Child\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-02T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR64/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7c7525f7-c7bf-4b6b-9540-237341904894",
+    "identifier": "SB 242",
+    "title": "An Act providing that any Federal action that attempts to register, restrict or ban a firearm or accessory, or to limit, inhibit or regulate the ownership of magazines in this Commonwealth shall be unenforceable in this Commonwealth; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-13T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB242/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -298,5 +298,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB868/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/831eec97-9ec2-49be-97b8-3517655a4e73",
+    "identifier": "SB 462",
+    "title": "An Act amending the act of June 25, 1982 (P.L.633, No.181), known as the Regulatory Review Act, further providing for definitions and for existing regulations; and establishing the Office of Government Efficiency and providing for its power and duties.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Referred to Intergovernmental Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB462/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/edeffdb1-0d06-4a9a-a924-5f7578c53ed4",
+    "identifier": "SB 221",
+    "title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in lobbying disclosure, further providing for prohibited activities.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB221/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7c7525f7-c7bf-4b6b-9540-237341904894",
+    "identifier": "SB 242",
+    "title": "An Act providing that any Federal action that attempts to register, restrict or ban a firearm or accessory, or to limit, inhibit or regulate the ownership of magazines in this Commonwealth shall be unenforceable in this Commonwealth; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-13T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB242/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8904335a-50d1-47c0-83ff-148517268ad3",
+    "identifier": "SB 243",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in disposition of Commonwealth surplus land, further providing for limited definitions, for annual property survey, for property disposition and for conditions upon conveyances; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-13T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB243/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/35e731a8-3fb5-422d-b0e5-fe2bb30f7ded",
+    "identifier": "SB 961",
+    "title": "An Act prohibiting certain practices and discrimination by the Commonwealth and its political subdivisions under contracts for public works; and providing for a private right of action.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-31T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB961/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

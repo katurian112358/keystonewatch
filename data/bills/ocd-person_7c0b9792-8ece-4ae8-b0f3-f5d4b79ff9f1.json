@@ -268,5 +268,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB738/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8870f6bb-a1fd-42be-a9de-3c9559f9c7d0",
+    "identifier": "HB 1481",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, providing for civilian community relations specialists; establishing the Civilian Community Relations Specialists Fund; and imposing duties on the Pennsylvania Commission on Crime and Delinquency.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1481/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

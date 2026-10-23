@@ -73,5 +73,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR176/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/ee2615f3-a44a-43e4-bf3b-52823e170f01",
+    "identifier": "HB 1366",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in hunting and furtaking licenses, further providing for elk hunting licenses.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-01T04:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1366/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/569341f6-3086-4d7d-97de-308a81d4955e",
+    "identifier": "HB 424",
+    "title": "An Act amending Titles 45 (Legal Notices) and 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in legal advertising, providing for redundant advertising on Internet by political subdivisions or municipal authorities; and, in open meetings, further providing for public notice.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB424/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

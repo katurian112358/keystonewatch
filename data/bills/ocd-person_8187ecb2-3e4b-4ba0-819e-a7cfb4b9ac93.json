@@ -88,5 +88,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB459/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2a1d663a-8837-47a4-b273-6ad64c128e66",
+    "identifier": "HR 382",
+    "title": "A Resolution urging the Congress of the United States to retain expanded health insurance subsidies that enable consumers to purchase health insurance through Pennie.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-17T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR382/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

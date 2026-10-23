@@ -223,5 +223,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR125/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/5f484c71-b437-411d-b8c2-02537d646c66",
+    "identifier": "SB 1214",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in institutions of higher education, abolishing the State Board of Higher Education and its powers and duties; further providing for Performance-based Funding Council and for public institution of higher education reporting; and providing for reversion of certain powers and duties of the State Board of Higher Education to the State Board of Education and Council of Higher Education.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-12T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1214/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7c7525f7-c7bf-4b6b-9540-237341904894",
+    "identifier": "SB 242",
+    "title": "An Act providing that any Federal action that attempts to register, restrict or ban a firearm or accessory, or to limit, inhibit or regulate the ownership of magazines in this Commonwealth shall be unenforceable in this Commonwealth; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-13T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB242/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/32b10b12-e382-4eb8-9844-1c57522deadb",
+    "identifier": "SB 654",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in miscellaneous provisions, establishing the Veterans Mental Health Services Program.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB654/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -358,5 +358,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1085/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4f9210bc-006d-42ae-9653-193abfb4ad59",
+    "identifier": "HB 2032",
+    "title": "An Act amending Titles 24 (Education) and 71 (State Government) of the Pennsylvania Consolidated Statutes, in membership, contributions and benefits, further providing for termination of annuities; in membership, credited service, classes of service, and eligibility for benefits relating to retirement for State employees and officers, further providing for mandatory and optional membership in the system and participation in the plan; and, in benefits, further providing for termination of annuities.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2032/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/534b60e1-e395-440e-93ca-14e7929fbfae",
+    "identifier": "HB 1128",
+    "title": "An Act establishing the Medicaid Care Transition Program; and imposing duties on the Department of Human Services.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-04T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1128/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d00552a8-146f-4bf5-a16e-fff01f5f4bec",
+    "identifier": "HB 1043",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school health services, further providing for definitions, for possession and use of asthma inhalers and epinephrine auto-injectors, for school access to emergency epinephrine and for administration of epinephrine auto-injectors by school bus drivers and school crossing guards.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-18T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1043/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/48d02319-bd10-4de8-8d2b-997589aa3258",
+    "identifier": "HR 305",
+    "title": "A Resolution designating the month of November 2025 as \"Pancreatic Cancer Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR305/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a6d269c7-138f-43cf-9e8b-bc0984fa3981",
+    "identifier": "HB 366",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in alternative form of regulation of telecommunications services, providing for compensation to volunteer fire companies for outages of 911 systems.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB366/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/78f227e9-4069-4411-94cd-20851e2aed54",
+    "identifier": "HR 249",
+    "title": "A Resolution designating the week of September 21 through 28, 2025, as \"Idiopathic Pulmonary Fibrosis Research and Awareness Week\" in Pennsylvania to increase awareness and understanding of idiopathic pulmonary fibrosis to support improved diagnosis and treatment.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-09T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR249/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

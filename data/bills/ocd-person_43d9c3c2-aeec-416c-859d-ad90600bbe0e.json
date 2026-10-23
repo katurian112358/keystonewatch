@@ -373,5 +373,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2025/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9d3e7199-8524-4f9d-8f91-8b844c98a7ed",
+    "identifier": "HB 1968",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in particular rights and immunities, providing for personal rights; and prescribing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1968/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/15f0dc29-68d1-4b6f-b4b7-a30ed1d250a6",
+    "identifier": "HR 391",
+    "title": "A Resolution recognizing January 27, 2026, as \"International Holocaust Remembrance Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-03T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR391/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0badc9a6-3706-42de-92b3-6c1241b242db",
+    "identifier": "HB 1195",
+    "title": "An Act amending Title 8 (Boroughs and Incorporated Towns) of the Pennsylvania Consolidated Statutes, in vacancies in office, further providing for filling vacancies in elective borough offices.",
+    "session": "2025-2026",
+    "status": "Corrective Reprint, Printer's No.  1674",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-09T04:00:00+00:00",
+      "description": "Corrective Reprint, Printer's No.  1674"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1195/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d7baf7b4-eb40-413f-9c53-631691b8bd54",
+    "identifier": "HB 492",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in fiscal supplements to statutory programs, repealing provisions relating to regulation of rodeos or rodeo-related events.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB492/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a691a5a5-66c7-4109-b575-59ace9193c17",
+    "identifier": "HB 1724",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, in contract clauses and preference provisions, providing for sustainable capital improvement project contract.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-14T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1724/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

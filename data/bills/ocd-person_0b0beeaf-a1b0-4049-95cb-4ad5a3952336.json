@@ -703,5 +703,290 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB425/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/76f9acca-0638-48fa-b9eb-1883b888c172",
+    "identifier": "HB 2191",
+    "title": "An Act amending the act of June 2, 1915 (P.L.736, No.338), known as the Workers' Compensation Act, in liability and compensation, further providing for compensation for cancer in the occupation of firefighter.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-03T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2191/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b0748e7b-a452-42d0-8746-5519009b07d5",
+    "identifier": "HB 2046",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in revenues, further providing for establishment of State Gaming Fund and net slot machine revenue distribution; providing for skill video gaming; imposing duties on the Department of Revenue; and imposing a tax and criminal and civil penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-18T05:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2046/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/890a7955-2373-46ab-b981-89e4b56802f1",
+    "identifier": "HB 716",
+    "title": "An Act amending the act of July 14, 1961 (P.L.637, No.329), known as the Wage Payment and Collection Law, further providing for notification; providing for duty of employer; and imposing criminal and civil penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-24T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB716/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eeebd69f-2d3e-4196-b0e0-dc0d13d21500",
+    "identifier": "HB 1749",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for exclusions from tax; and establishing a fueling opportunities for the revitalization, growth and efficiency of steel tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-22T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1749/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/272e07a2-42d7-4d39-ba2e-7ef99cfd373c",
+    "identifier": "HB 1115",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in charter schools, providing for fund balance limits.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-03T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1115/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e28d7e68-8138-4b87-b578-dde7c562fd56",
+    "identifier": "HB 1034",
+    "title": "An Act amending the act of April 6, 1951 (P.L.69, No.20), known as The Landlord and Tenant Act of 1951, in creation of leases, statute of frauds and mortgaging of leaseholds, providing for payments for utility services.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1034/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a085bc3d-b20a-4484-a6fc-6ef0b00c869f",
+    "identifier": "HB 1786",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in disposition of abandoned and unclaimed property, further providing for certificate of finder registration and for notice and publication of lists of property subject to custody and control of the Commonwealth under this article.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-10T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1786/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9a35e6c2-e49e-4718-b16d-d9c7ec564b79",
+    "identifier": "HB 1857",
+    "title": "An Act requiring business entities to disclose the use of artificial intelligence in certain consumer interactions; establishing the right of consumers to human review in high-impact decisions; and providing for enforcement by Attorney General.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1857/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1a92ebe5-9548-4be2-99e5-4ca90e820e3d",
+    "identifier": "HR 354",
+    "title": "A Resolution designating December 3, 2025, as \"10th Anniversary of Women In Combat Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR354/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eff44968-5064-4dfb-b54a-dcabb6499955",
+    "identifier": "HB 487",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, in source selection and contract formation, further providing for supplies manufactured and services performed by persons with disabilities.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB487/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/002ec47e-ed2a-4bb5-889f-aeb94bb097ff",
+    "identifier": "HB 1236",
+    "title": "An Act amending Titles 18 (Crimes and Offenses), 30 (Fish), 34 (Game) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of assault of law enforcement officer; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-17T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1236/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6ccca26e-4074-47b5-ba76-b4af33e16fbc",
+    "identifier": "HB 356",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, further providing for youth suicide awareness and prevention and providing for violence prevention and social inclusion.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB356/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6a571c6e-78e5-47eb-b69e-2b128649c9c4",
+    "identifier": "HB 294",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for whistleblower protection and further providing for nonapplicability of subchapter.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB294/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/19d6421a-34bb-4189-9616-f43df54872e1",
+    "identifier": "HB 108",
+    "title": "An Act providing for real property emergency services funds in municipalities.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB108/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a19a3f54-a210-4a03-8d67-830b16fced7b",
+    "identifier": "HB 2018",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, further providing for the disclosure of certain criminal history record information and certain information related to abuse to the Domestic Violence Fatality Review Board and to any domestic violence fatality review team; and establishing the Domestic Violence Fatality Review Program.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-28T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2018/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/19cb2252-1e64-4538-ae80-376724aece5c",
+    "identifier": "HB 1087",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971,  establishing the Active Volunteer First Responder Education Tax Credit Program.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-01T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1087/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a691a5a5-66c7-4109-b575-59ace9193c17",
+    "identifier": "HB 1724",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, in contract clauses and preference provisions, providing for sustainable capital improvement project contract.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-14T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1724/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/11571187-7312-467d-b976-7117df04c99e",
+    "identifier": "HB 471",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in veterans' organizations, further providing for grants to veterans' service officer programs.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB471/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0aa4a80a-81ad-4654-9e47-c35e207a0365",
+    "identifier": "HB 1068",
+    "title": "An Act providing for licensure of family members to provide skilled care to designated children, for applications for licensure, for qualifications for licensure, for employment and compensation of licensed family members, for limitations and supervision of licensed family members, for notice to parents of recipients and for authorization of covered skilled care.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-31T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1068/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -118,5 +118,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1601/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3c79109d-34e5-4d53-b4aa-350030a3897d",
+    "identifier": "HB 2271",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in sexual offenses, further providing for the offense of rape.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2271/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/758421f8-80d9-4bc1-af66-38486bf5b3d2",
+    "identifier": "HB 897",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, in general provisions relating to Commonwealth Procurement Code, further providing for definitions and providing for prioritization of American-made supplies.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-13T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB897/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a085bc3d-b20a-4484-a6fc-6ef0b00c869f",
+    "identifier": "HB 1786",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in disposition of abandoned and unclaimed property, further providing for certificate of finder registration and for notice and publication of lists of property subject to custody and control of the Commonwealth under this article.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-10T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1786/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9dcc5683-9765-42dc-86e3-64f074f73808",
+    "identifier": "HB 452",
+    "title": "An Act amending the act of April 23, 1956 (1955 P.L.1510, No.500), known as the Disease Prevention and Control Law of 1955, providing for amnesty for disciplinary actions regarding COVID-19 protocols.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB452/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

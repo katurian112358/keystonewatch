@@ -493,5 +493,245 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR22/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/17f22b6c-d680-40c3-92e3-b38205dc73af",
+    "identifier": "HB 1943",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school health services, further providing for automatic external defibrillators, providing for automated external defibrillators and training, further providing for sudden cardiac arrest and electrocardiogram testing and providing for electrocardiogram testing for interscholastic athletics; and, in terms and courses of study, further providing for cardiopulmonary resuscitation education.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-16T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1943/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/773d86f4-774d-4ea4-8034-07d1ede59dbc",
+    "identifier": "HR 347",
+    "title": "A Resolution designating the week of November 17 through 21, 2025, as \"Certified Public Accountant Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR347/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4064e5ea-252f-40e0-919b-2fb58ce9ee3d",
+    "identifier": "HR 314",
+    "title": "A Resolution designating September 18, 2025, as \"U.S. Air Force Birthday\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-16T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR314/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/399711e4-6c97-4cd2-9ec2-a568c5ed286a",
+    "identifier": "HB 1021",
+    "title": "An Act amending Title 16 (Counties) of the Pennsylvania Consolidated Statutes, in grounds and buildings, repealing provisions relating to room or building for juvenile offenders awaiting trial and providing for rooms or buildings for juveniles; and repealing provisions relating to special provisions for temporary county buildings and for rooms in county buildings in counties of the second class A.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1021/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c82bc09d-069f-48e7-a763-703f2e7217d3",
+    "identifier": "HB 604",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for sale or transfer of firearms, for duties of the Pennsylvania State Police and for the offense of altering or obliterating marks of identification and providing for destruction of confiscated or recovered firearms.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-12T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB604/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9a35e6c2-e49e-4718-b16d-d9c7ec564b79",
+    "identifier": "HB 1857",
+    "title": "An Act requiring business entities to disclose the use of artificial intelligence in certain consumer interactions; establishing the right of consumers to human review in high-impact decisions; and providing for enforcement by Attorney General.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1857/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dae0c07a-eb84-4d60-b331-1e292c1e2344",
+    "identifier": "HB 1656",
+    "title": "An Act promoting indoor air quality in facilities housing or serving vulnerable populations; providing for tax credits, for certification programs, for public education and for data collection; and imposing duties on the Department of Health.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1656/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7ad02df8-d069-4451-9a82-fb5534d99529",
+    "identifier": "HB 1930",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, further providing for the offense of aggravated cruelty to animal.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1930/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ee31c6fa-f512-4c14-949a-2f7164a3e114",
+    "identifier": "HR 353",
+    "title": "A Resolution designating the month of October 2025 as \"Italian and Italian American History and Culture Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR353/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6ccca26e-4074-47b5-ba76-b4af33e16fbc",
+    "identifier": "HB 356",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, further providing for youth suicide awareness and prevention and providing for violence prevention and social inclusion.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB356/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d7baf7b4-eb40-413f-9c53-631691b8bd54",
+    "identifier": "HB 492",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in fiscal supplements to statutory programs, repealing provisions relating to regulation of rodeos or rodeo-related events.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB492/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a19a3f54-a210-4a03-8d67-830b16fced7b",
+    "identifier": "HB 2018",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, further providing for the disclosure of certain criminal history record information and certain information related to abuse to the Domestic Violence Fatality Review Board and to any domestic violence fatality review team; and establishing the Domestic Violence Fatality Review Program.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-28T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2018/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/596a4668-6a08-4df4-83ae-edcd18cf0340",
+    "identifier": "HB 1993",
+    "title": "An Act providing for the use of artificial intelligence in mental health therapy and for enforcement.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-24T04:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1993/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a691a5a5-66c7-4109-b575-59ace9193c17",
+    "identifier": "HB 1724",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, in contract clauses and preference provisions, providing for sustainable capital improvement project contract.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-14T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1724/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ff3427dd-9d6a-4ca0-bfe8-4d33fb5fc92f",
+    "identifier": "HB 2044",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, providing for report of theft or loss of firearm; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2044/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ba8a648d-f6a1-4616-9ed1-094aa87f5c7e",
+    "identifier": "HB 93",
+    "title": "An Act providing for the annual designations and holiday observances of Rosh Hashanah Day, Yom Kippur Day, Eid al-Fitr Day and Eid al-Adha Day in this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB93/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

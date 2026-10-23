@@ -118,5 +118,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB114/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4f9210bc-006d-42ae-9653-193abfb4ad59",
+    "identifier": "HB 2032",
+    "title": "An Act amending Titles 24 (Education) and 71 (State Government) of the Pennsylvania Consolidated Statutes, in membership, contributions and benefits, further providing for termination of annuities; in membership, credited service, classes of service, and eligibility for benefits relating to retirement for State employees and officers, further providing for mandatory and optional membership in the system and participation in the plan; and, in benefits, further providing for termination of annuities.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2032/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/534b60e1-e395-440e-93ca-14e7929fbfae",
+    "identifier": "HB 1128",
+    "title": "An Act establishing the Medicaid Care Transition Program; and imposing duties on the Department of Human Services.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-04T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1128/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/605fbeec-fff1-4291-8c43-4f7a222a6ace",
+    "identifier": "HB 1666",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in financial responsibility, further providing for definitions, for payments to satisfy judgments, for neighborhood electric vehicles, for notice of available benefits and limits and for availability of uninsured, underinsured, bodily injury liability and property damage coverages and mandatory deductibles.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1666/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/59b6d1db-add8-454e-8822-f7c530b13254",
+    "identifier": "HB 1462",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for broadcast of interscholastic athletic competitions.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1462/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -238,5 +238,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR22/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2a1d663a-8837-47a4-b273-6ad64c128e66",
+    "identifier": "HR 382",
+    "title": "A Resolution urging the Congress of the United States to retain expanded health insurance subsidies that enable consumers to purchase health insurance through Pennie.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-17T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR382/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/76fb156b-a070-4189-97d1-3c55d2cb9ef5",
+    "identifier": "HB 829",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, further providing for kindergartens; in pupils and attendance, further providing for age limits and temporary residence, for definitions and for when provided; and, in early learning programs, providing for full-day kindergarten.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB829/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/15f0dc29-68d1-4b6f-b4b7-a30ed1d250a6",
+    "identifier": "HR 391",
+    "title": "A Resolution recognizing January 27, 2026, as \"International Holocaust Remembrance Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-03T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR391/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eeebd69f-2d3e-4196-b0e0-dc0d13d21500",
+    "identifier": "HB 1749",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for exclusions from tax; and establishing a fueling opportunities for the revitalization, growth and efficiency of steel tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-22T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1749/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd8e0b22-771f-4dfa-af53-e7c59c0e29ab",
+    "identifier": "HR 26",
+    "title": "A Resolution designating January 23, 2025, as \"Maternal Health Awareness Day\" in Pennsylvania to recognize all the women who die from complications of pregnancy or childbirth.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR26/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a9153b56-c041-4f91-80e8-9aaec891fa5b",
+    "identifier": "HB 1896",
+    "title": "An Act amending the act of February 9, 1999 (P.L.1, No.1), known as the Capital Facilities Debt Enabling Act, in capital facilities, further providing for administration of redevelopment assistance capital projects.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-17T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1896/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16dc29b7-ddb7-4738-8569-bb55c27c7981",
+    "identifier": "HR 25",
+    "title": "A Concurrent Resolution establishing the Pennsylvania State Song Commission to study the history of the State song of the Commonwealth, solicit submissions for a new State song and recommend changes to the State song.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to Senate Rule 9)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to Senate Rule 9)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR25/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/009f71fd-3d81-4961-b130-f3e89ddc10f2",
+    "identifier": "HR 121",
+    "title": "A Resolution recognizing March 18, 2025, as \"National Transit Worker Appreciation Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR121/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

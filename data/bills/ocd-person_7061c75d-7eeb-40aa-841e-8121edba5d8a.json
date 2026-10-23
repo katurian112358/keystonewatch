@@ -493,5 +493,170 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB150/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1d933051-aac0-403f-b26a-89ca7cb18271",
+    "identifier": "SB 597",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in sustainable mobility options, further providing for definitions, for fund, for application and approval process, for Federal funding, for coordination and consolidation, for operating program, for asset improvement program, for new initiatives program, for programs of Statewide significance and for program oversight and administration, providing for small purchase procedures and repealing provisions relating to evaluation of private investment opportunities.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB597/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a3150a13-a46a-437e-8792-429acc43588f",
+    "identifier": "SB 329",
+    "title": "An Act providing for continuing education in Lyme disease and related tick-borne diseases for health care professionals.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-28T05:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB329/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/059a34da-508e-4938-989a-f1f83214fad3",
+    "identifier": "SB 1019",
+    "title": "An Act amending the act of November 30, 2004 (P.L.1672, No.213), known as the Alternative Energy Portfolio Standards Act, further providing for definitions, for interconnection standards for customer-generator facilities and for interagency responsibilities.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-10T05:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1019/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b9602be9-c0ed-4caf-b1b7-74461583f3fb",
+    "identifier": "SB 594",
+    "title": "An Act providing for complex wheelchair quality assurance; and imposing duties on the Department of Human Services and the Insurance Department.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB594/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a6c8f500-3188-40fd-95e8-1e49667c849a",
+    "identifier": "SB 1077",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in general provisions, further providing for definitions; in registration of vehicles, providing for issuance of roadable aircraft registration plates; in special vehicles and pedestrians, providing for roadable aircraft; in inspection of vehicles, further providing for requirement for periodic inspection of vehicles and providing for specific vehicle inspection; and, in snowmobiles and all-terrain vehicles, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-05T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1077/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a6ad4409-f50b-4551-b6fd-269d4e5f4e6b",
+    "identifier": "SB 641",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in administrative organization, further providing for Pennsylvania State Police; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Law & Justice",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-14T04:00:00+00:00",
+      "description": "Referred to Law & Justice"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB641/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/932b2ae4-2f18-4c0d-9435-c0a1789d0e9a",
+    "identifier": "SB 841",
+    "title": "An Act amending the act of July 19, 1979 (P.L.130, No.48), known as the Health Care Facilities Act, in licensing of health care facilities, further providing for licensure.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB841/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c8685672-b003-4176-b5bb-e54a272a55d7",
+    "identifier": "SB 542",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in licensing of drivers, further providing for schedule of convictions and points; in rules of the road in general, further providing for speed timing devices; and, in powers of department and local authorities, further providing for specific powers of department and local authorities.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-04T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB542/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/51b29814-eeed-4d01-89a7-af08578d5acd",
+    "identifier": "SB 53",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, further providing for conditions subject to which policies are to be issued and for health insurance coverage for certain children of insured parents.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB53/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/32b10b12-e382-4eb8-9844-1c57522deadb",
+    "identifier": "SB 654",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in miscellaneous provisions, establishing the Veterans Mental Health Services Program.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB654/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cccb1418-e810-40bf-a9ec-46e08141232a",
+    "identifier": "SB 709",
+    "title": "An Act providing for violence prevention committees in health facilities, for duties of committees, for workplace violence reporting requirements and for powers and duties of the Department of Labor and Industry; and imposing fines and administrative penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-05T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB709/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

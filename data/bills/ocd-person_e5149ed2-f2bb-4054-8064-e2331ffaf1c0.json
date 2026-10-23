@@ -103,5 +103,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2004/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c49eb9ff-fae5-4a1a-8dd1-4a6b6128228b",
+    "identifier": "HB 807",
+    "title": "An Act amending the act of December 22, 1983 (P.L.306, No.84), known as the Board of Vehicles Act, in preliminary provisions, further providing for definitions; and, in vehicles, further providing for application for license.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-04T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB807/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/782a9f44-5d36-4f94-a2cc-37d81ce653bd",
+    "identifier": "HB 812",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, establishing the Protecting Hospital Workers from Workplace Violence Grant Program and the Protecting Hospital Workers from Workplace Violence Grant Fund; providing for duties of Department of Health; and making a transfer.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-05T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB812/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d00552a8-146f-4bf5-a16e-fff01f5f4bec",
+    "identifier": "HB 1043",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school health services, further providing for definitions, for possession and use of asthma inhalers and epinephrine auto-injectors, for school access to emergency epinephrine and for administration of epinephrine auto-injectors by school bus drivers and school crossing guards.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-18T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1043/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ca94a04a-c29f-4a18-a19b-010da4cf41e2",
+    "identifier": "HR 207",
+    "title": "A Resolution designating the month of May 2025 as \"Nurses Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-23T04:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR207/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

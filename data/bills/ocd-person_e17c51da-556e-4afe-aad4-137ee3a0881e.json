@@ -103,5 +103,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR159/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e1770fa5-e3d7-4122-8cfa-3417a5820ca2",
+    "identifier": "HB 1439",
+    "title": "An Act amending the act of April 14, 1972 (P.L.233, No.64), known as The Controlled Substance, Drug, Device and Cosmetic Act, further providing for authority to control.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1439/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fe7172ae-528d-408b-9661-ba1c2d50c930",
+    "identifier": "HR 15",
+    "title": "A Resolution recognizing November 11, 2025, as \"Veterans Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR15/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b6b110c6-cc63-4384-900b-527fa5ae775f",
+    "identifier": "HR 160",
+    "title": "A Resolution urging the Congress of the United States to expand the Sergeant First Class Heath Robinson Honoring Our Promise to Address Comprehensive Toxics (PACT) Act of 2022 to include the health impacts of exposure to toxic substances at the United States military base Camp Carroll, South Korea.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-01T04:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR160/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

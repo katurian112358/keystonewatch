@@ -193,5 +193,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1448/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3f963d28-5733-422c-9073-ddb519a1ac11",
+    "identifier": "HB 381",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in preliminary provisions, providing for Keystone Exam alternative feasibility study.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB381/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ef289a91-0d5e-402e-bee3-c6213197f771",
+    "identifier": "HR 38",
+    "title": "A Resolution recognizing the week of April 6 through 12, 2025, as \"National Library Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR38/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

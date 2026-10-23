@@ -268,5 +268,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB236/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/59a3c6f6-a677-4bc3-be8c-898eea735e9d",
+    "identifier": "HB 1219",
+    "title": "An Act amending Title 71 (State Government) of the Pennsylvania Consolidated Statutes, in boards and offices, providing for information technology; establishing the Office of Information Technology and the Information Technology Fund; providing for administrative and procurement procedures and for the Joint Cybersecurity Oversight Committee; imposing duties on the Office of Information Technology; providing for administration of Pennsylvania Statewide Radio Network; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-15T04:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1219/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/11a63cfa-de37-4da4-a57a-6be3a59c6dde",
+    "identifier": "HB 1489",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, establishing the Lifeline Scholarship Program and the Lifeline Scholarship Fund; and conferring powers and imposing duties on the State Treasury and Auditor General.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1489/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

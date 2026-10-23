@@ -133,5 +133,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1601/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/43ee2dd3-1f17-4737-8eb6-4f252ff2c42e",
+    "identifier": "HB 1276",
+    "title": "An Act amending Title 13 (Commercial Code) of the Pennsylvania Consolidated Statutes, in short title and general matters, further providing for applicability and choice of law; in security entitlements, further providing for property interest of entitlement holder in financial asset held by securities intermediary and for priority among security interests and entitlement holders; and, in perfection and priority, further providing for law governing perfection and priority of security interests in investment property.",
+    "session": "2025-2026",
+    "status": "Referred to Commerce",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Commerce"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1276/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d67f244a-8306-4d39-84fa-a92adba94205",
+    "identifier": "HR 106",
+    "title": "A Resolution appointing and empowering a committee to investigate the conduct of the Honorable Steven D. Stambaugh, Court of Common Pleas Judge for the 19th District of York County.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR106/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fae2c05a-afc5-44f5-be5e-a6bb93b29d6d",
+    "identifier": "HB 1544",
+    "title": "An Act amending Title 71 (State Government) of the Pennsylvania Consolidated Statutes, in membership, credited service, classes of service, and eligibility for benefits, further providing for mandatory and optional membership in the system and participation in the plan.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1544/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/79f51f65-7ee0-4e7b-ba4f-7fa3ee29c038",
+    "identifier": "HB 1354",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, further providing for school athletics, publications, and organizations.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-30T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1354/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7d8623db-a77d-4eaa-971b-78d393edb009",
+    "identifier": "HB 83",
+    "title": "An Act amending the act of February 13, 1970 (P.L.19, No.10), entitled \"An act enabling certain minors to consent to medical, dental and health services, declaring consent unnecessary under certain circumstances,\" further providing for mental health treatment and for liability for rendering services; and providing for applicability.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB83/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9dcc5683-9765-42dc-86e3-64f074f73808",
+    "identifier": "HB 452",
+    "title": "An Act amending the act of April 23, 1956 (1955 P.L.1510, No.500), known as the Disease Prevention and Control Law of 1955, providing for amnesty for disciplinary actions regarding COVID-19 protocols.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB452/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

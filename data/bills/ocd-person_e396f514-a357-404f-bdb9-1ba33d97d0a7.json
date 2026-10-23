@@ -328,5 +328,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR107/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/820ce8a6-12f7-4b47-8b74-617d168f937f",
+    "identifier": "HB 1449",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in budget and finance, further providing for expenses.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-13T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1449/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3a08b4c8-d7ca-4a3b-b738-0ecb47ce1c2b",
+    "identifier": "HB 379",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, further providing for vehicles exempt from registration; and, in licensing of drivers, further providing for persons exempt from licensing.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB379/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3ba97640-2c43-426e-a913-623529e150f6",
+    "identifier": "HB 1955",
+    "title": "An Act amending Titles 44 (Law and Justice) and 75 (Vehicles) of the Pennsylvania Consolidated Statutes, codifying prohibition on political subdivisions and Commonwealth agencies imposing quotas on the issuance of citations for certain offenses and prohibiting the practice of station averaging; in licensing of drivers, further providing for schedule of convictions and points; in rules of the road in general, providing for radar enforcement systems pilot program; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1955/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/569341f6-3086-4d7d-97de-308a81d4955e",
+    "identifier": "HB 424",
+    "title": "An Act amending Titles 45 (Legal Notices) and 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in legal advertising, providing for redundant advertising on Internet by political subdivisions or municipal authorities; and, in open meetings, further providing for public notice.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB424/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8debd5fb-fea5-40e2-af65-7af53ad91603",
+    "identifier": "HR 126",
+    "title": "A Resolution designating October 14, 2025, as \"William Penn Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR126/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/605fbeec-fff1-4291-8c43-4f7a222a6ace",
+    "identifier": "HB 1666",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in financial responsibility, further providing for definitions, for payments to satisfy judgments, for neighborhood electric vehicles, for notice of available benefits and limits and for availability of uninsured, underinsured, bodily injury liability and property damage coverages and mandatory deductibles.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1666/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/59b6d1db-add8-454e-8822-f7c530b13254",
+    "identifier": "HB 1462",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for broadcast of interscholastic athletic competitions.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1462/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -298,5 +298,155 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1669/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/19c8bd70-c3ec-4b24-a626-674f372c1d93",
+    "identifier": "HB 1812",
+    "title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in ethics standards and financial disclosure, further providing for definitions, for restricted activities, for statement of financial interests and for penalties.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-20T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1812/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9780fdbc-a56e-4c5e-83d5-cae6f4588710",
+    "identifier": "HB 1589",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in books, furniture and supplies, providing for school library collections.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-11T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1589/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cfd44a35-80fb-4fbe-b843-81ebbcb66e5a",
+    "identifier": "HB 287",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in additional special funds and restricted accounts, establishing the Survivor-Centered, Accessible, Fair and Empowering Housing Trust Fund; and making an interfund transfer.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB287/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6ccca26e-4074-47b5-ba76-b4af33e16fbc",
+    "identifier": "HB 356",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, further providing for youth suicide awareness and prevention and providing for violence prevention and social inclusion.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB356/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/27dbaf3f-640c-4846-a61d-48ed06fb5bf3",
+    "identifier": "HR 214",
+    "title": "A Resolution recognizing the month of May 2025 as \"National Treatment Court Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-18T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR214/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/93f00cb3-e645-4def-9d39-62d6fc2ff479",
+    "identifier": "HB 526",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania\r\n Consolidated Statutes, permitting a mother the freedom to\r\n nurse her child in public; and providing that breastfeeding\r\n may not be considered a nuisance, indecent exposure, sexual\r\n conduct or obscenity.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB526/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b74b3a85-18ec-4bca-8721-25a21967e144",
+    "identifier": "HB 697",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in administrative organization, further providing for Pennsylvania State Police; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Re-committed to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-25T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB697/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a19a3f54-a210-4a03-8d67-830b16fced7b",
+    "identifier": "HB 2018",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, further providing for the disclosure of certain criminal history record information and certain information related to abuse to the Domestic Violence Fatality Review Board and to any domestic violence fatality review team; and establishing the Domestic Violence Fatality Review Program.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-28T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2018/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3f5114ac-a571-4685-8e28-0229f172655d",
+    "identifier": "HR 151",
+    "title": "A Resolution recognizing the month of May 2025 as \"Menstrual Health Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR151/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e076779f-9715-4150-bd70-62d1fab6c859",
+    "identifier": "HB 1699",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child custody, further providing for award of custody, repealing provisions relating to relocation and providing for relocation.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-07T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1699/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

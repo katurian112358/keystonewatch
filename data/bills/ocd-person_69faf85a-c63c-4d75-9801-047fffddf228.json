@@ -118,5 +118,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB808/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f21a3669-145d-49e3-a6bb-429b494b3428",
+    "identifier": "HB 1817",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in obstructing governmental operations, providing for the offense of interfering or impeding a first responder's duties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-22T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1817/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cfda36ea-8a7e-4765-91e9-b372ef506d0e",
+    "identifier": "HB 259",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in minors, further providing for the offense of sexual abuse of children.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB259/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eeeff7bf-c685-42ca-a356-b768b3ea7084",
+    "identifier": "HB 2208",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in inspection of vehicles, further providing for prohibition on expenditures for emission inspection program.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-09T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2208/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/11a63cfa-de37-4da4-a57a-6be3a59c6dde",
+    "identifier": "HB 1489",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, establishing the Lifeline Scholarship Program and the Lifeline Scholarship Fund; and conferring powers and imposing duties on the State Treasury and Auditor General.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1489/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/569341f6-3086-4d7d-97de-308a81d4955e",
+    "identifier": "HB 424",
+    "title": "An Act amending Titles 45 (Legal Notices) and 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in legal advertising, providing for redundant advertising on Internet by political subdivisions or municipal authorities; and, in open meetings, further providing for public notice.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB424/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

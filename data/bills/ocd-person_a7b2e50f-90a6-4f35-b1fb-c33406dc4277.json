@@ -163,5 +163,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1496/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eeebd69f-2d3e-4196-b0e0-dc0d13d21500",
+    "identifier": "HB 1749",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for exclusions from tax; and establishing a fueling opportunities for the revitalization, growth and efficiency of steel tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-22T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1749/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ed77b925-fe05-4b3d-8729-e6a8b902246d",
+    "identifier": "HR 221",
+    "title": "A Resolution designating the week of June 16 through 22, 2025, as \"Pollinator Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-17T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR221/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f935e8cf-f793-43cc-9e75-d3c2edbad4c0",
+    "identifier": "HR 245",
+    "title": "A Resolution designating the week of June 9 through 13, 2025, as \"Union Organizing Week\" in Pennsylvania, in honor of those workers who have fought for their right to organize and bargain collectively at their workplace.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-11T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR245/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/48d02319-bd10-4de8-8d2b-997589aa3258",
+    "identifier": "HR 305",
+    "title": "A Resolution designating the month of November 2025 as \"Pancreatic Cancer Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR305/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8ecdc56c-c3cf-414f-af42-e2397d6a0995",
+    "identifier": "HB 1761",
+    "title": "An Act amending Titles 53 (Municipalities Generally) and 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in municipal authorities, further providing for purposes and powers; and, in rates and distribution systems, further providing for standby charge prohibited.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1761/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

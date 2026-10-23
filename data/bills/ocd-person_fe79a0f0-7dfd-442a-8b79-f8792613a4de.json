@@ -193,5 +193,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB150/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/441dadef-9c22-45ae-9ae3-f477fb5a5a9e",
+    "identifier": "SB 1140",
+    "title": "An Act amending the act of October 25, 2012 (P.L.1618, No.197), known as the National Human Trafficking Resource Center Hotline Notification Act, further providing for definitions; providing for training requirements for public lodging establishments and for training requirements for third-party listing platforms and rental operators; further providing for enforcement, for violation, for affirmative defenses, for administrative penalties and for criminal penalties; and imposing duties on the Pennsylvania Commission on Crime and Delinquency.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-20T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1140/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4e824caf-1218-411d-8d21-23fde98422b7",
+    "identifier": "SR 106",
+    "title": "A Resolution honoring the Super Bowl LIX Champions, the 2025 Philadelphia Eagles, and recognizing the Philadelphia Eagles as one of the greatest football teams ever to represent this Commonwealth on the field.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR106/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/b6eb4c4b-72b6-421d-9b7c-865d497fa5e7",
+    "identifier": "SB 1134",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in selection, retention and removal of judicial officers, further providing for vacancies in office.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-09T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1134/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

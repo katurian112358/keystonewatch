@@ -223,5 +223,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2004/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/24ee5fd9-ac63-49d5-9181-9d3de77d6e05",
+    "identifier": "HR 117",
+    "title": "A Resolution recognizing March 14, 2025, as \"Black Midwives Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-08T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR117/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5878582f-4e83-41e1-a209-66f7e39c1b20",
+    "identifier": "HB 1154",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in general budget implementation, further providing for Department of Health.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-07T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1154/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9d3e7199-8524-4f9d-8f91-8b844c98a7ed",
+    "identifier": "HB 1968",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in particular rights and immunities, providing for personal rights; and prescribing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1968/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd8e0b22-771f-4dfa-af53-e7c59c0e29ab",
+    "identifier": "HR 26",
+    "title": "A Resolution designating January 23, 2025, as \"Maternal Health Awareness Day\" in Pennsylvania to recognize all the women who die from complications of pregnancy or childbirth.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR26/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/88aa3c12-91ad-413e-a208-25d05dfecd75",
+    "identifier": "HR 190",
+    "title": "A Resolution designating the week of April 7 through 11, 2025, as \"Health Equity Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-15T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR190/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eeae7994-ba73-43f5-ba5a-81bd584e2f23",
+    "identifier": "HB 1413",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code,  in preliminary provisions, further providing for definitions; in Pennsylvania Liquor Control Board, further providing for Office of Administrative Law Judge; in licenses and regulations and liquor, alcohol and malt and brewed beverages, further providing for hearings upon refusal of licenses, renewals or transfers and appeals and for renewal of licenses and temporary provisions for licensees in armed service, providing for failure to maintain minimum requirements for licensure and further providing for revocation and suspension of licenses and fines, for applicants to provide State tax identification numbers and statement of State tax status, waiver of confidentiality of information in the possession of the Department of Revenue and other departments and review of State tax status and for rights of municipalities preserved; in distilleries, wineries, bonded warehouses, bailees for hire and transporters for hire, further providing for appeals; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Liquor Control",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-06T04:00:00+00:00",
+      "description": "Referred to Liquor Control"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1413/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/194b605c-b850-4afd-9b4f-bbda03d79240",
+    "identifier": "HB 707",
+    "title": "An Act amending the act of July 8, 2007 (P.L.90, No.28), known as the Freedom to Breastfeed Act, providing for accommodation for breastfeeding in Commonwealth-owned buildings; and imposing duties on the Department of General Services.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-08T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB707/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

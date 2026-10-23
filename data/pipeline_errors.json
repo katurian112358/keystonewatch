@@ -5,271 +5,109 @@
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/4bc74848-3896-4a0a-9310-970458f48d1a",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-22T12:44:02.582486"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/1b5abb1e-0028-49a3-ae86-cfb90296c796",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-22T12:44:23.271529"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/77755456-0f2a-4bbd-ac96-03d83398d6fc",
-    "error": "HTTPSConnectionPool(host='pasenatorcappelletti.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='pasenatorcappelletti.com', port=443) at 0x7f4e822b9d10>, 'Connection to pasenatorcappelletti.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:44:46.823546"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/a41016aa-660f-4af7-afcd-ef182e544533",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-22T12:45:07.520262"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/19dca465-48d8-4b4a-84e2-79ef9797c986",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-22T12:45:28.195064"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/628312bf-7920-44b7-b226-90c92f92a123",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-22T12:45:48.866029"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/999d1ffd-b893-4aac-9fbb-ae43b3039038",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-10-22T12:46:11.823776"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/ea712eba-1da5-45e2-8d9f-022e8307a614",
-    "error": "HTTPSConnectionPool(host='www.senatorhaywood.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatorhaywood.com', port=443) at 0x7f4e81301a50>, 'Connection to www.senatorhaywood.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:46:50.527348"
-  },
-  {
-    "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e12dc574-f19b-4c9c-9a30-42b68371ea4a",
     "error": "no website URL",
-    "timestamp": "2026-10-22T12:47:20.775817"
+    "timestamp": "2026-10-23T12:28:42.915645"
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/91c58c1d-de9d-471b-8178-f6ef89c1286b",
-    "error": "HTTPSConnectionPool(host='www.pasenatorcomitta.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pasenatorcomitta.com', port=443) at 0x7f4e81b66690>, 'Connection to www.pasenatorcomitta.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:48:17.378098"
+    "legislator_id": "ocd-person/d5bd036c-03f5-4111-b770-15cb2dbe3278",
+    "error": "429 Client Error: Too Many Requests for url: https://www.repgrimmkrupa.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-10-23T12:29:11.447958"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e17c51da-556e-4afe-aad4-137ee3a0881e",
-    "error": "429 Client Error: Too Many Requests for url: https://www.repcraigwilliams.com/",
-    "timestamp": "2026-10-22T12:48:34.723930"
+    "error": "429 Client Error: Too Many Requests for url: https://www.repcraigwilliams.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-10-23T12:29:21.926882"
+  },
+  {
+    "step": "scrape_press_releases",
+    "legislator_id": "ocd-person/c88ccd9a-3378-4284-9dc6-767a4826526e",
+    "error": "429 Client Error: Too Many Requests for url: https://www.repdavidrowe.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-10-23T12:29:52.937981"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/875b1add-2803-4cc3-964b-0e351ed6ca1c",
     "error": "no website URL",
-    "timestamp": "2026-10-22T12:50:03.554464"
+    "timestamp": "2026-10-23T12:30:09.524144"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b7373c43-580b-4044-a405-054073ac687b",
     "error": "429 Client Error: Too Many Requests for url: https://repweaknecht.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-10-22T12:50:06.114867"
+    "timestamp": "2026-10-23T12:30:12.851214"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fea0b7c4-d51a-463f-964a-75722678083b",
     "error": "no website URL",
-    "timestamp": "2026-10-22T12:50:40.131274"
+    "timestamp": "2026-10-23T12:30:48.313203"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e396f514-a357-404f-bdb9-1ba33d97d0a7",
     "error": "429 Client Error: Too Many Requests for url: https://www.repflick.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-10-22T12:50:42.143389"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/ee6b52c3-d92c-4cd6-a6ea-6869a8c93df0",
-    "error": "HTTPSConnectionPool(host='senatorcosta.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='senatorcosta.com', port=443) at 0x7f4e81e5ac50>, 'Connection to senatorcosta.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:51:12.515919"
+    "timestamp": "2026-10-23T12:30:50.422455"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0df3f8d5-b6df-4cd8-a2c7-1dee651e60a8",
     "error": "no website URL",
-    "timestamp": "2026-10-22T12:51:22.279547"
+    "timestamp": "2026-10-23T12:31:12.425941"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/acc00fca-50e5-46f7-8676-d502ecfc94ac",
     "error": "429 Client Error: Too Many Requests for url: https://www.repjoehamm.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-10-22T12:51:42.499650"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b1beaa5c-93d2-479e-9408-47c7687cd212",
-    "error": "429 Client Error: Too Many Requests for url: https://www.rephogan.com/",
-    "timestamp": "2026-10-22T12:51:43.348084"
+    "timestamp": "2026-10-23T12:31:41.829480"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/00e98952-3983-44cd-aeca-09fb6cd84f3d",
     "error": "404 Client Error: Not Found for url: https://senatorpicozzi.com/InTheNews/",
-    "timestamp": "2026-10-22T12:51:50.472809"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/c45052c1-f3e4-485e-a3d2-f346fa51839b",
-    "error": "HTTPSConnectionPool(host='pasenatorkane.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='pasenatorkane.com', port=443) at 0x7f4e81b64e90>, 'Connection to pasenatorkane.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:52:17.962544"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/23a2b079-dc91-49b0-b08e-f3ae80fba11f",
-    "error": "429 Client Error: Too Many Requests for url: https://www.repfritz.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-10-22T12:52:20.613288"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/35362d6e-d00a-4cf1-806d-b4f2f2a55f72",
-    "error": "HTTPSConnectionPool(host='www.senatorschwank.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatorschwank.com', port=443) at 0x7f4e8201f350>, 'Connection to www.senatorschwank.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:52:46.881227"
+    "timestamp": "2026-10-23T12:31:52.660323"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/36348b5e-47fe-404a-b6c3-99359115846c",
     "error": "429 Client Error: Too Many Requests for url: https://www.reprapp.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-10-22T12:52:54.747691"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/ade3ef98-a98c-4448-a974-ec4e0eede98f",
-    "error": "HTTPSConnectionPool(host='www.senatormuth.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatormuth.com', port=443) at 0x7f4e806b53d0>, 'Connection to www.senatormuth.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:53:15.404480"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/bc64322a-faaf-4b33-b6c2-cf5059f4121c",
-    "error": "HTTPSConnectionPool(host='senatorlindseywilliams.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='senatorlindseywilliams.com', port=443) at 0x7f4e81f9f7d0>, 'Connection to senatorlindseywilliams.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:53:58.425582"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/de81d407-bc84-48e6-9796-4a56be984cbd",
-    "error": "HTTPSConnectionPool(host='senatorboscola.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='senatorboscola.com', port=443) at 0x7f4e82375410>, 'Connection to senatorboscola.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:54:23.019131"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/323c52e8-f841-4a0b-a49e-91103949fbc8",
-    "error": "HTTPSConnectionPool(host='www.senatorcollett.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatorcollett.com', port=443) at 0x7f4e811ba290>, 'Connection to www.senatorcollett.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:54:59.866928"
+    "timestamp": "2026-10-23T12:32:20.086510"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/93435394-e853-45f2-9e88-65399b3f9042",
     "error": "429 Client Error: Too Many Requests for url: https://www.repwhite.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-10-22T12:55:03.204700"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/7061c75d-7eeb-40aa-841e-8121edba5d8a",
-    "error": "HTTPSConnectionPool(host='www.senatorflynn.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatorflynn.com', port=443) at 0x7f4e81cc2ad0>, 'Connection to www.senatorflynn.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:55:26.469675"
+    "timestamp": "2026-10-23T12:33:19.763541"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/f5b2ec4d-1d69-483a-a6ec-143d50ad395b",
     "error": "generic scrape: no news link found",
-    "timestamp": "2026-10-22T12:55:46.484281"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/a160699d-cc7d-4ed7-b486-57008ee0e642",
-    "error": "HTTPSConnectionPool(host='pasenatormiller.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='pasenatormiller.com', port=443) at 0x7f4e8071f010>, 'Connection to pasenatormiller.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:56:20.291072"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/c9f6833a-470e-480f-b3ad-d91c887aa4f9",
-    "error": "HTTPSConnectionPool(host='pasenatornick.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='pasenatornick.com', port=443) at 0x7f4e8203ac10>, 'Connection to pasenatornick.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:56:40.898461"
+    "timestamp": "2026-10-23T12:33:45.971994"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/6f172bc8-50b0-4dd3-aed6-b5fd48b70eeb",
-    "error": "HTTPSConnectionPool(host='www.pasenatorsaval.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.pasenatorsaval.com', port=443) at 0x7f4e80600b90>, 'Connection to www.pasenatorsaval.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:57:01.594170"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b5ff17d0-36e8-4f29-8c9b-e51bb9b3ea29",
-    "error": "HTTPSConnectionPool(host='pasenatorkim.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='pasenatorkim.com', port=443) at 0x7f4e811ec790>, 'Connection to pasenatorkim.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:57:40.546111"
+    "error": "generic scrape: no news link found",
+    "timestamp": "2026-10-23T12:34:16.591056"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/69faf85a-c63c-4d75-9801-047fffddf228",
     "error": "no website URL",
-    "timestamp": "2026-10-22T12:58:05.570019"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b0d20b05-428a-4e3a-bda1-bbba5c3cfd6a",
-    "error": "HTTPSConnectionPool(host='www.senatorsharifstreet.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatorsharifstreet.com', port=443) at 0x7f4e81ebf1d0>, 'Connection to www.senatorsharifstreet.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:58:57.333569"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/91f290d0-3405-4091-bb16-822a97f45af5",
-    "error": "HTTPSConnectionPool(host='www.senatorstevesantarsiero.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatorstevesantarsiero.com', port=443) at 0x7f4e80a70bd0>, 'Connection to www.senatorstevesantarsiero.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T12:59:27.861522"
+    "timestamp": "2026-10-23T12:35:00.815604"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/de68158e-3cc9-4651-b3a1-71f5e77b7dab",
     "error": "pahouse scrape: no NewsRelease links found",
-    "timestamp": "2026-10-22T12:59:42.677149"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/f9f2479f-0c37-47d1-a4eb-666146e2856f",
-    "error": "HTTPSConnectionPool(host='www.senatorkearney.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatorkearney.com', port=443) at 0x7f4e81aa3790>, 'Connection to www.senatorkearney.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T13:00:08.754505"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/f3b4fe8c-05f9-4610-81ef-354c0fcb0cdd",
-    "error": "HTTPSConnectionPool(host='www.senatortartaglione.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatortartaglione.com', port=443) at 0x7f4e81eecbd0>, 'Connection to www.senatortartaglione.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T13:00:35.633166"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/fe79a0f0-7dfd-442a-8b79-f8792613a4de",
-    "error": "HTTPSConnectionPool(host='www.senatoranthonyhwilliams.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatoranthonyhwilliams.com', port=443) at 0x7f4e8053e010>, 'Connection to www.senatoranthonyhwilliams.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T13:00:59.309897"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/53a598e0-3595-4b19-8f65-4a538bdc7a74",
-    "error": "HTTPSConnectionPool(host='www.senatorhughes.com', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.senatorhughes.com', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-    "timestamp": "2026-10-22T13:01:23.626482"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b93e4f38-764f-4e95-bd51-4d40dba0aaa4",
-    "error": "HTTPSConnectionPool(host='www.senatorfontana.com', port=443): Max retries exceeded with url: / (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.senatorfontana.com', port=443) at 0x7f4e81fdf210>, 'Connection to www.senatorfontana.com timed out. (connect timeout=20)'))",
-    "timestamp": "2026-10-22T13:01:44.371587"
+    "timestamp": "2026-10-23T12:36:02.328367"
   },
   {
     "step": "summarize_releases",
     "severity": "warning",
-    "error": "224 summaries failed (will retry next run)"
+    "error": "226 summaries failed (will retry next run)"
   }
 ]

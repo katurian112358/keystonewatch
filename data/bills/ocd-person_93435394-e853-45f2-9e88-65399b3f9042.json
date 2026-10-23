@@ -28,5 +28,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR217/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7bbc02ca-1a7c-4987-996b-b6a112598aed",
+    "identifier": "HB 1989",
+    "title": "An Act amending Title 64 (Public Authorities and Quasi-Public Corporations) of the Pennsylvania Consolidated Statutes, in economic development financing, providing for Keystone National Finance Authority.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-23T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1989/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/11a63cfa-de37-4da4-a57a-6be3a59c6dde",
+    "identifier": "HB 1489",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, establishing the Lifeline Scholarship Program and the Lifeline Scholarship Fund; and conferring powers and imposing duties on the State Treasury and Auditor General.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1489/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5bb36c32-60a0-475a-ad13-73ef787186fd",
+    "identifier": "HB 85",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for unlawful discriminatory practices; and providing for unlawful discriminatory practices against certain religions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB85/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

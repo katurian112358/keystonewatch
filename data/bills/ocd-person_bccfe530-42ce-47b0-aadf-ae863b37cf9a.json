@@ -163,5 +163,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB189/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c78f1dca-3788-4d83-9b50-9a2427c74d3b",
+    "identifier": "HB 445",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for security from searches and seizures.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB445/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

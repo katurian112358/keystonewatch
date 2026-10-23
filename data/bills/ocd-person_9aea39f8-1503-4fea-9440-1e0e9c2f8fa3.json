@@ -148,5 +148,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1496/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/52582146-53f2-44c2-b6eb-752934b7d62b",
+    "identifier": "HB 552",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, providing for the Pennsylvania Amber Alert System, the Missing Endangered Person Advisory System and the Green Alert System and for duties of the Pennsylvania State Police; assessing costs; providing for immunity and penalties; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-11T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB552/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/11571187-7312-467d-b976-7117df04c99e",
+    "identifier": "HB 471",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in veterans' organizations, further providing for grants to veterans' service officer programs.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB471/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0aa4a80a-81ad-4654-9e47-c35e207a0365",
+    "identifier": "HB 1068",
+    "title": "An Act providing for licensure of family members to provide skilled care to designated children, for applications for licensure, for qualifications for licensure, for employment and compensation of licensed family members, for limitations and supervision of licensed family members, for notice to parents of recipients and for authorization of covered skilled care.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-31T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1068/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

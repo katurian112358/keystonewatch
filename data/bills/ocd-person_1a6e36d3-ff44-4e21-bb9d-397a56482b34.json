@@ -148,5 +148,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR360/",
     "sponsorship_role": "primary",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/ae1f2f6b-225d-4877-933f-eb48506d51be",
+    "identifier": "HB 952",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in service and facilities, further providing for notices before service to landlord terminated.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB952/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0badc9a6-3706-42de-92b3-6c1241b242db",
+    "identifier": "HB 1195",
+    "title": "An Act amending Title 8 (Boroughs and Incorporated Towns) of the Pennsylvania Consolidated Statutes, in vacancies in office, further providing for filling vacancies in elective borough offices.",
+    "session": "2025-2026",
+    "status": "Corrective Reprint, Printer's No.  1674",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-09T04:00:00+00:00",
+      "description": "Corrective Reprint, Printer's No.  1674"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1195/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/569341f6-3086-4d7d-97de-308a81d4955e",
+    "identifier": "HB 424",
+    "title": "An Act amending Titles 45 (Legal Notices) and 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in legal advertising, providing for redundant advertising on Internet by political subdivisions or municipal authorities; and, in open meetings, further providing for public notice.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB424/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

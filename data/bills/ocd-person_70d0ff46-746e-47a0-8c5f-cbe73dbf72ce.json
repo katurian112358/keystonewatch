@@ -193,5 +193,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2094/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c78f1dca-3788-4d83-9b50-9a2427c74d3b",
+    "identifier": "HB 445",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for security from searches and seizures.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB445/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/569341f6-3086-4d7d-97de-308a81d4955e",
+    "identifier": "HB 424",
+    "title": "An Act amending Titles 45 (Legal Notices) and 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in legal advertising, providing for redundant advertising on Internet by political subdivisions or municipal authorities; and, in open meetings, further providing for public notice.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB424/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fae2c05a-afc5-44f5-be5e-a6bb93b29d6d",
+    "identifier": "HB 1544",
+    "title": "An Act amending Title 71 (State Government) of the Pennsylvania Consolidated Statutes, in membership, credited service, classes of service, and eligibility for benefits, further providing for mandatory and optional membership in the system and participation in the plan.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1544/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bed3dcf4-5c38-4a4c-bde2-a0e47916ef02",
+    "identifier": "HB 1184",
+    "title": "An Act imposing a moratorium on enactment of new or expanded health insurance policy mandated benefits; and requiring the Legislative Budget and Finance Committee to study the issue of health insurance mandates and report to the General Assembly.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1184/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fc13ee24-67e9-4ce7-a14f-82fbe1872cc3",
+    "identifier": "HB 810",
+    "title": "An Act amending the act of June 30, 2011 (P.L.81, No.18), known as the Pennsylvania Web Accountability and Transparency (PennWATCH) Act, further providing for searchable budget database and for administration.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-05T05:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB810/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

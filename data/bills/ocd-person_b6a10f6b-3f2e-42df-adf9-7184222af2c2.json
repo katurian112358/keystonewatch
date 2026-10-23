@@ -178,5 +178,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB900/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/602398bd-93c5-46e3-98d2-8702dd60369d",
+    "identifier": "HB 2040",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in general provisions, further providing for definitions; in miscellaneous provisions, providing for the offense of careless operation of electric scooters; and, in powers of department and local authorities, further providing for specific powers of department and local authorities.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2040/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

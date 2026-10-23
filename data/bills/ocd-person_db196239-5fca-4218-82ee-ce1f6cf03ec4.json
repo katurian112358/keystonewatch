@@ -1534,19 +1534,8 @@
     "status": "Referred to Intergovernmental Affairs & Operations",
     "subjects": [],
     "latest_action": {
-      "id": "4ce49916-b47a-4037-b892-5fe2cb09d616",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Intergovernmental Affairs & Operations",
       "date": "2025-03-05T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Intergovernmental Affairs & Operations"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB810/",
     "sponsorship_role": "cosponsor",
@@ -1560,19 +1549,8 @@
     "status": "Referred to Housing & Community Development",
     "subjects": [],
     "latest_action": {
-      "id": "d8c8b398-5145-4a53-b694-6dfc984037d1",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Housing & Community Development",
       "date": "2025-02-20T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Housing & Community Development"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB614/",
     "sponsorship_role": "cosponsor",
@@ -1586,19 +1564,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "9b6f568e-71b7-42c6-be9f-37028db70e6a",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-09-09T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1481/",
     "sponsorship_role": "cosponsor",

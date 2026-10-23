@@ -118,5 +118,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR217/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c2bf9cd7-aadf-4934-a740-5e73a5b555eb",
+    "identifier": "HB 1535",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, further providing for grading, classification and promotion of pupils.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-02T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1535/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9a76c7ff-2c6d-446d-8c6f-5c4ccbec0a06",
+    "identifier": "HB 2168",
+    "title": "An Act amending the act of December 19, 1990 (P.L.1372, No.212), known as the Early Intervention Services System Act, in Statewide system for provision of early intervention services, further providing for administration by Department of Education.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2168/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/24ee5fd9-ac63-49d5-9181-9d3de77d6e05",
+    "identifier": "HR 117",
+    "title": "A Resolution recognizing March 14, 2025, as \"Black Midwives Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-08T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR117/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/371eb4ee-6de8-4331-8594-4af3adede18a",
+    "identifier": "HB 1188",
+    "title": "An Act amending Title 71 (State Government) of the Pennsylvania Consolidated Statutes, providing for protection of State-owned electronic devices and networks from applications controlled by foreign adversaries.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-10T04:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1188/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

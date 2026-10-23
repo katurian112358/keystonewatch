@@ -193,5 +193,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB724/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2a1d663a-8837-47a4-b273-6ad64c128e66",
+    "identifier": "HR 382",
+    "title": "A Resolution urging the Congress of the United States to retain expanded health insurance subsidies that enable consumers to purchase health insurance through Pennie.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-17T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR382/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f935e8cf-f793-43cc-9e75-d3c2edbad4c0",
+    "identifier": "HR 245",
+    "title": "A Resolution designating the week of June 9 through 13, 2025, as \"Union Organizing Week\" in Pennsylvania, in honor of those workers who have fought for their right to organize and bargain collectively at their workplace.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-11T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR245/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dae0c07a-eb84-4d60-b331-1e292c1e2344",
+    "identifier": "HB 1656",
+    "title": "An Act promoting indoor air quality in facilities housing or serving vulnerable populations; providing for tax credits, for certification programs, for public education and for data collection; and imposing duties on the Department of Health.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1656/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0f292e3f-d5c8-479f-bde6-882f9a138216",
+    "identifier": "HB 2278",
+    "title": "An Act providing for the use of paper coupons and digital coupons in retail establishments that sell grocery items; and prohibiting the exclusive use of digital coupons.",
+    "session": "2025-2026",
+    "status": "Referred to Commerce",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-11T04:00:00+00:00",
+      "description": "Referred to Commerce"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2278/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c976883c-9a92-4a03-a7af-1a2756021bc9",
+    "identifier": "HR 243",
+    "title": "A Resolution designating June 9, 2025, as \"Dave Parker Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR243/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ff3427dd-9d6a-4ca0-bfe8-4d33fb5fc92f",
+    "identifier": "HB 2044",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, providing for report of theft or loss of firearm; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2044/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f5b86e63-f7a9-4ba0-9917-8ec1dcad8b2d",
+    "identifier": "HB 798",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in powers and duties in general, further providing for departmental reports.",
+    "session": "2025-2026",
+    "status": "Re-referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Reported with request to re-refer to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB798/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0aa4a80a-81ad-4654-9e47-c35e207a0365",
+    "identifier": "HB 1068",
+    "title": "An Act providing for licensure of family members to provide skilled care to designated children, for applications for licensure, for qualifications for licensure, for employment and compensation of licensed family members, for limitations and supervision of licensed family members, for notice to parents of recipients and for authorization of covered skilled care.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-31T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1068/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

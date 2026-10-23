@@ -313,5 +313,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1669/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3c79109d-34e5-4d53-b4aa-350030a3897d",
+    "identifier": "HB 2271",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in sexual offenses, further providing for the offense of rape.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2271/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/758421f8-80d9-4bc1-af66-38486bf5b3d2",
+    "identifier": "HB 897",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, in general provisions relating to Commonwealth Procurement Code, further providing for definitions and providing for prioritization of American-made supplies.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-13T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB897/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3edbd8e5-7e94-40c7-bc62-13c99e5bceea",
+    "identifier": "HB 767",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, providing for Gadsden flag plate.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB767/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16dc29b7-ddb7-4738-8569-bb55c27c7981",
+    "identifier": "HR 25",
+    "title": "A Concurrent Resolution establishing the Pennsylvania State Song Commission to study the history of the State song of the Commonwealth, solicit submissions for a new State song and recommend changes to the State song.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to Senate Rule 9)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to Senate Rule 9)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR25/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4888c860-04f2-4d51-ba31-50af81008390",
+    "identifier": "HR 74",
+    "title": "A Resolution recognizing the month of November 2025 as \"National Epilepsy Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR74/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c25d5f57-f07c-43fd-88ae-b0a8a0b93cd8",
+    "identifier": "HB 1782",
+    "title": "An Act providing for the annual designation and holiday observance of September 17 as \"Constitution Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-04T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1782/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9dcc5683-9765-42dc-86e3-64f074f73808",
+    "identifier": "HB 452",
+    "title": "An Act amending the act of April 23, 1956 (1955 P.L.1510, No.500), known as the Disease Prevention and Control Law of 1955, providing for amnesty for disciplinary actions regarding COVID-19 protocols.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB452/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e210809b-9c5e-47d2-b96a-edf577e665e7",
+    "identifier": "HB 2029",
+    "title": "A Joint Resolution proposing integrated amendments to the Constitution of the Commonwealth of Pennsylvania, further providing for election of justices, judges and justices of the peace and vacancies and for tenure of justices, judges and justices of the peace.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2029/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

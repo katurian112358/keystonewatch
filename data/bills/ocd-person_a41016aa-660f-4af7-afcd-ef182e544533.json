@@ -103,5 +103,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR217/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b0748e7b-a452-42d0-8746-5519009b07d5",
+    "identifier": "HB 2046",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, in revenues, further providing for establishment of State Gaming Fund and net slot machine revenue distribution; providing for skill video gaming; imposing duties on the Department of Revenue; and imposing a tax and criminal and civil penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-18T05:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2046/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/761be312-f78d-41b8-9615-b4ffa119a6e9",
+    "identifier": "HB 851",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in preliminary provisions, further providing for definitions; in Pennsylvania Game Commission, further providing for organization of commission, providing for prohibition and further providing for accountability; in hunting and furtaking, repealing provisions relating to hunting on Sunday prohibited, providing for temporary Sunday hunting authorized and for hunting and training on Sunday, repealing provisions relating to trespass on private property while hunting and to hunting on Sunday without written permission, providing for the offense of trespass on private land while hunting or furtaking and for the offense of hunting, trapping or taking game or wildlife without written permission and further providing for training dogs on small game; in special licenses and permits, further providing for field dog trials; imposing penalties; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB851/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6b7c737a-ab7a-481e-889c-834263b7fdb5",
+    "identifier": "HB 714",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child custody, providing for sibling visitation rights.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-24T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB714/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

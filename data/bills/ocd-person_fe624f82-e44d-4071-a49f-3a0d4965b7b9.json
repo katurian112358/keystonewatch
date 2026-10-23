@@ -148,5 +148,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1496/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/24ee5fd9-ac63-49d5-9181-9d3de77d6e05",
+    "identifier": "HR 117",
+    "title": "A Resolution recognizing March 14, 2025, as \"Black Midwives Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-08T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR117/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/27e7446d-aa4b-44e4-9c56-9b378959dce0",
+    "identifier": "HB 1417",
+    "title": "An Act establishing the Community Diaper, Brief and Incontinence Products Grant Fund; directing the Department of Aging to establish a program to improve access to incontinence supplies; and imposing powers and duties on the Department of Human Services.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-28T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1417/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ff151064-910f-4e19-ad8e-c74b7f5372a0",
+    "identifier": "HB 1641",
+    "title": "An Act amending the act of March 20, 2002 (P.L.154, No.13), known as the Medical Care Availability and Reduction of Error (Mcare) Act, in insurance, providing for adverse actions against legal reproductive health care.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1641/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

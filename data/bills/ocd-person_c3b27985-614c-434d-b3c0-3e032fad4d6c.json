@@ -163,5 +163,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR79/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d64dd577-9570-436f-acec-323130cfe771",
+    "identifier": "HB 2114",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in other offenses, providing for adhesive pest control devices; and imposing a penalty.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-06T05:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2114/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

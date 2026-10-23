@@ -28,5 +28,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB10/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4e824caf-1218-411d-8d21-23fde98422b7",
+    "identifier": "SR 106",
+    "title": "A Resolution honoring the Super Bowl LIX Champions, the 2025 Philadelphia Eagles, and recognizing the Philadelphia Eagles as one of the greatest football teams ever to represent this Commonwealth on the field.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR106/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
   }
 ]
