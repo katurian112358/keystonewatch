@@ -553,5 +553,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR25/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd691a10-e4d8-4858-8806-756ffb1d1ef9",
+    "identifier": "HR 288",
+    "title": "A Resolution designating October 13, 2025, as the \"250th Birthday of the United States Navy\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR288/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c9fd672f-2ca6-47a5-8e22-ccb7bfaf5865",
+    "identifier": "HB 2007",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-06T05:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2007/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7b41170b-ef4d-4aac-a8f2-4d90686492c7",
+    "identifier": "HB 2130",
+    "title": "An Act designating a bridge, currently identified as the Fort Duquesne Bridge, on that portion of U.S. Route 279 over the Allegheny River, City of Pittsburgh, Allegheny County, as the Franco Harris Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-12T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2130/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f93416ab-3b6a-400d-922d-30dfb01d1b46",
+    "identifier": "HB 999",
+    "title": "An Act providing for the America250PA Semiquincentennial Celebration Bell monument on the grounds of the State Capitol to commemorate the 250th anniversary of the founding of the United States, Pennsylvania's integral role in that event and the impact of its people on the nation's past, present and future.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c3e073b5-8fc0-479d-b148-d78a5e370d70",
+    "identifier": "HB 1101",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school health services, providing for Menstrual Hygiene Products Accessibility Grant Program; and making an appropriation.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-31T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1101/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e27954ca-dd95-4c26-8946-c02aba2eba7b",
+    "identifier": "HR 201",
+    "title": "A Resolution recognizing September 29, 2025, as \"VFW Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR201/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

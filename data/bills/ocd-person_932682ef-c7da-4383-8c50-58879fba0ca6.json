@@ -433,5 +433,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR233/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5c3fd3a0-ca52-4d89-af6a-83de15a29245",
+    "identifier": "HB 756",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in general provisions relating to criminal proceedings, providing for citizenship status of criminal defendants.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB756/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f93416ab-3b6a-400d-922d-30dfb01d1b46",
+    "identifier": "HB 999",
+    "title": "An Act providing for the America250PA Semiquincentennial Celebration Bell monument on the grounds of the State Capitol to commemorate the 250th anniversary of the founding of the United States, Pennsylvania's integral role in that event and the impact of its people on the nation's past, present and future.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d6de1644-1f9c-4084-b6df-0a4d4e1d842c",
+    "identifier": "HB 216",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in fraud and abuse control, further providing for definitions and for provider prohibited acts, criminal penalties and civil remedies.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB216/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

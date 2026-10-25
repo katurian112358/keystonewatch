@@ -253,5 +253,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1688/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4d355f28-b1d0-47ad-ad40-36d7ea81600d",
+    "identifier": "HB 1956",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1956/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

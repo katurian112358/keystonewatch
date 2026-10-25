@@ -178,5 +178,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB452/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/45bdfeb1-9a1e-41ac-939f-3b17f250f9c7",
+    "identifier": "HB 450",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in Pennsylvania Liquor Control Board, providing for amnesty for disciplinary actions regarding COVID-19 protocols.",
+    "session": "2025-2026",
+    "status": "Referred to Liquor Control",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Liquor Control"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB450/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

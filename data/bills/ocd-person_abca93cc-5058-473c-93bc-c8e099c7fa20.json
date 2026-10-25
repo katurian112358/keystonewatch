@@ -358,5 +358,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1354/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b4ebe178-0f15-47bf-9c3b-c87bfdb23b47",
+    "identifier": "HB 2230",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in traffic-control devices, further providing for obedience to traffic-control devices.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-20T05:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2230/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3f3b073c-1509-444f-982c-01bae58703da",
+    "identifier": "HB 207",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, further providing for classes of income.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-17T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB207/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

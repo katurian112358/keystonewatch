@@ -1456,19 +1456,8 @@
     "status": "Referred to Professional Licensure",
     "subjects": [],
     "latest_action": {
-      "id": "9241de66-8aea-4a48-a17b-854fa8bf7776",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Professional Licensure",
       "date": "2025-04-09T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Professional Licensure"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1180/",
     "sponsorship_role": "primary",
@@ -1482,19 +1471,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "5c1f20c0-0300-44a6-8cb4-a4d948b55eec",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-03-03T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB751/",
     "sponsorship_role": "primary",
@@ -1508,19 +1486,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "0b051598-734c-4349-8fa6-bebc1361f598",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-09-09T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1475/",
     "sponsorship_role": "cosponsor",

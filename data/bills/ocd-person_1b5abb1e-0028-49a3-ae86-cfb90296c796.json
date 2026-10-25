@@ -2437,19 +2437,8 @@
     "status": "Referred to Finance",
     "subjects": [],
     "latest_action": {
-      "id": "637a7faa-75ac-4eb5-8724-0f8adbfecc35",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Finance",
       "date": "2025-10-01T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Finance"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1910/",
     "sponsorship_role": "cosponsor",
@@ -2463,19 +2452,8 @@
     "status": "Referred to Transportation",
     "subjects": [],
     "latest_action": {
-      "id": "dd702ad9-8360-4b12-89e3-86e4442fa3d3",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Transportation",
       "date": "2026-01-12T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Transportation"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2130/",
     "sponsorship_role": "primary",
@@ -2489,19 +2467,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "4a23963b-fc34-4df0-9e4a-f9f8380fed2c",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2026-01-09T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2128/",
     "sponsorship_role": "cosponsor",
@@ -2515,19 +2482,8 @@
     "status": "Adopted",
     "subjects": [],
     "latest_action": {
-      "id": "fd6f0e77-3bee-42e1-aa96-fa638052a461",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Adopted",
       "date": "2026-02-04T05:00:00+00:00",
-      "classification": [
-        "passage"
-      ],
-      "order": 2,
-      "related_entities": []
+      "description": "Adopted"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR413/",
     "sponsorship_role": "primary",

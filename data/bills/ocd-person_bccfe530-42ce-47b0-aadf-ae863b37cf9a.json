@@ -178,5 +178,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4d355f28-b1d0-47ad-ad40-36d7ea81600d",
+    "identifier": "HB 1956",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1956/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dc656a73-cb8d-4f0c-b1a1-97909df8360c",
+    "identifier": "HR 146",
+    "title": "A Resolution urging the Congress of the United States to fully cooperate with Federal efforts to eliminate the United States Department of Education, reaffirming Pennsylvania's sovereign authority over its educational system and recognizing the need for State-led education solutions to improve outcomes for Pennsylvania students.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR146/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/61e6e42f-430f-4288-8830-a63eba0ddcc4",
+    "identifier": "HB 398",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in authority of Department of Transportation, further providing for aircraft for official use.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB398/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

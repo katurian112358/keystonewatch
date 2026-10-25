@@ -418,5 +418,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1354/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bf4b780e-f6a2-43f1-b358-6cceb21681c8",
+    "identifier": "HB 112",
+    "title": "An Act amending the act of March 28, 1984 (P.L.150, No.28), known as the Automobile Lemon Law, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB112/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a7c21f7f-5c40-43a2-9412-e7e39d868bb8",
+    "identifier": "HB 247",
+    "title": "An Act amending Title 26 (Eminent Domain) of the Pennsylvania Consolidated Statutes, in procedure to condemn, further providing for notice to condemnee; and, in procedure for determining damages, further providing for appointment of viewers and for service of notice of view and hearing.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB247/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4d355f28-b1d0-47ad-ad40-36d7ea81600d",
+    "identifier": "HB 1956",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1956/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16e2f8bf-2eea-4946-8eee-cd032bd464dd",
+    "identifier": "HR 129",
+    "title": "A Resolution recognizing the service of the Honorable Jerry A. Stern, an 11-term former member of the House of Representatives, and expressing condolences upon his death on December 11, 2024, in Martinsburg, Blair County, at 69 years of age.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR129/",
+    "sponsorship_role": "primary",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/61e6e42f-430f-4288-8830-a63eba0ddcc4",
+    "identifier": "HB 398",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in authority of Department of Transportation, further providing for aircraft for official use.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB398/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

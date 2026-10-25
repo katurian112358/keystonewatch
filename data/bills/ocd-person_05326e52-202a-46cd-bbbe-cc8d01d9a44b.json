@@ -328,5 +328,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB707/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0f36657a-2436-450d-8383-4258023c1d8d",
+    "identifier": "HB 2261",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, in law enforcement background investigations and employment information, providing for additional employment history for certain Federal immigration enforcement applicants.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2261/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/31d3f506-6413-417a-9bb5-7a00e660697b",
+    "identifier": "HR 181",
+    "title": "A Resolution recognizing the week of April 11 through 17, 2025, as \"Black Maternal Health Week\" in Pennsylvania to bring attention to the maternal health crisis and the importance of reducing maternal mortality and morbidity among Black women.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR181/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

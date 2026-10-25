@@ -673,5 +673,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1666/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4d355f28-b1d0-47ad-ad40-36d7ea81600d",
+    "identifier": "HB 1956",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1956/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f93416ab-3b6a-400d-922d-30dfb01d1b46",
+    "identifier": "HB 999",
+    "title": "An Act providing for the America250PA Semiquincentennial Celebration Bell monument on the grounds of the State Capitol to commemorate the 250th anniversary of the founding of the United States, Pennsylvania's integral role in that event and the impact of its people on the nation's past, present and future.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/48852467-5746-4900-bcdc-4b2bbc55d413",
+    "identifier": "HB 2202",
+    "title": "An Act amending the act of June 27, 2006 (1st Sp.Sess., P.L.1873, No.1), known as the Taxpayer Relief Act, in senior citizens property tax and rent rebate assistance, further providing for definitions and for proof of claim.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-09T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2202/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

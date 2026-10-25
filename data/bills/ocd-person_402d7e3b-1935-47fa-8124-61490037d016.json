@@ -1573,5 +1573,230 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR182/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/1707fb15-d071-4162-8fe5-5ea5b100d7ba",
+    "identifier": "SR 135",
+    "title": "A Resolution honoring all Pennsylvania veterans who served during war and peace on the occasion of \"Veterans Day,\" November 11, 2025.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-31T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR135/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c098bd35-c802-4b34-9ad0-83e5ca9836a1",
+    "identifier": "SB 590",
+    "title": "An Act amending the act of November 23, 2010 (P.L.1083, No.108), known as the Covered Device Recycling Act, in preliminary provisions, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB590/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fc186460-a340-4730-8502-cec7d9f06666",
+    "identifier": "SB 414",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, further providing for person with disability plate and placard.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB414/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1d8a9a84-3019-4394-bb07-66e5501ab2aa",
+    "identifier": "SR 98",
+    "title": "A Resolution designating the week of May 18 through 24, 2025, as \"Emergency Medical Services Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-02T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR98/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d1441395-6df4-4082-8bb0-21920aa7dd46",
+    "identifier": "SR 111",
+    "title": "A Resolution designating the month of May 2025 as \"Amyotrophic Lateral Sclerosis Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR111/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7aa350b3-b52b-4825-b447-0981e289c0ae",
+    "identifier": "SB 831",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in disabled veterans' real estate tax exemption, further providing for exemption.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB831/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/af57d673-03cb-4064-ac28-f6af50a51af2",
+    "identifier": "SB 526",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; providing for volunteer certified emergency medical technician and volunteer firefighter tax credit; and imposing duties on the Department of Revenue.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB526/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3cfbef10-edca-4fd5-bccf-01acd44b341c",
+    "identifier": "SB 436",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child protective services, further providing for definitions, for reporting procedure, for disposition of complaints received, for responsibility for investigation, for access to information in Statewide database, for information in Statewide database and for release of information in confidential reports.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB436/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9a261970-0244-404b-bea9-eeeb60cc37db",
+    "identifier": "SB 737",
+    "title": "An Act amending Title 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in municipal authorities, further providing for definitions, providing for public safety authorities and further providing for purposes and powers.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to Senate Rule 9)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-03T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to Senate Rule 9)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB737/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2dd0a75b-d5cf-4c33-9bfa-41acfd39de59",
+    "identifier": "SB 159",
+    "title": "An Act amending the act of July 13, 1988 (P.L.530, No.94), known as the Environmental Hearing Board Act, further providing for definitions and for jurisdiction.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB159/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8efdbd2e-ce25-4c55-9e36-36cd725efcf4",
+    "identifier": "SR 190",
+    "title": "A Resolution designating November 7, 2025, as \"Victims of Communism Memorial Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR190/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cd642862-5ac6-4934-b62e-d05ade68da12",
+    "identifier": "SR 208",
+    "title": "A Resolution condemning the worldwide persecution of Christians, recognizing the persecution as a grave human rights crisis, reaffirming the Commonwealth of Pennsylvania's historic commitment to religious liberty and urging Federal action.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-20T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR208/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/28a53479-8783-4786-836e-73c90f597137",
+    "identifier": "SB 607",
+    "title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated Statutes, in weights and measures, providing for fuel and diesel fuel tax transparency.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-11T04:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB607/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/11ab8026-9c47-4835-9314-65423b5b4a84",
+    "identifier": "SB 79",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in limitation of time relating to criminal proceedings, further providing for other offenses.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB79/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1c7e09d2-1c16-4384-9972-52c831e2d486",
+    "identifier": "SB 84",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in construction and renovation of buildings by school entities, further providing for definitions and for building condition assessments.",
+    "session": "2025-2026",
+    "status": "Referred to Institutional Sustainability & Innovation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Institutional Sustainability & Innovation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB84/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

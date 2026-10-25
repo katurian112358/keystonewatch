@@ -508,5 +508,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1068/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/18dc2929-fe07-48d7-8616-ad1e458dfe9d",
+    "identifier": "HB 823",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, further providing for fire and emergency evacuation drills.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-06T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB823/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7535b52a-d3c7-4ed8-b858-3038a939f1b6",
+    "identifier": "HB 2128",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for licenses and for Pennsylvania State Police.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-09T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2128/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0e48b2fd-ea68-4757-ab29-fbd9f8037b8b",
+    "identifier": "HR 337",
+    "title": "A Resolution designating the week of November 17 through 21, 2025, as \"Pennsylvania Education for Students Experiencing Homelessness Awareness Week\" and November 21, 2025, as \"Red Shirt Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-16T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR337/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8cdf2236-11e2-4ad8-8fa6-78db9747408d",
+    "identifier": "HR 225",
+    "title": "A Resolution recognizing May 13, 2025, as \"Cancer Action Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-13T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR225/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/97735756-bec0-42c8-a51a-ad9a7fd30987",
+    "identifier": "HB 1314",
+    "title": "An Act amending Title 54 (Names) of the Pennsylvania Consolidated Statutes, establishing the Compassionate Name Change Assistance Grant Program and the Compassionate Name Change Assistance Grant Fund; and making an interfund transfer.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-28T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1314/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4651e669-f874-4df1-a218-87d39f7aca4b",
+    "identifier": "HB 951",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, further providing for person with disability plate and placard; in fees, further providing for exemption of persons, entities and vehicles from fees; and, in powers of department and local authorities, further providing for specific powers of department and local authorities.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB951/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

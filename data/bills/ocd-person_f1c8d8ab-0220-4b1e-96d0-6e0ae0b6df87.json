@@ -913,5 +913,140 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB810/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ca015069-7455-495d-a22f-01b33022dacf",
+    "identifier": "HR 9",
+    "title": "A Resolution designating the month of January 2025 as \"School Director Recognition Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR9/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dcd3b0e5-c709-412c-8a29-7c0dde50de22",
+    "identifier": "HB 1508",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in sentencing, providing for sentences for persons not to possess, use, manufacture, control, sell or transfer firearms.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-29T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1508/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c34482d4-2685-46b6-8e91-9250fe90fccb",
+    "identifier": "HB 1475",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of stalking.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1475/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/56bcf47b-95b9-4181-b983-230659be254e",
+    "identifier": "HB 794",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in community colleges, further providing for definitions, for powers and duties of State Board of Education and for degrees.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB794/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/da4969c4-2feb-44a6-8467-b6a37630e755",
+    "identifier": "HR 14",
+    "title": "A Resolution designating April 12, 2025, as \"Volunteer Firefighter Day\" in Pennsylvania to honor the brave men and women who make sacrifices to protect their community as volunteer firefighters.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR14/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6afcfc6e-1749-46ea-8a9c-9955107488eb",
+    "identifier": "HB 1680",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for proposed curriculum changes and online curriculum availability.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-30T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1680/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a83f3501-cf04-4e99-b8cd-661ab1b795b7",
+    "identifier": "HB 1329",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in other offenses, further providing for the offense of invasion of privacy.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-30T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1329/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f93416ab-3b6a-400d-922d-30dfb01d1b46",
+    "identifier": "HB 999",
+    "title": "An Act providing for the America250PA Semiquincentennial Celebration Bell monument on the grounds of the State Capitol to commemorate the 250th anniversary of the founding of the United States, Pennsylvania's integral role in that event and the impact of its people on the nation's past, present and future.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/04d590df-26c2-4d81-9b3f-2d84eff3f598",
+    "identifier": "HR 7",
+    "title": "A Resolution recognizing August 21, 2025, as \"National Senior Citizens Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-24T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR7/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

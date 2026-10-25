@@ -238,5 +238,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1134/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b392e0ae-b272-4a9b-903f-468cbcff84b9",
+    "identifier": "SB 321",
+    "title": "An Act relating to transfers of operations, terminations of operations, mass layoffs and changes in control.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-26T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB321/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

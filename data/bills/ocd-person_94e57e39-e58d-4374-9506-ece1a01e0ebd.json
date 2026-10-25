@@ -178,5 +178,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1188/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7c18dc3b-c818-4c70-b906-061cd43f1779",
+    "identifier": "HR 413",
+    "title": "A Resolution recognizing \"Black History Month\" in Pennsylvania by commemorating the recently passed 50th anniversary of the closure of Freedom House Ambulance Service.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR413/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4ad7f6dd-339f-469d-b2ab-d034086a890e",
+    "identifier": "HR 267",
+    "title": "A Resolution designating June 8, 2025, as \"Lieutenant Colonel George Hardy Day\" in Pennsylvania, honoring Lieutenant Colonel George Hardy's military service and recognizing him as a decorated veteran, community leader and enduring symbol of courage.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR267/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

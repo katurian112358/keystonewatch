@@ -673,5 +673,155 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1809/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9bff678c-208a-45a5-aeb7-8a4ed66a320c",
+    "identifier": "HR 388",
+    "title": "A Resolution designating February 2, 2026, as \"Rheumatoid Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-09T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR388/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/abd56c0b-0cbe-4b60-9554-88695cfe92ed",
+    "identifier": "HB 2288",
+    "title": "An Act amending the act of December 17, 1968 (P.L.1224, No.387), known as the Unfair Trade Practices and Consumer Protection Law, providing for artificial intelligence training disclosure.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-13T04:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2288/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/df662071-695f-4865-8b97-68345049a272",
+    "identifier": "HB 2289",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in preliminary provisions, providing for health care sharing ministries.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-13T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2289/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c9fd672f-2ca6-47a5-8e22-ccb7bfaf5865",
+    "identifier": "HB 2007",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-06T05:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2007/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/31f03c91-bb92-46da-8c1f-9c22150b76cd",
+    "identifier": "HR 303",
+    "title": "A Resolution designating the month of October 2025 as \"Agent Orange Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR303/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/74119fac-9e26-4b00-88c1-cfe20a505b54",
+    "identifier": "HB 1910",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in books, furniture and supplies, providing for School Supplies for Educators Grant Program; and establishing the School Supplies for Educators Grant Program.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-01T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1910/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c66e8e65-9413-43b1-be52-72713866e6cd",
+    "identifier": "HB 1892",
+    "title": "An Act amending the act of December 17, 1968 (P.L.1224, No.387), known as the Unfair Trade Practices and Consumer Protection Law, further providing for definitions and for unlawful acts or practices and exclusions.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1892/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/df138029-d0de-492d-bf90-ec698e80cf10",
+    "identifier": "HB 1954",
+    "title": "An Act providing for a moratorium on the privatization of public water and wastewater systems; establishing the Water Utility Reform Working Group; and making a repeal relating to valuation of acquired water and wastewater systems.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-16T04:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1954/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bc9198b1-a4f9-4d13-b71e-741a386f2516",
+    "identifier": "HR 283",
+    "title": "A Resolution designating the week of September 15 through 19, 2025, as \"Clean Energy Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-10T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR283/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/29595205-4d4b-414b-a993-bf497591aa88",
+    "identifier": "HR 192",
+    "title": "A Resolution designating the week of June 8 through 14, 2025, as \"Chesapeake Bay Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR192/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

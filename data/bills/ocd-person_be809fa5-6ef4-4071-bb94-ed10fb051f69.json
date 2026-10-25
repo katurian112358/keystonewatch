@@ -1224,19 +1224,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "4e063a03-3d5b-4ae5-af59-2a7d84e96737",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Re-reported as committed",
       "date": "2025-09-10T04:00:00+00:00",
-      "classification": [
-        "committee-passage"
-      ],
-      "order": 4,
-      "related_entities": []
+      "description": "Re-reported as committed"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
     "sponsorship_role": "cosponsor",

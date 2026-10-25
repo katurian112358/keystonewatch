@@ -988,5 +988,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1068/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ca015069-7455-495d-a22f-01b33022dacf",
+    "identifier": "HR 9",
+    "title": "A Resolution designating the month of January 2025 as \"School Director Recognition Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR9/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/87ef3502-410d-408c-ac39-9dfbab6de584",
+    "identifier": "HB 636",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in disabled veterans' real estate tax exemption, further providing for duty of commission.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB636/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c9fd672f-2ca6-47a5-8e22-ccb7bfaf5865",
+    "identifier": "HB 2007",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-06T05:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2007/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7b41170b-ef4d-4aac-a8f2-4d90686492c7",
+    "identifier": "HB 2130",
+    "title": "An Act designating a bridge, currently identified as the Fort Duquesne Bridge, on that portion of U.S. Route 279 over the Allegheny River, City of Pittsburgh, Allegheny County, as the Franco Harris Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-12T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2130/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c66e8e65-9413-43b1-be52-72713866e6cd",
+    "identifier": "HB 1892",
+    "title": "An Act amending the act of December 17, 1968 (P.L.1224, No.387), known as the Unfair Trade Practices and Consumer Protection Law, further providing for definitions and for unlawful acts or practices and exclusions.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1892/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1741c0ff-837f-40d6-9218-810162231cf2",
+    "identifier": "HB 329",
+    "title": "An Act amending the act of June 27, 2006 (1st Sp.Sess., P.L.1873, No.1), known as the Taxpayer Relief Act, in State funds formula, further providing for certification and calculation of minimum and maximum modifiers and for Property Tax Relief Reserve Fund, providing for senior citizen tax relief and further providing for State property tax reduction allocation.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB329/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/479aa038-cbd4-4bac-b98b-785bbf921c42",
+    "identifier": "HB 1384",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in juvenile matters, providing for confinement in juvenile treatment facilities.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1384/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -403,5 +403,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1503/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ca015069-7455-495d-a22f-01b33022dacf",
+    "identifier": "HR 9",
+    "title": "A Resolution designating the month of January 2025 as \"School Director Recognition Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR9/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/74119fac-9e26-4b00-88c1-cfe20a505b54",
+    "identifier": "HB 1910",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in books, furniture and supplies, providing for School Supplies for Educators Grant Program; and establishing the School Supplies for Educators Grant Program.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-01T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1910/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

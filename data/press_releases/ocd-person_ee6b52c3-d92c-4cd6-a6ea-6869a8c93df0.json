@@ -900,7 +900,15 @@
     "url": "https://senatorcosta.com/senator-costa-celebrated-education-funding-in-2026-27-pa-budget-at-gateway-high-school/",
     "date": null,
     "raw_text": "Senator Costa Celebrated Education Funding in 2026-27 PA Budget at Gateway High School\nJuly 16, 2026",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Senator Costa attended an event at Gateway High School to publicly highlight education funding included in the 2026-27 Pennsylvania state budget. The release appears to mark a celebratory appearance rather than a specific legislative action. No additional details about the specific funding amounts or provisions are provided in the release text.",
+      "action_type": "event",
+      "topics": [
+        "education",
+        "budget"
+      ],
+      "spin_flag": true
+    }
   },
   {
     "title": "Senators Jay Costa, Lindsey Williams, and Wayne Fontana Announce over $33 Million in PENNVEST Funding for Allegheny County",

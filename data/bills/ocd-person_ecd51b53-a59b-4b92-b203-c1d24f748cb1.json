@@ -373,5 +373,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB961/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e4c72fe7-375b-4b91-9911-9bd5c5df012c",
+    "identifier": "SR 185",
+    "title": "A Resolution directing the Joint State Government Commission, along with the Pennsylvania Public Utility Commission, the Department of Community and Economic Development and the Department of Environmental Protection, to conduct an assessment and develop recommendations with the intention of establishing a comprehensive State energy strategy for this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-05T05:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR185/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/28a53479-8783-4786-836e-73c90f597137",
+    "identifier": "SB 607",
+    "title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated Statutes, in weights and measures, providing for fuel and diesel fuel tax transparency.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-11T04:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB607/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1c7e09d2-1c16-4384-9972-52c831e2d486",
+    "identifier": "SB 84",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in construction and renovation of buildings by school entities, further providing for definitions and for building condition assessments.",
+    "session": "2025-2026",
+    "status": "Referred to Institutional Sustainability & Innovation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Institutional Sustainability & Innovation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB84/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

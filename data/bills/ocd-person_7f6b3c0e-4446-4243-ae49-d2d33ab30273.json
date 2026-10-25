@@ -478,5 +478,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1205/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dc656a73-cb8d-4f0c-b1a1-97909df8360c",
+    "identifier": "HR 146",
+    "title": "A Resolution urging the Congress of the United States to fully cooperate with Federal efforts to eliminate the United States Department of Education, reaffirming Pennsylvania's sovereign authority over its educational system and recognizing the need for State-led education solutions to improve outcomes for Pennsylvania students.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR146/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/61e6e42f-430f-4288-8830-a63eba0ddcc4",
+    "identifier": "HB 398",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in authority of Department of Transportation, further providing for aircraft for official use.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB398/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/45bdfeb1-9a1e-41ac-939f-3b17f250f9c7",
+    "identifier": "HB 450",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in Pennsylvania Liquor Control Board, providing for amnesty for disciplinary actions regarding COVID-19 protocols.",
+    "session": "2025-2026",
+    "status": "Referred to Liquor Control",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Liquor Control"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB450/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -73,5 +73,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR238/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9d31bc4c-9b27-44a4-b79e-92a801ea1f14",
+    "identifier": "HB 1895",
+    "title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated Statutes, establishing the Agriculture Innovation Grant Program and the Agriculture Innovation Board; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-30T04:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1895/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

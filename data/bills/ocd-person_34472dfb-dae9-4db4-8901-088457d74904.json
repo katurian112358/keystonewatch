@@ -568,5 +568,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1046/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f94a1bec-09ba-4615-a015-821742d0dbbe",
+    "identifier": "HR 110",
+    "title": "A Resolution recognizing the month of April 2025 as \"National Poetry Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR110/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/692776c3-29d9-4e5a-96fb-7807825625be",
+    "identifier": "HB 816",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for exemptions and special provisions relating to taxation.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-05T05:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB816/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/31d3f506-6413-417a-9bb5-7a00e660697b",
+    "identifier": "HR 181",
+    "title": "A Resolution recognizing the week of April 11 through 17, 2025, as \"Black Maternal Health Week\" in Pennsylvania to bring attention to the maternal health crisis and the importance of reducing maternal mortality and morbidity among Black women.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR181/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4651e669-f874-4df1-a218-87d39f7aca4b",
+    "identifier": "HB 951",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, further providing for person with disability plate and placard; in fees, further providing for exemption of persons, entities and vehicles from fees; and, in powers of department and local authorities, further providing for specific powers of department and local authorities.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB951/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a6671b1b-51dd-4580-9f39-cd6894511ecb",
+    "identifier": "HB 984",
+    "title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in ethics standards and financial disclosure, further providing for statement of financial interests required to be filed.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-20T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB984/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

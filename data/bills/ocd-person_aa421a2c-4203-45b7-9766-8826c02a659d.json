@@ -973,5 +973,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB690/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1d8a9a84-3019-4394-bb07-66e5501ab2aa",
+    "identifier": "SR 98",
+    "title": "A Resolution designating the week of May 18 through 24, 2025, as \"Emergency Medical Services Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-02T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR98/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3cfbef10-edca-4fd5-bccf-01acd44b341c",
+    "identifier": "SB 436",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child protective services, further providing for definitions, for reporting procedure, for disposition of complaints received, for responsibility for investigation, for access to information in Statewide database, for information in Statewide database and for release of information in confidential reports.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB436/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9a261970-0244-404b-bea9-eeeb60cc37db",
+    "identifier": "SB 737",
+    "title": "An Act amending Title 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in municipal authorities, further providing for definitions, providing for public safety authorities and further providing for purposes and powers.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to Senate Rule 9)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-03T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to Senate Rule 9)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB737/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/37527a7a-6718-40d6-ae51-612fc75d9205",
+    "identifier": "SB 984",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, further providing for attendance policy at charter, regional charter and cyber charter schools, for procedure when child is truant, for procedure by school when child habitually truant, for procedure upon filing of citation and for penalties for violating compulsory school attendance requirements, repealing provisions relating to study of truancy procedure, providing for department supports to prevent truancy and further providing for reports to Superintendent of Public Instruction.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-27T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB984/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4594559c-ae3a-406c-93a6-fce3cac85178",
+    "identifier": "SB 1084",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; and establishing the child adoption tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-05T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1084/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cb89f32f-4a57-4845-8964-b8b3acb97b2c",
+    "identifier": "SB 413",
+    "title": "An Act providing for statutory construction of Pennsylvania wage and hour laws.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB413/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eebf606e-6033-4d92-b63a-40a9540ea9a5",
+    "identifier": "SR 169",
+    "title": "A Resolution condemning the antisemitic firebombing attack on June 1, 2025, in Boulder, Colorado, against peaceful demonstrators and calling for the Commonwealth to combat the continued rise of antisemitism.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-06T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR169/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/941e93f6-93f5-4337-ac75-b7fd6d53f921",
+    "identifier": "SB 672",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, adding provisions relating to lead exposure and poisoning; and imposing duties on the Department of Health.",
+    "session": "2025-2026",
+    "status": "Referred to Institutional Sustainability & Innovation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-13T04:00:00+00:00",
+      "description": "Referred to Institutional Sustainability & Innovation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB672/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

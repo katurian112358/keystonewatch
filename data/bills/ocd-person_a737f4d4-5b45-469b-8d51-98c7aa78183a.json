@@ -103,5 +103,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2046/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9fd15967-5ea7-4506-84d5-f0f5a44780b1",
+    "identifier": "HB 545",
+    "title": "An Act amending Titles 42 (Judiciary and Judicial Procedure) and 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in limitation of time, further providing for six months limitation; in matters affecting government units, further providing for exceptions to sovereign immunity, for limitations on damages and for exceptions to governmental immunity and providing for claims for compensation for wrongful conviction; in general administration, providing for services after wrongful conviction; and, in Pennsylvania Board of Probation and Parole, further providing for powers and duties of department.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-10T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB545/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c3e073b5-8fc0-479d-b148-d78a5e370d70",
+    "identifier": "HB 1101",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school health services, providing for Menstrual Hygiene Products Accessibility Grant Program; and making an appropriation.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-31T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1101/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

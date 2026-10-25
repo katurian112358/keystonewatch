@@ -658,5 +658,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB709/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f423c53c-1185-4b0a-b11b-5a3e383571f8",
+    "identifier": "SB 775",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for exemptions and special provisions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB775/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/45f2a0c6-e3df-46e3-919b-765457f4f2d4",
+    "identifier": "SB 180",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, further providing for Nonprofit School Food Program, repealing provisions relating to school lunch and breakfast reimbursement and establishing the Universal School Meal Program and the Universal School Meal Fund; and making an interfund transfer and an appropriation.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB180/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fa05cc47-dbfb-4c30-897c-960cf3e55e95",
+    "identifier": "SB 778",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in city revitalization and improvement zones, further providing for approval.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB778/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bfa1e789-fd88-4282-a587-7c9826d429af",
+    "identifier": "SB 532",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in rules of the road in general, providing for private parking lots.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-02T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB532/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9bda6a79-b1dd-4a8a-99cc-76ea4615011f",
+    "identifier": "SB 826",
+    "title": "An Act amending the act of October 24, 2018 (P.L.719, No.112), known as the Patient Test Result Information Act, further providing for definitions; providing for Lyme disease testing disclosure; and imposing duties on health care practitioners.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB826/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

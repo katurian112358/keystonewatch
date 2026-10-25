@@ -268,5 +268,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB810/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0844c3b3-5737-437f-8398-f1185f71e4ee",
+    "identifier": "HB 1368",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child protective services, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-01T04:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1368/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4d355f28-b1d0-47ad-ad40-36d7ea81600d",
+    "identifier": "HB 1956",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1956/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f93416ab-3b6a-400d-922d-30dfb01d1b46",
+    "identifier": "HB 999",
+    "title": "An Act providing for the America250PA Semiquincentennial Celebration Bell monument on the grounds of the State Capitol to commemorate the 250th anniversary of the founding of the United States, Pennsylvania's integral role in that event and the impact of its people on the nation's past, present and future.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/04d590df-26c2-4d81-9b3f-2d84eff3f598",
+    "identifier": "HR 7",
+    "title": "A Resolution recognizing August 21, 2025, as \"National Senior Citizens Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-24T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR7/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -223,5 +223,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR38/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/09d2e36e-4c16-4221-85ae-7faa34cede0e",
+    "identifier": "HB 1625",
+    "title": "An Act establishing the Keystone Artificial Intelligence Authority within the Department of Community and Economic Development; providing for the duties of authority and its governing board; providing for duties of other entities; establishing the Artificial Intelligence Permitting System Pilot Program within the Department of Environmental Protection; establishing the Keystone Artificial Intelligence Development Fund; and providing for sovereign immunity.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-20T04:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1625/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b3192559-35db-4112-bff0-f97706f52d66",
+    "identifier": "HB 384",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in burglary and other criminal intrusion, further providing for the offense of criminal trespass.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB384/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -103,5 +103,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR160/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7b41170b-ef4d-4aac-a8f2-4d90686492c7",
+    "identifier": "HB 2130",
+    "title": "An Act designating a bridge, currently identified as the Fort Duquesne Bridge, on that portion of U.S. Route 279 over the Allegheny River, City of Pittsburgh, Allegheny County, as the Franco Harris Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-12T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2130/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

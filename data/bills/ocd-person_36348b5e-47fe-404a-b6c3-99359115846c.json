@@ -253,5 +253,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB83/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/56bcf47b-95b9-4181-b983-230659be254e",
+    "identifier": "HB 794",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in community colleges, further providing for definitions, for powers and duties of State Board of Education and for degrees.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB794/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4d355f28-b1d0-47ad-ad40-36d7ea81600d",
+    "identifier": "HB 1956",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1956/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/edb22fd9-5cab-44a8-a49e-d781b85d8922",
+    "identifier": "HB 120",
+    "title": "An Act amending the act of February 13, 1970 (P.L.19, No.10), entitled \"An act enabling certain minors to consent to medical, dental and health services, declaring consent unnecessary under certain circumstances,\" providing for consent required for vaccines.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-16T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB120/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

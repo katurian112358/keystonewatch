@@ -268,5 +268,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB242/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1707fb15-d071-4162-8fe5-5ea5b100d7ba",
+    "identifier": "SR 135",
+    "title": "A Resolution honoring all Pennsylvania veterans who served during war and peace on the occasion of \"Veterans Day,\" November 11, 2025.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-31T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR135/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/11ab8026-9c47-4835-9314-65423b5b4a84",
+    "identifier": "SB 79",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in limitation of time relating to criminal proceedings, further providing for other offenses.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB79/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/941e93f6-93f5-4337-ac75-b7fd6d53f921",
+    "identifier": "SB 672",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, adding provisions relating to lead exposure and poisoning; and imposing duties on the Department of Health.",
+    "session": "2025-2026",
+    "status": "Referred to Institutional Sustainability & Innovation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-13T04:00:00+00:00",
+      "description": "Referred to Institutional Sustainability & Innovation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB672/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

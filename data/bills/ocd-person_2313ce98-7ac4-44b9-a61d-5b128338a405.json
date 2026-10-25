@@ -58,5 +58,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1977/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8cdf2236-11e2-4ad8-8fa6-78db9747408d",
+    "identifier": "HR 225",
+    "title": "A Resolution recognizing May 13, 2025, as \"Cancer Action Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-13T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR225/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4ad7f6dd-339f-469d-b2ab-d034086a890e",
+    "identifier": "HR 267",
+    "title": "A Resolution designating June 8, 2025, as \"Lieutenant Colonel George Hardy Day\" in Pennsylvania, honoring Lieutenant Colonel George Hardy's military service and recognizing him as a decorated veteran, community leader and enduring symbol of courage.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR267/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

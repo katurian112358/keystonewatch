@@ -238,5 +238,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1761/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9bff678c-208a-45a5-aeb7-8a4ed66a320c",
+    "identifier": "HR 388",
+    "title": "A Resolution designating February 2, 2026, as \"Rheumatoid Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-09T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR388/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6bd7335d-698b-445e-b598-b1345cc30e3e",
+    "identifier": "HR 202",
+    "title": "A Resolution recognizing the week of May 18 through 24, 2025, as \"Emergency Medical Services Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-22T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR202/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f9b85a24-bf22-49d6-b03c-12df7b5b38be",
+    "identifier": "HR 33",
+    "title": "A Resolution recognizing the month of April 2025 as \"Limb Loss Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-22T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR33/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/31f03c91-bb92-46da-8c1f-9c22150b76cd",
+    "identifier": "HR 303",
+    "title": "A Resolution designating the month of October 2025 as \"Agent Orange Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR303/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

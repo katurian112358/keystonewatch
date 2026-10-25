@@ -373,5 +373,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1205/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2fa76131-cecf-4809-8cf6-03c27adf7853",
+    "identifier": "HB 1292",
+    "title": "An Act amending Title 64 (Public Authorities and Quasi-Public Corporations) of the Pennsylvania Consolidated Statutes, in Pennsylvania Broadband Development Authority, further providing for grant applications and process.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-23T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1292/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5b9d28ea-3a9b-4dcc-84e4-f9ee92477dd6",
+    "identifier": "HB 1041",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in licenses and regulations and liquor, alcohol and malt and brewed beverages, further providing for breweries; and, in distilleries, wineries, bonded warehouses, bailees for hire and transporters for hire, further providing for limited distilleries and distilleries.",
+    "session": "2025-2026",
+    "status": "Referred to Liquor Control",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-25T04:00:00+00:00",
+      "description": "Referred to Liquor Control"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1041/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/09d2e36e-4c16-4221-85ae-7faa34cede0e",
+    "identifier": "HB 1625",
+    "title": "An Act establishing the Keystone Artificial Intelligence Authority within the Department of Community and Economic Development; providing for the duties of authority and its governing board; providing for duties of other entities; establishing the Artificial Intelligence Permitting System Pilot Program within the Department of Environmental Protection; establishing the Keystone Artificial Intelligence Development Fund; and providing for sovereign immunity.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-20T04:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1625/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cad0cb57-af8b-4729-b6ba-0da999ffed62",
+    "identifier": "HR 6",
+    "title": "A Resolution urging the Pennsylvania Interscholastic Athletic Association, Inc., to adopt separate playoff systems for public schools and private and charter schools.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-10T05:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR6/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f93416ab-3b6a-400d-922d-30dfb01d1b46",
+    "identifier": "HB 999",
+    "title": "An Act providing for the America250PA Semiquincentennial Celebration Bell monument on the grounds of the State Capitol to commemorate the 250th anniversary of the founding of the United States, Pennsylvania's integral role in that event and the impact of its people on the nation's past, present and future.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

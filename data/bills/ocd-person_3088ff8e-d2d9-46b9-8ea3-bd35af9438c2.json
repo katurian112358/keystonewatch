@@ -193,5 +193,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1354/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0844c3b3-5737-437f-8398-f1185f71e4ee",
+    "identifier": "HB 1368",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child protective services, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-01T04:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1368/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a7c21f7f-5c40-43a2-9412-e7e39d868bb8",
+    "identifier": "HB 247",
+    "title": "An Act amending Title 26 (Eminent Domain) of the Pennsylvania Consolidated Statutes, in procedure to condemn, further providing for notice to condemnee; and, in procedure for determining damages, further providing for appointment of viewers and for service of notice of view and hearing.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB247/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

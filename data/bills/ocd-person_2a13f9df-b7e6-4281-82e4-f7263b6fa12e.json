@@ -433,5 +433,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB305/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a54678b4-d72b-4874-8e8f-db4d2c792d7e",
+    "identifier": "SB 394",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, providing for expiration of authority to levy or collect real property taxes on homesteads and farmsteads.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-06T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB394/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8efdbd2e-ce25-4c55-9e36-36cd725efcf4",
+    "identifier": "SR 190",
+    "title": "A Resolution designating November 7, 2025, as \"Victims of Communism Memorial Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR190/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ef543973-f159-4128-b10b-64c68d7057b5",
+    "identifier": "SB 524",
+    "title": "An Act amending Titles 27 (Environmental Resources) and 58 (Oil and Gas) of the Pennsylvania Consolidated Statutes, in administrative provisions, providing for definitions, for coal-powered plants, for regulations, for natural gas and coal permit database, for natural gas and coal permit review procedure and for withdrawal from Regional Greenhouse Gas Initiative; in development relating to oil and gas, further providing for well permits and providing for leases in State parks and forests; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB524/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/563f8407-3c50-4e1b-8d71-c65c9cea74fe",
+    "identifier": "SB 681",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929,  in administrative organization, further providing for departmental administrative boards, commissions, and offices; in organization of departmental administrative boards and commissions and of advisory boards and commissions, further providing for advisory boards and commissions and repealing provisions relating to Environmental Quality Board; in powers and duties of the Department of Agriculture and its departmental administrative commission, further providing for seasonal farm labor; in powers and duties of the Department of Environmental Resources, its officers and departmental and advisory boards and commissions, further providing for Environmental Quality Board and for powers of Environmental Quality Board.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB681/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

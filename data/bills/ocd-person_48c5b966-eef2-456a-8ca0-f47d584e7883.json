@@ -628,5 +628,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1992/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ca015069-7455-495d-a22f-01b33022dacf",
+    "identifier": "HR 9",
+    "title": "A Resolution designating the month of January 2025 as \"School Director Recognition Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR9/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2fa76131-cecf-4809-8cf6-03c27adf7853",
+    "identifier": "HB 1292",
+    "title": "An Act amending Title 64 (Public Authorities and Quasi-Public Corporations) of the Pennsylvania Consolidated Statutes, in Pennsylvania Broadband Development Authority, further providing for grant applications and process.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-23T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1292/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/97785f99-d8ea-4171-9630-de5a2cc028a4",
+    "identifier": "HB 1199",
+    "title": "An Act amending Title 1 (General Provisions) of the Pennsylvania Consolidated Statutes, providing for legislative procedure.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-15T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1199/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5c3fd3a0-ca52-4d89-af6a-83de15a29245",
+    "identifier": "HB 756",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in general provisions relating to criminal proceedings, providing for citizenship status of criminal defendants.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB756/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a8d39892-1b9c-4d1a-907d-3df622a17e72",
+    "identifier": "HB 1162",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code,  in preliminary provisions, further providing for definitions; in county boards of elections, further providing for powers and duties of county boards; in preparation for and conduct of primaries and elections, further providing for manner of applying to vote, persons entitled to vote, voter's certificates, entries to be made in district register, numbered lists of voters and challenges and for ballots to be issued by election officers only, ballots not to be removed and official ballots only to be deposited or counted; in voting by qualified absentee electors, further providing for applications for official absentee ballots, for date of application for absentee ballot, for official absentee voters ballots, for voting by absentee electors and for canvassing of official absentee absentee ballots and mail-in ballots; in voting by qualified mail-in electors, further providing for applications for official mail-in ballots, for official mail-in elector ballots and for voting by mail-in electors.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-07T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1162/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4d355f28-b1d0-47ad-ad40-36d7ea81600d",
+    "identifier": "HB 1956",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1956/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dc656a73-cb8d-4f0c-b1a1-97909df8360c",
+    "identifier": "HR 146",
+    "title": "A Resolution urging the Congress of the United States to fully cooperate with Federal efforts to eliminate the United States Department of Education, reaffirming Pennsylvania's sovereign authority over its educational system and recognizing the need for State-led education solutions to improve outcomes for Pennsylvania students.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR146/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

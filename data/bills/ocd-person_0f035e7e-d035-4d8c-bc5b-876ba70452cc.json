@@ -163,5 +163,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1858/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/87ef3502-410d-408c-ac39-9dfbab6de584",
+    "identifier": "HB 636",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in disabled veterans' real estate tax exemption, further providing for duty of commission.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB636/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/160b10d2-d948-4091-a997-a29c22b1ec64",
+    "identifier": "HB 635",
+    "title": "An Act amending the act of December 21, 1989 (P.L.672, No.87), known as the Health Club Act, providing for lifeguards.",
+    "session": "2025-2026",
+    "status": "Referred to Tourism, Recreation & Economic Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Tourism, Recreation & Economic Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB635/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd691a10-e4d8-4858-8806-756ffb1d1ef9",
+    "identifier": "HR 288",
+    "title": "A Resolution designating October 13, 2025, as the \"250th Birthday of the United States Navy\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR288/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ce1370a6-5600-4376-ac96-4bbed2979f12",
+    "identifier": "HB 307",
+    "title": "An Act amending the act of November 10, 1999 (P.L.491, No.45), known as the Pennsylvania Construction Code Act, in Uniform Construction Code, further providing for adoption by regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB307/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

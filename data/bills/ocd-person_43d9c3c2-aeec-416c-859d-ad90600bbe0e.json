@@ -448,5 +448,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1724/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b4ebe178-0f15-47bf-9c3b-c87bfdb23b47",
+    "identifier": "HB 2230",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in traffic-control devices, further providing for obedience to traffic-control devices.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-20T05:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2230/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd691a10-e4d8-4858-8806-756ffb1d1ef9",
+    "identifier": "HR 288",
+    "title": "A Resolution designating October 13, 2025, as the \"250th Birthday of the United States Navy\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR288/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fcffd396-36b8-44d4-b6c4-437241685278",
+    "identifier": "HB 1933",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for persons required to report suspected aggravated cruelty to animal.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-27T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1933/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ccd35924-93bd-4cc4-a0de-ce2ae29329f1",
+    "identifier": "HB 1032",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for exemptions and special provisions.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1032/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/df138029-d0de-492d-bf90-ec698e80cf10",
+    "identifier": "HB 1954",
+    "title": "An Act providing for a moratorium on the privatization of public water and wastewater systems; establishing the Water Utility Reform Working Group; and making a repeal relating to valuation of acquired water and wastewater systems.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-16T04:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1954/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bc9198b1-a4f9-4d13-b71e-741a386f2516",
+    "identifier": "HR 283",
+    "title": "A Resolution designating the week of September 15 through 19, 2025, as \"Clean Energy Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-10T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR283/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1741c0ff-837f-40d6-9218-810162231cf2",
+    "identifier": "HB 329",
+    "title": "An Act amending the act of June 27, 2006 (1st Sp.Sess., P.L.1873, No.1), known as the Taxpayer Relief Act, in State funds formula, further providing for certification and calculation of minimum and maximum modifiers and for Property Tax Relief Reserve Fund, providing for senior citizen tax relief and further providing for State property tax reduction allocation.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB329/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

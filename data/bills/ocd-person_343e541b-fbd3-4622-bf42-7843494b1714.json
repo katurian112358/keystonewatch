@@ -208,5 +208,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1761/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5c3fd3a0-ca52-4d89-af6a-83de15a29245",
+    "identifier": "HB 756",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in general provisions relating to criminal proceedings, providing for citizenship status of criminal defendants.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB756/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9b0d0879-ca84-4562-92d9-05ea0ab8aa8d",
+    "identifier": "HR 132",
+    "title": "A Resolution designating the week of May 18 through 24, 2025, as \"Emergency Medical Services Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR132/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

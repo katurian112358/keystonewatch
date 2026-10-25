@@ -763,5 +763,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR122/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd691a10-e4d8-4858-8806-756ffb1d1ef9",
+    "identifier": "HR 288",
+    "title": "A Resolution designating October 13, 2025, as the \"250th Birthday of the United States Navy\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR288/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/09d2e36e-4c16-4221-85ae-7faa34cede0e",
+    "identifier": "HB 1625",
+    "title": "An Act establishing the Keystone Artificial Intelligence Authority within the Department of Community and Economic Development; providing for the duties of authority and its governing board; providing for duties of other entities; establishing the Artificial Intelligence Permitting System Pilot Program within the Department of Environmental Protection; establishing the Keystone Artificial Intelligence Development Fund; and providing for sovereign immunity.",
+    "session": "2025-2026",
+    "status": "Referred to Communications & Technology",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-20T04:00:00+00:00",
+      "description": "Referred to Communications & Technology"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1625/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/31f03c91-bb92-46da-8c1f-9c22150b76cd",
+    "identifier": "HR 303",
+    "title": "A Resolution designating the month of October 2025 as \"Agent Orange Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR303/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f93416ab-3b6a-400d-922d-30dfb01d1b46",
+    "identifier": "HB 999",
+    "title": "An Act providing for the America250PA Semiquincentennial Celebration Bell monument on the grounds of the State Capitol to commemorate the 250th anniversary of the founding of the United States, Pennsylvania's integral role in that event and the impact of its people on the nation's past, present and future.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4ad7f6dd-339f-469d-b2ab-d034086a890e",
+    "identifier": "HR 267",
+    "title": "A Resolution designating June 8, 2025, as \"Lieutenant Colonel George Hardy Day\" in Pennsylvania, honoring Lieutenant Colonel George Hardy's military service and recognizing him as a decorated veteran, community leader and enduring symbol of courage.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR267/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e27954ca-dd95-4c26-8946-c02aba2eba7b",
+    "identifier": "HR 201",
+    "title": "A Resolution recognizing September 29, 2025, as \"VFW Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR201/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/61e6e42f-430f-4288-8830-a63eba0ddcc4",
+    "identifier": "HB 398",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in authority of Department of Transportation, further providing for aircraft for official use.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB398/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

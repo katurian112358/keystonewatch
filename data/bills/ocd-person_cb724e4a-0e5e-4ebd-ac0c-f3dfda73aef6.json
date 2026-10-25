@@ -1438,5 +1438,200 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR182/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/a4e2e4a9-79fe-42e8-91f5-ca7867dd99dc",
+    "identifier": "SR 237",
+    "title": "A Resolution designating March 5, 2026, as \"Vending Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-03T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR237/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1707fb15-d071-4162-8fe5-5ea5b100d7ba",
+    "identifier": "SR 135",
+    "title": "A Resolution honoring all Pennsylvania veterans who served during war and peace on the occasion of \"Veterans Day,\" November 11, 2025.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-31T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR135/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/726fdb25-5f58-4bda-8303-6026da719bb2",
+    "identifier": "SB 261",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in general powers and duties of the Department of Public Welfare, providing for child support requirements for Supplemental Nutrition Assistance Program.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB261/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1d8a9a84-3019-4394-bb07-66e5501ab2aa",
+    "identifier": "SR 98",
+    "title": "A Resolution designating the week of May 18 through 24, 2025, as \"Emergency Medical Services Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-02T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR98/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/af57d673-03cb-4064-ac28-f6af50a51af2",
+    "identifier": "SB 526",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; providing for volunteer certified emergency medical technician and volunteer firefighter tax credit; and imposing duties on the Department of Revenue.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB526/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3cfbef10-edca-4fd5-bccf-01acd44b341c",
+    "identifier": "SB 436",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child protective services, further providing for definitions, for reporting procedure, for disposition of complaints received, for responsibility for investigation, for access to information in Statewide database, for information in Statewide database and for release of information in confidential reports.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB436/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7369d47c-83d1-4286-85d8-bdad99cf24ae",
+    "identifier": "SR 47",
+    "title": "A Resolution designating March 8, 2025, as \"PIAA Wrestling Day of Champions\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR47/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cb89f32f-4a57-4845-8964-b8b3acb97b2c",
+    "identifier": "SB 413",
+    "title": "An Act providing for statutory construction of Pennsylvania wage and hour laws.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB413/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8efdbd2e-ce25-4c55-9e36-36cd725efcf4",
+    "identifier": "SR 190",
+    "title": "A Resolution designating November 7, 2025, as \"Victims of Communism Memorial Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR190/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e4c72fe7-375b-4b91-9911-9bd5c5df012c",
+    "identifier": "SR 185",
+    "title": "A Resolution directing the Joint State Government Commission, along with the Pennsylvania Public Utility Commission, the Department of Community and Economic Development and the Department of Environmental Protection, to conduct an assessment and develop recommendations with the intention of establishing a comprehensive State energy strategy for this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-05T05:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR185/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cd642862-5ac6-4934-b62e-d05ade68da12",
+    "identifier": "SR 208",
+    "title": "A Resolution condemning the worldwide persecution of Christians, recognizing the persecution as a grave human rights crisis, reaffirming the Commonwealth of Pennsylvania's historic commitment to religious liberty and urging Federal action.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-20T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR208/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b47185c9-49d5-4b8c-a84b-4aa2470ed2bd",
+    "identifier": "SR 146",
+    "title": "A Resolution designating the month of September 2025 as \"Histiocytosis Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-04T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR146/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eebf606e-6033-4d92-b63a-40a9540ea9a5",
+    "identifier": "SR 169",
+    "title": "A Resolution condemning the antisemitic firebombing attack on June 1, 2025, in Boulder, Colorado, against peaceful demonstrators and calling for the Commonwealth to combat the continued rise of antisemitism.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-06T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR169/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
   }
 ]

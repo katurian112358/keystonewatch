@@ -1018,5 +1018,185 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR182/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/1707fb15-d071-4162-8fe5-5ea5b100d7ba",
+    "identifier": "SR 135",
+    "title": "A Resolution honoring all Pennsylvania veterans who served during war and peace on the occasion of \"Veterans Day,\" November 11, 2025.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-31T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR135/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a54678b4-d72b-4874-8e8f-db4d2c792d7e",
+    "identifier": "SB 394",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, providing for expiration of authority to levy or collect real property taxes on homesteads and farmsteads.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-06T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB394/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f423c53c-1185-4b0a-b11b-5a3e383571f8",
+    "identifier": "SB 775",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for exemptions and special provisions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB775/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7aa350b3-b52b-4825-b447-0981e289c0ae",
+    "identifier": "SB 831",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in disabled veterans' real estate tax exemption, further providing for exemption.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB831/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/af57d673-03cb-4064-ac28-f6af50a51af2",
+    "identifier": "SB 526",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; providing for volunteer certified emergency medical technician and volunteer firefighter tax credit; and imposing duties on the Department of Revenue.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB526/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1f79f492-fb86-49b1-888d-53a128c8dee6",
+    "identifier": "SB 1104",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in primary and election expenses, further providing for reporting by candidate and political committees and other persons and for late filing fee and certificate of filing.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-04T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1104/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3cfbef10-edca-4fd5-bccf-01acd44b341c",
+    "identifier": "SB 436",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child protective services, further providing for definitions, for reporting procedure, for disposition of complaints received, for responsibility for investigation, for access to information in Statewide database, for information in Statewide database and for release of information in confidential reports.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB436/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4594559c-ae3a-406c-93a6-fce3cac85178",
+    "identifier": "SB 1084",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; and establishing the child adoption tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-05T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1084/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/133e5780-cc5c-4dbd-8b92-352c3ca5f054",
+    "identifier": "SB 645",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in preliminary provisions, further providing for definitions; in terms and courses of study, further providing for subjects of instruction and flag code and providing for handwriting instruction required; and, in charter schools, further providing for provisions applicable to charter schools and for applicability of other provisions of this act and of other acts and regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB645/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9bda6a79-b1dd-4a8a-99cc-76ea4615011f",
+    "identifier": "SB 826",
+    "title": "An Act amending the act of October 24, 2018 (P.L.719, No.112), known as the Patient Test Result Information Act, further providing for definitions; providing for Lyme disease testing disclosure; and imposing duties on health care practitioners.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB826/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a20693c2-83aa-4bf2-b497-055690d7e1d8",
+    "identifier": "SB 442",
+    "title": "An Act providing for election day registration; and prescribing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-14T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB442/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b3799d99-d266-4ea1-873c-f67e1e04f81e",
+    "identifier": "SB 388",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for prohibition against denial or abridgment of equality of rights because of sex.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-06T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB388/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -523,5 +523,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1841/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/15a58682-8941-4040-9f1e-b255f57f28f7",
+    "identifier": "HB 59",
+    "title": "An Act amending the act of May 3, 1933 (P.L.242, No.86), referred to as the Cosmetology Law, further providing for powers and duties of board.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB59/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c22f6ac1-dfdb-4956-a280-c5e7b7a59a28",
+    "identifier": "HR 10",
+    "title": "A Resolution directing the Joint State Government Commission to conduct a study of how Home and Community-Based Services waivers can be improved to meet the needs of individuals with disabilities, including programs administered by the Office of Long-Term Living and Office of Developmental Programs.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-16T05:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR10/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/57d24880-f6a7-455f-9cb9-e2c35216282f",
+    "identifier": "HR 21",
+    "title": "A Concurrent Resolution calling for a convention under Article V of the Constitution of the United States to consider amendments that limit the number of terms that members of Congress may serve and establish and limit the terms of office for United States Supreme Court Justices.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR21/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6afcfc6e-1749-46ea-8a9c-9955107488eb",
+    "identifier": "HB 1680",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for proposed curriculum changes and online curriculum availability.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-30T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1680/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a441aeaa-c361-4eaf-9e21-7547a7ae8550",
+    "identifier": "HB 394",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in incentives for municipal volunteers of fire companies and nonprofit emergency medical services agencies, further providing for limitations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB394/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

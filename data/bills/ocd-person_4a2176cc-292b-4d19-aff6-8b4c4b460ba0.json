@@ -118,5 +118,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1484/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/837df235-b345-48a3-81f3-bfa10c1e79ba",
+    "identifier": "HR 130",
+    "title": "A Resolution recognizing the observance of the Holy Month of Ramadan, a month of reflection and prayer for the Muslim community, which runs from March 1 through 30, 2025, and the festival of Eid al-Fitr.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-25T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR130/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -418,5 +418,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2044/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c9b28530-55b5-46c1-9e19-c8218e172a10",
+    "identifier": "HB 1145",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, providing for Public Transit Security Grant Program; establishing the Public Transit Security Grant Program Fund; and imposing duties on the Department of Transportation.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1145/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ef15631a-d5b7-43d5-a53e-82e62f346b9c",
+    "identifier": "HB 2031",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, providing for subsidized child care and notification requirements.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-13T05:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2031/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7c18dc3b-c818-4c70-b906-061cd43f1779",
+    "identifier": "HR 413",
+    "title": "A Resolution recognizing \"Black History Month\" in Pennsylvania by commemorating the recently passed 50th anniversary of the closure of Freedom House Ambulance Service.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR413/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a9a6f145-818e-4f47-9f73-9ef94684ada1",
+    "identifier": "HB 1122",
+    "title": "An Act amending the act of July 22, 1974 (P.L.589, No.205), known as the Unfair Insurance Practices Act, further providing for unfair methods of competition and unfair or deceptive acts or practices defined.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-03T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1122/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c22f6ac1-dfdb-4956-a280-c5e7b7a59a28",
+    "identifier": "HR 10",
+    "title": "A Resolution directing the Joint State Government Commission to conduct a study of how Home and Community-Based Services waivers can be improved to meet the needs of individuals with disabilities, including programs administered by the Office of Long-Term Living and Office of Developmental Programs.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-16T05:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR10/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/31d3f506-6413-417a-9bb5-7a00e660697b",
+    "identifier": "HR 181",
+    "title": "A Resolution recognizing the week of April 11 through 17, 2025, as \"Black Maternal Health Week\" in Pennsylvania to bring attention to the maternal health crisis and the importance of reducing maternal mortality and morbidity among Black women.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR181/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/84d6f9e1-a561-4508-9ef7-e7d677b85ac6",
+    "identifier": "HB 1539",
+    "title": "An Act establishing the Electric School Bus Grant Program and the Electric School Bus Grant Program Fund; and imposing duties on the Department of Education.",
+    "session": "2025-2026",
+    "status": "Re-referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-24T04:00:00+00:00",
+      "description": "Reported with request to re-refer to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1539/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

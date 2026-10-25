@@ -313,5 +313,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1149/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a4340cdd-bf89-4b3b-aa02-5a653527f34b",
+    "identifier": "HB 1533",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in culpability, providing for liability for deployment of artificial intelligence system.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-30T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1533/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ccd35924-93bd-4cc4-a0de-ce2ae29329f1",
+    "identifier": "HB 1032",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for exemptions and special provisions.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1032/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

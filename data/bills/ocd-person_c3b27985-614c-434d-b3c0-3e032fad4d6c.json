@@ -178,5 +178,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2114/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2bd5817c-a11b-4410-a8d6-3b67db6f93e3",
+    "identifier": "HB 1981",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, further providing for vehicles exempt from registration; and, in fees, further providing for farm vehicles.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-23T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1981/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8fc75773-9496-4c2e-8c16-cef7070b6933",
+    "identifier": "HB 1753",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in public utilities, providing for transportation network service offenses; and, in transportation network service, further providing for definitions and for transportation network company drivers.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1753/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

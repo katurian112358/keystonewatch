@@ -223,5 +223,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1503/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/827b45ab-a15e-4406-864d-599dfc79f06d",
+    "identifier": "HB 942",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in Pennsylvania Game Commission, further providing for Game Commission officers and employees.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB942/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2bd5817c-a11b-4410-a8d6-3b67db6f93e3",
+    "identifier": "HB 1981",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, further providing for vehicles exempt from registration; and, in fees, further providing for farm vehicles.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-23T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1981/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6bd7335d-698b-445e-b598-b1345cc30e3e",
+    "identifier": "HR 202",
+    "title": "A Resolution recognizing the week of May 18 through 24, 2025, as \"Emergency Medical Services Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-22T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR202/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a896c4f3-8838-43e2-9c20-2b64672bb4f8",
+    "identifier": "HB 1436",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in general provisions relating to civil actions and proceedings, further providing for comparative negligence.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1436/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

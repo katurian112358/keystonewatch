@@ -913,5 +913,140 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1782/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd691a10-e4d8-4858-8806-756ffb1d1ef9",
+    "identifier": "HR 288",
+    "title": "A Resolution designating October 13, 2025, as the \"250th Birthday of the United States Navy\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR288/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/da4969c4-2feb-44a6-8467-b6a37630e755",
+    "identifier": "HR 14",
+    "title": "A Resolution designating April 12, 2025, as \"Volunteer Firefighter Day\" in Pennsylvania to honor the brave men and women who make sacrifices to protect their community as volunteer firefighters.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR14/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6bd7335d-698b-445e-b598-b1345cc30e3e",
+    "identifier": "HR 202",
+    "title": "A Resolution recognizing the week of May 18 through 24, 2025, as \"Emergency Medical Services Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-22T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR202/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/02926f53-cfd9-4bdc-9063-902adfc3054c",
+    "identifier": "HB 1998",
+    "title": "An Act amending the act of June 2, 1915 (P.L.736, No.338), known as the Workers' Compensation Act, in liability and compensation, further providing for schedule of compensation; and, in Uninsured Employers Guaranty Fund, further providing for claims.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-28T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1998/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9b0d0879-ca84-4562-92d9-05ea0ab8aa8d",
+    "identifier": "HR 132",
+    "title": "A Resolution designating the week of May 18 through 24, 2025, as \"Emergency Medical Services Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR132/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/04d590df-26c2-4d81-9b3f-2d84eff3f598",
+    "identifier": "HR 7",
+    "title": "A Resolution recognizing August 21, 2025, as \"National Senior Citizens Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-24T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR7/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/29595205-4d4b-414b-a993-bf497591aa88",
+    "identifier": "HR 192",
+    "title": "A Resolution designating the week of June 8 through 14, 2025, as \"Chesapeake Bay Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR192/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6a99aba9-e114-4791-b6d2-c02197e4597d",
+    "identifier": "HR 175",
+    "title": "A Resolution designating May 20, 2025, as \"Jimmy Stewart Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR175/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

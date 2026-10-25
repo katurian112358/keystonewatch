@@ -73,5 +73,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR360/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/5b9d28ea-3a9b-4dcc-84e4-f9ee92477dd6",
+    "identifier": "HB 1041",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in licenses and regulations and liquor, alcohol and malt and brewed beverages, further providing for breweries; and, in distilleries, wineries, bonded warehouses, bailees for hire and transporters for hire, further providing for limited distilleries and distilleries.",
+    "session": "2025-2026",
+    "status": "Referred to Liquor Control",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-25T04:00:00+00:00",
+      "description": "Referred to Liquor Control"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1041/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

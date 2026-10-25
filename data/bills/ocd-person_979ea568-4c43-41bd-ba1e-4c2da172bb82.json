@@ -478,5 +478,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB810/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9a0c5136-86cd-441d-859f-ae1d25819c00",
+    "identifier": "HB 613",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in higher education accountability and transparency, further providing for comparison tool.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB613/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dc656a73-cb8d-4f0c-b1a1-97909df8360c",
+    "identifier": "HR 146",
+    "title": "A Resolution urging the Congress of the United States to fully cooperate with Federal efforts to eliminate the United States Department of Education, reaffirming Pennsylvania's sovereign authority over its educational system and recognizing the need for State-led education solutions to improve outcomes for Pennsylvania students.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR146/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cad0cb57-af8b-4729-b6ba-0da999ffed62",
+    "identifier": "HR 6",
+    "title": "A Resolution urging the Pennsylvania Interscholastic Athletic Association, Inc., to adopt separate playoff systems for public schools and private and charter schools.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-10T05:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR6/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f93416ab-3b6a-400d-922d-30dfb01d1b46",
+    "identifier": "HB 999",
+    "title": "An Act providing for the America250PA Semiquincentennial Celebration Bell monument on the grounds of the State Capitol to commemorate the 250th anniversary of the founding of the United States, Pennsylvania's integral role in that event and the impact of its people on the nation's past, present and future.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fd6a1596-720f-4b96-81d3-d17c6c181959",
+    "identifier": "HB 661",
+    "title": "An Act amending Title 16 (Counties) of the Pennsylvania Consolidated Statutes, in contracts, further providing for contract procedures, terms and bonds and advertising for bids.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB661/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/61e6e42f-430f-4288-8830-a63eba0ddcc4",
+    "identifier": "HB 398",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in authority of Department of Transportation, further providing for aircraft for official use.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB398/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

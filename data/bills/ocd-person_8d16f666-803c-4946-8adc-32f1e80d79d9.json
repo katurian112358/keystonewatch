@@ -748,5 +748,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB452/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd691a10-e4d8-4858-8806-756ffb1d1ef9",
+    "identifier": "HR 288",
+    "title": "A Resolution designating October 13, 2025, as the \"250th Birthday of the United States Navy\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR288/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a8d39892-1b9c-4d1a-907d-3df622a17e72",
+    "identifier": "HB 1162",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code,  in preliminary provisions, further providing for definitions; in county boards of elections, further providing for powers and duties of county boards; in preparation for and conduct of primaries and elections, further providing for manner of applying to vote, persons entitled to vote, voter's certificates, entries to be made in district register, numbered lists of voters and challenges and for ballots to be issued by election officers only, ballots not to be removed and official ballots only to be deposited or counted; in voting by qualified absentee electors, further providing for applications for official absentee ballots, for date of application for absentee ballot, for official absentee voters ballots, for voting by absentee electors and for canvassing of official absentee absentee ballots and mail-in ballots; in voting by qualified mail-in electors, further providing for applications for official mail-in ballots, for official mail-in elector ballots and for voting by mail-in electors.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-07T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1162/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4d355f28-b1d0-47ad-ad40-36d7ea81600d",
+    "identifier": "HB 1956",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1956/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dc656a73-cb8d-4f0c-b1a1-97909df8360c",
+    "identifier": "HR 146",
+    "title": "A Resolution urging the Congress of the United States to fully cooperate with Federal efforts to eliminate the United States Department of Education, reaffirming Pennsylvania's sovereign authority over its educational system and recognizing the need for State-led education solutions to improve outcomes for Pennsylvania students.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR146/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

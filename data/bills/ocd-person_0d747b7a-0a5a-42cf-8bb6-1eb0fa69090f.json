@@ -463,5 +463,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1462/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/827b45ab-a15e-4406-864d-599dfc79f06d",
+    "identifier": "HB 942",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in Pennsylvania Game Commission, further providing for Game Commission officers and employees.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB942/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bf4b780e-f6a2-43f1-b358-6cceb21681c8",
+    "identifier": "HB 112",
+    "title": "An Act amending the act of March 28, 1984 (P.L.150, No.28), known as the Automobile Lemon Law, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB112/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/31f03c91-bb92-46da-8c1f-9c22150b76cd",
+    "identifier": "HR 303",
+    "title": "A Resolution designating the month of October 2025 as \"Agent Orange Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR303/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

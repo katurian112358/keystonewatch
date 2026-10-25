@@ -433,5 +433,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2029/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f93416ab-3b6a-400d-922d-30dfb01d1b46",
+    "identifier": "HB 999",
+    "title": "An Act providing for the America250PA Semiquincentennial Celebration Bell monument on the grounds of the State Capitol to commemorate the 250th anniversary of the founding of the United States, Pennsylvania's integral role in that event and the impact of its people on the nation's past, present and future.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/edb22fd9-5cab-44a8-a49e-d781b85d8922",
+    "identifier": "HB 120",
+    "title": "An Act amending the act of February 13, 1970 (P.L.19, No.10), entitled \"An act enabling certain minors to consent to medical, dental and health services, declaring consent unnecessary under certain circumstances,\" providing for consent required for vaccines.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-16T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB120/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/45bdfeb1-9a1e-41ac-939f-3b17f250f9c7",
+    "identifier": "HB 450",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in Pennsylvania Liquor Control Board, providing for amnesty for disciplinary actions regarding COVID-19 protocols.",
+    "session": "2025-2026",
+    "status": "Referred to Liquor Control",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Liquor Control"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB450/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

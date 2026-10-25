@@ -178,5 +178,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1462/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bf4b780e-f6a2-43f1-b358-6cceb21681c8",
+    "identifier": "HB 112",
+    "title": "An Act amending the act of March 28, 1984 (P.L.150, No.28), known as the Automobile Lemon Law, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB112/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6a99aba9-e114-4791-b6d2-c02197e4597d",
+    "identifier": "HR 175",
+    "title": "A Resolution designating May 20, 2025, as \"Jimmy Stewart Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR175/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

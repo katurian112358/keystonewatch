@@ -193,5 +193,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2040/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c9b10bd5-906f-4189-b41d-1f2bf798c494",
+    "identifier": "HB 419",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, providing for special plates for recipients of commendation medals and for special plates for recipients of achievement medals.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-30T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB419/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

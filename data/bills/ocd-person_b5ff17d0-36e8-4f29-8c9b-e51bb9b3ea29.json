@@ -673,5 +673,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB548/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a5631e64-d64f-47bc-bd7c-7f86c72b83df",
+    "identifier": "SB 1039",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, further providing for definitions and for student supports and providing for the Pennsylvania Mental Health First Aid Training Program; and, in school safety and security, further providing for the School Safety and Security Grant Program.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-15T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1039/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e016711b-c6b7-4f0c-8962-2720a4d44482",
+    "identifier": "SB 1025",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in sentencing, providing for sentencing for hate-based intimidation and for community impact statements.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-03T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1025/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eebf606e-6033-4d92-b63a-40a9540ea9a5",
+    "identifier": "SR 169",
+    "title": "A Resolution condemning the antisemitic firebombing attack on June 1, 2025, in Boulder, Colorado, against peaceful demonstrators and calling for the Commonwealth to combat the continued rise of antisemitism.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-06T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR169/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
   }
 ]

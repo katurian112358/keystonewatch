@@ -283,5 +283,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1481/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2f821955-a054-480f-b051-18f4da6cb445",
+    "identifier": "HR 11",
+    "title": "A Resolution recognizing the month of June 2025 as \"Lipedema Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-24T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR11/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c34482d4-2685-46b6-8e91-9250fe90fccb",
+    "identifier": "HB 1475",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of stalking.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-09T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1475/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/da4969c4-2feb-44a6-8467-b6a37630e755",
+    "identifier": "HR 14",
+    "title": "A Resolution designating April 12, 2025, as \"Volunteer Firefighter Day\" in Pennsylvania to honor the brave men and women who make sacrifices to protect their community as volunteer firefighters.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR14/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a83f3501-cf04-4e99-b8cd-661ab1b795b7",
+    "identifier": "HB 1329",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in other offenses, further providing for the offense of invasion of privacy.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-30T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1329/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/04d590df-26c2-4d81-9b3f-2d84eff3f598",
+    "identifier": "HR 7",
+    "title": "A Resolution recognizing August 21, 2025, as \"National Senior Citizens Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-24T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR7/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

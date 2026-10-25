@@ -403,5 +403,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB916/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1d8a9a84-3019-4394-bb07-66e5501ab2aa",
+    "identifier": "SR 98",
+    "title": "A Resolution designating the week of May 18 through 24, 2025, as \"Emergency Medical Services Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-02T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR98/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d1441395-6df4-4082-8bb0-21920aa7dd46",
+    "identifier": "SR 111",
+    "title": "A Resolution designating the month of May 2025 as \"Amyotrophic Lateral Sclerosis Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR111/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/325a524e-3b64-460b-b219-8f92b5f650db",
+    "identifier": "SR 218",
+    "title": "A Resolution recognizing February 4, 2026, as \"National Hit and Run Prevention Day\" and the month of February as \"National Hit and Run Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-30T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR218/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/19da5ab6-b130-4c63-b7bb-4247fd07f6c1",
+    "identifier": "SB 523",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in miscellaneous provisions relating to emergency management services, providing for health screenings for firefighters and EMS providers.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB523/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3e6d9bcf-dbf1-4f04-af7c-e54150c2110f",
+    "identifier": "SB 954",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in sustainable mobility options, further providing for operating program.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB954/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/319f9415-13ce-411f-9aa7-ab98da020cca",
+    "identifier": "SB 1149",
+    "title": "An Act amending the act of April 14, 1972 (P.L.233, No.64), known as The Controlled Substance, Drug, Device and Cosmetic Act, further providing for authority to control.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-23T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1149/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -118,5 +118,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR334/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/42fdd910-43e9-4cd6-a557-b4c2dc9fd403",
+    "identifier": "HR 87",
+    "title": "A Resolution directing the Joint State Government Commission to conduct a study reviewing the risk to critical infrastructure from foreign purchases of critical infrastructure assets and adjacent land in this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-21T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR87/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/57d24880-f6a7-455f-9cb9-e2c35216282f",
+    "identifier": "HR 21",
+    "title": "A Concurrent Resolution calling for a convention under Article V of the Constitution of the United States to consider amendments that limit the number of terms that members of Congress may serve and establish and limit the terms of office for United States Supreme Court Justices.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR21/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6522f961-c9eb-4891-a605-30957da79faa",
+    "identifier": "HB 685",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, providing for admission fees for school-sponsored activities.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

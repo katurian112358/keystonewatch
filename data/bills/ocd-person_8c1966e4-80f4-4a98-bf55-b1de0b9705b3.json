@@ -163,5 +163,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB810/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/42c8f52c-1d58-4c9c-af3b-0e22ccb51522",
+    "identifier": "HB 944",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in rates and distribution systems, further providing for valuation of acquired water and wastewater systems.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB944/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

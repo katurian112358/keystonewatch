@@ -373,5 +373,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1589/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2f936c3d-431c-4616-9ac8-6b665453d90f",
+    "identifier": "HB 1285",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in abortion, providing for prohibition against cooperation with out-of-State abortion investigations.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-22T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1285/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/479aa038-cbd4-4bac-b98b-785bbf921c42",
+    "identifier": "HB 1384",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in juvenile matters, providing for confinement in juvenile treatment facilities.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1384/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

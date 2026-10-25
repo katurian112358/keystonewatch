@@ -778,5 +778,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR182/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/1707fb15-d071-4162-8fe5-5ea5b100d7ba",
+    "identifier": "SR 135",
+    "title": "A Resolution honoring all Pennsylvania veterans who served during war and peace on the occasion of \"Veterans Day,\" November 11, 2025.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-31T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR135/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7aa350b3-b52b-4825-b447-0981e289c0ae",
+    "identifier": "SB 831",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in disabled veterans' real estate tax exemption, further providing for exemption.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB831/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0c8b9958-d5b0-419b-96b6-f808cd45af42",
+    "identifier": "SB 268",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, providing for cost-sharing calculation.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB268/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1f79f492-fb86-49b1-888d-53a128c8dee6",
+    "identifier": "SB 1104",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in primary and election expenses, further providing for reporting by candidate and political committees and other persons and for late filing fee and certificate of filing.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-04T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1104/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3cfbef10-edca-4fd5-bccf-01acd44b341c",
+    "identifier": "SB 436",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child protective services, further providing for definitions, for reporting procedure, for disposition of complaints received, for responsibility for investigation, for access to information in Statewide database, for information in Statewide database and for release of information in confidential reports.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB436/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/19da5ab6-b130-4c63-b7bb-4247fd07f6c1",
+    "identifier": "SB 523",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in miscellaneous provisions relating to emergency management services, providing for health screenings for firefighters and EMS providers.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB523/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3e6d9bcf-dbf1-4f04-af7c-e54150c2110f",
+    "identifier": "SB 954",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in sustainable mobility options, further providing for operating program.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB954/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bfa1e789-fd88-4282-a587-7c9826d429af",
+    "identifier": "SB 532",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in rules of the road in general, providing for private parking lots.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-02T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB532/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

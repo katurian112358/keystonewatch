@@ -358,5 +358,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1205/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dcd3b0e5-c709-412c-8a29-7c0dde50de22",
+    "identifier": "HB 1508",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in sentencing, providing for sentences for persons not to possess, use, manufacture, control, sell or transfer firearms.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-29T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1508/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/56bcf47b-95b9-4181-b983-230659be254e",
+    "identifier": "HB 794",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in community colleges, further providing for definitions, for powers and duties of State Board of Education and for degrees.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB794/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fcffd396-36b8-44d4-b6c4-437241685278",
+    "identifier": "HB 1933",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for persons required to report suspected aggravated cruelty to animal.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-27T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1933/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/48852467-5746-4900-bcdc-4b2bbc55d413",
+    "identifier": "HB 2202",
+    "title": "An Act amending the act of June 27, 2006 (1st Sp.Sess., P.L.1873, No.1), known as the Taxpayer Relief Act, in senior citizens property tax and rent rebate assistance, further providing for definitions and for proof of claim.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-09T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2202/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

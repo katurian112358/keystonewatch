@@ -253,5 +253,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB90/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2fa76131-cecf-4809-8cf6-03c27adf7853",
+    "identifier": "HB 1292",
+    "title": "An Act amending Title 64 (Public Authorities and Quasi-Public Corporations) of the Pennsylvania Consolidated Statutes, in Pennsylvania Broadband Development Authority, further providing for grant applications and process.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-23T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1292/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

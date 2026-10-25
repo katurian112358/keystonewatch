@@ -193,5 +193,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB452/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2fa76131-cecf-4809-8cf6-03c27adf7853",
+    "identifier": "HB 1292",
+    "title": "An Act amending Title 64 (Public Authorities and Quasi-Public Corporations) of the Pennsylvania Consolidated Statutes, in Pennsylvania Broadband Development Authority, further providing for grant applications and process.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-23T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1292/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/61e6e42f-430f-4288-8830-a63eba0ddcc4",
+    "identifier": "HB 398",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in authority of Department of Transportation, further providing for aircraft for official use.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB398/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/45bdfeb1-9a1e-41ac-939f-3b17f250f9c7",
+    "identifier": "HB 450",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in Pennsylvania Liquor Control Board, providing for amnesty for disciplinary actions regarding COVID-19 protocols.",
+    "session": "2025-2026",
+    "status": "Referred to Liquor Control",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Liquor Control"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB450/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

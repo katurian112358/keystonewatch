@@ -478,5 +478,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2008/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/13249492-38db-43d4-9232-61f5644c573d",
+    "identifier": "HB 1775",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in entertainment production tax credit, further providing for definitions and for limitations, providing for audits, further providing for limitations and providing for formal review by department, for creative professionals tax credit and for miscellaneous provisions.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-04T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1775/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c9fd672f-2ca6-47a5-8e22-ccb7bfaf5865",
+    "identifier": "HB 2007",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-06T05:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2007/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/31d3f506-6413-417a-9bb5-7a00e660697b",
+    "identifier": "HR 181",
+    "title": "A Resolution recognizing the week of April 11 through 17, 2025, as \"Black Maternal Health Week\" in Pennsylvania to bring attention to the maternal health crisis and the importance of reducing maternal mortality and morbidity among Black women.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR181/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ad7cce25-749c-4717-bbb7-fc87f87e0f40",
+    "identifier": "HB 670",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in abortion, providing for access to reproductive health services facilities; in particular rights and immunities, providing for action for blocking access to reproductive health services facility; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB670/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/479aa038-cbd4-4bac-b98b-785bbf921c42",
+    "identifier": "HB 1384",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in juvenile matters, providing for confinement in juvenile treatment facilities.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1384/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

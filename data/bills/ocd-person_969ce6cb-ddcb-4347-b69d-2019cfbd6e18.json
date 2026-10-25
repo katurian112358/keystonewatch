@@ -763,5 +763,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1666/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9cff5c6c-ec91-45a1-bd49-c490ad75f230",
+    "identifier": "HB 1547",
+    "title": "An Act prohibiting single-use plastic bags in retail establishments; and imposing duties on the Department of Community and Economic Development.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1547/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c9fd672f-2ca6-47a5-8e22-ccb7bfaf5865",
+    "identifier": "HB 2007",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-06T05:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2007/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c5bb7146-42f7-4276-8bfb-5a78946c23a7",
+    "identifier": "HR 302",
+    "title": "A Resolution ensuring greater access to sickle cell disease treatments and designating the Department of Health to conduct a comprehensive and coordinated data collection effort to better understand and quantify the scope and impact of sickle cell disease on patients, communities and states throughout the United States.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-04T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR302/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a6671b1b-51dd-4580-9f39-cd6894511ecb",
+    "identifier": "HB 984",
+    "title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in ethics standards and financial disclosure, further providing for statement of financial interests required to be filed.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-20T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB984/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/479aa038-cbd4-4bac-b98b-785bbf921c42",
+    "identifier": "HB 1384",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in juvenile matters, providing for confinement in juvenile treatment facilities.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1384/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

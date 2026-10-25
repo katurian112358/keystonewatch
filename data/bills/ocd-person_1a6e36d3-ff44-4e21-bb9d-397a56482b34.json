@@ -193,5 +193,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB424/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f2b81f81-35c6-45c0-b693-927bd74a70de",
+    "identifier": "HB 1623",
+    "title": "An Act amending Title 40 (Insurance) of the Pennsylvania Consolidated Statutes, in regulation of insurers and related persons generally, providing for notification requirements for older adult health insurance policies.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-17T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1623/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2a07cd59-a81d-4130-a25b-d3c0ad3ada46",
+    "identifier": "HB 1588",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in enforcement, further providing for revocation, suspension or denial of license, permit or registration; and, in hunting and furtaking licenses, further providing for denial or revocation of licenses and for period of revocation.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-11T04:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1588/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

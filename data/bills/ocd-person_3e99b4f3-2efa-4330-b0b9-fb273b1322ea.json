@@ -1003,5 +1003,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR182/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/1707fb15-d071-4162-8fe5-5ea5b100d7ba",
+    "identifier": "SR 135",
+    "title": "A Resolution honoring all Pennsylvania veterans who served during war and peace on the occasion of \"Veterans Day,\" November 11, 2025.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-31T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR135/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8efdbd2e-ce25-4c55-9e36-36cd725efcf4",
+    "identifier": "SR 190",
+    "title": "A Resolution designating November 7, 2025, as \"Victims of Communism Memorial Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR190/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/133e5780-cc5c-4dbd-8b92-352c3ca5f054",
+    "identifier": "SB 645",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in preliminary provisions, further providing for definitions; in terms and courses of study, further providing for subjects of instruction and flag code and providing for handwriting instruction required; and, in charter schools, further providing for provisions applicable to charter schools and for applicability of other provisions of this act and of other acts and regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB645/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9bda6a79-b1dd-4a8a-99cc-76ea4615011f",
+    "identifier": "SB 826",
+    "title": "An Act amending the act of October 24, 2018 (P.L.719, No.112), known as the Patient Test Result Information Act, further providing for definitions; providing for Lyme disease testing disclosure; and imposing duties on health care practitioners.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB826/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/75fb527e-c31e-4961-8a20-26b313dc4f56",
+    "identifier": "SB 1021",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in sentencing, providing for sentencing for offenses committed against immigration enforcement.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-03T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1021/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

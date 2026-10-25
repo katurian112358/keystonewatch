@@ -208,5 +208,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR207/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9cb5a37b-24a6-4326-be02-0c1d563707ca",
+    "identifier": "HB 376",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for the offense of transporting dogs in external section of vehicle; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB376/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/479aa038-cbd4-4bac-b98b-785bbf921c42",
+    "identifier": "HB 1384",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in juvenile matters, providing for confinement in juvenile treatment facilities.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1384/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

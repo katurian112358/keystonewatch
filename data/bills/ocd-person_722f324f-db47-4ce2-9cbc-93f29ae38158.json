@@ -118,5 +118,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR106/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/d9b61033-a0f4-4503-b7db-4c0ab90639b8",
+    "identifier": "SB 584",
+    "title": "An Act designating a bridge, identified as Bridge Key 56035, carrying U.S. Route 422 over State Route 2005 and Cherry Run in Plumcreek Township, Armstrong County, as the George W. McAuley, Jr. Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB584/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8a9e7c22-1b6c-438a-861f-69e984a06cd8",
+    "identifier": "SB 756",
+    "title": "An Act amending Titles 4 (Amusements), 18 (Crimes and Offenses) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in fantasy contests, further providing for definitions, for general and specific powers of board and for prohibitions; in general provisions relating to gaming, further providing for legislative intent and for definitions; in Pennsylvania Gaming Control Board, further providing for Pennsylvania Gaming Control Board established, for general and specific powers, for license or permit application hearing process and public input hearings, for regulatory authority of board, for number of slot machines, for reports of board and for license or permit prohibition; in licensees, further providing for Category 4 slot machine license, for divestiture of disqualifying applicant, for manufacturer licenses, for gaming service provider, for nongaming service provider, for occupation permit application, for slot machine testing and certification standards, for slot machine accounting controls and audits and for renewals; in table games, further providing for regulatory authority and for table game device and associated equipment testing and certification standards; in interactive gaming, further providing for internal, administrative and accounting controls, for interactive games and interactive gaming devices and associated equipment testing and certification standards; in sports wagering, further providing for definitions; in revenues, further providing for slot machine licensee deposits and for transfers from State Gaming Fund; in administration and enforcement, repealing provisions relating to political influence, further providing for investigations and enforcement, for prohibited acts and penalties and for liquor licenses at licensed facilities; in fingerprinting, further providing for submission of fingerprints and photographs; in miscellaneous provisions relating to gaming, providing for live-streaming on casino floor and further providing for severability; in general provisions relating to video gaming, further providing for definitions; in administration, further providing for powers of board; in application and licensure, further providing for key employee licenses, for establishment licenses and for license or permit prohibition; in operation, further providing for video gaming limitations and for compulsive and problem gambling; in enforcement, further providing for prohibited acts and penalties; in revenues, further providing for fees; in ethics, repealing provisions relating to political influence; providing for skill gaming; establishing the Skill Gaming Fund; imposing duties on the Department of Revenue; in riot, disorderly conduct and related offenses, further providing for gambling devices, gambling, etc.; in forfeiture of assets, further providing for asset forfeiture; making appropriations; making repeals; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-13T04:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB756/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

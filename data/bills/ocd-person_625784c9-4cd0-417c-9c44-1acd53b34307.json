@@ -298,5 +298,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1068/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/827b45ab-a15e-4406-864d-599dfc79f06d",
+    "identifier": "HB 942",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in Pennsylvania Game Commission, further providing for Game Commission officers and employees.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB942/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/18023164-299a-47d6-b018-cc1014b6d396",
+    "identifier": "HB 212",
+    "title": "An Act amending the act of December 19, 1990 (P.L.1200, No.202), known as the Solicitation of Funds for Charitable Purposes Act, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-17T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB212/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f93416ab-3b6a-400d-922d-30dfb01d1b46",
+    "identifier": "HB 999",
+    "title": "An Act providing for the America250PA Semiquincentennial Celebration Bell monument on the grounds of the State Capitol to commemorate the 250th anniversary of the founding of the United States, Pennsylvania's integral role in that event and the impact of its people on the nation's past, present and future.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ad7cce25-749c-4717-bbb7-fc87f87e0f40",
+    "identifier": "HB 670",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in abortion, providing for access to reproductive health services facilities; in particular rights and immunities, providing for action for blocking access to reproductive health services facility; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB670/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

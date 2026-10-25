@@ -4321,17 +4321,8 @@
     "status": "Laid on the table (Pursuant to House Rule 71)",
     "subjects": [],
     "latest_action": {
-      "id": "9a309d5e-bf17-4950-a1f9-1dcb47b0effa",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Laid on the table (Pursuant to House Rule 71)",
       "date": "2026-02-04T05:00:00+00:00",
-      "classification": [],
-      "order": 5,
-      "related_entities": []
+      "description": "Laid on the table (Pursuant to House Rule 71)"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB670/",
     "sponsorship_role": "cosponsor",
@@ -4345,19 +4336,8 @@
     "status": "Adopted",
     "subjects": [],
     "latest_action": {
-      "id": "fd6f0e77-3bee-42e1-aa96-fa638052a461",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Adopted",
       "date": "2026-02-04T05:00:00+00:00",
-      "classification": [
-        "passage"
-      ],
-      "order": 2,
-      "related_entities": []
+      "description": "Adopted"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR413/",
     "sponsorship_role": "cosponsor",

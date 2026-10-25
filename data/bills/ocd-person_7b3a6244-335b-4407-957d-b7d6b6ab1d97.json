@@ -658,5 +658,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB654/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1d8a9a84-3019-4394-bb07-66e5501ab2aa",
+    "identifier": "SR 98",
+    "title": "A Resolution designating the week of May 18 through 24, 2025, as \"Emergency Medical Services Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-02T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR98/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/af57d673-03cb-4064-ac28-f6af50a51af2",
+    "identifier": "SB 526",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in tax credit and tax benefit administration, further providing for definitions; providing for volunteer certified emergency medical technician and volunteer firefighter tax credit; and imposing duties on the Department of Revenue.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB526/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/37527a7a-6718-40d6-ae51-612fc75d9205",
+    "identifier": "SB 984",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in pupils and attendance, further providing for attendance policy at charter, regional charter and cyber charter schools, for procedure when child is truant, for procedure by school when child habitually truant, for procedure upon filing of citation and for penalties for violating compulsory school attendance requirements, repealing provisions relating to study of truancy procedure, providing for department supports to prevent truancy and further providing for reports to Superintendent of Public Instruction.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-27T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB984/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/133e5780-cc5c-4dbd-8b92-352c3ca5f054",
+    "identifier": "SB 645",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in preliminary provisions, further providing for definitions; in terms and courses of study, further providing for subjects of instruction and flag code and providing for handwriting instruction required; and, in charter schools, further providing for provisions applicable to charter schools and for applicability of other provisions of this act and of other acts and regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB645/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/35c7b967-25b3-413f-af2d-1886515b7dd1",
+    "identifier": "SB 633",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in emergency medical services system, further providing for injured police animals.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-11T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB633/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/75fb527e-c31e-4961-8a20-26b313dc4f56",
+    "identifier": "SB 1021",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in sentencing, providing for sentencing for offenses committed against immigration enforcement.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-03T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1021/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/11ab8026-9c47-4835-9314-65423b5b4a84",
+    "identifier": "SB 79",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in limitation of time relating to criminal proceedings, further providing for other offenses.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB79/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]
