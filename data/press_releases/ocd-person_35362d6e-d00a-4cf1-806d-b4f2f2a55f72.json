@@ -583,7 +583,15 @@
     "url": "https://senatorschwank.com/senator-schwank-talks-with-the-pennsylvania-beef-council-at-the-farm-show",
     "date": null,
     "raw_text": "Senator Schwank Talks With The Pennsylvania Beef Council at the Farm Show\nJanuary 16, 2026",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Senator Schwank met with representatives from the Pennsylvania Beef Council at the Pennsylvania Farm Show. The press release describes a conversation between the senator and beef industry stakeholders, though no specific legislative action or policy outcome is mentioned.",
+      "action_type": "event",
+      "topics": [
+        "economy",
+        "other"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Cultivating Wellness: Supporting Farmers Through the Mental Health Crisis",
