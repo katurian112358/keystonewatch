@@ -291,7 +291,16 @@
     "url": "https://www.repkail.com/",
     "date": "Sep17",
     "raw_text": "Sep\n17\nPress Release\nKail, Bartolotta Deliver Major Investment to Hanover Township, Beaver County\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Pennsylvania legislators Kail and Bartolotta announced the delivery of funding to Hanover Township in Beaver County. The specific amount and purpose of the investment are not detailed in the provided text. No additional context about the source or conditions of the funding is available from this release excerpt.",
+      "action_type": "budget",
+      "topics": [
+        "economy",
+        "infrastructure",
+        "other"
+      ],
+      "spin_flag": true
+    }
   },
   {
     "title": "Live streams",

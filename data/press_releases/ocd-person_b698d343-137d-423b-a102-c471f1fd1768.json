@@ -4,7 +4,14 @@
     "url": "http://www.RepJoeD.com/",
     "date": "Jun23",
     "raw_text": "Jun\n23\nPress Release\nD’Orsie's Seal of Biliteracy Bill Clears the Senate\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "A bill sponsored by legislator D'Orsie related to a Seal of Biliteracy program passed the Pennsylvania Senate. The Seal of Biliteracy is a recognition awarded to students who demonstrate proficiency in two or more languages. The bill's passage moves it closer to becoming law.",
+      "action_type": "bill_passed",
+      "topics": [
+        "education"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Livestreams",
@@ -927,6 +934,22 @@
         "other"
       ],
       "spin_flag": true
+    }
+  },
+  {
+    "title": "Improving E Bike Laws and Safety in Pennsylvania",
+    "url": "https://www.repjoed.com/News/39007/Press-Releases/Improving-E-Bike-Laws-and-Safety-in-Pennsylvania",
+    "date": null,
+    "raw_text": "Improving E Bike Laws and Safety in Pennsylvania\nOctober 26, 2026\nI recently hosted an e bike roundtable with local legislators and police departments to discuss the often-confusing laws surrounding e bikes, as well as safety concerns for both riders and the drivers and pedestrians around them. We explored what a new, streamlined, and more effective law could look like—one that is easier for constituents to understand and follow while improving safety around e bike use across Pennsylvania.\nSee a video of the roundtable discussion\nhere\nto learn more.\nShare\nSign Up to Receive Legislative Email Updates\nKeep up-to-date on the latest legislative and community news. Your email address will be used strictly for legislative purposes.\nEmail*\nZIP Code\nSubscribe",
+    "ai_summary": {
+      "summary": "A Pennsylvania legislator organized a roundtable meeting with local legislators and police departments to discuss current e-bike laws and potential reforms. The discussion focused on clarifying confusing existing regulations and exploring what updated e-bike legislation might look like. No bill has been introduced or passed as a result of this meeting.",
+      "action_type": "event",
+      "topics": [
+        "public_safety",
+        "infrastructure",
+        "other"
+      ],
+      "spin_flag": false
     }
   }
 ]
