@@ -347,7 +347,14 @@
     "url": "https://www.repmarcell.com/",
     "date": "Oct6",
     "raw_text": "Oct\n6\nPress Release\nMarcell: Bill to Preserve PA Businesses, Jobs Gains Senate Approval\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "A bill sponsored or supported by legislator Marcell passed the Pennsylvania Senate. The bill appears to be related to preserving businesses and jobs in Pennsylvania, though specific details of the legislation's provisions are not available from this summary alone.",
+      "action_type": "bill_passed",
+      "topics": [
+        "economy"
+      ],
+      "spin_flag": true
+    }
   },
   {
     "title": "Livestreams",

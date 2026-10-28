@@ -779,7 +779,15 @@
     "url": "https://www.senatorcollett.com/sen-collett-hosts-scamjam-double-header-events/",
     "date": null,
     "raw_text": "Sen. Collett Hosts ScamJam Double-Header Events\nJune 5, 2026",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Senator Collett hosted two ScamJam events, which are public gatherings designed to educate constituents about scams and fraud prevention. The press release announces these events took place or are scheduled in her district. No specific legislative action was taken.",
+      "action_type": "event",
+      "topics": [
+        "public_safety",
+        "other"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Sen. Collett Sounds the Alarm on SCOTUS Attacks on Democracy",
