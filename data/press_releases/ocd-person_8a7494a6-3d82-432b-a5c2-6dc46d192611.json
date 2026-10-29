@@ -313,7 +313,15 @@
     "url": "https://www.repjoekerwin.com/",
     "date": "Oct7",
     "raw_text": "Oct\n7\nPress Release\nKerwin’s Milk Marketing Bill Heads to Governor’s Desk\nRead More",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "A bill related to milk marketing, sponsored by legislator Kerwin, passed both chambers of the Pennsylvania General Assembly and has been sent to the Governor for signature. The specific provisions of the bill are not detailed in the press release title alone. Once signed, it would become law.",
+      "action_type": "bill_passed",
+      "topics": [
+        "economy",
+        "other"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Livestreams",
