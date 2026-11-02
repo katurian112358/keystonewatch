@@ -5,193 +5,109 @@
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/a41016aa-660f-4af7-afcd-ef182e544533",
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-    "timestamp": "2026-11-01T14:00:13.532935"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/19dca465-48d8-4b4a-84e2-79ef9797c986",
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-    "timestamp": "2026-11-01T14:00:14.221979"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/628312bf-7920-44b7-b226-90c92f92a123",
-    "error": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
-    "timestamp": "2026-11-01T14:00:15.292197"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/999d1ffd-b893-4aac-9fbb-ae43b3039038",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-11-01T14:00:39.431261"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/57be936d-802b-4d09-b95e-2a5354cb9984",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-11-01T14:01:01.026237"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/f4e98ad8-2ee6-45e4-8594-0deaaa51190e",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-11-01T14:01:22.875610"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b64463e2-41f6-4d58-a725-03db71798c1c",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-11-01T14:01:44.748990"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/1f2c3093-8ce7-41f7-8df0-6cd14ddd354b",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-11-01T14:02:05.460711"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/13bfe11c-06e2-4a1d-844d-d195ef18dc06",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-11-01T14:02:26.108959"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/bd4c3d05-059a-4084-b8f8-e8598e4eb955",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-11-01T14:02:46.788608"
-  },
-  {
-    "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e12dc574-f19b-4c9c-9a30-42b68371ea4a",
     "error": "no website URL",
-    "timestamp": "2026-11-01T14:03:07.432152"
+    "timestamp": "2026-11-02T16:46:34.073142"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/d5bd036c-03f5-4111-b770-15cb2dbe3278",
     "error": "429 Client Error: Too Many Requests for url: https://www.repgrimmkrupa.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-11-01T14:03:31.560249"
+    "timestamp": "2026-11-02T16:46:58.122984"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/e17c51da-556e-4afe-aad4-137ee3a0881e",
     "error": "429 Client Error: Too Many Requests for url: https://www.repcraigwilliams.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-11-01T14:03:42.002221"
+    "timestamp": "2026-11-02T16:47:12.723438"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/c88ccd9a-3378-4284-9dc6-767a4826526e",
     "error": "429 Client Error: Too Many Requests for url: https://www.repdavidrowe.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-11-01T14:04:26.002013"
+    "timestamp": "2026-11-02T16:47:49.549547"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/875b1add-2803-4cc3-964b-0e351ed6ca1c",
     "error": "no website URL",
-    "timestamp": "2026-11-01T14:04:44.160639"
+    "timestamp": "2026-11-02T16:48:06.655031"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/b7373c43-580b-4044-a405-054073ac687b",
     "error": "429 Client Error: Too Many Requests for url: https://repweaknecht.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-11-01T14:04:46.876365"
+    "timestamp": "2026-11-02T16:48:09.840246"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/fea0b7c4-d51a-463f-964a-75722678083b",
     "error": "no website URL",
-    "timestamp": "2026-11-01T14:05:14.816151"
+    "timestamp": "2026-11-02T16:48:37.900725"
   },
   {
     "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/96cbec5b-b9a4-4325-8346-bd4d08d87237",
-    "error": "429 Client Error: Too Many Requests for url: https://repwalsh.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-11-01T14:05:17.966321"
+    "legislator_id": "ocd-person/e396f514-a357-404f-bdb9-1ba33d97d0a7",
+    "error": "429 Client Error: Too Many Requests for url: https://www.repflick.com/NewsGroup/Press-Releases",
+    "timestamp": "2026-11-02T16:48:40.008192"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/0df3f8d5-b6df-4cd8-a2c7-1dee651e60a8",
     "error": "no website URL",
-    "timestamp": "2026-11-01T14:05:38.860123"
+    "timestamp": "2026-11-02T16:48:58.469586"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/acc00fca-50e5-46f7-8676-d502ecfc94ac",
     "error": "429 Client Error: Too Many Requests for url: https://www.repjoehamm.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-11-01T14:06:04.038314"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/b1beaa5c-93d2-479e-9408-47c7687cd212",
-    "error": "429 Client Error: Too Many Requests for url: https://www.rephogan.com/",
-    "timestamp": "2026-11-01T14:06:04.816736"
+    "timestamp": "2026-11-02T16:49:27.152575"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/00e98952-3983-44cd-aeca-09fb6cd84f3d",
     "error": "404 Client Error: Not Found for url: https://senatorpicozzi.com/InTheNews/",
-    "timestamp": "2026-11-01T14:06:22.769203"
+    "timestamp": "2026-11-02T16:49:38.508546"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/23a2b079-dc91-49b0-b08e-f3ae80fba11f",
     "error": "429 Client Error: Too Many Requests for url: https://www.repfritz.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-11-01T14:06:33.781763"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/d390f1ac-1f16-478a-9e0d-462c9ed79818",
-    "error": "HTTPSConnectionPool(host='www.pahouse.com', port=443): Read timed out. (read timeout=20)",
-    "timestamp": "2026-11-01T14:06:59.191122"
+    "timestamp": "2026-11-02T16:49:51.126816"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/36348b5e-47fe-404a-b6c3-99359115846c",
     "error": "429 Client Error: Too Many Requests for url: https://www.reprapp.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-11-01T14:07:17.576362"
+    "timestamp": "2026-11-02T16:50:05.248375"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/93435394-e853-45f2-9e88-65399b3f9042",
     "error": "429 Client Error: Too Many Requests for url: https://www.repwhite.com/NewsGroup/Press-Releases",
-    "timestamp": "2026-11-01T14:08:44.427143"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/171af8ac-41e0-4047-be38-654cc912053b",
-    "error": "429 Client Error: Too Many Requests for url: https://www.repcauser.com/",
-    "timestamp": "2026-11-01T14:08:45.081208"
+    "timestamp": "2026-11-02T16:50:58.031494"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/f5b2ec4d-1d69-483a-a6ec-143d50ad395b",
     "error": "generic scrape: no news link found",
-    "timestamp": "2026-11-01T14:09:08.462633"
+    "timestamp": "2026-11-02T16:51:22.649088"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/69faf85a-c63c-4d75-9801-047fffddf228",
     "error": "no website URL",
-    "timestamp": "2026-11-01T14:10:10.498903"
-  },
-  {
-    "step": "scrape_press_releases",
-    "legislator_id": "ocd-person/bccfe530-42ce-47b0-aadf-ae863b37cf9a",
-    "error": "429 Client Error: Too Many Requests for url: https://www.repstephanie.com/Display/NewsGroup.aspx?ngid=24",
-    "timestamp": "2026-11-01T14:10:32.061012"
+    "timestamp": "2026-11-02T16:52:21.088903"
   },
   {
     "step": "scrape_press_releases",
     "legislator_id": "ocd-person/de68158e-3cc9-4651-b3a1-71f5e77b7dab",
     "error": "pahouse scrape: no NewsRelease links found",
-    "timestamp": "2026-11-01T14:10:48.465774"
+    "timestamp": "2026-11-02T16:53:08.656424"
   },
   {
     "step": "summarize_releases",
     "severity": "warning",
-    "error": "213 summaries failed (will retry next run)"
+    "error": "211 summaries failed (will retry next run)"
   }
 ]

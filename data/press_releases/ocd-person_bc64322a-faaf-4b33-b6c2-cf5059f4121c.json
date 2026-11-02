@@ -533,7 +533,15 @@
     "url": "https://senatorlindseywilliams.com/senator-williams-welcomes-pennsylvanias-rape-crisis-centers-and-survivors-to-the-senate/",
     "date": null,
     "raw_text": "Senator Williams Welcomes Pennsylvania’s Rape Crisis Centers and Survivors to the Senate\nJune 8, 2026",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Senator Williams hosted representatives from Pennsylvania's rape crisis centers and survivors at the state Senate. The event appeared to be a recognition or advocacy visit bringing these groups to the Capitol. No specific legislation or policy action is described in the available text.",
+      "action_type": "event",
+      "topics": [
+        "public_safety",
+        "healthcare"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Senator Lindsey Williams Votes to Approve Student-Focused Performance-Based Funding Measures",
