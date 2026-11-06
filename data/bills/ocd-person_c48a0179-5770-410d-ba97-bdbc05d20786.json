@@ -73,5 +73,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB756/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/41ef1a7d-746b-4cef-90b0-c47b4070a12c",
+    "identifier": "SR 81",
+    "title": "A Resolution honoring the Super Bowl LIX Champions, the 2025 Philadelphia Eagles, and recognizing the Philadelphia Eagles as one of the greatest football teams ever to represent this Commonwealth both on and off the field.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-14T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR81/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c2db04e1-11aa-4fff-92a1-2920d7c56422",
+    "identifier": "SR 129",
+    "title": "A Resolution honoring the life and expressing condolences on the death of Representative Matthew R. Gergely.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR129/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/fb7bd2ac-62e1-43f7-b982-4d5fba9d106d",
+    "identifier": "SR 59",
+    "title": "A Resolution honoring the life, leadership and memory of the Honorable Mary Jo White and expressing heartfelt condolences to her family, friends and colleagues.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR59/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/723db430-38bd-486d-b28b-a5ab57ffab6e",
+    "identifier": "SR 14",
+    "title": "A Resolution recognizing the distinguished career of Vincent C. DeLiberato, Jr., Esq., and honoring his service to the Commonwealth.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR14/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/51a4f180-59d8-43b2-bdc8-479aadf778c7",
+    "identifier": "SR 160",
+    "title": "A Resolution recognizing the month of October 2025 as \"National Breast Cancer Awareness Month\" and October 17, 2025, as \"National Mammography Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-01T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR160/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

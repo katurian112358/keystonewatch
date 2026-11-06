@@ -343,5 +343,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1741/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/999ed36a-4dae-40a0-b142-2b849332c013",
+    "identifier": "HR 231",
+    "title": "A Resolution recognizing the month of June 2025 as \"LGBTQ+ Pride Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-11T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR231/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/07c83b82-d858-46cf-9e92-278f956888cc",
+    "identifier": "HB 2280",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in nomination of candidates, further providing for affidavits of candidates and providing for ascertaining residence of candidates.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-11T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2280/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/40ac3836-ad7a-4a7e-8645-df8b85b0b850",
+    "identifier": "HR 426",
+    "title": "A Resolution recognizing the month of June 2026 as \"LGBTQ+ Pride Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-09T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR426/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/64a43f42-3e8f-4321-adcc-113fd96776f1",
+    "identifier": "HB 367",
+    "title": "An Act providing for employee's right to request a flexible working arrangement; imposing duties on the Department of Labor and Industry; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB367/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/67cf5ef3-cd62-41d1-8588-a84de9865896",
+    "identifier": "HR 289",
+    "title": "A Resolution recognizing July 26, 2025, as \"Americans with Disabilities Act Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-04T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR289/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/186473f8-35ff-4809-8061-c2ba3f06b5d4",
+    "identifier": "HB 1829",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in disclosure of interscholastic athletic opportunities, providing for annual evaluation.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-04T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1829/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/adad7b4d-b942-4355-b93f-146c24fb3739",
+    "identifier": "HB 966",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in quality health care accountability and protection, further providing for departmental powers and duties and providing for additional penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB966/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fa14facc-5b11-400b-860e-26668f364347",
+    "identifier": "HB 1146",
+    "title": "An Act amending Titles 53 (Municipalities Generally) and 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in taxation for public transportation, further providing for local financial support; and, in fees, further providing for fee for local use.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-04T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1146/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

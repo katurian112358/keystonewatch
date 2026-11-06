@@ -118,5 +118,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2130/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/831e014c-c6a2-4774-96c8-2512e9cd0741",
+    "identifier": "HB 548",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for limitation on the regulation of firearms and ammunition; and, in preemptions, providing for regulation of firearms and ammunition.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-11T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB548/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7df4781a-28c5-4383-aa75-ae99ccd72fe3",
+    "identifier": "HR 333",
+    "title": "A Resolution directing the Joint State Government Commission to conduct a study on the feasibility of establishing a senior military college at the soon-to-close Penn State Fayette, The Eberly Campus, and to report its findings to the General Assembly.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-01T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR333/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/03d49129-d12b-4640-b1cd-7356576ba2dc",
+    "identifier": "HR 338",
+    "title": "A Resolution honoring the life and legacy of United States Army Air Forces Warrant Officer William J. McMichael, expressing condolences to his family and commending with gratitude and respect the recovery and return of his remains.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "INTRODUCED AS NONCONTROVERSIAL RESOLUTION UNDER RULE 35"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR338/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/c01a7ea2-370f-467c-bd76-8a4587e76d4d",
+    "identifier": "HB 1035",
+    "title": "An Act amending the act of July 7, 1980 (P.L.380, No.97), known as the Solid Waste Management Act, in general provisions, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1035/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ae738a54-d776-4972-a41d-a755d5a14695",
+    "identifier": "HB 2000",
+    "title": "An Act providing for Pennsylvania and National Medal of Honor Highway; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2000/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd70789b-bc05-4e6a-a2e9-524c943725e5",
+    "identifier": "HR 281",
+    "title": "House Discharge Resolution discharging Committee on Education from further consideration of Senate Bill No. 9.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR281/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b88a5f85-d7e8-4665-83ba-c23e5de31377",
+    "identifier": "HR 395",
+    "title": "A Resolution recognizing March 17, 2026, as \"St. Patrick's Day\" in Pennsylvania and celebrating the role Irish Americans played in the founding of the United States of America.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-23T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR395/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

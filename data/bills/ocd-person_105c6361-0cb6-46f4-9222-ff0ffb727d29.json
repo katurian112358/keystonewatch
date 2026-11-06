@@ -163,5 +163,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB685/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e86ab63f-26b5-4c09-9700-2a64466a960c",
+    "identifier": "HB 983",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for persons not to possess, use, manufacture, control, sell or transfer firearms and for sale or transfer of firearms and providing for Gun Violence Task Force in cities of the first class.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-20T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB983/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/91d54062-2bea-41cf-ad21-c28e8a4738e4",
+    "identifier": "HB 164",
+    "title": "An Act providing for the final disposition of fetal remains; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-16T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB164/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/54e9c631-82b8-454d-97a6-7d27d71682c7",
+    "identifier": "HB 934",
+    "title": "An Act amending the act of July 7, 1980 (P.L.380, No.97), known as the Solid Waste Management Act, in general provisions, providing for areas where landfills are prohibited.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB934/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aa00b212-8cc5-47ec-a0a2-e97141ba4baf",
+    "identifier": "HB 166",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in sentencing, further providing for sentencing procedure for murder of the first degree.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB166/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f71b8956-11ae-4813-8558-b4f11803bdcb",
+    "identifier": "HR 125",
+    "title": "A Concurrent Resolution petitioning the Congress of the United States to call a Convention for proposing amendments pursuant to Article V of the Constitution of the United States limited to proposing amendments that impose fiscal restraints on the Federal Government, limit the power and jurisdiction of the Federal Government and limit the terms of office for its officials and for members of Congress.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR125/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ae738a54-d776-4972-a41d-a755d5a14695",
+    "identifier": "HB 2000",
+    "title": "An Act providing for Pennsylvania and National Medal of Honor Highway; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2000/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/13271541-6cd7-4b5f-9859-0c6ac162a1ce",
+    "identifier": "HB 1740",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in abortion, further providing for legislative intent, providing for fetal heartbeat examination and further providing for medical consultation and judgment and for abortion on unborn child of 24 or more weeks gestational age; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-16T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1740/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/481f958d-bb59-4886-85e4-7601a8805392",
+    "identifier": "HB 277",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in human trafficking, further providing for civil causes of action.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB277/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

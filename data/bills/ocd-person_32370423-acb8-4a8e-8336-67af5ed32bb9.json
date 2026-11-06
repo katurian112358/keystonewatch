@@ -178,5 +178,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB294/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d77d761b-5d48-4459-a26c-6e737562475f",
+    "identifier": "HB 2100",
+    "title": "An Act providing for the use of mental health chatbots and artificial intelligence by mental health therapists; imposing duties on the Bureau of Professional and Occupational Affairs; and imposing a penalty.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-12T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2100/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/beda6704-1b83-4e64-9ab7-0c52482cc087",
+    "identifier": "HB 1804",
+    "title": "An Act providing for the withholding of Commonwealth payments to the Federal Government; perfecting liens on Federal property; establishing a civil cause of action; and prohibiting the Commonwealth from sharing data with the Federal Government that contains personally identifiable information.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-15T04:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1804/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fd001043-a8f0-4695-9058-8ebbdebef61d",
+    "identifier": "HB 849",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in falsification and intimidation, providing for the offense of failure to comply with child abuse offender registration requirements; in sentencing, providing for registration of child abuse offenders; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB849/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ae738a54-d776-4972-a41d-a755d5a14695",
+    "identifier": "HB 2000",
+    "title": "An Act providing for Pennsylvania and National Medal of Honor Highway; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2000/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/94501a6c-122b-4420-beb5-b95e6220fab9",
+    "identifier": "HB 296",
+    "title": "An Act providing for prohibition on sale of dogs and cats bred by certain persons, for duty of persons, kennels and animal testing facilities to offer dogs and cats for adoption and for whistleblower protection; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-23T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB296/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/727b1d55-45b7-41cc-8ead-453495990c4c",
+    "identifier": "HB 481",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for proposal of amendments by the General Assembly and their adoption.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB481/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

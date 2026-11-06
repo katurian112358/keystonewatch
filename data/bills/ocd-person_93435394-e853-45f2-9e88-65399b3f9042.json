@@ -103,5 +103,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB877/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c01a7ea2-370f-467c-bd76-8a4587e76d4d",
+    "identifier": "HB 1035",
+    "title": "An Act amending the act of July 7, 1980 (P.L.380, No.97), known as the Solid Waste Management Act, in general provisions, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1035/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/af9ee43a-7784-4a23-bc83-bd22cd245983",
+    "identifier": "HB 1662",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, providing for tax credit for Pennsylvania child learning investment.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1662/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a2725428-fea8-43aa-ad02-55739d6aae72",
+    "identifier": "HB 684",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in evidence-based reading instruction, further providing for definitions, providing for school entity duties related to evidence-based reading instruction, for school entity duties related to reading screening, for reading deficiency identification and parental notification, for reading intervention plans, for grant program, for funding, for reporting, for accountability and for construction.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-01T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB684/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ae738a54-d776-4972-a41d-a755d5a14695",
+    "identifier": "HB 2000",
+    "title": "An Act providing for Pennsylvania and National Medal of Honor Highway; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2000/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd70789b-bc05-4e6a-a2e9-524c943725e5",
+    "identifier": "HR 281",
+    "title": "House Discharge Resolution discharging Committee on Education from further consideration of Senate Bill No. 9.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR281/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e82f33c2-e7d2-4fe6-a92f-c03902b2a7e0",
+    "identifier": "HB 629",
+    "title": "An Act amending the act of February 2, 1966 (1965 P.L.1860, No.586), entitled \"An act encouraging landowners to make land and water areas available to the public for recreational purposes by limiting liability in connection therewith, and repealing certain acts,\" further providing for definitions, for duty to keep premises safe and warning and for assurance of safe premises and duty of care and responsibility and liability.",
+    "session": "2025-2026",
+    "status": "Referred to Tourism, Recreation & Economic Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Tourism, Recreation & Economic Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB629/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c37948b4-e8b0-44c5-8ea6-db44c0ed42ae",
+    "identifier": "HB 1832",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in sentencing, providing for sentencing for offenses committed while wearing mask.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1832/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

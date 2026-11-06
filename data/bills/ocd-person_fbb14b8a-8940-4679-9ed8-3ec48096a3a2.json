@@ -88,5 +88,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2208/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/71e0c220-6960-44cf-9777-803e867dac8a",
+    "identifier": "HB 1273",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, repealing provisions relating to electronic payment and to additions, penalties and fees; in general provisions, providing for method of payment; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1273/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/97a3a044-6cab-4758-b3b2-53145801e272",
+    "identifier": "HB 1578",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in disabled veterans' real estate tax exemption, further providing for duty of commission.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1578/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f71b8956-11ae-4813-8558-b4f11803bdcb",
+    "identifier": "HR 125",
+    "title": "A Concurrent Resolution petitioning the Congress of the United States to call a Convention for proposing amendments pursuant to Article V of the Constitution of the United States limited to proposing amendments that impose fiscal restraints on the Federal Government, limit the power and jurisdiction of the Federal Government and limit the terms of office for its officials and for members of Congress.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR125/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

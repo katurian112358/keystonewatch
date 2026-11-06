@@ -88,5 +88,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR267/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2bdaedcd-0b76-45df-aaa7-224cee690449",
+    "identifier": "HR 12",
+    "title": "A Resolution recognizing the month of February 2025 as \"Black History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR12/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1670cae2-37ab-4767-b261-6ee2ad176a23",
+    "identifier": "HB 1979",
+    "title": "An Act to provide appropriations from the General Fund for the expenses of certain agencies of the Executive Department for the fiscal year July 1, 2025, to June 30, 2026, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2025.",
+    "session": "2025-2026",
+    "status": "Re-committed to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-28T04:00:00+00:00",
+      "description": "Removed from table"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1979/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ac8b3967-42af-48e4-a6ac-8f495ffe31c2",
+    "identifier": "HR 127",
+    "title": "A Resolution recognizing the month of March 2025 as \"Colorectal Cancer Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR127/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9f4dea4a-8172-4a99-b7af-d04f68e9faf8",
+    "identifier": "HR 424",
+    "title": "A Resolution designating March 25, 2026, as \"Prince Hall Mason Day at the Capitol\" in Pennsylvania in recognition of The Most Worshipful Prince Hall Grand Lodge of Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR424/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

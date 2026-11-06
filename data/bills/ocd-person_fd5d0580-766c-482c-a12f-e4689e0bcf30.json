@@ -343,5 +343,380 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB999/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0f91feb6-4dd8-4267-a2fa-4e123553368d",
+    "identifier": "HB 1536",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in certification of teachers, providing for career and technical administrative director certification flexibility.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-02T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1536/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/139b6f4c-6f03-4250-bb30-f48c60886f3c",
+    "identifier": "HB 278",
+    "title": "An Act amending Title 65 (Public Officers) of the Pennsylvania Consolidated Statutes, in lobbying disclosure, further providing for registration, for reporting, for exemption from registration and reporting and for administration; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB278/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9e4b76ca-e5a3-42ba-b484-98ae75e98185",
+    "identifier": "HB 217",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, further providing for classes of income.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB217/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e86ab63f-26b5-4c09-9700-2a64466a960c",
+    "identifier": "HB 983",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for persons not to possess, use, manufacture, control, sell or transfer firearms and for sale or transfer of firearms and providing for Gun Violence Task Force in cities of the first class.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-20T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB983/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1b0bbc63-97f9-48f0-a341-734daf1b25d1",
+    "identifier": "HB 1746",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, further providing for sessions of the General Assembly.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-21T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1746/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/831e014c-c6a2-4774-96c8-2512e9cd0741",
+    "identifier": "HB 548",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for limitation on the regulation of firearms and ammunition; and, in preemptions, providing for regulation of firearms and ammunition.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-11T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB548/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/30e3bbee-46b3-4f5d-ab37-76d4f61f981a",
+    "identifier": "HB 1546",
+    "title": "An Act designating a portion of Pennsylvania Route 164, Cove Mountain Road, from the intersection with Frederick Road in Taylor Township to the intersection with Agway Road in North Woodbury Township, Blair County, as the Representative Jerry A. Stern Memorial Highway.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1546/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7d55778f-ce13-48dc-b5ae-777103dd8729",
+    "identifier": "HB 1156",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, further providing for verification of eligibility.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-07T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1156/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3b91ebf5-3c94-421a-954e-ae6b9e9b2a6e",
+    "identifier": "HB 1217",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in preliminary provisions, further providing for definitions, repealing provisions relating to public funding of elections, providing for legislative authority over elections, establishing the Bureau of Election Audits and providing for special standing in challenges to the Election Code; in the Secretary of the Commonwealth, further providing for powers and duties of the Secretary of the Commonwealth and providing for reports on implementation of elections; in county boards of elections, further providing for powers and duties of county boards and providing for county boards of elections and satellite offices; in district election officers, further providing for district election boards and election, for qualifications of election officers, for tie votes for judge and inspector, for clerks of election and machine inspectors, for vacancies in election boards, appointment, judge and majority inspector to be members of majority party and minority inspector to be member of minority party, for election officers to be sworn, for oath of judge of election, for oaths of inspectors of election, for oaths of clerks of election, for oath of machine inspectors, for power of election officers to administer oaths, for compensation of district election officers and for appointment of watchers; in election districts and polling places, further providing for polling places to be selected by county board, for public buildings to be used where possible and portable polling places and for temporary polling places; providing for registration of electors; in ballots, further providing for form of official election ballot and for number of ballots to be printed and specimen ballots; in voting machines, further providing for examination and approval of voting machines by the Secretary of the Commonwealth, for requirements of voting machines, for preparation of voting machines by county election boards and for delivery of voting machines and supplies by county election boards to election officers; in electronic voting systems, further providing for experimental use of electronic voting systems and for statistical sample and providing for requirements of accessible voting machines and for voting system defects, disclosure, investigations and penalties; repealing provisions relating to voting apparatus bonds; providing for election equipment funding; in preparation for and conduct of primaries and elections, providing for voter's bill of rights, for senior voter's bill of rights and for disabled voter's bill of rights and further providing for delivery of ballots and supplies to judges of election, for time for opening and closing polls, for opening of polls, posting cards of instruction and notices of penalties and voters' rights and examination of voting machines, for manner of applying to vote, persons entitled to vote, voter's certificates, entries to be made in district register, numbered lists of voters and challenges, for assistance in voting and for deadline for receipt of valid voter registration application and providing for prohibitions; in voting by qualified absentee electors, further providing for applications for official absentee ballots, for date of application for absentee ballot, for delivering or mailing ballots and for voting by absentee electors, providing for supervised voting by qualified absentee electors in certain facilities and further providing for canvassing of official absentee ballots and mail-in ballots; in voting by qualified mail-in electors, further providing for applications for official mail-in ballots, for date of application for mail-in ballot, for delivering or mailing ballots and for voting by mail-in electors; in Pennsylvania Election Law Advisory Board, further providing for Pennsylvania Election Law Advisory Board; providing for early voting by qualified electors; in returns of primaries and elections, further providing for returns to be open to public inspection and exceptions and for computation of returns by county board, certification and issuance of certificates of election; repealing provisions relating to Election Integrity Grant Program; in recounts and contests, providing for powers and duties of the Attorney General relating to elections and for powers and duties of district attorneys relating to elections; in penalties, further providing for disobeying lawful instructions, for perjury, for false affidavits of candidates, for refusal to permit inspection of papers, destruction or removal and Secretary of the Commonwealth, for refusal to permit inspection of papers, destruction or removal and county boards of elections, for insertion and alteration of entries in documents, removal and refusal to deliver, for refusal to permit overseers, watchers, attorneys or candidates to act, for driving away watchers, attorneys, candidates or overseers, for refusal to permit election officers, clerks and machine inspectors to act and driving away said persons, for refusal to administer oath and acting without being sworn, for violation of oath of office by election officers, for peace officers, failure to render assistance and hindering or delaying county board members and others, for nomination petitions and papers and offenses by signers, for false signatures and statements in nomination petitions and papers, for nomination petitions, certificates and papers, destruction, fraudulent filing and suppression, for offenses by printers of ballots, for unlawful possession of ballots and counterfeiting ballots, for forging and destroying ballots, for tampering with voting machines, for destroying, defacing or removing notices, et cetera, for police officers at polling places, for peace officer, failure to quell disturbances at polls and hindering or delaying election officers and others, for election officers permitting unregistered electors to vote, challenges and refusing to permit qualified electors to vote, for election officers refusing to permit elector to vote in proper party at primaries, for frauds by election officers, for prying into ballots, for interference with primaries and elections, frauds and conspiracy, for persons interfering in other districts, for assault and battery at polls, for unlawful assistance in voting, for election officers permitting unlawful assistance, for failure to keep and return record of assisted voters, for unlawful voting, for elector voting ballot of wrong party at primary, for repeat voting at elections, for removing ballots, for commissioners to take soldiers' votes, for fraudulent voting by soldiers, for bribery at elections, for receipts and disbursements of primary and election expenses by persons other than candidates and treasurers, for receipts of primary and election expenses by unauthorized persons, for contributions by corporations or unincorporated associations, for failure to file expense account, for prohibiting duress and intimidation of voters and interference with the free exercise of the elective franchise, for failure to perform duty, for hindering or delaying performance of duty, for violation of any provision of act and for violations of provisions relating to absentee and mail-in ballots and repealing provisions relating to violation of public funding of elections and providing for unlawful collection of ballots and for prohibiting duress and intimidation of elections officials; providing for reimbursements and withholding; and making an appropriation and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-15T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1217/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/71e0c220-6960-44cf-9777-803e867dac8a",
+    "identifier": "HB 1273",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, repealing provisions relating to electronic payment and to additions, penalties and fees; in general provisions, providing for method of payment; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1273/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5684c1c7-f185-4ebf-8dec-51c3c0f0f1ce",
+    "identifier": "HB 451",
+    "title": "An Act amending Title 63 (Professions and Occupations (State Licensed)) of the Pennsylvania Consolidated Statutes, in powers and duties, providing for amnesty for disciplinary actions regarding COVID-19 protocols.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB451/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/80898370-4577-4c13-8325-b7cfff866f24",
+    "identifier": "HB 1732",
+    "title": "An Act amending the act of January 28, 1988 (P.L.24, No.11), known as the Private Academic Schools Act, further providing for application for license, for issuance and renewal of license and for promulgation of rules and regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-14T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1732/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a53f3418-25f5-4331-a854-ff8f783f82c2",
+    "identifier": "HB 1218",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in the Secretary of the Commonwealth, further providing for powers and duties of the Secretary of the Commonwealth; in county boards of elections, further providing for powers and duties of county boards; in voting by qualified absentee electors, further providing for canvassing of official absentee ballots and mail-in ballots; and, in recounts and contests, providing for independent prosecutor and for election integrity officers.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-15T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1218/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cb37ef66-acfc-4bef-add4-bb3fcc103642",
+    "identifier": "HB 791",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in Commonwealth services, further providing for Pennsylvania State Fire Academy.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB791/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5495adc4-a3a4-48e3-8994-f0c3809dabbb",
+    "identifier": "HR 252",
+    "title": "A Resolution designating the month of June 2025 as \"Life Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR252/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a2725428-fea8-43aa-ad02-55739d6aae72",
+    "identifier": "HB 684",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in evidence-based reading instruction, further providing for definitions, providing for school entity duties related to evidence-based reading instruction, for school entity duties related to reading screening, for reading deficiency identification and parental notification, for reading intervention plans, for grant program, for funding, for reporting, for accountability and for construction.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-01T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB684/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b349508c-2ebe-4df5-a80d-48ca3fb9d3ad",
+    "identifier": "HB 1563",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in general provisions, further providing for method of filing.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-05T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1563/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c2d2152b-7bf6-4567-b6d7-e17261667c07",
+    "identifier": "HB 2088",
+    "title": "An Act amending the act of March 20, 2002 (P.L.154, No.13), known as the Medical Care Availability and Reduction of Error (Mcare) Act, in medical professional liability, further providing for definitions and for expert qualifications.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-09T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2088/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f71b8956-11ae-4813-8558-b4f11803bdcb",
+    "identifier": "HR 125",
+    "title": "A Concurrent Resolution petitioning the Congress of the United States to call a Convention for proposing amendments pursuant to Article V of the Constitution of the United States limited to proposing amendments that impose fiscal restraints on the Federal Government, limit the power and jurisdiction of the Federal Government and limit the terms of office for its officials and for members of Congress.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR125/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f1aa516b-6339-4d4e-80c3-79acc966cdd0",
+    "identifier": "HR 199",
+    "title": "A Resolution recognizing the month of October 2025 as \"Breast Cancer Awareness Month\" and October 17, 2025, as \"National Mammography Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR199/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd70789b-bc05-4e6a-a2e9-524c943725e5",
+    "identifier": "HR 281",
+    "title": "House Discharge Resolution discharging Committee on Education from further consideration of Senate Bill No. 9.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-29T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR281/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/652823a9-de12-4966-8156-bd256ba19c72",
+    "identifier": "HR 256",
+    "title": "A Resolution designating the month of September 2025 as \"Childhood Cancer Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-16T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR256/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/481f958d-bb59-4886-85e4-7601a8805392",
+    "identifier": "HB 277",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in human trafficking, further providing for civil causes of action.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB277/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eec54173-1685-429f-8e56-f489d601e56d",
+    "identifier": "HB 2057",
+    "title": "An Act amending the act of June 25, 1982 (P.L.633, No.181), known as the Regulatory Review Act, further providing for definitions, for proposed regulations and procedures for review, for final-form regulations and final-omitted regulations and procedures for review, for procedures for subsequent review of disapproved final-form or final-omitted regulations, for existing regulations and for regulations, annual reports, hearings and advisory group meetings.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2057/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/81a7a40a-34a3-4a78-b18e-70c95ea45a9f",
+    "identifier": "HR 445",
+    "title": "A Resolution designating April 8, 2026, as \"The Pennsylvania State University IFC/Panhellenic Dance Marathon (THON) Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

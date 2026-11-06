@@ -118,5 +118,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1954/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fc6d6f02-5d46-47e2-8239-25afe81fe623",
+    "identifier": "HR 155",
+    "title": "A Resolution recognizing the week of April 20 through 26, 2025, as \"National Infertility Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR155/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1b2ed63d-f46c-43a2-be57-dceabbe1085c",
+    "identifier": "HR 299",
+    "title": "A Resolution recognizing October 3, 2025, as \"Kids Music Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-01T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR299/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -598,5 +598,380 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB951/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2bdaedcd-0b76-45df-aaa7-224cee690449",
+    "identifier": "HR 12",
+    "title": "A Resolution recognizing the month of February 2025 as \"Black History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR12/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a6191fdf-2ca0-4476-a608-685b9c57c559",
+    "identifier": "HB 2126",
+    "title": "An Act amending Titles 18 (Crimes and Offenses), 23 (Domestic Relations) and 34 (Game) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for definitions, for the offense of persons not to possess, use, manufacture, control, sell or transfer firearms, for the offense of firearms not to be carried without a license and for licenses, providing for firearm eligibility license, for application for firearm eligibility license, for fee and qualification, for training course and investigations and for issuance and terms and further providing for sale or transfer of firearms, for Pennsylvania State Police, for proof of license and exception and for administrative regulations; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-09T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2126/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/999ed36a-4dae-40a0-b142-2b849332c013",
+    "identifier": "HR 231",
+    "title": "A Resolution recognizing the month of June 2025 as \"LGBTQ+ Pride Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-11T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR231/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1256aff3-49ef-45a9-b0f9-62d4c2e781c6",
+    "identifier": "HB 908",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in sentencing, providing for termination of long-term parole supervision.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-13T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB908/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d1aa842a-caf5-42b0-9671-f7061701013f",
+    "identifier": "HB 1194",
+    "title": "An Act amending the act of May 1, 1933 (P.L.103, No.69), known as The Second Class Township Code, in contracts, further providing for letting contracts.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-14T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1194/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a0889226-d736-461a-9548-339673a10817",
+    "identifier": "HB 1677",
+    "title": "An Act prohibiting governmental action against parents, legal custodians and legal guardians of minors in the provision of certain information and services to minors; and providing for certain protection from child abuse claims.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-30T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1677/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bae4ccc7-422c-4f90-8254-306032f702b9",
+    "identifier": "HB 1872",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, in Pennsylvania State Police, providing for cooperation with Federal immigration authorities.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-22T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1872/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c057df32-ec79-4009-b927-d00efe0408cc",
+    "identifier": "HB 2171",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for powers and duties of the commission.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-30T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2171/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c7c22ed8-21b4-48c2-9391-0f3760dbfa10",
+    "identifier": "HB 844",
+    "title": "An Act amending the act of December 3, 1959 (P.L.1688, No.621), known as the Housing Finance Agency Law, establishing the Housing Construction Loan Program and the Housing Construction Loan Fund; and providing for duties of Pennsylvania Housing Finance Agency.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB844/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/40ac3836-ad7a-4a7e-8645-df8b85b0b850",
+    "identifier": "HR 426",
+    "title": "A Resolution recognizing the month of June 2026 as \"LGBTQ+ Pride Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-09T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR426/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a2725428-fea8-43aa-ad02-55739d6aae72",
+    "identifier": "HB 684",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in evidence-based reading instruction, further providing for definitions, providing for school entity duties related to evidence-based reading instruction, for school entity duties related to reading screening, for reading deficiency identification and parental notification, for reading intervention plans, for grant program, for funding, for reporting, for accountability and for construction.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-01T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB684/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3cf12cae-e5bf-4ebe-a42d-c2c938a6b3c7",
+    "identifier": "HB 2199",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for policy against gender-based bullying.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-05T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2199/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/11d31f69-c0a0-4f82-bc70-a3b883b6ff58",
+    "identifier": "HB 1374",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in Commonwealth agency fees, further providing for Department of Health.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-02T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1374/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/00ec00dc-efb8-40d1-b471-7942926fc9af",
+    "identifier": "HB 1948",
+    "title": "An Act amending Title 24 (Education) of the Pennsylvania Consolidated Statutes, prohibiting institutions of higher education that receive State grants or loans from entering into certain agreements; and providing for enforcement by the Office of Attorney General.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-16T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1948/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/71b9e59d-feb3-4e2a-81f9-bbac15cbcd58",
+    "identifier": "HB 268",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, further providing for the medically needy and determination of eligibility.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB268/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bdf83090-c9cc-45bf-8eaa-2b93b0975715",
+    "identifier": "HB 831",
+    "title": "An Act establishing a moratorium on for-profit hospital ownership; and directing the Joint State Government Commission to study and issue a report on for-profit hospitals.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB831/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/67cf5ef3-cd62-41d1-8588-a84de9865896",
+    "identifier": "HR 289",
+    "title": "A Resolution recognizing July 26, 2025, as \"Americans with Disabilities Act Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-04T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR289/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/964c2dfa-4527-425d-b024-8b4bf8f5300f",
+    "identifier": "HB 1856",
+    "title": "An Act amending the act of May 1, 1933 (P.L.103, No.69), known as The Second Class Township Code, in roads, streets, bridges and highways, providing for mowing operations.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1856/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/39cd549a-371f-4094-8800-49035f99fe65",
+    "identifier": "HR 86",
+    "title": "A Resolution designating March 17, 2025, as \"Bayard Rustin Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR86/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3c688950-1a25-4faf-a0b2-60daa6b28e67",
+    "identifier": "HB 1836",
+    "title": "An Act amending Title 73 (Townships) of the Pennsylvania Consolidated Statutes, consolidating the First Class Township Code; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1836/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/47f4a8c7-bc43-4221-a231-76faf4df95f1",
+    "identifier": "HB 1185",
+    "title": "An Act amending the act of May 1, 1933 (P.L.103, No.69), known as The Second Class Township Code, in auditors and accountants, further providing for surcharge by auditors; and, in township manager, further providing for township manager, appointment, removal, powers and duties, compensation and bond.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1185/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f2ceb82e-5717-409d-9816-8af21f21696d",
+    "identifier": "HR 273",
+    "title": "A Resolution urging school districts to adopt later secondary school start times.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR273/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0ee51661-2923-4128-90a9-51ffac083179",
+    "identifier": "HB 2085",
+    "title": "An Act amending Title 27 (Environmental Resources) of the Pennsylvania Consolidated Statutes, providing for Legionnaires' disease risk management; establishing the Legionnaires' Disease Awareness Fund; and imposing duties on the Department of Environmental Protection and the Department of Health.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-09T05:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2085/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5fbd7f73-aa65-4c43-aefd-39e144836cc4",
+    "identifier": "HR 406",
+    "title": "A Resolution recognizing the month of March 2026 as \"National Social Work Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR406/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/382799d2-d6d6-4c14-9b46-2bd9b6f054c6",
+    "identifier": "HR 394",
+    "title": "A Resolution designating March 17, 2026, as \"Bayard Rustin Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR394/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

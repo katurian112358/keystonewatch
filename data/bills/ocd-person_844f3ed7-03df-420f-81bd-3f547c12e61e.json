@@ -2761,17 +2761,8 @@
     "status": "Removed from Uncontested Calendar",
     "subjects": [],
     "latest_action": {
-      "id": "fc05ccff-9491-4526-9951-5c2ea9aacb21",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Removed from Uncontested Calendar",
       "date": "2026-03-23T04:00:00+00:00",
-      "classification": [],
-      "order": 1,
-      "related_entities": []
+      "description": "Removed from Uncontested Calendar"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR438/",
     "sponsorship_role": "cosponsor",
@@ -2785,19 +2776,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "37cfe478-7381-46b1-8229-772b7024814e",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-10-08T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1832/",
     "sponsorship_role": "cosponsor",
@@ -2811,19 +2791,8 @@
     "status": "Referred to Agriculture & Rural Affairs",
     "subjects": [],
     "latest_action": {
-      "id": "02cdd162-94b1-4a6d-94f0-97774940e0bb",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Agriculture & Rural Affairs",
       "date": "2026-03-18T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Agriculture & Rural Affairs"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2298/",
     "sponsorship_role": "cosponsor",
@@ -2837,19 +2806,8 @@
     "status": "Referred to State Government",
     "subjects": [],
     "latest_action": {
-      "id": "ba02d5f9-0079-4f04-8212-e73bb5c4f627",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to State Government",
       "date": "2025-06-30T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to State Government"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1679/",
     "sponsorship_role": "cosponsor",
@@ -2863,19 +2821,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "175d1926-0347-48b9-9209-c69f28865b3f",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Reported as committed",
       "date": "2025-01-27T05:00:00+00:00",
-      "classification": [
-        "committee-passage"
-      ],
-      "order": 1,
-      "related_entities": []
+      "description": "Reported as committed"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB277/",
     "sponsorship_role": "cosponsor",
@@ -2889,19 +2836,8 @@
     "status": "Referred to Consumer Protection, Technology & Utilities",
     "subjects": [],
     "latest_action": {
-      "id": "832664d3-f7f4-4065-b068-8ec95a9dbe5f",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Consumer Protection, Technology & Utilities",
       "date": "2025-03-03T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Consumer Protection, Technology & Utilities"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB757/",
     "sponsorship_role": "cosponsor",
@@ -2915,19 +2851,8 @@
     "status": "Referred to Intergovernmental Affairs & Operations",
     "subjects": [],
     "latest_action": {
-      "id": "35106e42-1447-4f35-8588-aeea9dece807",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Intergovernmental Affairs & Operations",
       "date": "2025-03-10T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Intergovernmental Affairs & Operations"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB834/",
     "sponsorship_role": "cosponsor",
@@ -2941,19 +2866,8 @@
     "status": "Referred to Finance",
     "subjects": [],
     "latest_action": {
-      "id": "c8629702-f93b-496b-909c-cb85de0a96e3",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Finance",
       "date": "2025-05-06T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Finance"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1414/",
     "sponsorship_role": "cosponsor",
@@ -2967,19 +2881,8 @@
     "status": "Referred to State Government",
     "subjects": [],
     "latest_action": {
-      "id": "f6c33a53-5b0f-4630-9647-b311a9213552",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to State Government",
       "date": "2025-04-15T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to State Government"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1221/",
     "sponsorship_role": "cosponsor",
@@ -2993,19 +2896,8 @@
     "status": "Referred to State Government",
     "subjects": [],
     "latest_action": {
-      "id": "c0397656-b060-4cc5-80f1-f854b112972b",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to State Government",
       "date": "2025-06-09T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to State Government"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1571/",
     "sponsorship_role": "cosponsor",
@@ -3019,19 +2911,8 @@
     "status": "Referred to Labor & Industry",
     "subjects": [],
     "latest_action": {
-      "id": "0364c95e-669f-42b7-83c0-bb0f4ab8f592",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Labor & Industry",
       "date": "2025-07-01T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Labor & Industry"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1687/",
     "sponsorship_role": "cosponsor",
@@ -3045,19 +2926,8 @@
     "status": "Referred to Transportation",
     "subjects": [],
     "latest_action": {
-      "id": "d10c6e1d-e21b-43a7-b156-49831327072d",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Transportation",
       "date": "2025-08-25T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Transportation"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1819/",
     "sponsorship_role": "cosponsor",
@@ -3071,19 +2941,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "95427fbb-edfd-4fc4-859a-7f889af0fdaa",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-07-16T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1740/",
     "sponsorship_role": "cosponsor",
@@ -3097,19 +2956,8 @@
     "status": "Referred to Rules",
     "subjects": [],
     "latest_action": {
-      "id": "d880b11c-3b61-426e-9fba-6c5e34efdd4f",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Rules",
       "date": "2025-04-09T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Rules"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR185/",
     "sponsorship_role": "cosponsor",
@@ -3123,19 +2971,8 @@
     "status": "Referred to State Government",
     "subjects": [],
     "latest_action": {
-      "id": "8af27b70-d923-44ce-8f81-76d0aa43f493",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to State Government",
       "date": "2025-05-06T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to State Government"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1408/",
     "sponsorship_role": "cosponsor",
@@ -3149,19 +2986,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "d05470f3-0b7f-400e-958d-a7cb59bd0923",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-01-22T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB239/",
     "sponsorship_role": "cosponsor",
@@ -3175,19 +3001,8 @@
     "status": "Referred to Education",
     "subjects": [],
     "latest_action": {
-      "id": "fe0642fc-8c8d-47e2-a1b0-765446808b7b",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Education",
       "date": "2025-07-14T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1728/",
     "sponsorship_role": "cosponsor",
@@ -3201,19 +3016,8 @@
     "status": "Referred to Education",
     "subjects": [],
     "latest_action": {
-      "id": "72f5765f-4439-4196-9d72-e23e38b0b458",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Education",
       "date": "2025-01-22T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB252/",
     "sponsorship_role": "cosponsor",
@@ -3227,19 +3031,8 @@
     "status": "Referred to State Government",
     "subjects": [],
     "latest_action": {
-      "id": "8a44d485-946e-4b5a-aa77-c22d8c56695d",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to State Government",
       "date": "2025-04-15T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to State Government"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1193/",
     "sponsorship_role": "cosponsor",
@@ -3253,19 +3046,8 @@
     "status": "Referred to Education",
     "subjects": [],
     "latest_action": {
-      "id": "a6496b46-85b6-43b3-b700-192e005c50bf",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Education",
       "date": "2025-01-22T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB251/",
     "sponsorship_role": "cosponsor",
@@ -3279,19 +3061,8 @@
     "status": "Referred to Education",
     "subjects": [],
     "latest_action": {
-      "id": "f7af34e5-b742-4293-a501-37472d489541",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Education",
       "date": "2025-01-22T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB246/",
     "sponsorship_role": "cosponsor",
@@ -3305,19 +3076,8 @@
     "status": "Referred to Transportation",
     "subjects": [],
     "latest_action": {
-      "id": "40b1d874-b732-4f7e-8c71-d2563bfedaba",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Transportation",
       "date": "2025-10-29T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Transportation"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2000/",
     "sponsorship_role": "cosponsor",
@@ -3331,19 +3091,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "464fb431-8c87-4047-89fe-d00416c6a756",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Reported as committed",
       "date": "2025-05-14T04:00:00+00:00",
-      "classification": [
-        "committee-passage"
-      ],
-      "order": 1,
-      "related_entities": []
+      "description": "Reported as committed"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB940/",
     "sponsorship_role": "cosponsor",
@@ -3357,19 +3106,8 @@
     "status": "Referred to Labor & Industry",
     "subjects": [],
     "latest_action": {
-      "id": "d576d560-f96d-48d2-84e0-d347a27ca19d",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Labor & Industry",
       "date": "2025-07-14T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Labor & Industry"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1726/",
     "sponsorship_role": "cosponsor",
@@ -3383,19 +3121,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "02af9fe5-08bd-46d6-97b8-7037542e2b09",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-12-03T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2075/",
     "sponsorship_role": "cosponsor",
@@ -3409,19 +3136,8 @@
     "status": "Referred to State Government",
     "subjects": [],
     "latest_action": {
-      "id": "ee387471-cc6b-4d08-9cb3-434b87eab5d0",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to State Government",
       "date": "2025-03-17T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to State Government"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR125/",
     "sponsorship_role": "cosponsor",
@@ -3435,19 +3151,8 @@
     "status": "Referred to Veterans Affairs & Emergency Preparedness",
     "subjects": [],
     "latest_action": {
-      "id": "bc4e026e-b7e5-4be2-aca7-e3fe77e44933",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Veterans Affairs & Emergency Preparedness",
       "date": "2025-06-09T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1578/",
     "sponsorship_role": "cosponsor",
@@ -3461,19 +3166,8 @@
     "status": "Referred to Transportation",
     "subjects": [],
     "latest_action": {
-      "id": "6f58bc89-8955-4c88-a918-55ea14791724",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Transportation",
       "date": "2025-08-25T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Transportation"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1820/",
     "sponsorship_role": "cosponsor",
@@ -3487,17 +3181,8 @@
     "status": "Laid on the table (Pursuant to House Rule 71)",
     "subjects": [],
     "latest_action": {
-      "id": "2e7c5999-dcc8-48a5-9c56-a2ab73ffb9f1",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Laid on the table (Pursuant to House Rule 71)",
       "date": "2025-12-17T05:00:00+00:00",
-      "classification": [],
-      "order": 2,
-      "related_entities": []
+      "description": "Laid on the table (Pursuant to House Rule 71)"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR304/",
     "sponsorship_role": "cosponsor",
@@ -3511,19 +3196,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "093e8d9e-e6ed-47b3-8c88-855b1acc6a1e",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-03-10T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB849/",
     "sponsorship_role": "primary",
@@ -3537,19 +3211,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "7cbf0dc3-6169-4479-b51f-936af9175e5c",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-03-13T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB896/",
     "sponsorship_role": "cosponsor",
@@ -3563,19 +3226,8 @@
     "status": "Referred to State Government",
     "subjects": [],
     "latest_action": {
-      "id": "0ee47481-2260-473f-af9e-29ec932bdc39",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to State Government",
       "date": "2025-04-07T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to State Government"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1158/",
     "sponsorship_role": "cosponsor",
@@ -3589,19 +3241,8 @@
     "status": "Referred to Liquor Control",
     "subjects": [],
     "latest_action": {
-      "id": "4bf8acc5-1c8a-43b9-805c-48d810c1160a",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Liquor Control",
       "date": "2025-03-11T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Liquor Control"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB885/",
     "sponsorship_role": "cosponsor",
@@ -3615,19 +3256,8 @@
     "status": "Referred to Transportation",
     "subjects": [],
     "latest_action": {
-      "id": "63ae094a-310b-4140-b6a4-c05c1b256506",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Transportation",
       "date": "2025-09-09T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Transportation"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1847/",
     "sponsorship_role": "cosponsor",
@@ -3641,19 +3271,8 @@
     "status": "Referred to Education",
     "subjects": [],
     "latest_action": {
-      "id": "185623af-5459-4fbf-9bd7-fc603b10d0c8",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Education",
       "date": "2025-04-15T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1197/",
     "sponsorship_role": "cosponsor",
@@ -3667,19 +3286,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "5851bc5d-a249-4012-bc37-b307ac6552f9",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-11-19T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2055/",
     "sponsorship_role": "cosponsor",
@@ -3693,19 +3301,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "41a02541-f00f-45ba-b8fb-a1a32698f678",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-03-17T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB941/",
     "sponsorship_role": "cosponsor",
@@ -3719,19 +3316,8 @@
     "status": "Referred to Finance",
     "subjects": [],
     "latest_action": {
-      "id": "cb60eddd-d56f-4904-a278-750eb3bfab60",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Finance",
       "date": "2025-04-01T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Finance"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1092/",
     "sponsorship_role": "cosponsor",
@@ -3745,19 +3331,8 @@
     "status": "Referred to Finance",
     "subjects": [],
     "latest_action": {
-      "id": "0e36ff68-44ac-4821-9c46-50408c677c07",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Finance",
       "date": "2025-06-25T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Finance"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1662/",
     "sponsorship_role": "cosponsor",
@@ -3771,19 +3346,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "f54e7887-e5e9-4460-aee8-468111cf9230",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-09-11T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR311/",
     "sponsorship_role": "cosponsor",
@@ -3797,19 +3361,8 @@
     "status": "Referred to Health",
     "subjects": [],
     "latest_action": {
-      "id": "1e3b5f0f-96c7-4751-9d7c-8c27982a1b0a",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Health",
       "date": "2025-06-04T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Health"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR252/",
     "sponsorship_role": "cosponsor",
@@ -3823,19 +3376,8 @@
     "status": "Referred to Health",
     "subjects": [],
     "latest_action": {
-      "id": "0d248fc3-179d-4fd9-acd9-eb93241ecd11",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Health",
       "date": "2025-09-09T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Health"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1844/",
     "sponsorship_role": "cosponsor",
@@ -3849,19 +3391,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "839bd06c-52cf-4934-8499-dfad4b76db87",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-02-20T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB648/",
     "sponsorship_role": "cosponsor",
@@ -3875,19 +3406,8 @@
     "status": "Referred to Veterans Affairs & Emergency Preparedness",
     "subjects": [],
     "latest_action": {
-      "id": "b7abdb38-f497-4cb1-ab3d-14d2f3cab8a0",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Veterans Affairs & Emergency Preparedness",
       "date": "2025-03-03T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB791/",
     "sponsorship_role": "cosponsor",
@@ -3901,19 +3421,8 @@
     "status": "Referred to Environmental & Natural Resource Protection",
     "subjects": [],
     "latest_action": {
-      "id": "e52f3fc5-73a3-459b-9b5c-57c91ed8f762",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Environmental & Natural Resource Protection",
       "date": "2025-03-24T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Environmental & Natural Resource Protection"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1035/",
     "sponsorship_role": "cosponsor",
@@ -3927,19 +3436,8 @@
     "status": "Referred to Education",
     "subjects": [],
     "latest_action": {
-      "id": "dfd2b63a-cd49-4121-9813-896766136a4a",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Education",
       "date": "2025-04-17T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1265/",
     "sponsorship_role": "cosponsor",
@@ -3953,19 +3451,8 @@
     "status": "Referred to Finance",
     "subjects": [],
     "latest_action": {
-      "id": "afed9e75-8278-46ad-9d62-d7a20a9a4de4",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Finance",
       "date": "2025-08-20T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Finance"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1813/",
     "sponsorship_role": "cosponsor",
@@ -3979,19 +3466,8 @@
     "status": "Referred to Education",
     "subjects": [],
     "latest_action": {
-      "id": "3f1a8c0b-480d-41c3-989e-bc9cedf12c05",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Education",
       "date": "2025-10-01T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR333/",
     "sponsorship_role": "cosponsor",
@@ -4005,19 +3481,8 @@
     "status": "Referred to Finance",
     "subjects": [],
     "latest_action": {
-      "id": "eea15510-c838-4d5d-85b5-e6a5b5ef569d",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Finance",
       "date": "2025-04-21T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Finance"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1273/",
     "sponsorship_role": "cosponsor",
@@ -4031,19 +3496,8 @@
     "status": "Referred to State Government",
     "subjects": [],
     "latest_action": {
-      "id": "1f153da9-5243-423b-aa94-b2e90640076b",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to State Government",
       "date": "2025-03-19T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to State Government"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1010/",
     "sponsorship_role": "cosponsor",
@@ -4057,19 +3511,8 @@
     "status": "Referred to Transportation",
     "subjects": [],
     "latest_action": {
-      "id": "09ce80e2-049f-4326-a532-cd1ed9f3b85f",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Transportation",
       "date": "2026-03-16T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Transportation"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2290/",
     "sponsorship_role": "cosponsor",
@@ -4083,19 +3526,8 @@
     "status": "Referred to Transportation",
     "subjects": [],
     "latest_action": {
-      "id": "00685cff-4576-4ef8-8adc-e2dffb38d803",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Transportation",
       "date": "2025-06-03T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Transportation"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1546/",
     "sponsorship_role": "cosponsor",
@@ -4109,19 +3541,8 @@
     "status": "Referred to Labor & Industry",
     "subjects": [],
     "latest_action": {
-      "id": "f60aaebe-b2d7-4016-869c-743dabcdf132",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Labor & Industry",
       "date": "2025-01-14T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Labor & Industry"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB68/",
     "sponsorship_role": "cosponsor",
@@ -4135,19 +3556,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "216b8ff1-535e-49fe-8bb4-8affe988b287",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-02-11T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB548/",
     "sponsorship_role": "cosponsor",
@@ -4161,19 +3571,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "61cdca57-c250-4427-b239-b01c301a88a7",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-12-03T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2062/",
     "sponsorship_role": "cosponsor",
@@ -4187,19 +3586,8 @@
     "status": "Referred to Education",
     "subjects": [],
     "latest_action": {
-      "id": "6f4c8106-6136-4c12-bcd3-0279b2f2569f",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Education",
       "date": "2025-05-30T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1520/",
     "sponsorship_role": "cosponsor",
@@ -4213,19 +3601,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "0fefac17-6097-496e-a085-988058647ebe",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-05-01T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1363/",
     "sponsorship_role": "cosponsor",
@@ -4239,19 +3616,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "b25d6e4f-b0e8-4090-9ef8-caa3db1a9d64",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-09-04T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1835/",
     "sponsorship_role": "cosponsor",
@@ -4265,19 +3631,8 @@
     "status": "Referred to State Government",
     "subjects": [],
     "latest_action": {
-      "id": "08ea9185-33ed-4717-a5bb-37d09078c536",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to State Government",
       "date": "2025-07-21T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to State Government"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1746/",
     "sponsorship_role": "cosponsor",
@@ -4291,19 +3646,8 @@
     "status": "Referred to Education",
     "subjects": [],
     "latest_action": {
-      "id": "37a64dbb-635a-42bb-9163-33ebfa64986b",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Education",
       "date": "2025-06-02T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1536/",
     "sponsorship_role": "cosponsor",

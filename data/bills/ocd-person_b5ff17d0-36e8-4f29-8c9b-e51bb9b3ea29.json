@@ -718,5 +718,500 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR169/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/520432f5-1c76-4647-9d0d-41033adabfa2",
+    "identifier": "SR 214",
+    "title": "A Resolution recognizing the month of February 2026 as \"Black History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-30T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR214/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b65cbb29-76ab-4a37-976d-0b2a8e75747b",
+    "identifier": "SB 770",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in minors, providing for the offense of access to firearms by minors; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB770/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/51375d60-d4a7-4840-98ed-672ee1adad9e",
+    "identifier": "SB 1189",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in abuse of office, providing for indiscriminate arrest.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-27T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1189/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6bb136b7-0ed3-412a-87d0-f40eef8db71c",
+    "identifier": "SR 225",
+    "title": "A Resolution condemning the use of deadly force by officers of Federal immigration enforcement in incidents that raise serious constitutional and moral concerns.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-27T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR225/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9a1fb05c-969c-4e6f-a80e-1a35af3ec7e8",
+    "identifier": "SR 130",
+    "title": "A Resolution condemning the antisemitic firebombing attack on June 1, 2025, in Boulder, Colorado, against peaceful demonstrators and calling for the Commonwealth to combat the continued rise of antisemitism.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-10T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR130/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1255bc98-e72c-43cf-b93f-1a08b0c1b0e9",
+    "identifier": "SB 783",
+    "title": "An Act establishing tourism improvement districts and tourism improvement district management associations; and providing for powers of counties, for powers of tourism improvement district management associations, for dissolution of tourism improvement district and for annual audit.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB783/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0b17acc5-b7b8-4114-8fba-542adc2ba0ed",
+    "identifier": "SB 1102",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, providing for the Budget Impasse Reimbursement Program and for grants to certain eligible entities; and establishing the Budget Impasse Reimbursement Restricted Account.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-04T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1102/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/646e5e18-8d9e-444f-8eb4-4e6de0bb5bb9",
+    "identifier": "SB 944",
+    "title": "An Act amending Title 67 (Public Welfare) of the Pennsylvania Consolidated Statutes, providing for nondiscrimination in adoption and foster care family agencies; and promulgating regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-31T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB944/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dc197d4d-dcdc-44ac-af27-d870f9e7e15c",
+    "identifier": "SB 949",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for exclusions from tax; and establishing a fueling opportunities for the revitalization, growth and efficiency of steel tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB949/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eadca273-91fc-4174-b969-558f240138f7",
+    "identifier": "SB 262",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in actions, proceedings and other matters generally, providing for extreme risk protection orders.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB262/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f89dbfbf-f63d-4683-8185-1813dafba63e",
+    "identifier": "SB 1029",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, establishing a hate group database; and imposing powers and duties on the Attorney General.",
+    "session": "2025-2026",
+    "status": "Referred to Law & Justice",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-03T04:00:00+00:00",
+      "description": "Referred to Law & Justice"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1029/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/483fc62b-fc3f-4178-911a-a78316b73217",
+    "identifier": "SB 348",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, providing for report of theft or loss of firearm; and imposing a penalty.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-26T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB348/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e655838d-0c63-4c3b-a8f2-83a26bb26f50",
+    "identifier": "SB 208",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for sale or transfer of firearms.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB208/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8a1cef6c-248b-4c9a-be43-a2fb345ac510",
+    "identifier": "SB 122",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for sale or transfer of firearms; and abrogating a regulation.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB122/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c2db04e1-11aa-4fff-92a1-2920d7c56422",
+    "identifier": "SR 129",
+    "title": "A Resolution honoring the life and expressing condolences on the death of Representative Matthew R. Gergely.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR129/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/b9bf7dfb-6621-48ee-a91c-3e0cca5a54de",
+    "identifier": "SB 1207",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, further providing for special plates for recipients of Presidential Service Badge and providing for special plates for recipients of Vice Presidential Service Badge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-03T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1207/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/723db430-38bd-486d-b28b-a5ab57ffab6e",
+    "identifier": "SR 14",
+    "title": "A Resolution recognizing the distinguished career of Vincent C. DeLiberato, Jr., Esq., and honoring his service to the Commonwealth.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR14/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/072a1e59-7b98-422f-baa0-80791959fa62",
+    "identifier": "SR 199",
+    "title": "A Resolution recognizing December 2, 2025, as \"World Nuclear Energy Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-01T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR199/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fee2ecc8-2b4e-4a48-be68-c8eb91a7bd68",
+    "identifier": "SB 813",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, in diverse and disadvantaged businesses, further providing for definitions and for woman-owned business, minority-owned business or veteran-owned business and establishing the HUB Zone Business Procurement Program.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-30T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB813/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fc6ba7d7-b749-4644-ad75-122385dae302",
+    "identifier": "SB 43",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB43/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b7df3ac8-638f-4c17-813d-b1a4d53e9f1c",
+    "identifier": "SB 1100",
+    "title": "An Act amending the act of November 6, 1987 (P.L.381, No.79), known as the Older Adults Protective Services Act, in administration, providing for fatality review teams and further providing for confidentiality of records.",
+    "session": "2025-2026",
+    "status": "Referred to Aging & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-24T05:00:00+00:00",
+      "description": "Referred to Aging & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1100/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c6a3df90-4e9a-4f81-93e4-7d95d3145929",
+    "identifier": "SB 503",
+    "title": "An Act establishing the Pennsylvania Climate Emissions Reduction Program; imposing powers and duties on the Environmental Quality Board, the Pennsylvania Public Utility Commission and the Department of Environmental Protection; and establishing the Consumer Protection Account, the Pennsylvania Energy Transformation Account, the Workforce Enhancement Fund, the Workforce Enhancement Fund Board and the Low-income Support Account.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-12T04:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB503/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7deeae2b-88da-40d2-ad10-85d07fa93297",
+    "identifier": "SB 42",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in general provisions, further providing for definitions; in inchoate crimes, further providing for prohibited offensive weapons and for possession of firearm or other dangerous weapon in court facility; in assault, further providing for assault of law enforcement officer and for discharge of firearm into an occupied structure; in theft and related offenses, further providing for definitions; in riot, disorderly conduct and related offenses, further providing for prohibiting of paramilitary training; in firearms and other dangerous articles, further providing for definitions, for persons not to possess, use, manufacture, control, sell or transfer firearms, for firearms not to be carried without a license and for prohibited conduct during emergency, providing for 3-D printed firearms and further providing for sale or transfer of firearms, for firearm sales surcharge, for registration of firearms, for licensing of dealers and for abandonment of firearms, weapons or ammunition; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB42/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e8460350-5baf-450c-9a49-6aca3abd5eb9",
+    "identifier": "SB 512",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in rates and distribution systems, repealing provisions relating to valuation of acquired water and wastewater systems.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-04T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB512/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d91e4e3f-cc82-4bb6-8973-07f386fb86ac",
+    "identifier": "SB 667",
+    "title": "An Act designating Hershey's Kisses as the official State candy of the Commonwealth of Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-27T04:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB667/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/08749556-4358-4c4a-885f-1db595e5b584",
+    "identifier": "SB 328",
+    "title": "An Act authorizing the Department of General Services, with the approval of the Governor, to grant and convey to Susquehanna Regional Transportation Authority certain lands and buildings situate in the City of Harrisburg, Dauphin County.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-28T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB328/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3062d59c-3e56-4297-afa1-876eeb5c0366",
+    "identifier": "SB 1159",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for the offense of use of live pigeons for target.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-13T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1159/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/981490bc-3ec6-445d-bf20-7e61c20fd1d0",
+    "identifier": "SB 1092",
+    "title": "An Act designating a bridge, identified as Bridge Key 22595, located on that portion of U.S. Route 22 in East Hanover Township, Lebanon County, over Pennsylvania Route 934 as the CW5 John Michael Travers Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1092/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/464a6a03-485b-40f5-95a9-9eb0b205855a",
+    "identifier": "SB 898",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in Waterfront Development Tax Credit, further providing for waterfront development organizations, for waterfront development projects, for tax credit and for limitations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-30T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB898/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5ff7cec5-9996-4045-a7e4-8b5c1b540a36",
+    "identifier": "SR 228",
+    "title": "A Resolution recognizing September 25, 2026, as \"Chuseok\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-13T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR228/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b383f6c5-1579-4677-afbc-35e2980d7d06",
+    "identifier": "SB 700",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in evidence-based reading instruction, further providing for definitions and for evidence-based reading instruction curriculum and providing for reading screening, for reading deficiency and identification, for school entity duties and reading intervention plan, for parent notification, for grants to school entities, for funding and for reporting; and establishing the Evidence-based Reading Instruction Restricted Account.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB700/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6d7dc178-1e92-4325-a8c4-2cddd82a8b91",
+    "identifier": "SB 1237",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in general provisions, further providing for definitions; in rules of the road in general, further providing for maximum speed limits, providing for maximum speed limits enforced by local law enforcement officers with RADAR and further providing for speed timing devices; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-18T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1237/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ab35cb65-755b-48f4-b8ba-cca9c4f0b280",
+    "identifier": "SR 128",
+    "title": "A Resolution encouraging the Department of Community and Economic Development to partner with the private sector and tourism promotion entities to establish and promote a Pennsylvania Sweet and Salty Trail to honor and recognize the importance and value of the confectionery, snack food, food manufacturing and agricultural industries in this great Commonwealth.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to Senate Rule 9)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-24T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to Senate Rule 9)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR128/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

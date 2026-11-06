@@ -58,5 +58,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR267/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2bdaedcd-0b76-45df-aaa7-224cee690449",
+    "identifier": "HR 12",
+    "title": "A Resolution recognizing the month of February 2025 as \"Black History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR12/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4002906a-7c57-489a-aee7-4a5265cc1fbb",
+    "identifier": "HR 1",
+    "title": "A Resolution adopting permanent rules for the House of Representatives, further providing for definitions, for order of business, for fiscal notes, for consideration of bills, for third consideration and final passage bills, for House and concurrent resolutions, for standing committees and subcommittees, for powers and duties of standing committees and subcommittees, for public hearings, for discharge of committees, for lay on the table and for previous question.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-07T05:00:00+00:00",
+      "description": "Introduced"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR1/",
+    "sponsorship_role": "primary",
+    "instrumental": false
   }
 ]

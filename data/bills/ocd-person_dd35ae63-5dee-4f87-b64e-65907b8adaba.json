@@ -328,5 +328,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB670/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dd43a3e7-a89c-42de-b9b1-f32037b7f12e",
+    "identifier": "HB 1711",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, providing for concrete innovation; establishing the Performance Incentive Program; and promulgating regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-10T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1711/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a0889226-d736-461a-9548-339673a10817",
+    "identifier": "HB 1677",
+    "title": "An Act prohibiting governmental action against parents, legal custodians and legal guardians of minors in the provision of certain information and services to minors; and providing for certain protection from child abuse claims.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-30T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1677/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/812de58d-ea1a-404d-afad-863b1e711ff7",
+    "identifier": "HR 44",
+    "title": "A Resolution recognizing the month of March 2025 as \"National Social Work Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR44/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3cf12cae-e5bf-4ebe-a42d-c2c938a6b3c7",
+    "identifier": "HB 2199",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for policy against gender-based bullying.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-05T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2199/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/28801fd2-274e-4c62-a458-913e564e329a",
+    "identifier": "HR 193",
+    "title": "A Resolution urging the President of the United States to unfreeze previously appropriated Federal funds and cease future action freezing Federal funds that the Congress has appropriated.",
+    "session": "2025-2026",
+    "status": "Referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-17T04:00:00+00:00",
+      "description": "Referred to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR193/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f2ceb82e-5717-409d-9816-8af21f21696d",
+    "identifier": "HR 273",
+    "title": "A Resolution urging school districts to adopt later secondary school start times.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-25T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR273/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

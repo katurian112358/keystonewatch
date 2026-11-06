@@ -133,5 +133,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR130/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2bdaedcd-0b76-45df-aaa7-224cee690449",
+    "identifier": "HR 12",
+    "title": "A Resolution recognizing the month of February 2025 as \"Black History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR12/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3b7ca1b2-02b8-4698-a909-7cc8b76665da",
+    "identifier": "HB 1487",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in election districts and polling places, further providing for polling places to be selected by county board; and, in qualifications of electors, further providing for residence of electors.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1487/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

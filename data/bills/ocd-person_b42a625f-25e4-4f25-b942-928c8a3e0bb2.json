@@ -133,5 +133,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2007/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/224ada73-a2df-4749-b941-c1ad0207ca50",
+    "identifier": "HB 1710",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in certificate of title and security interests, further providing for application for certificate of title; in registration of vehicles, further providing for registration and certificate of title required and for period of registration, repealing provisions relating to temporary registration cards and to temporary registration permits, providing for transition from temporary registration cards, permits and plates and further providing for transfer of registration, for duties of agents and for issuance and reissuance of registration plates; in financial responsibility, further providing for required financial responsibility; in fees, further providing for temporary and electronically issued registration plates; in Motor Vehicle Transaction Recovery Fund, further providing for enforcement; in powers of department and local authorities, further providing for proportional registration not exclusive; in messenger service, further providing for agent duties and responsibilities; and, in liquid fuels and fuels tax, further providing for electric vehicle road user charge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-09T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1710/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/22434fd7-c7dc-4322-a7f0-cc0100cd2b9b",
+    "identifier": "HB 1416",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in miscellaneous provisions relating to operation of vehicles, providing for the offense of interference with operation or movement of a public transit vehicle.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1416/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/31983b9e-efa3-4319-b9ea-382e82bb8fb3",
+    "identifier": "HB 2079",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, establishing the Budget Impasse Reimbursement Program.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2079/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

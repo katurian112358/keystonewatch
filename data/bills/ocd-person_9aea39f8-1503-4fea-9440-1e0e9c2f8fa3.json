@@ -223,5 +223,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB670/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/49c133b6-5434-4d46-b4eb-cabb7bc63c35",
+    "identifier": "HB 534",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in voting by qualified absentee electors, providing for absentee ballots for electors who are blind, visually impaired or disabled.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-10T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB534/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8d1bc78b-a0ee-4e70-a357-5c874f132053",
+    "identifier": "HB 2086",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in Department of Military and Veterans Affairs, repealing provisions relating to advisory councils for veterans' homes; in the Adjutant General, further providing for general powers and duties of Adjutant General; in State Veterans' Commission and Deputy Adjutant General for Veterans' Affairs, repealing provisions relating to veterans' home hall of fame; and providing for State veterans' homes and establishing the State Veterans' Home Board.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-09T05:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2086/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/58f6e14d-a215-43cb-9f23-7008bbc011cf",
+    "identifier": "HR 95",
+    "title": "A Resolution recognizing the week of April 21 through 25, 2025, as \"National Work Zone Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-24T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR95/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fa82898f-58a1-48b1-b627-45cf2c02b67e",
+    "identifier": "HB 949",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, further providing for speech therapy for stuttering.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-18T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB949/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/67cf5ef3-cd62-41d1-8588-a84de9865896",
+    "identifier": "HR 289",
+    "title": "A Resolution recognizing July 26, 2025, as \"Americans with Disabilities Act Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-04T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR289/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3c5429b0-d84b-42bb-bd09-bba5704b40c8",
+    "identifier": "HB 423",
+    "title": "An Act establishing the Future Voter Program; providing for prevoter registration of eligible high school students; and imposing powers and duties on the Secretary of Education, the Secretary of the Commonwealth and county commissions.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-31T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB423/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4bda77f5-635b-42b8-a0b3-0a57056db7fe",
+    "identifier": "HB 405",
+    "title": "An Act amending Title 15 (Corporations and Unincorporated Associations) of the Pennsylvania Consolidated Statutes, in general provisions relating to business corporations, providing for eligibility for receipt of State resources.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB405/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

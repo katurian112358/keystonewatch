@@ -148,5 +148,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB714/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/682e0864-0d66-4199-bf0d-90ba2b9ab467",
+    "identifier": "HR 51",
+    "title": "A Resolution recognizing February 27, 2025, as \"Dominican Republic Independence Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR51/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2bdaedcd-0b76-45df-aaa7-224cee690449",
+    "identifier": "HR 12",
+    "title": "A Resolution recognizing the month of February 2025 as \"Black History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR12/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c3053f3b-8c03-4d75-95f4-ffbdc66a308c",
+    "identifier": "HR 357",
+    "title": "A Resolution establishing a legislative Hunger Task Force to study and make findings and recommendations for alleviating hunger, addressing food insecurity and increasing access to healthy food in this Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-27T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR357/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ac8b3967-42af-48e4-a6ac-8f495ffe31c2",
+    "identifier": "HR 127",
+    "title": "A Resolution recognizing the month of March 2025 as \"Colorectal Cancer Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR127/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/238dd769-d7aa-41db-adcc-da2386ee291a",
+    "identifier": "HB 177",
+    "title": "An Act providing for the creation of keystone opportunity dairy zones to facilitate the economic development of Pennsylvania's dairy industry; authorizing expenditures; providing for tax exemptions, tax deductions, tax abatements and tax credits; creating additional obligations of the Commonwealth and local governmental units; prescribing powers and duties of certain State and local departments, agencies and officials; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB177/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

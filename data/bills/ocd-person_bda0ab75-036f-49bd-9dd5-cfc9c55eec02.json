@@ -103,5 +103,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR397/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dd43a3e7-a89c-42de-b9b1-f32037b7f12e",
+    "identifier": "HB 1711",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, providing for concrete innovation; establishing the Performance Incentive Program; and promulgating regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-10T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1711/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bb2c94c2-c30b-4049-8a6e-b8a8d3be747f",
+    "identifier": "HR 372",
+    "title": "A Resolution recognizing December 2, 2025, as \"World Nuclear Energy Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-17T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR372/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5b052c0b-545d-4081-8b9f-20aae156f855",
+    "identifier": "HB 1215",
+    "title": "An Act providing for the establishment, conduct and composition of the Independent Congressional Redistricting Commission, for adoption of congressional district maps, for prioritized redistricting criteria, for failure to adopt final congressional district map and for judicial review.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-15T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1215/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/adad7b4d-b942-4355-b93f-146c24fb3739",
+    "identifier": "HB 966",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in quality health care accountability and protection, further providing for departmental powers and duties and providing for additional penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB966/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a38c97ba-1aeb-475e-8fa6-7f18b0a1f945",
+    "identifier": "HB 1264",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in Department of Military and Veterans Affairs, further providing for Fort Indiantown Gap; and establishing the Service Members, Veterans and their Families Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-17T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1264/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9f4dea4a-8172-4a99-b7af-d04f68e9faf8",
+    "identifier": "HR 424",
+    "title": "A Resolution designating March 25, 2026, as \"Prince Hall Mason Day at the Capitol\" in Pennsylvania in recognition of The Most Worshipful Prince Hall Grand Lodge of Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR424/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]
