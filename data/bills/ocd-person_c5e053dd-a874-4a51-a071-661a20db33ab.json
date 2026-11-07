@@ -403,5 +403,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR273/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/18a566c0-fbbb-4397-a9e1-a0a823c2ebf4",
+    "identifier": "HB 2345",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, establishing the Domestic Violence Home Security Grant Program; and imposing duties on the Pennsylvania Commission on Crime and Delinquency.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-31T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2345/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2510e689-a034-430a-8efb-f94e48fb98cb",
+    "identifier": "HR 240",
+    "title": "A Resolution recognizing the month of January 2026 as \"Stalking Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR240/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

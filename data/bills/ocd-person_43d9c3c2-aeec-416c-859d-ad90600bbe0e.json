@@ -1018,5 +1018,140 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR348/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/72f94f03-dbe1-45bc-a25e-9ebdb71193d8",
+    "identifier": "HB 266",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in primary and election expenses, providing for limitations on contributions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB266/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b7217128-431b-417d-912c-3fd4b4487e94",
+    "identifier": "HR 367",
+    "title": "A Resolution designating the month of November 2025 as \"Children's Grief Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-14T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR367/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e9614354-9ef4-4e18-b9e4-de4da1ab301b",
+    "identifier": "HB 728",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, establishing the Identification Upon Reentry Program.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB728/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eee5aab2-5fca-4e05-aa46-e330b745a226",
+    "identifier": "HR 465",
+    "title": "A Resolution designating the week of April 13 through 17, 2026, as \"Local Government Week\" and April 22, 2026, as \"Local Government Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR465/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/96cab639-33b8-4f45-8a58-e51fced416cc",
+    "identifier": "HB 922",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, providing for fertility preservation coverage.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB922/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/60110b97-086b-4d5a-8697-24aabf58300e",
+    "identifier": "HB 2200",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, providing for enforcement of civil immigration law and for prohibited use of funds.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-09T05:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2200/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e071e309-3d55-4d89-9353-31b1c0cc572d",
+    "identifier": "HR 479",
+    "title": "A Resolution honoring the memory of law enforcement officers who have lost their lives in the line of duty.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR479/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/5d6cc472-be51-4e32-877e-6c2d21a19542",
+    "identifier": "HB 2320",
+    "title": "An Act amending Titles 8 (Boroughs and Incorporated Towns) and 11 (Cities) of the Pennsylvania Consolidated Statutes, in elections of officers, further providing for officers elected; and, in elected officers and elections, providing for newly elected officer training.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2320/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b44ba634-d847-4702-a29a-07562da39332",
+    "identifier": "HR 474",
+    "title": "A Resolution recognizing May 10 through 19, 2026, as \"Go Public Gardens Days\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR474/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

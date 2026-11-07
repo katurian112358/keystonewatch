@@ -1738,5 +1738,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR394/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7158b07d-ba80-4ba7-a355-0023958caa78",
+    "identifier": "HB 563",
+    "title": "An Act amending the act of July 9, 1987 (P.L.220, No.39), known as the Social Workers, Marriage and Family Therapists and Professional Counselors Act, providing for licensing and regulating the practice of music therapy; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-12T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB563/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/be796023-1d07-4e8a-9322-f71b35c8fba0",
+    "identifier": "HB 2059",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in preliminary provisions, further providing for definitions; providing for segregated confinement; and establishing the Segregated Confinement Hearing Review Board.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2059/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/50fc4cf8-8314-4dd9-b2b7-50c89ee92302",
+    "identifier": "HB 879",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for concurrent jurisdiction to prosecute.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB879/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/197949f1-8a4c-45ba-a6e8-3fe7530c79a3",
+    "identifier": "HR 428",
+    "title": "A Resolution recognizing April 25, 2026, as \"Diabetic Eye Screening Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-14T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR428/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16bd15ef-4545-4dfe-95f8-006ffe3eaa3c",
+    "identifier": "HR 432",
+    "title": "A Resolution designating the month of April 2026 as \"Donate Life Month\" and April 10, 2026, as \"Blue and Green Day\" in Pennsylvania in support of organ donation awareness.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR432/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/365c9078-5733-450a-8506-f138701fac8e",
+    "identifier": "HR 390",
+    "title": "A Resolution recognizing the month of March 2026 as \"Women's History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR390/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/60110b97-086b-4d5a-8697-24aabf58300e",
+    "identifier": "HB 2200",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, providing for enforcement of civil immigration law and for prohibited use of funds.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-09T05:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2200/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

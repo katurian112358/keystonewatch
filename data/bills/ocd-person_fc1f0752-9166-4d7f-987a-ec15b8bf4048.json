@@ -3928,5 +3928,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR395/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0664b6ea-3d64-470b-95cf-be9bfdb32988",
+    "identifier": "HB 1743",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, providing for comprehensive school counseling services.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-16T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1743/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/50fc4cf8-8314-4dd9-b2b7-50c89ee92302",
+    "identifier": "HB 879",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for concurrent jurisdiction to prosecute.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB879/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/653f196a-3821-43e1-a93f-b45ced78aabf",
+    "identifier": "HR 327",
+    "title": "A Resolution directing the Joint State Government Commission to conduct a study evaluating the feasibility of a multifaceted approach to decreasing food waste given this Commonwealth's current infrastructure.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR327/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/59207eff-0994-4fad-920d-d4e3f1821cb1",
+    "identifier": "HB 1247",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in rules of evidence, providing for prohibition of deception during custodial interrogation of individual with intellectual disability or autism.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1247/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16bd15ef-4545-4dfe-95f8-006ffe3eaa3c",
+    "identifier": "HR 432",
+    "title": "A Resolution designating the month of April 2026 as \"Donate Life Month\" and April 10, 2026, as \"Blue and Green Day\" in Pennsylvania in support of organ donation awareness.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR432/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6a416231-0bed-48a0-a9e9-31ce72ee9f24",
+    "identifier": "HB 98",
+    "title": "An Act providing for licensure of electrical contractors, electricians and apprentice electricians; establishing the State Board of Electrical Licensure; providing for powers and duties of the board; establishing fees, fines and penalties; and making an appropriation.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB98/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/96cab639-33b8-4f45-8a58-e51fced416cc",
+    "identifier": "HB 922",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, providing for fertility preservation coverage.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB922/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e071e309-3d55-4d89-9353-31b1c0cc572d",
+    "identifier": "HR 479",
+    "title": "A Resolution honoring the memory of law enforcement officers who have lost their lives in the line of duty.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR479/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
   }
 ]

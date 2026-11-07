@@ -268,5 +268,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2297/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2cf6088b-83fa-4aad-a6f9-112d64f2f1df",
+    "identifier": "HR 404",
+    "title": "A Resolution recognizing the month of April 2026 as \"Limb Loss Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR404/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

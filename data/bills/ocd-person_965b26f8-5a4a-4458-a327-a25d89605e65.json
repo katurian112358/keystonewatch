@@ -643,5 +643,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB929/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/649c5b0f-01ec-42e2-87a0-1655eec9318b",
+    "identifier": "SB 471",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in general provisions relating to criminal proceedings, providing for citizenship status of criminal defendants.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-01T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB471/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3bc469c2-3967-4002-85fc-70003a94520e",
+    "identifier": "SB 1255",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, further providing for classes of income and providing for exclusion of tips from taxable income.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1255/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3f78322c-7d02-420d-bef8-b0451b02a0cf",
+    "identifier": "SB 1219",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in lien of accounts due the Commonwealth and procedure in case of nonpayment, providing for liens against private property improved or renovated with State appropriations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1219/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4a55825c-1e93-405e-b8dd-1a2f2d87fb90",
+    "identifier": "SR 256",
+    "title": "A Resolution designating October 13, 2026, as \"Metastatic Breast Cancer Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-20T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR256/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/05611f74-d758-45fb-9e7e-a58217bb4c7d",
+    "identifier": "SB 745",
+    "title": "An Act amending the act of November 24, 1976 (P.L.1176, No.261), known as the Manufactured Home Community Rights Act, providing for resident associations and group meetings; further providing for disclosure of fees; providing for reasonable increases in rent and fees, for justified rent increase to support extraordinary increases in operating expenses and for temporary surcharge for capital improvements; and further providing for damages.",
+    "session": "2025-2026",
+    "status": "Referred to Urban Affairs & Housing",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Urban Affairs & Housing"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB745/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/484df3b2-8eb5-42e2-a113-b4b1fae04451",
+    "identifier": "SB 1302",
+    "title": "An Act amending the act of December 16, 1986 (P.L.1646, No.188), known as the Chiropractic Practice Act, providing for certified chiropractic assistants; in supportive personnel, further providing for supportive personnel; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-23T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1302/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

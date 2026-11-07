@@ -418,5 +418,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1586/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ee0976ae-1c40-4dad-9e5c-4aa582a24c64",
+    "identifier": "HR 429",
+    "title": "A Resolution recognizing the week of April 12 through 18, 2026, as \"National Public Safety Telecommunicators Week\" in Pennsylvania in honor of those whose diligence and professionalism keep our communities and residents safe.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-11T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR429/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a4750c20-9912-4a67-a4cd-4eb61f6c389d",
+    "identifier": "HB 2012",
+    "title": "An Act providing for plumber and plumbing contractors licensure; establishing the State Board of Plumbing Contractors and providing for its powers and duties; conferring powers and imposing duties on the Department of State; establishing fees, fines and civil penalties; establishing the Plumbing Contractors Licensure Account; and making an appropriation.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-06T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2012/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f905a203-5e66-48c7-9a15-7683ca7f1aa6",
+    "identifier": "HB 352",
+    "title": "An Act amending the act of August 5, 1932 (Sp.Sess., P.L.45, No.45), referred to as the Sterling Act, further providing for remittance by a city of the first class to a nonresident's resident municipality and school district.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB352/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2510e689-a034-430a-8efb-f94e48fb98cb",
+    "identifier": "HR 240",
+    "title": "A Resolution recognizing the month of January 2026 as \"Stalking Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR240/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6c5bc4cd-2b62-4f73-81f7-0334ac7d5819",
+    "identifier": "HB 2424",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in charter schools, further providing for funding for charter schools.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-18T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2424/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/13ac915c-6728-451d-8e41-324adbc5263f",
+    "identifier": "HB 2481",
+    "title": "An Act amending the the act of October 24, 2012 (P.L.1209, No.151), known as the Child Labor Act, further providing for employment of minors in student-learner and apprenticeship programs; providing for a review of laws and regulations related to the employment of minors; and abrogating regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2481/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -193,5 +193,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR424/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3c5f531b-e97e-44fc-bbe9-9059cf48d64a",
+    "identifier": "HB 1950",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in hunting and furtaking, further providing for unlawful devices and methods.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1950/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/69586fc4-1443-482c-b515-7ecd6c133b13",
+    "identifier": "HB 2330",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in service and facilities, providing for master-meter system and submetering program for landlord ratepayers; and establishing programs.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-21T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2330/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1464c664-ddb7-423e-b5c0-198fe7c08071",
+    "identifier": "HB 1050",
+    "title": "An Act amending the act of December 19, 1988 (P.L.1262, No.156), known as the Local Option Small Games of Chance Act, in preliminary provisions, further providing for definitions; in games of chance, further providing for prize limits and for sales limited, providing for pull-tab deals, further providing for distributor licenses, for registration of manufacturers, for regulations of department and for licensing of eligible organizations; in club licensees, further providing for distribution of proceeds; and, in enforcement, further providing for revocation of licenses and providing for other penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1050/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e6df12b9-8cc5-4874-aded-98ecbe69b14b",
+    "identifier": "HR 512",
+    "title": "A Resolution urging the creation of an interstate compact to allow for a competitive electric transmission market to flourish in the best interest of the electric ratepayer and the economy in general.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR512/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -810,19 +810,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "4bd08a5e-5fc6-4c66-b995-409dd46878ad",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-05-05T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1397/",
     "sponsorship_role": "cosponsor",
@@ -836,19 +825,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "909ed41f-9bd7-446b-9c9c-5480e514e793",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-07-02T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1693/",
     "sponsorship_role": "cosponsor",

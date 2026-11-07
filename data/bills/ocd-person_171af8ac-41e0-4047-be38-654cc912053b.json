@@ -838,5 +838,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6c12d764-54b0-4fc2-b36f-c9bb69ac8e56",
+    "identifier": "HB 2319",
+    "title": "An Act amending the act of June 24, 1976 (P.L.424, No.101), referred to as the Emergency and Law Enforcement Personnel Death Benefits Act, further providing for title of act; and adding provisions relating to telecommunicators.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-26T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2319/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ee0976ae-1c40-4dad-9e5c-4aa582a24c64",
+    "identifier": "HR 429",
+    "title": "A Resolution recognizing the week of April 12 through 18, 2026, as \"National Public Safety Telecommunicators Week\" in Pennsylvania in honor of those whose diligence and professionalism keep our communities and residents safe.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-11T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR429/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2362c9d5-7b22-4497-8649-99c1506820d4",
+    "identifier": "HB 2066",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to inheritance tax; in procedure and administration, further providing for petition for reassessment; and, in governmental obligations, further providing for taxability of government obligations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2066/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/562ad788-94bb-4002-ab68-8468925ef1da",
+    "identifier": "HB 2385",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in miscellaneous provisions relating to emergency management services, providing for minors serving in volunteer emergency service organizations; making a repeal; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2385/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e071e309-3d55-4d89-9353-31b1c0cc572d",
+    "identifier": "HR 479",
+    "title": "A Resolution honoring the memory of law enforcement officers who have lost their lives in the line of duty.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR479/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/23a06fb3-d9c2-40a6-83f7-af843871a28e",
+    "identifier": "HB 2465",
+    "title": "An Act designating a bridge, identified as Bridge Key 11231, on that portion of Pennsylvania Route 53 over the Beaver Run River, Houtzdale Borough, Clearfield County, as the Cpl. Melvin Philip \"Dutch\" Henry Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2465/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2dd077ac-cc79-4d4a-becf-e79aa12a8dcd",
+    "identifier": "HB 1482",
+    "title": "An Act designating the bridge identified as Bridge Key 48006, carrying State Route 3007 over Carson Run in Knox Township, Clearfield County, as the Sgt. Ronald Bloom Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1482/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4064ca80-867e-4c13-b2dd-c13269fb3f65",
+    "identifier": "HB 2362",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in general provisions relating to operation of vehicles, further providing for obedience to authorized persons directing traffic and providing for drivers in organized motorcycle processions; and, in rules of the road in general, further providing for following too closely.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-07T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2362/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

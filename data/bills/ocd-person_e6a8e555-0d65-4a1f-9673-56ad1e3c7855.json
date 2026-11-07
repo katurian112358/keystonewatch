@@ -1993,5 +1993,185 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR394/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a1b6e317-e7b6-4496-8998-32c20a5ac71f",
+    "identifier": "HB 1516",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in financial responsibility, further providing for driver improvement course discounts.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-29T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1516/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0def84d6-e9e4-434c-baa1-30be5caf1466",
+    "identifier": "HB 2313",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in rates and distribution systems, further providing for recovery of advertising expenses.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-24T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2313/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1927a268-5bf8-4b81-9cb6-df94db68693a",
+    "identifier": "HB 1550",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in Pennsylvania Board of Probation and Parole, providing for parole for reasons of age and for medical parole under certain circumstances.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1550/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a049b794-344d-4955-9d0f-000baf041bf2",
+    "identifier": "HB 663",
+    "title": "An Act providing for the licensure of bodywork facilities; imposing powers and duties on the Department of State; and prescribing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB663/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/be796023-1d07-4e8a-9322-f71b35c8fba0",
+    "identifier": "HB 2059",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in preliminary provisions, further providing for definitions; providing for segregated confinement; and establishing the Segregated Confinement Hearing Review Board.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2059/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/653f196a-3821-43e1-a93f-b45ced78aabf",
+    "identifier": "HR 327",
+    "title": "A Resolution directing the Joint State Government Commission to conduct a study evaluating the feasibility of a multifaceted approach to decreasing food waste given this Commonwealth's current infrastructure.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR327/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1acc18db-880c-4a3a-b8bd-d2c7fd251c7a",
+    "identifier": "HR 58",
+    "title": "A Resolution urging the Congress of the United States to pass a constitutional amendment that provides that neither slavery nor involuntary servitude may be imposed as a punishment for a crime.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR58/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e9614354-9ef4-4e18-b9e4-de4da1ab301b",
+    "identifier": "HB 728",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, establishing the Identification Upon Reentry Program.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB728/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/db5fb17e-2dd7-4a01-ae57-8b270b828119",
+    "identifier": "HB 1383",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in juvenile matters, further providing for definitions, for scope of chapter, for inspection of court files and records, for transfer from criminal proceedings, for place of detention and for conduct of hearings and repealing provisions relating to transfer to criminal proceedings; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-28T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1383/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bb8bd3a9-435c-4801-a002-d1d6a7dd15d0",
+    "identifier": "HB 2061",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in computer data center equipment incentive program, further providing for application for certification and for eligibility requirements.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2061/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/96cab639-33b8-4f45-8a58-e51fced416cc",
+    "identifier": "HB 922",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, providing for fertility preservation coverage.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-17T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB922/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6021ecc6-80bd-474a-9a18-aa05e2b8ce63",
+    "identifier": "HB 99",
+    "title": "An Act amending Titles 18 (Crimes and Offenses), 42 (Judiciary and Judicial Procedure) and 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in authorized disposition of offenders, further providing for sentence for murder, murder of unborn child and murder of law enforcement officer; in arson, criminal mischief and other property destruction, further providing for the offense of arson and related offenses; in jurisdiction of appellate courts, further providing for direct appeals from courts of common pleas; in post-trial matters, further providing for postconviction DNA testing and for disposition and appeal; in sentencing, further providing for sentencing procedure for murder of the first degree; and, in execution procedure and method, repealing provisions relating to issuance of warrant.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-27T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB99/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

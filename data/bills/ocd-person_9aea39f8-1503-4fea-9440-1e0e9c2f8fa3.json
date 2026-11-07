@@ -328,5 +328,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB405/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ac07e260-3439-4d2e-9724-da1e8465d741",
+    "identifier": "HR 423",
+    "title": "A Resolution recognizing the week of April 20 through 24, 2026, as \"National Work Zone Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR423/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

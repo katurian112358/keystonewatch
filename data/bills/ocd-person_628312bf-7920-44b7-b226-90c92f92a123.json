@@ -808,5 +808,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR394/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/200ed5ab-6cd4-479f-886a-e65c91f1a88d",
+    "identifier": "HR 433",
+    "title": "A Resolution recognizing March 31, 2026, as \"Transgender Day of Visibility\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-12T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR433/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/35a7c25f-5476-4f24-8402-73865952daa7",
+    "identifier": "HB 1901",
+    "title": "An Act providing for the Office of Health Equity; establishing the Health Equity Advisory Committee; and imposing duties on the Department of Health.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-30T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1901/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1927a268-5bf8-4b81-9cb6-df94db68693a",
+    "identifier": "HB 1550",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in Pennsylvania Board of Probation and Parole, providing for parole for reasons of age and for medical parole under certain circumstances.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-04T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1550/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/974190cd-5b62-4020-8ef1-67d9ec9b31f9",
+    "identifier": "HR 451",
+    "title": "A Resolution recognizing the week of April 11 through 17, 2026, as \"Black Maternal Health Week\" in Pennsylvania to bring attention to the maternal health crisis and the importance of reducing maternal mortality and morbidity among Black women.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR451/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/88819134-c84c-4e84-ab8c-cf9da33ca1b4",
+    "identifier": "HB 2376",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for civil immigration arrests in houses of worship.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2376/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/81c8c0b7-c035-4c41-a8ad-91439ca6df58",
+    "identifier": "HB 2356",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in criminal history record information, further providing for expungement.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2356/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

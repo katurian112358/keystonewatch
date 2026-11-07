@@ -1123,5 +1123,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR329/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cb18bde2-7118-4669-b5d0-9abacf883aa4",
+    "identifier": "HR 446",
+    "title": "A Resolution designating March 25, 2026, as \"Greek Independence Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR446/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7158b07d-ba80-4ba7-a355-0023958caa78",
+    "identifier": "HB 563",
+    "title": "An Act amending the act of July 9, 1987 (P.L.220, No.39), known as the Social Workers, Marriage and Family Therapists and Professional Counselors Act, providing for licensing and regulating the practice of music therapy; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-12T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB563/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/96631ebe-3cb1-4664-9319-9dc855c43c21",
+    "identifier": "HB 2295",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in cigarette sales and licensing, further providing for definitions, for licensing of retailers and for transfer of licenses.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-18T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2295/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/197949f1-8a4c-45ba-a6e8-3fe7530c79a3",
+    "identifier": "HR 428",
+    "title": "A Resolution recognizing April 25, 2026, as \"Diabetic Eye Screening Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-14T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR428/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eee5aab2-5fca-4e05-aa46-e330b745a226",
+    "identifier": "HR 465",
+    "title": "A Resolution designating the week of April 13 through 17, 2026, as \"Local Government Week\" and April 22, 2026, as \"Local Government Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR465/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6c5bc4cd-2b62-4f73-81f7-0334ac7d5819",
+    "identifier": "HB 2424",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in charter schools, further providing for funding for charter schools.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-18T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2424/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9de88bf9-4d78-41be-9c67-fe579f1d7134",
+    "identifier": "HB 2389",
+    "title": "An Act amending the act of March 1, 1974 (P.L.90, No.24), known as the Pennsylvania Pesticide Control Act of 1973, further providing for delegation of duties and exclusion of local laws and regulations.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-16T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2389/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2dd077ac-cc79-4d4a-becf-e79aa12a8dcd",
+    "identifier": "HB 1482",
+    "title": "An Act designating the bridge identified as Bridge Key 48006, carrying State Route 3007 over Carson Run in Knox Township, Clearfield County, as the Sgt. Ronald Bloom Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1482/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

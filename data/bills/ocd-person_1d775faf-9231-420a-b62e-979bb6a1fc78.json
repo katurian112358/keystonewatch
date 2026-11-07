@@ -1138,5 +1138,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1679/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/769f5a7b-8651-4b2d-89c1-beef30a35c9c",
+    "identifier": "HR 427",
+    "title": "A Resolution recognizing the week of May 10 through 16, 2026, as \"National Police Week\" and recognizing May 15, 2026, as \"Peace Officers Memorial Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR427/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f298e18c-06a4-47e5-a4f2-1109bd891e93",
+    "identifier": "HB 214",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in realty transfer tax, further providing for excluded transactions; and, in local real estate transfer tax, further providing for imposition.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB214/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/562c1f2f-c439-45fb-bb58-f1d65b9c5dd0",
+    "identifier": "HB 403",
+    "title": "An Act amending Title 29 (Federal Relations) of the Pennsylvania Consolidated Statutes, providing for immigration preemption and cooperation; and establishing the Immigration Cooperation Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-31T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB403/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/61e573f3-b770-4db0-9743-d2be8d678653",
+    "identifier": "HB 163",
+    "title": "An Act amending the act of April 6, 1980 (P.L.102, No.39), referred to as the Agricultural Land Acquisition by Aliens Law, further prohibiting certain entities from acquiring an interest in agricultural land; providing for investigation by Attorney General and for responsibilities of purchaser and Attorney General; further providing for forfeiture of lands; providing for real estate auction; and further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-16T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB163/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6608d546-4456-4f2d-877f-df5dfa3a7a13",
+    "identifier": "HB 110",
+    "title": "An Act amending the act of February 13, 1970 (P.L.19, No.10), entitled \"An act enabling certain minors to consent to medical, dental and health services, declaring consent unnecessary under certain circumstances,\" further providing for individual consent, for mental health treatment and for release of medical records; and providing for parent or legal guardian access to medical records.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB110/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/598b3a5c-fc14-42b8-b8d2-8c4d0a0a92d3",
+    "identifier": "HB 910",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in offenses against the family, further providing for the offense of dealing in infant children.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB910/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -193,5 +193,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4064ca80-867e-4c13-b2dd-c13269fb3f65",
+    "identifier": "HB 2362",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in general provisions relating to operation of vehicles, further providing for obedience to authorized persons directing traffic and providing for drivers in organized motorcycle processions; and, in rules of the road in general, further providing for following too closely.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-07T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2362/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

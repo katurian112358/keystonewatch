@@ -523,5 +523,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB326/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/562c1f2f-c439-45fb-bb58-f1d65b9c5dd0",
+    "identifier": "HB 403",
+    "title": "An Act amending Title 29 (Federal Relations) of the Pennsylvania Consolidated Statutes, providing for immigration preemption and cooperation; and establishing the Immigration Cooperation Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-31T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB403/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ec27e51b-4906-4b69-95f7-30ce28333d82",
+    "identifier": "HB 2442",
+    "title": "An Act amending the act of May 1, 1984 (P.L.206, No.43), known as the Pennsylvania Safe Drinking Water Act, providing for temporary operating license; and imposing duties on the Department of Agriculture.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-22T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2442/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/598b3a5c-fc14-42b8-b8d2-8c4d0a0a92d3",
+    "identifier": "HB 910",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in offenses against the family, further providing for the offense of dealing in infant children.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB910/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

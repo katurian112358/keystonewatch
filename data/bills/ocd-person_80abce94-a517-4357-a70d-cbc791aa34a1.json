@@ -463,5 +463,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1414/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3c5f531b-e97e-44fc-bbe9-9059cf48d64a",
+    "identifier": "HB 1950",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in hunting and furtaking, further providing for unlawful devices and methods.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1950/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2362c9d5-7b22-4497-8649-99c1506820d4",
+    "identifier": "HB 2066",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to inheritance tax; in procedure and administration, further providing for petition for reassessment; and, in governmental obligations, further providing for taxability of government obligations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2066/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

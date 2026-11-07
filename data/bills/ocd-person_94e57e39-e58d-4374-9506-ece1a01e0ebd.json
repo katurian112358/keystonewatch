@@ -358,5 +358,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR424/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/88819134-c84c-4e84-ab8c-cf9da33ca1b4",
+    "identifier": "HB 2376",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for civil immigration arrests in houses of worship.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2376/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/33765b17-0d34-4b91-bdbd-1f0b58129bd1",
+    "identifier": "HB 2167",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, making editorial changes to delete references to \"approved private school\" for the purpose of adding references to \"approved special education school.\"",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2167/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a4cdd547-8015-4f71-afb9-d898be68cdc0",
+    "identifier": "HB 2169",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, making editorial changes to delete references to \"approved private school\" for the purpose of adding references to \"approved special education school.\"",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2169/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c7ff315e-34df-4864-8565-02d39b735462",
+    "identifier": "HR 227",
+    "title": "A Resolution designating the week of August 17 through 23, 2025, as \"Little League World Series Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR227/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9d654b8f-df67-4e0a-915d-648dfc262cff",
+    "identifier": "HR 504",
+    "title": "A Resolution recognizing the month of May 2025 as \"Guillain-Barré Syndrome Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR504/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

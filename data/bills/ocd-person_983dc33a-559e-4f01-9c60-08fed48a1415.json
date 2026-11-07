@@ -733,5 +733,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1571/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2362c9d5-7b22-4497-8649-99c1506820d4",
+    "identifier": "HB 2066",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to inheritance tax; in procedure and administration, further providing for petition for reassessment; and, in governmental obligations, further providing for taxability of government obligations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2066/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/befcb2b8-1f97-41c3-8dd3-c8fc32a0a8aa",
+    "identifier": "HB 1316",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for time for filing returns.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-28T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1316/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6608d546-4456-4f2d-877f-df5dfa3a7a13",
+    "identifier": "HB 110",
+    "title": "An Act amending the act of February 13, 1970 (P.L.19, No.10), entitled \"An act enabling certain minors to consent to medical, dental and health services, declaring consent unnecessary under certain circumstances,\" further providing for individual consent, for mental health treatment and for release of medical records; and providing for parent or legal guardian access to medical records.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB110/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

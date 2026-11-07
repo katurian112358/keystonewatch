@@ -178,5 +178,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1008/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f04a2290-4c56-4e1b-8055-d209f8c1d70d",
+    "identifier": "HB 1818",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, providing for a constitutional right to carry.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-22T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1818/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

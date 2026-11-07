@@ -793,5 +793,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR394/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7158b07d-ba80-4ba7-a355-0023958caa78",
+    "identifier": "HB 563",
+    "title": "An Act amending the act of July 9, 1987 (P.L.220, No.39), known as the Social Workers, Marriage and Family Therapists and Professional Counselors Act, providing for licensing and regulating the practice of music therapy; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-12T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB563/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c0c4ea82-3a78-4260-966c-20d6b5241cf2",
+    "identifier": "HR 456",
+    "title": "A Resolution designating July 1, 2026, as \"Canada Day\" in Pennsylvania to celebrate the enduring relationship between the Commonwealth of Pennsylvania and Canada.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR456/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/49e14cec-0176-4d54-9f3a-bb749ce91ba6",
+    "identifier": "HB 2277",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in standby and temporary guardianship, further providing for definitions and for petition for approval of a designation.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2277/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/179cf75c-f489-46e4-ab22-4efe4497470b",
+    "identifier": "HB 1733",
+    "title": "An Act amending the act of July 9, 1987 (P.L.220, No.39), known as the Social Workers, Marriage and Family Therapists and Professional Counselors Act, further providing for legislative intent, for definitions, for license required, for State Board of Social Workers, Marriage and Family Therapists and Professional Counselors, for powers and functions of board, for qualifications for license, for procedures for licensing, for exemption from licensure examination, for reciprocity, for endorsement of out-of-State licenses and for reinstatement of license; providing for restriction on use of title \"licensed professional art therapist\" and related titles; and further providing for penalties, for license renewal, records and fees and for unlawful practice.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-14T04:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1733/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b44ba634-d847-4702-a29a-07562da39332",
+    "identifier": "HR 474",
+    "title": "A Resolution recognizing May 10 through 19, 2026, as \"Go Public Gardens Days\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR474/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -2608,5 +2608,170 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB499/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8189358f-6aae-48cc-88c9-69d128601caf",
+    "identifier": "HB 2303",
+    "title": "An Act amending Title 48 (Lodging and Housing) of the Pennsylvania Consolidated Statutes, providing for temporary lodging at short-term rentals; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Tourism, Recreation & Economic Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-19T04:00:00+00:00",
+      "description": "Referred to Tourism, Recreation & Economic Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2303/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7158b07d-ba80-4ba7-a355-0023958caa78",
+    "identifier": "HB 563",
+    "title": "An Act amending the act of July 9, 1987 (P.L.220, No.39), known as the Social Workers, Marriage and Family Therapists and Professional Counselors Act, providing for licensing and regulating the practice of music therapy; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-12T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB563/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8e3422df-cba3-4aaf-be1b-eb161f8541d4",
+    "identifier": "HB 2125",
+    "title": "An Act amending the act of April 6, 1951 (P.L.69, No.20), known as The Landlord and Tenant Act of 1951, providing for tenant's rights.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-09T05:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2125/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f57c8e37-43ac-415d-9940-cb1665f7c935",
+    "identifier": "HR 460",
+    "title": "A Resolution recognizing May 8, 2026, as \"Child Care Provider Appreciation Day\" in Pennsylvania to show appreciation for all child care providers in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR460/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a049b794-344d-4955-9d0f-000baf041bf2",
+    "identifier": "HB 663",
+    "title": "An Act providing for the licensure of bodywork facilities; imposing powers and duties on the Department of State; and prescribing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB663/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c0c4ea82-3a78-4260-966c-20d6b5241cf2",
+    "identifier": "HR 456",
+    "title": "A Resolution designating July 1, 2026, as \"Canada Day\" in Pennsylvania to celebrate the enduring relationship between the Commonwealth of Pennsylvania and Canada.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR456/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bb8bd3a9-435c-4801-a002-d1d6a7dd15d0",
+    "identifier": "HB 2061",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in computer data center equipment incentive program, further providing for application for certification and for eligibility requirements.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2061/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/823925af-6a33-4a3a-a7e4-deb2b98f5662",
+    "identifier": "HB 387",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in student supports, providing for parental notification.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-28T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB387/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f88e10ff-be0c-4c1a-a7ce-0cb49b217c07",
+    "identifier": "HB 2456",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, providing for payments for extraordinary personal care services.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-27T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2456/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/24bb55b9-2879-4b10-aee7-2c3bc36023d4",
+    "identifier": "HB 237",
+    "title": "An Act amending the act of June 24, 1976 (P.L.424, No.101), referred to as the Emergency and Law Enforcement Personnel Death Benefits Act, further providing for title of act, for application and authority for payment and eligibility and amount of benefit and for definitions.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-27T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB237/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/77a0d635-3a56-4893-b818-99f695fabdfc",
+    "identifier": "HB 2323",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in military educational programs, further providing for definitions, for eligibility, for certification of eligibility, for grants, for amount of grants, for limitations and for recoupment of grant payments.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-27T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2323/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

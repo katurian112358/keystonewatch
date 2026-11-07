@@ -1663,5 +1663,170 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f96c05b3-13b1-4dd7-ade3-98b3d4285c14",
+    "identifier": "HB 2311",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in hunting and furtaking, further providing for prohibited devices and methods.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-23T04:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2311/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/288e001b-0865-4623-9460-77950db7c643",
+    "identifier": "HB 2318",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for the offense of interference with religious worship.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-26T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2318/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/61e573f3-b770-4db0-9743-d2be8d678653",
+    "identifier": "HB 163",
+    "title": "An Act amending the act of April 6, 1980 (P.L.102, No.39), referred to as the Agricultural Land Acquisition by Aliens Law, further prohibiting certain entities from acquiring an interest in agricultural land; providing for investigation by Attorney General and for responsibilities of purchaser and Attorney General; further providing for forfeiture of lands; providing for real estate auction; and further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-16T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB163/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2362c9d5-7b22-4497-8649-99c1506820d4",
+    "identifier": "HB 2066",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to inheritance tax; in procedure and administration, further providing for petition for reassessment; and, in governmental obligations, further providing for taxability of government obligations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2066/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8c14ca22-1cc8-42de-9515-7c81c68e2235",
+    "identifier": "HB 1609",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in Commonwealth budget procedures, providing for essential service payments during budget impasse.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-16T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1609/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/befcb2b8-1f97-41c3-8dd3-c8fc32a0a8aa",
+    "identifier": "HB 1316",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for time for filing returns.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-28T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1316/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e0a514f7-3f58-4622-9f11-aba2a3a09691",
+    "identifier": "HR 374",
+    "title": "A Resolution designating 2025 as \"The Year of the Catholic War Veterans of the United States of America\" in Pennsylvania in honor of the organization's 90-year history of enduring service to faith, family and country.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-28T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR374/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f2c0b419-976d-4b9b-a284-aaaaf43b13f4",
+    "identifier": "HB 1742",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, further providing for imposition of tax, for when withholding not required, for returns and liability and for return of Pennsylvania S corporation.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-16T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1742/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6608d546-4456-4f2d-877f-df5dfa3a7a13",
+    "identifier": "HB 110",
+    "title": "An Act amending the act of February 13, 1970 (P.L.19, No.10), entitled \"An act enabling certain minors to consent to medical, dental and health services, declaring consent unnecessary under certain circumstances,\" further providing for individual consent, for mental health treatment and for release of medical records; and providing for parent or legal guardian access to medical records.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-14T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB110/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/32e8be60-3ae8-4aef-b3ac-68d60eb3a4cd",
+    "identifier": "HB 517",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in licensing of drivers, further providing for issuance and content of driver's license.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-05T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB517/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/598b3a5c-fc14-42b8-b8d2-8c4d0a0a92d3",
+    "identifier": "HB 910",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in offenses against the family, further providing for the offense of dealing in infant children.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB910/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

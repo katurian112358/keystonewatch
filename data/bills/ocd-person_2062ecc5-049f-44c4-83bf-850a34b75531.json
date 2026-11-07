@@ -418,5 +418,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1687/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5ec81fe9-dde5-457c-9f49-0c2dc5476454",
+    "identifier": "HB 1693",
+    "title": "An Act amending Title 29 (Federal Relations) of the Pennsylvania Consolidated Statutes, providing for immigration compliance and public safety.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-02T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1693/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ec27e51b-4906-4b69-95f7-30ce28333d82",
+    "identifier": "HB 2442",
+    "title": "An Act amending the act of May 1, 1984 (P.L.206, No.43), known as the Pennsylvania Safe Drinking Water Act, providing for temporary operating license; and imposing duties on the Department of Agriculture.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-22T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2442/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

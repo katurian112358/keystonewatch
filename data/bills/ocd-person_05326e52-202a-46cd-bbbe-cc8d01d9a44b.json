@@ -463,5 +463,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR150/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/974190cd-5b62-4020-8ef1-67d9ec9b31f9",
+    "identifier": "HR 451",
+    "title": "A Resolution recognizing the week of April 11 through 17, 2026, as \"Black Maternal Health Week\" in Pennsylvania to bring attention to the maternal health crisis and the importance of reducing maternal mortality and morbidity among Black women.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR451/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7c54dce0-fb68-45fd-92df-95f0e0e69b1f",
+    "identifier": "HR 469",
+    "title": "A Resolution designating April 28, 2026, as \"Delta Day\" in Pennsylvania in honor of the members of the Delta Sigma Theta Sorority for more than a century of commitment to social activism, academic excellence and civic engagement.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR469/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

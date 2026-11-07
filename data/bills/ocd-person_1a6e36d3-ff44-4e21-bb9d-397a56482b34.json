@@ -418,5 +418,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1208/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eee5aab2-5fca-4e05-aa46-e330b745a226",
+    "identifier": "HR 465",
+    "title": "A Resolution designating the week of April 13 through 17, 2026, as \"Local Government Week\" and April 22, 2026, as \"Local Government Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR465/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5d6cc472-be51-4e32-877e-6c2d21a19542",
+    "identifier": "HB 2320",
+    "title": "An Act amending Titles 8 (Boroughs and Incorporated Towns) and 11 (Cities) of the Pennsylvania Consolidated Statutes, in elections of officers, further providing for officers elected; and, in elected officers and elections, providing for newly elected officer training.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2320/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

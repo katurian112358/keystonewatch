@@ -418,5 +418,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR273/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/200ed5ab-6cd4-479f-886a-e65c91f1a88d",
+    "identifier": "HR 433",
+    "title": "A Resolution recognizing March 31, 2026, as \"Transgender Day of Visibility\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-12T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR433/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/60110b97-086b-4d5a-8697-24aabf58300e",
+    "identifier": "HB 2200",
+    "title": "An Act amending Title 44 (Law and Justice) of the Pennsylvania Consolidated Statutes, providing for enforcement of civil immigration law and for prohibited use of funds.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-09T05:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2200/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/380dd5d4-f1fd-484b-a471-e090d309c897",
+    "identifier": "HR 421",
+    "title": "A Resolution designating the month of April 2026 as \"Child Abuse Prevention Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-02T05:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR421/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b44ba634-d847-4702-a29a-07562da39332",
+    "identifier": "HR 474",
+    "title": "A Resolution recognizing May 10 through 19, 2026, as \"Go Public Gardens Days\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR474/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

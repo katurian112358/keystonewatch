@@ -883,5 +883,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1264/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/befcb2b8-1f97-41c3-8dd3-c8fc32a0a8aa",
+    "identifier": "HB 1316",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for time for filing returns.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-28T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1316/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/47c88b40-d1cf-4ddd-bc60-f26172408099",
+    "identifier": "HB 1397",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in preliminary provisions relating to actions, proceedings and other matters generally, providing for use of media devices.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-05T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1397/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

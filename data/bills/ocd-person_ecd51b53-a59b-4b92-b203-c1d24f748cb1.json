@@ -793,5 +793,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR233/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/649c5b0f-01ec-42e2-87a0-1655eec9318b",
+    "identifier": "SB 471",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in general provisions relating to criminal proceedings, providing for citizenship status of criminal defendants.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-01T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB471/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5c3b67d4-9285-4343-8793-c98422c05896",
+    "identifier": "SB 751",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in inheritance tax, further providing for the rate of inheritance tax.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB751/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b4a4d0c3-32b8-4229-b0bb-d454eaee20f2",
+    "identifier": "SB 750",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in inheritance tax, further providing for the rate of inheritance tax.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB750/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a4f030d0-9a31-467a-9903-221048efb75e",
+    "identifier": "SB 1239",
+    "title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in zoning, further providing for ordinance provisions.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1239/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/534e35cc-ab4c-4ade-9b42-6eef60c7504b",
+    "identifier": "SB 97",
+    "title": "An Act amending Titles 65 (Public Officers) and 74 (Transportation) of the Pennsylvania Consolidated Statutes, in ethics standards and financial disclosure, further providing for definitions, for restricted activities, for statement of financial interests and for penalties; in lobbying disclosure, further providing for definitions, for reporting and for penalties; and, in Turnpike Commission standards of conduct, further providing for code of conduct.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB97/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/57a7e655-f0e8-4ac2-a608-357163aff7e8",
+    "identifier": "SB 1289",
+    "title": "An Act providing for patient access to clear health care information; and requiring plain-language summaries of coverage, prior authorization and appeal rights.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1289/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

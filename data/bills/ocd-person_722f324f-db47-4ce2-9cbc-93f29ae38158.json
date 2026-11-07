@@ -238,5 +238,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR3/",
     "sponsorship_role": "primary",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/11efdbc1-616b-463a-8405-f44b34145027",
+    "identifier": "SB 1308",
+    "title": "An Act designating a bridge, identified as Bridge Key 19080, carrying Pennsylvania Route 259 over Laurel Run in Cherryhill Township, Indiana County, as the Marine Corps SSGT Michael A. Geneva Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-01T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1308/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/57603770-98be-412f-bc96-d67d58b3dde1",
+    "identifier": "SB 1309",
+    "title": "An Act designating a bridge, identified as Bridge Key 19237, carrying State Route 1018, over a tributary of Dixon Run in Green Township, Indiana County, as the US Army SSGT James D. Rushton Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-01T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1309/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -478,5 +478,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2362c9d5-7b22-4497-8649-99c1506820d4",
+    "identifier": "HB 2066",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to inheritance tax; in procedure and administration, further providing for petition for reassessment; and, in governmental obligations, further providing for taxability of government obligations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2066/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/562ad788-94bb-4002-ab68-8468925ef1da",
+    "identifier": "HB 2385",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in miscellaneous provisions relating to emergency management services, providing for minors serving in volunteer emergency service organizations; making a repeal; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2385/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e6a9528b-2dce-48b6-9be2-2ff0b7f85abb",
+    "identifier": "HR 477",
+    "title": "A Resolution designating the month of May 2026 as \"Motorcycle Safety Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR477/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/23a06fb3-d9c2-40a6-83f7-af843871a28e",
+    "identifier": "HB 2465",
+    "title": "An Act designating a bridge, identified as Bridge Key 11231, on that portion of Pennsylvania Route 53 over the Beaver Run River, Houtzdale Borough, Clearfield County, as the Cpl. Melvin Philip \"Dutch\" Henry Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2465/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2dd077ac-cc79-4d4a-becf-e79aa12a8dcd",
+    "identifier": "HB 1482",
+    "title": "An Act designating the bridge identified as Bridge Key 48006, carrying State Route 3007 over Carson Run in Knox Township, Clearfield County, as the Sgt. Ronald Bloom Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1482/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1464c664-ddb7-423e-b5c0-198fe7c08071",
+    "identifier": "HB 1050",
+    "title": "An Act amending the act of December 19, 1988 (P.L.1262, No.156), known as the Local Option Small Games of Chance Act, in preliminary provisions, further providing for definitions; in games of chance, further providing for prize limits and for sales limited, providing for pull-tab deals, further providing for distributor licenses, for registration of manufacturers, for regulations of department and for licensing of eligible organizations; in club licensees, further providing for distribution of proceeds; and, in enforcement, further providing for revocation of licenses and providing for other penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-24T04:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1050/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

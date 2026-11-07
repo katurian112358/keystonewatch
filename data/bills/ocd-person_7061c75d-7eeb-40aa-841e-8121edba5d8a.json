@@ -1168,5 +1168,125 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1245/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/10396f90-4d55-4d48-beec-ffe6d789bcc9",
+    "identifier": "SB 81",
+    "title": "An Act authorizing the Commonwealth of Pennsylvania to join the Dentist and Dental Hygienist Compact; and providing for the form of the compact.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB81/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b75ff089-4561-4eac-9ba8-3af7d3ab6d57",
+    "identifier": "SB 1246",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for definitions and for imposition of tax.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1246/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2dd31a34-6250-4396-be9a-8aeb0d2265c6",
+    "identifier": "SB 1253",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in interscholastic athletics accountability, providing for playoffs and championships.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1253/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/641a970c-4f5f-45a3-a763-f5bf3dd6cf30",
+    "identifier": "SB 1254",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in Public Utility Commission, further providing for consumer protection and information.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1254/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c769dbbf-bbe0-4c9b-b6e9-4a4e299ff77f",
+    "identifier": "SB 1283",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in rules of evidence, further providing for subpoena of records.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1283/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6d9963f1-7a49-4112-a013-19d5968d25fc",
+    "identifier": "SB 110",
+    "title": "An Act amending the act of June 24, 1976 (P.L.424, No.101), referred to as the Emergency and Law Enforcement Personnel Death Benefits Act, further providing for title of act, for application and authority for payment and eligibility and amount of benefit and for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-02T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB110/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eafe1501-9b70-4a5d-9426-b40e710b062f",
+    "identifier": "SR 292",
+    "title": "A Resolution designating May 8, 2026, as \"Provider Appreciation Day\" in Pennsylvania to recognize child care providers for their important work and how valuable they are to our communities.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-01T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR292/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2f769caf-dafe-4121-a073-f7a3fa2827ea",
+    "identifier": "SR 298",
+    "title": "A Resolution designating May 4, 2026, as \"Aerospace Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR298/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

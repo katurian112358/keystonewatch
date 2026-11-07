@@ -5233,5 +5233,530 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR128/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4c1065c2-cdd8-49f3-8aa0-da9d04969dbb",
+    "identifier": "SR 243",
+    "title": "A Resolution designating the week of April 20 through 24, 2026, as \"Local Government Week\" and April 22, 2026, as \"Local Government Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-11T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR243/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ada290e2-bd53-4acd-affe-5227d835bc7a",
+    "identifier": "SB 197",
+    "title": "An Act amending the act of October 10, 1975 (P.L.383, No.110), known as the Physical Therapy Practice Act, further providing for definitions, for powers and duties of board, for continuing education and for practice of physical therapy.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-29T05:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB197/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/10396f90-4d55-4d48-beec-ffe6d789bcc9",
+    "identifier": "SB 81",
+    "title": "An Act authorizing the Commonwealth of Pennsylvania to join the Dentist and Dental Hygienist Compact; and providing for the form of the compact.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB81/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/641a970c-4f5f-45a3-a763-f5bf3dd6cf30",
+    "identifier": "SB 1254",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in Public Utility Commission, further providing for consumer protection and information.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1254/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1c82c874-87af-4374-8192-bbe1eee7f405",
+    "identifier": "SB 1258",
+    "title": "An Act amending Title 12 (Commerce and Trade) of the Pennsylvania Consolidated Statutes, in small business first, further providing for capital development loans.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-01T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1258/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5fd10f10-1b78-4474-85b6-83c94c49e862",
+    "identifier": "SB 817",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, providing for prevailing wage and apprenticeship requirements.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB817/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4a55825c-1e93-405e-b8dd-1a2f2d87fb90",
+    "identifier": "SR 256",
+    "title": "A Resolution designating October 13, 2026, as \"Metastatic Breast Cancer Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-20T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR256/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f81f889b-8fbb-4dbf-a3a4-f53d53b09628",
+    "identifier": "SB 11",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code,  in the Secretary of the Commonwealth, further providing for powers and duties of the Secretary of the Commonwealth; in primary and election expenses, further providing for definitions, for organization of political committees, treasurer and assistant treasurer and records of candidate and committees, for registration and for reporting by candidate and political committees and other persons, providing for limitations on certain contributions, further providing for residual funds, for late filing fee and certificate of filing, for contributions or expenditures by national banks, corporations or unincorporated associations, for advertising and for reports by business entities and publication by Secretary of the Commonwealth and providing for independent expenditures and for independent expenditure evaluation; and providing for corporate political accountability.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-25T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB11/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7653bf48-5fc1-47f3-ad55-839af3506bcc",
+    "identifier": "SB 1112",
+    "title": "An Act providing for access to contraceptives; imposing duties on the Insurance Department and the Department of Human Services; providing for severability; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-05T05:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1112/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/534e35cc-ab4c-4ade-9b42-6eef60c7504b",
+    "identifier": "SB 97",
+    "title": "An Act amending Titles 65 (Public Officers) and 74 (Transportation) of the Pennsylvania Consolidated Statutes, in ethics standards and financial disclosure, further providing for definitions, for restricted activities, for statement of financial interests and for penalties; in lobbying disclosure, further providing for definitions, for reporting and for penalties; and, in Turnpike Commission standards of conduct, further providing for code of conduct.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB97/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b3740d6d-fc08-4837-8d6f-68c6f0ef73a6",
+    "identifier": "SR 266",
+    "title": "A Resolution designating the month of April 2026 as \"Pennsylvania Donate Life Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-09T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR266/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b1aaf239-049f-4d60-a081-a8c64ac517f9",
+    "identifier": "SR 272",
+    "title": "A Resolution recognizing the month of April 2026 as \"Sexual Assault Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR272/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dd89a917-bd2b-4496-bd47-f22f3f430ee2",
+    "identifier": "SR 271",
+    "title": "A Resolution recognizing the week of April 19 through 25, 2026, as \"National Library Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR271/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b424fa6e-ef7b-4493-8bf0-98b63f14f992",
+    "identifier": "SB 791",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school finances, further providing for school districts lying in more than one county or in more than one municipality and limitation on total tax revenues.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB791/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d20fa097-38e9-48e2-9479-74b9950204f3",
+    "identifier": "SB 1274",
+    "title": "An Act amending the act of April 14, 1972 (P.L.233, No.64), known as The Controlled Substance, Drug, Device and Cosmetic Act, further providing for definitions; and providing for medical marijuana exemption.",
+    "session": "2025-2026",
+    "status": "Referred to Law & Justice",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Law & Justice"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1274/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6d9963f1-7a49-4112-a013-19d5968d25fc",
+    "identifier": "SB 110",
+    "title": "An Act amending the act of June 24, 1976 (P.L.424, No.101), referred to as the Emergency and Law Enforcement Personnel Death Benefits Act, further providing for title of act, for application and authority for payment and eligibility and amount of benefit and for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-02T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB110/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/301aca90-f3ca-499a-b4e4-d58379bcafeb",
+    "identifier": "SB 131",
+    "title": "A Joint Resolution proposing integrated and distinct amendments to the Constitution of the Commonwealth of Pennsylvania, repealing provisions relating to Legislative Reapportionment Commission and providing for Independent Redistricting Commission and for redistricting criteria.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB131/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/05611f74-d758-45fb-9e7e-a58217bb4c7d",
+    "identifier": "SB 745",
+    "title": "An Act amending the act of November 24, 1976 (P.L.1176, No.261), known as the Manufactured Home Community Rights Act, providing for resident associations and group meetings; further providing for disclosure of fees; providing for reasonable increases in rent and fees, for justified rent increase to support extraordinary increases in operating expenses and for temporary surcharge for capital improvements; and further providing for damages.",
+    "session": "2025-2026",
+    "status": "Referred to Urban Affairs & Housing",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Urban Affairs & Housing"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB745/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/295b2eb5-a5d0-4618-83c2-158d3fd2b88c",
+    "identifier": "SB 1175",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in Innovate in PA Tax Credit, further providing for legislative intent, for definitions, for duties, for use of tax credits by qualified taxpayers, for sale, carryover and carryback, for sale of tax credits to qualified taxpayers, for Innovate in PA Program, for guidelines and for report and providing for second distribution report.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-18T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1175/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/db70ad2f-7fb5-4cae-b655-8dd48e002809",
+    "identifier": "SR 283",
+    "title": "A Resolution honoring the life and legacy of Reverend Jesse Jackson.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-23T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR283/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ee04a55b-7461-4d67-a4d6-830686186732",
+    "identifier": "SB 1301",
+    "title": "An Act amending the act of December 5, 1936 (2nd Sp.Sess., 1937 P.L.2897, No.1), known as the Unemployment Compensation Law, in preliminary provisions, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-23T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1301/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ee708849-8271-4969-abe7-24c167dc03db",
+    "identifier": "SR 289",
+    "title": "A Resolution designating the week of April 26 through May 2, 2026, as \"Jewish Day Schools Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-23T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR289/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/04d49887-d6ee-48a1-b0ac-b10e04a54dd6",
+    "identifier": "SB 1297",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in Computer Data Center Equipment Incentive Program, further providing for application for certification and for separation of facilities, providing for additional eligibility requirements, further providing for notification, for revocation of certification, for application for certification and for separation of facilities, providing for additional eligibility requirements and further providing for notification and records and for revocation of certification.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-23T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1297/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b5943fdb-2def-483c-b194-63c0cdc64b5e",
+    "identifier": "SB 1114",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in restructuring of electric utility industry, providing for large load customers; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-15T05:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1114/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8ba3ab89-cc66-48ea-9bd6-d2f582608f52",
+    "identifier": "SR 274",
+    "title": "A Resolution recognizing the week of April 19 through 25, 2026, as \"National Infertility Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR274/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f240b0e4-3422-4b67-b231-530f54b63f96",
+    "identifier": "SR 262",
+    "title": "A Resolution recognizing the 56th celebration of \"Earth Day\" on April 22, 2026, in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-08T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR262/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/803fa366-df8c-4bea-a957-733bd07efc0f",
+    "identifier": "SR 263",
+    "title": "A Resolution recognizing the week of April 19 through 25, 2026, as \"National Crime Victims' Rights Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-08T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR263/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/411d316f-d7ed-4145-968d-d8e922cf541b",
+    "identifier": "SR 260",
+    "title": "A Resolution recognizing the month of April 2026 as \"National Fair Housing Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-01T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR260/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2e2f15fb-04a6-48e8-aea1-408e4fc071ff",
+    "identifier": "SB 257",
+    "title": "An Act providing for standards for carbon monoxide alarms in certain lodging establishments; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB257/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/356efc00-0a95-492e-bb2f-d4a3fdeb8a56",
+    "identifier": "SB 258",
+    "title": "An Act providing for standards for carbon monoxide alarms in dormitories; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB258/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b8e73b98-013f-4f71-a978-ce33265dbd53",
+    "identifier": "SB 1059",
+    "title": "An Act providing for paid leave time for a pregnancy loss or related reason.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-16T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1059/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/77d4e2d5-34db-4af8-bb01-bc5dcf12281d",
+    "identifier": "SB 259",
+    "title": "An Act providing for standards for carbon monoxide alarms in schools; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB259/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eafe1501-9b70-4a5d-9426-b40e710b062f",
+    "identifier": "SR 292",
+    "title": "A Resolution designating May 8, 2026, as \"Provider Appreciation Day\" in Pennsylvania to recognize child care providers for their important work and how valuable they are to our communities.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-01T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR292/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dae122ca-77e8-480e-8162-71e7eeb18ebc",
+    "identifier": "SR 34",
+    "title": "A Resolution designating the month of April 2025 as \"Community College Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR34/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ff8be4c3-c769-481e-9595-f8946fe3a481",
+    "identifier": "SR 279",
+    "title": "A Resolution recognizing the month of May 2026 as \"National Mammography Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR279/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

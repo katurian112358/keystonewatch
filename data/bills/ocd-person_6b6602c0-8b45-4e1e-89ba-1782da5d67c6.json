@@ -958,5 +958,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1208/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7158b07d-ba80-4ba7-a355-0023958caa78",
+    "identifier": "HB 563",
+    "title": "An Act amending the act of July 9, 1987 (P.L.220, No.39), known as the Social Workers, Marriage and Family Therapists and Professional Counselors Act, providing for licensing and regulating the practice of music therapy; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-12T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB563/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/72f94f03-dbe1-45bc-a25e-9ebdb71193d8",
+    "identifier": "HB 266",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in primary and election expenses, providing for limitations on contributions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB266/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/88819134-c84c-4e84-ab8c-cf9da33ca1b4",
+    "identifier": "HB 2376",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, providing for civil immigration arrests in houses of worship.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2376/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/903a21a9-73c8-438c-9da1-3bca245f3248",
+    "identifier": "HR 484",
+    "title": "A Concurrent Resolution directing the Joint State Government Commission to study the creation of a Statewide housing accelerator and to conduct a comprehensive review of State and local housing approval and permitting processes that delay residential construction.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-16T04:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR484/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/77e40d6d-98ff-4607-8d92-1dbe5b18e7b9",
+    "identifier": "HB 2428",
+    "title": "An Act amending the act of November 10, 1999 (P.L.491, No.45), known as the Pennsylvania Construction Code Act, in training and certification of inspectors, further providing for education and training programs and providing for the Residential Construction Workforce Training Grant Program; and establishing the Residential Construction Workforce Training Account.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-21T04:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2428/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/77a0d635-3a56-4893-b818-99f695fabdfc",
+    "identifier": "HB 2323",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in military educational programs, further providing for definitions, for eligibility, for certification of eligibility, for grants, for amount of grants, for limitations and for recoupment of grant payments.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-27T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2323/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

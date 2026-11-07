@@ -3073,5 +3073,320 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR128/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f58202c3-28fe-4b0a-a441-135df5dd0c60",
+    "identifier": "SR 246",
+    "title": "A Resolution designating the week of March 15 through 21, 2026, as \"Sunshine Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-13T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR246/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c50a5558-af00-45e1-ae02-459d6f1935be",
+    "identifier": "SR 219",
+    "title": "A Resolution honoring the heroes and remembering the victims of the Learjet 55 medevac airplane accident in Northeast Philadelphia on January 31, 2025.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-30T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR219/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/10396f90-4d55-4d48-beec-ffe6d789bcc9",
+    "identifier": "SB 81",
+    "title": "An Act authorizing the Commonwealth of Pennsylvania to join the Dentist and Dental Hygienist Compact; and providing for the form of the compact.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB81/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b75ff089-4561-4eac-9ba8-3af7d3ab6d57",
+    "identifier": "SB 1246",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for definitions and for imposition of tax.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1246/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/649c5b0f-01ec-42e2-87a0-1655eec9318b",
+    "identifier": "SB 471",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in general provisions relating to criminal proceedings, providing for citizenship status of criminal defendants.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-01T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB471/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/641a970c-4f5f-45a3-a763-f5bf3dd6cf30",
+    "identifier": "SB 1254",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in Public Utility Commission, further providing for consumer protection and information.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1254/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3bc469c2-3967-4002-85fc-70003a94520e",
+    "identifier": "SB 1255",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, further providing for classes of income and providing for exclusion of tips from taxable income.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1255/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5c3b67d4-9285-4343-8793-c98422c05896",
+    "identifier": "SB 751",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in inheritance tax, further providing for the rate of inheritance tax.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB751/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b4a4d0c3-32b8-4229-b0bb-d454eaee20f2",
+    "identifier": "SB 750",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in inheritance tax, further providing for the rate of inheritance tax.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB750/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1ad58025-cd09-4684-91c3-0d3a4b4d3ca9",
+    "identifier": "SB 1275",
+    "title": "An Act amending Titles 8 (Boroughs and Incorporated Towns) and 11 (Cities) of the Pennsylvania Consolidated Statutes, in elections of officers, further providing for officers elected; and, in elected officers and elections, providing for newly elected officer training.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1275/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/83af8871-d1b0-4307-97ff-199f547dca5a",
+    "identifier": "SB 925",
+    "title": "An Act amending the act of June 22, 1937 (P.L.1987, No.394), known as The Clean Streams Law, in other pollutions and potential pollution, further providing for potential pollution.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-14T04:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB925/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/644819da-bf43-44eb-8016-51d16d40bd34",
+    "identifier": "SR 265",
+    "title": "A Resolution recognizing April 15, 2026, as \"Purple Up! For Military Kids Day\" and the month of April 2026 as the \"Month of the Military Child\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-09T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR265/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c769dbbf-bbe0-4c9b-b6e9-4a4e299ff77f",
+    "identifier": "SB 1283",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in rules of evidence, further providing for subpoena of records.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1283/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/401c6185-6002-488d-a413-c5dc887904a1",
+    "identifier": "SR 282",
+    "title": "A Resolution recognizing the week of April 20 through 24, 2026, as \"National Home Visiting Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR282/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6b88eea2-9c36-4556-b639-8a4ae00ee055",
+    "identifier": "SR 281",
+    "title": "A Resolution commemorating the anniversary of Operation El Dorado Canyon.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR281/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/47f2d981-fd79-4b19-a35c-a3f8060bb076",
+    "identifier": "SB 233",
+    "title": "An Act prohibiting the preparation, manufacture, sale or distribution of unsafe kratom products and the sale or distribution of kratom products to individuals younger than 21 years of age; providing for duties of Department of Health; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB233/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6255f930-09b4-49dd-b443-03bfc62da776",
+    "identifier": "SB 44",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in human trafficking, further providing for definitions and providing for victim determination statement and for State Human Trafficking Resource Coordinator; and, in licensing of drivers, providing for restoration of operating privilege for victims of human trafficking.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to Senate Rule 9)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-22T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to Senate Rule 9)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB44/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/40d87bb2-4161-44ce-885f-61109ae69610",
+    "identifier": "SR 247",
+    "title": "A Resolution honoring and expressing unwavering support from the Senate of Pennsylvania to the soldiers, airmen, marines and sailors of the United States Armed Forces serving in Operation Epic Fury and recognizing their courage, sacrifice and devotion to the defense of liberty.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-23T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR247/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/925877e4-47a7-4cde-9629-b94917f45327",
+    "identifier": "SR 280",
+    "title": "A Resolution designating the month of April 2026 as \"Faith Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR280/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/087ebd3c-4510-488e-96ef-dfc2c72b9917",
+    "identifier": "SB 1317",
+    "title": "An Act amending the act of November 23, 2010 (P.L.1083, No.108), known as the Covered Device Recycling Act, in preliminary provisions, further providing for definitions; in duties of manufacturers and retailers, further providing for sales prohibition, for registration and for manufacturer plan and reporting; and, in administration, further providing for duties of department, for annual report and for enforcement.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-01T04:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1317/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dae122ca-77e8-480e-8162-71e7eeb18ebc",
+    "identifier": "SR 34",
+    "title": "A Resolution designating the month of April 2025 as \"Community College Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-10T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR34/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

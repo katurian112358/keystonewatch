@@ -718,5 +718,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5ec81fe9-dde5-457c-9f49-0c2dc5476454",
+    "identifier": "HB 1693",
+    "title": "An Act amending Title 29 (Federal Relations) of the Pennsylvania Consolidated Statutes, providing for immigration compliance and public safety.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-02T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1693/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1149ea11-aa8e-4f5f-85f0-7c2312d0049f",
+    "identifier": "HB 2364",
+    "title": "An Act amending the act of October 10, 1975 (P.L.383, No.110), known as the Physical Therapy Practice Act, further providing for definitions, for training and license required and exceptions and for physical therapist assistant, education and examination, scope of duties and certification.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-08T04:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2364/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a99b3499-797a-45b7-9682-e26fcd3cb24e",
+    "identifier": "HB 2308",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in institutions of higher education, establishing the PA WORKS Scholarship Grant Program and the trade career-incentive tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-23T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2308/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c7ff315e-34df-4864-8565-02d39b735462",
+    "identifier": "HR 227",
+    "title": "A Resolution designating the week of August 17 through 23, 2025, as \"Little League World Series Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR227/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/87b8c068-526e-4573-b49a-9f10b2b31645",
+    "identifier": "HB 2399",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, further providing for Assistance Recipient Identification Program and for administration of assistance and related functions.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-16T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2399/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

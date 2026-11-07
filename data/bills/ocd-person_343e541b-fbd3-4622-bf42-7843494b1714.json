@@ -403,5 +403,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2310/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6c12d764-54b0-4fc2-b36f-c9bb69ac8e56",
+    "identifier": "HB 2319",
+    "title": "An Act amending the act of June 24, 1976 (P.L.424, No.101), referred to as the Emergency and Law Enforcement Personnel Death Benefits Act, further providing for title of act; and adding provisions relating to telecommunicators.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-26T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2319/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5ec81fe9-dde5-457c-9f49-0c2dc5476454",
+    "identifier": "HB 1693",
+    "title": "An Act amending Title 29 (Federal Relations) of the Pennsylvania Consolidated Statutes, providing for immigration compliance and public safety.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-02T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1693/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e071e309-3d55-4d89-9353-31b1c0cc572d",
+    "identifier": "HR 479",
+    "title": "A Resolution honoring the memory of law enforcement officers who have lost their lives in the line of duty.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR479/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/5be6098d-d554-4d1e-9c63-bc6f6eb31ff4",
+    "identifier": "HB 2472",
+    "title": "An Act designating a bridge, identified as Bridge Key 31485, on that portion of Pennsylvania Route 601 in Paint Borough, Somerset County, as the Staff Sergeant John P. Parks Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2472/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/598b3a5c-fc14-42b8-b8d2-8c4d0a0a92d3",
+    "identifier": "HB 910",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in offenses against the family, further providing for the offense of dealing in infant children.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB910/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

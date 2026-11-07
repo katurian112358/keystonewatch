@@ -178,5 +178,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR281/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c079b5d9-7089-4f3d-8c02-11518406d592",
+    "identifier": "HB 1037",
+    "title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in subdivision and land development, further providing for contents of subdivision and land development ordinance.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-08T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1037/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5ec81fe9-dde5-457c-9f49-0c2dc5476454",
+    "identifier": "HB 1693",
+    "title": "An Act amending Title 29 (Federal Relations) of the Pennsylvania Consolidated Statutes, providing for immigration compliance and public safety.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-02T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1693/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a1748e7d-4c65-493e-9e0e-664f00627e24",
+    "identifier": "HB 2393",
+    "title": "An Act amending the act of September 30, 1983 (P.L.160, No.39), known as the Public Official Compensation Law, further providing for the compensation of members of the General Assembly.",
+    "session": "2025-2026",
+    "status": "Referred to Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-16T04:00:00+00:00",
+      "description": "Referred to Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2393/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

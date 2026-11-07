@@ -148,5 +148,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR424/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/974190cd-5b62-4020-8ef1-67d9ec9b31f9",
+    "identifier": "HR 451",
+    "title": "A Resolution recognizing the week of April 11 through 17, 2026, as \"Black Maternal Health Week\" in Pennsylvania to bring attention to the maternal health crisis and the importance of reducing maternal mortality and morbidity among Black women.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR451/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/90b1a59c-84a5-461e-9732-311a443d1db1",
+    "identifier": "HB 2402",
+    "title": "An Act providing for the capital budget for fiscal year 2026-2027; itemizing public improvement projects, furniture and equipment projects, transportation assistance, flood control projects, Pennsylvania Fish and Boat Commission projects and Manufacturing Fund projects leased or assisted by the Department of General Services and other State agencies, together with their estimated financial costs; authorizing the incurring of debt without the approval of the electors for the purpose of financing the projects to be constructed, acquired or assisted by the Department of General Services and other State agencies; authorizing the use of current revenue for the purpose of financing the projects to be constructed, acquired or assisted by the Department of General Services and other State agencies stating the estimated useful life of the projects; and making appropriations.",
+    "session": "2025-2026",
+    "status": "Re-committed to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2402/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

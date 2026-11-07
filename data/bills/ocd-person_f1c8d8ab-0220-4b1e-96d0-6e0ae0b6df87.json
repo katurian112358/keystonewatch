@@ -1723,5 +1723,170 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/769f5a7b-8651-4b2d-89c1-beef30a35c9c",
+    "identifier": "HR 427",
+    "title": "A Resolution recognizing the week of May 10 through 16, 2026, as \"National Police Week\" and recognizing May 15, 2026, as \"Peace Officers Memorial Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR427/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ee0976ae-1c40-4dad-9e5c-4aa582a24c64",
+    "identifier": "HR 429",
+    "title": "A Resolution recognizing the week of April 12 through 18, 2026, as \"National Public Safety Telecommunicators Week\" in Pennsylvania in honor of those whose diligence and professionalism keep our communities and residents safe.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-11T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR429/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a4750c20-9912-4a67-a4cd-4eb61f6c389d",
+    "identifier": "HB 2012",
+    "title": "An Act providing for plumber and plumbing contractors licensure; establishing the State Board of Plumbing Contractors and providing for its powers and duties; conferring powers and imposing duties on the Department of State; establishing fees, fines and civil penalties; establishing the Plumbing Contractors Licensure Account; and making an appropriation.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-06T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2012/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/562c1f2f-c439-45fb-bb58-f1d65b9c5dd0",
+    "identifier": "HB 403",
+    "title": "An Act amending Title 29 (Federal Relations) of the Pennsylvania Consolidated Statutes, providing for immigration preemption and cooperation; and establishing the Immigration Cooperation Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-31T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB403/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f905a203-5e66-48c7-9a15-7683ca7f1aa6",
+    "identifier": "HB 352",
+    "title": "An Act amending the act of August 5, 1932 (Sp.Sess., P.L.45, No.45), referred to as the Sterling Act, further providing for remittance by a city of the first class to a nonresident's resident municipality and school district.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-27T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB352/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1231a3e8-b93f-4ff9-9cb9-67aadb180cc5",
+    "identifier": "HB 817",
+    "title": "An Act amending the act of June 27, 2006 (1st Sp.Sess., P.L.1873, No.1), known as the Taxpayer Relief Act, in taxation by school districts, further providing for public referendum requirements for increasing certain taxes.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-05T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB817/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2510e689-a034-430a-8efb-f94e48fb98cb",
+    "identifier": "HR 240",
+    "title": "A Resolution recognizing the month of January 2026 as \"Stalking Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR240/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2362c9d5-7b22-4497-8649-99c1506820d4",
+    "identifier": "HB 2066",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to inheritance tax; in procedure and administration, further providing for petition for reassessment; and, in governmental obligations, further providing for taxability of government obligations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2066/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c7ff315e-34df-4864-8565-02d39b735462",
+    "identifier": "HR 227",
+    "title": "A Resolution designating the week of August 17 through 23, 2025, as \"Little League World Series Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR227/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/befcb2b8-1f97-41c3-8dd3-c8fc32a0a8aa",
+    "identifier": "HB 1316",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for time for filing returns.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-28T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1316/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0b93073f-e19d-4d73-be99-89be0febbae5",
+    "identifier": "HR 489",
+    "title": "A Resolution designating May 17, 2026, as the \"25th Anniversary of the Educational Improvement Tax Credit Program Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-22T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR489/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -1768,5 +1768,140 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/769f5a7b-8651-4b2d-89c1-beef30a35c9c",
+    "identifier": "HR 427",
+    "title": "A Resolution recognizing the week of May 10 through 16, 2026, as \"National Police Week\" and recognizing May 15, 2026, as \"Peace Officers Memorial Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR427/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a99b3499-797a-45b7-9682-e26fcd3cb24e",
+    "identifier": "HB 2308",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in institutions of higher education, establishing the PA WORKS Scholarship Grant Program and the trade career-incentive tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-23T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2308/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eee5aab2-5fca-4e05-aa46-e330b745a226",
+    "identifier": "HR 465",
+    "title": "A Resolution designating the week of April 13 through 17, 2026, as \"Local Government Week\" and April 22, 2026, as \"Local Government Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR465/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16bd15ef-4545-4dfe-95f8-006ffe3eaa3c",
+    "identifier": "HR 432",
+    "title": "A Resolution designating the month of April 2026 as \"Donate Life Month\" and April 10, 2026, as \"Blue and Green Day\" in Pennsylvania in support of organ donation awareness.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR432/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/365c9078-5733-450a-8506-f138701fac8e",
+    "identifier": "HR 390",
+    "title": "A Resolution recognizing the month of March 2026 as \"Women's History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR390/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0b93073f-e19d-4d73-be99-89be0febbae5",
+    "identifier": "HR 489",
+    "title": "A Resolution designating May 17, 2026, as the \"25th Anniversary of the Educational Improvement Tax Credit Program Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-22T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR489/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/380dd5d4-f1fd-484b-a471-e090d309c897",
+    "identifier": "HR 421",
+    "title": "A Resolution designating the month of April 2026 as \"Child Abuse Prevention Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-02T05:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR421/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e071e309-3d55-4d89-9353-31b1c0cc572d",
+    "identifier": "HR 479",
+    "title": "A Resolution honoring the memory of law enforcement officers who have lost their lives in the line of duty.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR479/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/603e47d3-768b-46d4-9d02-0f3692747c6a",
+    "identifier": "HR 410",
+    "title": "A Resolution recognizing May 9, 2026, as \"National Train Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-05T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR410/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

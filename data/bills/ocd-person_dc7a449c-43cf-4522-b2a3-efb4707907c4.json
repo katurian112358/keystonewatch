@@ -148,5 +148,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2064/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9283c2f7-315d-428a-af38-83df11b49298",
+    "identifier": "HB 2432",
+    "title": "An Act amending the act of December 19, 1988 (P.L.1262, No.156), known as the Local Option Small Games of Chance Act, in games of chance, further providing for prize limits, providing for raffle prize limits and further providing for licensing of eligible organizations and for special permits; and, in club licensees, further providing for distribution of proceeds.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-21T04:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2432/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ec27e51b-4906-4b69-95f7-30ce28333d82",
+    "identifier": "HB 2442",
+    "title": "An Act amending the act of May 1, 1984 (P.L.206, No.43), known as the Pennsylvania Safe Drinking Water Act, providing for temporary operating license; and imposing duties on the Department of Agriculture.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-22T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2442/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

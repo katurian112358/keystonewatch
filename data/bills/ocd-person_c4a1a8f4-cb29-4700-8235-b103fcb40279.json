@@ -2023,5 +2023,170 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR385/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0ee1e369-b98d-4063-bb35-2bd1b83a2d4e",
+    "identifier": "HR 440",
+    "title": "A Resolution designating March 8, 2026, as \"Fight of the Century Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR440/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7600b76b-eafe-4a05-bdce-5564843814e5",
+    "identifier": "HR 459",
+    "title": "A Resolution urging the Congress of the United States to enact legislation for the payment of Transportation Security Officers during a government shutdown.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-26T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR459/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/25933629-d0b4-427d-9d4b-24c26edd5675",
+    "identifier": "HB 2339",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in assault, further providing for the offense of aggravated assault.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-31T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2339/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f57c8e37-43ac-415d-9940-cb1665f7c935",
+    "identifier": "HR 460",
+    "title": "A Resolution recognizing May 8, 2026, as \"Child Care Provider Appreciation Day\" in Pennsylvania to show appreciation for all child care providers in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR460/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eee5aab2-5fca-4e05-aa46-e330b745a226",
+    "identifier": "HR 465",
+    "title": "A Resolution designating the week of April 13 through 17, 2026, as \"Local Government Week\" and April 22, 2026, as \"Local Government Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR465/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/365c9078-5733-450a-8506-f138701fac8e",
+    "identifier": "HR 390",
+    "title": "A Resolution recognizing the month of March 2026 as \"Women's History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR390/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e6a9528b-2dce-48b6-9be2-2ff0b7f85abb",
+    "identifier": "HR 477",
+    "title": "A Resolution designating the month of May 2026 as \"Motorcycle Safety Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR477/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ae4ba15f-0296-44d7-801c-a19890cc0cba",
+    "identifier": "HB 2463",
+    "title": "An Act amending Title 68 (Real and Personal Property) of the Pennsylvania Consolidated Statutes, in creation, alteration and termination of condominiums, providing for electric vehicle charging stations; in creation, alteration and termination of cooperatives, providing for electric vehicle charging stations; and, in creation, alteration and termination of planned communities, providing for electric vehicle charging stations.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2463/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e071e309-3d55-4d89-9353-31b1c0cc572d",
+    "identifier": "HR 479",
+    "title": "A Resolution honoring the memory of law enforcement officers who have lost their lives in the line of duty.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR479/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/ac07e260-3439-4d2e-9724-da1e8465d741",
+    "identifier": "HR 423",
+    "title": "A Resolution recognizing the week of April 20 through 24, 2026, as \"National Work Zone Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR423/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e6df12b9-8cc5-4874-aded-98ecbe69b14b",
+    "identifier": "HR 512",
+    "title": "A Resolution urging the creation of an interstate compact to allow for a competitive electric transmission market to flourish in the best interest of the electric ratepayer and the economy in general.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR512/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

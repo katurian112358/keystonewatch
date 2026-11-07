@@ -2398,5 +2398,155 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB921/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7653bf48-5fc1-47f3-ad55-839af3506bcc",
+    "identifier": "SB 1112",
+    "title": "An Act providing for access to contraceptives; imposing duties on the Insurance Department and the Department of Human Services; providing for severability; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-05T05:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1112/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b1aaf239-049f-4d60-a081-a8c64ac517f9",
+    "identifier": "SR 272",
+    "title": "A Resolution recognizing the month of April 2026 as \"Sexual Assault Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR272/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dd89a917-bd2b-4496-bd47-f22f3f430ee2",
+    "identifier": "SR 271",
+    "title": "A Resolution recognizing the week of April 19 through 25, 2026, as \"National Library Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR271/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/301aca90-f3ca-499a-b4e4-d58379bcafeb",
+    "identifier": "SB 131",
+    "title": "A Joint Resolution proposing integrated and distinct amendments to the Constitution of the Commonwealth of Pennsylvania, repealing provisions relating to Legislative Reapportionment Commission and providing for Independent Redistricting Commission and for redistricting criteria.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-26T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB131/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/05611f74-d758-45fb-9e7e-a58217bb4c7d",
+    "identifier": "SB 745",
+    "title": "An Act amending the act of November 24, 1976 (P.L.1176, No.261), known as the Manufactured Home Community Rights Act, providing for resident associations and group meetings; further providing for disclosure of fees; providing for reasonable increases in rent and fees, for justified rent increase to support extraordinary increases in operating expenses and for temporary surcharge for capital improvements; and further providing for damages.",
+    "session": "2025-2026",
+    "status": "Referred to Urban Affairs & Housing",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-03T04:00:00+00:00",
+      "description": "Referred to Urban Affairs & Housing"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB745/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b5943fdb-2def-483c-b194-63c0cdc64b5e",
+    "identifier": "SB 1114",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in restructuring of electric utility industry, providing for large load customers; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-15T05:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1114/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2e2f15fb-04a6-48e8-aea1-408e4fc071ff",
+    "identifier": "SB 257",
+    "title": "An Act providing for standards for carbon monoxide alarms in certain lodging establishments; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB257/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/356efc00-0a95-492e-bb2f-d4a3fdeb8a56",
+    "identifier": "SB 258",
+    "title": "An Act providing for standards for carbon monoxide alarms in dormitories; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB258/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/77d4e2d5-34db-4af8-bb01-bc5dcf12281d",
+    "identifier": "SB 259",
+    "title": "An Act providing for standards for carbon monoxide alarms in schools; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB259/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8d1390e2-76b9-44a2-b456-06712dc15169",
+    "identifier": "SB 640",
+    "title": "An Act amending the act of December 17, 1968 (P.L.1224, No.387), known as the Unfair Trade Practices and Consumer Protection Law, further providing for definitions and for unlawful acts or practices and exclusions.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-14T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB640/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -4348,5 +4348,425 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cb18bde2-7118-4669-b5d0-9abacf883aa4",
+    "identifier": "HR 446",
+    "title": "A Resolution designating March 25, 2026, as \"Greek Independence Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR446/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/769f5a7b-8651-4b2d-89c1-beef30a35c9c",
+    "identifier": "HR 427",
+    "title": "A Resolution recognizing the week of May 10 through 16, 2026, as \"National Police Week\" and recognizing May 15, 2026, as \"Peace Officers Memorial Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR427/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/200ed5ab-6cd4-479f-886a-e65c91f1a88d",
+    "identifier": "HR 433",
+    "title": "A Resolution recognizing March 31, 2026, as \"Transgender Day of Visibility\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-12T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR433/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5a5f25bd-d323-45e6-9f73-5465cc1d1a1d",
+    "identifier": "HB 2292",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in obstructing governmental operations, further providing for obstructing administration of law or other governmental function.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-16T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2292/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7158b07d-ba80-4ba7-a355-0023958caa78",
+    "identifier": "HB 563",
+    "title": "An Act amending the act of July 9, 1987 (P.L.220, No.39), known as the Social Workers, Marriage and Family Therapists and Professional Counselors Act, providing for licensing and regulating the practice of music therapy; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-12T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB563/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f57c8e37-43ac-415d-9940-cb1665f7c935",
+    "identifier": "HR 460",
+    "title": "A Resolution recognizing May 8, 2026, as \"Child Care Provider Appreciation Day\" in Pennsylvania to show appreciation for all child care providers in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Children & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Children & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR460/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d6d9f2a8-63d8-4add-b318-07e906adeb06",
+    "identifier": "HB 2322",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in support of the indigent, repealing provisions relating to relatives' liability and procedure.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-27T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2322/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/244a3266-e9f9-4bef-815e-593fc5d5eb19",
+    "identifier": "HB 1760",
+    "title": "An Act amending Titles 51 (Military Affairs), 62 (Procurement) and 74 (Transportation) of the Pennsylvania Consolidated Statutes, in veteran-owned small businesses, further providing for definitions, for regulations, for participation goal, for duties of Department of General Services and for bonding and progress payments, providing for request for full or partial waiver of contract-specific goal, further providing for reports and providing for disparity study; in small and disadvantaged businesses, further providing for policy and for definitions, providing for Small Diverse Business Program and for nonapplicability, further providing for regulations and for duties of department, providing for request for full or partial waiver of contract-specific goal, further providing for bonding and progress payments and for report to General Assembly and providing for aspirational target, for disparity study and for program expiration; providing for Participation Program for Construction and Design Professional Services; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Commerce",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Commerce"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1760/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1149ea11-aa8e-4f5f-85f0-7c2312d0049f",
+    "identifier": "HB 2364",
+    "title": "An Act amending the act of October 10, 1975 (P.L.383, No.110), known as the Physical Therapy Practice Act, further providing for definitions, for training and license required and exceptions and for physical therapist assistant, education and examination, scope of duties and certification.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-08T04:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2364/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c0c4ea82-3a78-4260-966c-20d6b5241cf2",
+    "identifier": "HR 456",
+    "title": "A Resolution designating July 1, 2026, as \"Canada Day\" in Pennsylvania to celebrate the enduring relationship between the Commonwealth of Pennsylvania and Canada.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR456/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2362c9d5-7b22-4497-8649-99c1506820d4",
+    "identifier": "HB 2066",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to inheritance tax; in procedure and administration, further providing for petition for reassessment; and, in governmental obligations, further providing for taxability of government obligations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-03T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2066/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/197949f1-8a4c-45ba-a6e8-3fe7530c79a3",
+    "identifier": "HR 428",
+    "title": "A Resolution recognizing April 25, 2026, as \"Diabetic Eye Screening Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-14T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR428/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8c14ca22-1cc8-42de-9515-7c81c68e2235",
+    "identifier": "HB 1609",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in Commonwealth budget procedures, providing for essential service payments during budget impasse.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-16T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1609/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e9614354-9ef4-4e18-b9e4-de4da1ab301b",
+    "identifier": "HB 728",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, establishing the Identification Upon Reentry Program.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB728/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/365c9078-5733-450a-8506-f138701fac8e",
+    "identifier": "HR 390",
+    "title": "A Resolution recognizing the month of March 2026 as \"Women's History Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR390/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d17e4c71-3484-49aa-8425-1cbfef4df9c9",
+    "identifier": "HB 2383",
+    "title": "An Act amending the act of October 31, 2006 (P.L.1210, No.133), known as the Price Gouging Act, further providing for definitions; and providing for petroleum product price gouging prohibited.",
+    "session": "2025-2026",
+    "status": "Referred to Commerce",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Referred to Commerce"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2383/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f4622b16-5983-4824-9a74-4cd1a9030556",
+    "identifier": "HB 2387",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in particular rights and immunities, providing for liability for wrongful death of companion animal.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-16T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2387/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6a416231-0bed-48a0-a9e9-31ce72ee9f24",
+    "identifier": "HB 98",
+    "title": "An Act providing for licensure of electrical contractors, electricians and apprentice electricians; establishing the State Board of Electrical Licensure; providing for powers and duties of the board; establishing fees, fines and penalties; and making an appropriation.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB98/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/db5fb17e-2dd7-4a01-ae57-8b270b828119",
+    "identifier": "HB 1383",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in juvenile matters, further providing for definitions, for scope of chapter, for inspection of court files and records, for transfer from criminal proceedings, for place of detention and for conduct of hearings and repealing provisions relating to transfer to criminal proceedings; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-28T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1383/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6c5bc4cd-2b62-4f73-81f7-0334ac7d5819",
+    "identifier": "HB 2424",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in charter schools, further providing for funding for charter schools.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-18T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2424/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/179cf75c-f489-46e4-ab22-4efe4497470b",
+    "identifier": "HB 1733",
+    "title": "An Act amending the act of July 9, 1987 (P.L.220, No.39), known as the Social Workers, Marriage and Family Therapists and Professional Counselors Act, further providing for legislative intent, for definitions, for license required, for State Board of Social Workers, Marriage and Family Therapists and Professional Counselors, for powers and functions of board, for qualifications for license, for procedures for licensing, for exemption from licensure examination, for reciprocity, for endorsement of out-of-State licenses and for reinstatement of license; providing for restriction on use of title \"licensed professional art therapist\" and related titles; and further providing for penalties, for license renewal, records and fees and for unlawful practice.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-14T04:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1733/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/24bb55b9-2879-4b10-aee7-2c3bc36023d4",
+    "identifier": "HB 237",
+    "title": "An Act amending the act of June 24, 1976 (P.L.424, No.101), referred to as the Emergency and Law Enforcement Personnel Death Benefits Act, further providing for title of act, for application and authority for payment and eligibility and amount of benefit and for definitions.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-27T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB237/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/96e3a22d-7f92-4f3c-9b8f-181b94429bba",
+    "identifier": "HB 2366",
+    "title": "An Act designating a portion of Pennsylvania Route 18 from the intersection with 37th Street to the intersection with Wallace Run Road in Beaver Falls, Beaver County, as the Sgt. Allan R. Bevington Memorial Highway.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-08T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2366/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e071e309-3d55-4d89-9353-31b1c0cc572d",
+    "identifier": "HR 479",
+    "title": "A Resolution honoring the memory of law enforcement officers who have lost their lives in the line of duty.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR479/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/2dd077ac-cc79-4d4a-becf-e79aa12a8dcd",
+    "identifier": "HB 1482",
+    "title": "An Act designating the bridge identified as Bridge Key 48006, carrying State Route 3007 over Carson Run in Knox Township, Clearfield County, as the Sgt. Ronald Bloom Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1482/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/77a0d635-3a56-4893-b818-99f695fabdfc",
+    "identifier": "HB 2323",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in military educational programs, further providing for definitions, for eligibility, for certification of eligibility, for grants, for amount of grants, for limitations and for recoupment of grant payments.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-27T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2323/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4064ca80-867e-4c13-b2dd-c13269fb3f65",
+    "identifier": "HB 2362",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in general provisions relating to operation of vehicles, further providing for obedience to authorized persons directing traffic and providing for drivers in organized motorcycle processions; and, in rules of the road in general, further providing for following too closely.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-07T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2362/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b44ba634-d847-4702-a29a-07562da39332",
+    "identifier": "HR 474",
+    "title": "A Resolution recognizing May 10 through 19, 2026, as \"Go Public Gardens Days\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR474/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

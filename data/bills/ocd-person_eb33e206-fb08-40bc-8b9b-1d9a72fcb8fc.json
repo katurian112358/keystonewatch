@@ -1108,5 +1108,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0ee1e369-b98d-4063-bb35-2bd1b83a2d4e",
+    "identifier": "HR 440",
+    "title": "A Resolution designating March 8, 2026, as \"Fight of the Century Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR440/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/61e573f3-b770-4db0-9743-d2be8d678653",
+    "identifier": "HB 163",
+    "title": "An Act amending the act of April 6, 1980 (P.L.102, No.39), referred to as the Agricultural Land Acquisition by Aliens Law, further prohibiting certain entities from acquiring an interest in agricultural land; providing for investigation by Attorney General and for responsibilities of purchaser and Attorney General; further providing for forfeiture of lands; providing for real estate auction; and further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-16T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB163/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7d5dc60c-72cd-4a10-9fda-02dfe3d202be",
+    "identifier": "HB 483",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, further providing for sale or transfer of firearms.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-04T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB483/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

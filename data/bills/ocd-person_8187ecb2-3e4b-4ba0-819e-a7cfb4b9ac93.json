@@ -148,5 +148,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR299/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fe46d1c1-0937-4b3d-be30-67d1c0d0d7b9",
+    "identifier": "HR 470",
+    "title": "A Resolution designating May 15, 2026, as \"Prader Willi Syndrome Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-04T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR470/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

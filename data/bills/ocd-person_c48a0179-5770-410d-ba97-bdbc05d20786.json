@@ -148,5 +148,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR160/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3dcef180-63f5-499f-9577-a5ac597417d3",
+    "identifier": "SR 287",
+    "title": "A Resolution noting with sadness the death of the Honorable Katherine \"Katie\" True, former eight-term member of the House of Representatives from Lancaster County, who died October 7, 2025.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-21T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR287/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/ff8be4c3-c769-481e-9595-f8946fe3a481",
+    "identifier": "SR 279",
+    "title": "A Resolution recognizing the month of May 2026 as \"National Mammography Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR279/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -433,5 +433,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB277/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0ee1e369-b98d-4063-bb35-2bd1b83a2d4e",
+    "identifier": "HR 440",
+    "title": "A Resolution designating March 8, 2026, as \"Fight of the Century Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR440/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -178,5 +178,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2079/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d17e4c71-3484-49aa-8425-1cbfef4df9c9",
+    "identifier": "HB 2383",
+    "title": "An Act amending the act of October 31, 2006 (P.L.1210, No.133), known as the Price Gouging Act, further providing for definitions; and providing for petroleum product price gouging prohibited.",
+    "session": "2025-2026",
+    "status": "Referred to Commerce",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Referred to Commerce"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2383/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5b5f181b-afd4-4623-9167-e133e9f52249",
+    "identifier": "HR 403",
+    "title": "A Resolution designating the month of April 2026 as \"Pennsylvania 8-1-1 Safe Digging Month.\"",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR403/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e071e309-3d55-4d89-9353-31b1c0cc572d",
+    "identifier": "HR 479",
+    "title": "A Resolution honoring the memory of law enforcement officers who have lost their lives in the line of duty.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR479/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
   }
 ]

@@ -643,5 +643,110 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR445/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8e3422df-cba3-4aaf-be1b-eb161f8541d4",
+    "identifier": "HB 2125",
+    "title": "An Act amending the act of April 6, 1951 (P.L.69, No.20), known as The Landlord and Tenant Act of 1951, providing for tenant's rights.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-09T05:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2125/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/72f94f03-dbe1-45bc-a25e-9ebdb71193d8",
+    "identifier": "HB 266",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in primary and election expenses, providing for limitations on contributions.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB266/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/974190cd-5b62-4020-8ef1-67d9ec9b31f9",
+    "identifier": "HR 451",
+    "title": "A Resolution recognizing the week of April 11 through 17, 2026, as \"Black Maternal Health Week\" in Pennsylvania to bring attention to the maternal health crisis and the importance of reducing maternal mortality and morbidity among Black women.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR451/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f88e10ff-be0c-4c1a-a7ce-0cb49b217c07",
+    "identifier": "HB 2456",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, providing for payments for extraordinary personal care services.",
+    "session": "2025-2026",
+    "status": "Referred to Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-27T04:00:00+00:00",
+      "description": "Referred to Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2456/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8ad4ce5b-aca3-4b5b-9948-ab714435e523",
+    "identifier": "HR 452",
+    "title": "A Resolution recognizing the month of April 2026 as \"Sikh Awareness and Appreciation Month\" in Pennsylvania to promote public awareness of the Sikh faith, recognize the important contributions of the Sikh community and combat anti-Sikh bigotry.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR452/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ac07e260-3439-4d2e-9724-da1e8465d741",
+    "identifier": "HR 423",
+    "title": "A Resolution recognizing the week of April 20 through 24, 2026, as \"National Work Zone Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR423/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/89d7be54-0278-4ff1-943c-f58b3fe49fb6",
+    "identifier": "HB 1875",
+    "title": "An Act amending the act of June 24, 1931 (P.L.1206, No.331), known as The First Class Township Code, in finance and taxation, further providing for tax levies.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-08T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1875/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

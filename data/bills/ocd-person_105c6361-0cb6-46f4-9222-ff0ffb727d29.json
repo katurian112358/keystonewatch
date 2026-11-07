@@ -283,5 +283,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB277/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/277348f0-5f8a-4e21-a385-c821303865b6",
+    "identifier": "HB 2267",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school health services, providing for possession and use of prescribed pancreatic enzyme replacement therapy.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-09T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2267/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/562c1f2f-c439-45fb-bb58-f1d65b9c5dd0",
+    "identifier": "HB 403",
+    "title": "An Act amending Title 29 (Federal Relations) of the Pennsylvania Consolidated Statutes, providing for immigration preemption and cooperation; and establishing the Immigration Cooperation Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-31T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB403/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]
