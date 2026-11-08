@@ -268,5 +268,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1309/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e8c266f8-d6a9-4452-a598-562e787a5156",
+    "identifier": "SR 316",
+    "title": "A Resolution congratulating Indiana University of Pennsylvania on the occasion of its sesquicentennial.",
+    "session": "2025-2026",
+    "status": "Transmitted as directed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-13T04:00:00+00:00",
+      "description": "Transmitted as directed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR316/",
+    "sponsorship_role": "primary",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/4743a097-8313-4c02-9f89-461160695f50",
+    "identifier": "SB 1426",
+    "title": "An Act designating the interchange of Interstate 81 with State Route 4007, known as Exit 119, on the border of Cass Township and Butler Township, Schuylkill County, as the PSP Trooper Michael E. Pahira, Jr. Memorial Interchange.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-08-10T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1426/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b05f3377-2e43-4e60-89da-608b2afb678f",
+    "identifier": "SB 1478",
+    "title": "An Act designating a bridge, identified as Bridge Key 70470, carrying State Route 2012, also known as River Road, over Blacklick Creek between Buffington and East Wheatfield Townships in Indiana County, as the Sgt. SOF Frank J. McCloskey Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-25T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1478/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/54ff6ad7-b0b1-43bb-b7a0-9551a33e8784",
+    "identifier": "SB 1482",
+    "title": "An Act designating a bridge, identified as Bridge Key 19239, carrying State Route 1019, also known as Valley Road, over Two Lick Creek in Green Township, Indiana County, as the Tec 5 John George Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-25T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1482/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/58c37c0c-cf6b-431e-a375-956b5ef2cc05",
+    "identifier": "SB 1483",
+    "title": "An Act designating a bridge, identified as Bridge Key 68471, carrying Pennsylvania Route 403 over Pine Run in Marion Center Borough, Indiana County, as the Sergeant Larry McManus Memorial Bridge.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-25T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1483/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

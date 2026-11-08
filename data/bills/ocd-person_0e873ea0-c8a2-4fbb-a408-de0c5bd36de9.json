@@ -193,5 +193,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1609/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7281806b-a219-4af6-bd9a-3acc98b83abf",
+    "identifier": "HB 770",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in higher education accountability and transparency, providing for notice of tuition increase.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-25T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB770/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aa5e062a-33e4-4a30-a84a-33a045e9ced6",
+    "identifier": "HR 471",
+    "title": "A Resolution designating the month of April 2026 as \"Esophageal Cancer Awareness and Prevention Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-16T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR471/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6efd1d6c-c925-4ece-b532-2fc670da1859",
+    "identifier": "HB 2546",
+    "title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in authority of Department of Transportation, further providing for authority of department by prohibiting certain activity relating to automatic dependent surveillance broadcasts.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-28T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2546/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aae5b7b4-a871-48e5-bf55-7e19230a23b3",
+    "identifier": "HB 1112",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in restructuring of electric utility industry, further providing for definitions and for duties of electric distribution companies and providing for duties of public utilities.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-03T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1112/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/72ec13b0-6fe4-46b9-a8d9-76df660c1304",
+    "identifier": "HB 1491",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in emergency medical services system, further providing for declaration of policy, for definitions, for emergency medical services system programs and for duties of department; establishing the State EMS Advisory Board; and further providing for emergency medical services patient care reports, for funding, for notification of trauma center closure, for State Advisory Board, for regional emergency medical services councils, for comprehensive plan, for contracts and grants and for scholarships for recruitment, training and retention.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-21T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1491/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

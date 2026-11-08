@@ -493,5 +493,170 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2066/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/438a6dad-7a1e-4510-b367-7c8f62c527ed",
+    "identifier": "HR 561",
+    "title": "A Resolution honoring the life and extending deepest condolences to the family of Pennsylvania State Police Corporal Timothy J. O'Connor, Jr.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-15T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR561/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/13dc15fe-5bb2-4606-8c44-69bbb53a76ef",
+    "identifier": "HB 2641",
+    "title": "An Act amending Titles 74 (Transportation) and 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in Multimodal Fund, further providing for use of money in fund; in preliminary provisions relating to aviation, further providing for definitions and for Aviation Restricted Account and providing for Aviation Trust Fund; in authority of Department of Transportation, further providing for authority of department; in obstructions to aircraft operation, providing for prohibited conduct; in airport operation and zoning, providing for abandoned or derelict aircraft and further providing for power to adopt airport zoning regulations; in aviation development, further providing for service fees, for tax on aviation fuels, for allocation of funds, for agreement of maintenance and for tax on jet fuels and providing for tax on alternative aviation fuels and for aviation fees; in liquid fuels and fuels tax, further providing for imposition of tax, exemptions and deductions, for distributor's report and payment of tax, for disposition and use of tax and for refunds; imposing fees; imposing penalties; making transfers; abrogating regulations; making a repeal; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-16T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2641/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6a1006a2-6a14-4354-a9ab-100e57c1ad53",
+    "identifier": "HB 2373",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in gross receipts tax, further providing for imposition of tax and for establishment of revenue-neutral reconciliation; and providing for reporting and for transfers.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-09T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2373/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/afe06a2d-eadb-4974-a065-2dfc55dc0e49",
+    "identifier": "HB 454",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, repealing provisions relating to firearms not to be carried without a license, providing for license not required, repealing provisions relating to carrying firearms on public streets or public property in Philadelphia, further providing for prohibited conduct during emergency, providing for sportsman's firearm permit, further providing for licenses and for antique firearms and repealing provisions relating to proof of license and exception; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-03T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB454/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/26211f82-f150-4ce2-995b-3c51d790dfd4",
+    "identifier": "HB 2371",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in sales and use tax, further providing for exclusions from tax; and, in gross receipts tax, further providing for imposition of tax; and providing for reporting and for transfers.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-09T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2371/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7d9b1d70-be82-4217-93e5-02f27893c49e",
+    "identifier": "HB 1204",
+    "title": "An Act amending the act of June 1, 1945 (P.L.1242, No.428), known as the State Highway Law, in rural State highway system and State highways in cities, boroughs and towns, further providing for improvement, reconstruction and maintenance.",
+    "session": "2025-2026",
+    "status": "Referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-15T04:00:00+00:00",
+      "description": "Referred to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1204/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aae5b7b4-a871-48e5-bf55-7e19230a23b3",
+    "identifier": "HB 1112",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in restructuring of electric utility industry, further providing for definitions and for duties of electric distribution companies and providing for duties of public utilities.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-03T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1112/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e52ff532-5aab-4015-b0db-e7744f322aba",
+    "identifier": "HR 340",
+    "title": "House Discharge Resolution discharging Committee on Environmental and Natural Resource Protection from further consideration of Senate Bill No. 186.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-03T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR340/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/69d3f7bd-2001-4a84-ab24-b2a81e329857",
+    "identifier": "HR 362",
+    "title": "House Discharge Resolution discharging Committee on Education from further consideration of House Bill No. 158.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-23T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR362/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/3999ee15-e3e4-4db8-bcca-0326844f22d9",
+    "identifier": "HB 2743",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, further providing for dates and times of school terms and sessions and commencement.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-08-19T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2743/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/100ba196-6132-49b9-96b5-8d46812947ce",
+    "identifier": "HB 2173",
+    "title": "An Act amending the act of December 20, 1985 (P.L.457, No.112), known as the Medical Practice Act of 1985, further providing for definitions, for respiratory therapists, for perfusionist, for genetic counselor and for prosthetists, orthotists, pedorthists and orthotic fitters; providing for medical imaging professionals, radiation therapists, radiologist assistants and trainees; further providing for licenses and certificates and general qualification; repealing provisions relating to radiologic procedures and education and training required; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-08T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2173/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

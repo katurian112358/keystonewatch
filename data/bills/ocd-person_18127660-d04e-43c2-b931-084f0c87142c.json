@@ -763,5 +763,575 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR298/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e1e6e985-12ee-4070-90c3-b556f5e15da6",
+    "identifier": "SR 269",
+    "title": "A Resolution designating the month of May 2026 as \"Amyotrophic Lateral Sclerosis Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR269/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/59dbf326-4b8f-4d88-9eac-f4967c284217",
+    "identifier": "SR 312",
+    "title": "A Resolution recognizing the week of May 10 through 16, 2026, as \"National Hospital Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-07T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR312/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/45cb8a69-1873-4e73-b1f2-5f7fc24f501c",
+    "identifier": "SR 307",
+    "title": "A Resolution recognizing The United States Army Field Band for its participation in the ceremonial meeting of the Pennsylvania Senate that will convene on May 5, 2026, at the National Constitution Center in Philadelphia as part of the United States Semiquincentennial.",
+    "session": "2025-2026",
+    "status": "Transmitted as directed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-14T04:00:00+00:00",
+      "description": "Transmitted as directed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR307/",
+    "sponsorship_role": "primary",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/91c4897c-3ea8-4b30-9949-d3717742cebd",
+    "identifier": "SB 579",
+    "title": "An Act amending the act of July 9, 1987 (P.L.220, No.39), known as the Social Workers, Marriage and Family Therapists and Professional Counselors Act, providing for licensing and regulating the practice of music therapy; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB579/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/89931972-ece8-48d7-9f4e-2827de5b26bf",
+    "identifier": "SB 1340",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in duties and powers of boards of school directors, further providing for publication of rules, regulations and policies; and, in pupils and attendance, further providing for home education program.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-20T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1340/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5e3f2d65-080f-41cb-a82d-7e3cac5c2bac",
+    "identifier": "SR 296",
+    "title": "A Resolution designating the week of May 6 through 12, 2026, as \"Nurses Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR296/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4c0b9ce1-b044-44dd-aeab-db177b3e956f",
+    "identifier": "SR 320",
+    "title": "A Resolution designating the month of June 2026 as \"Dairy Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-20T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR320/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b126668b-90fc-48dc-9377-392c75709dec",
+    "identifier": "SB 25",
+    "title": "An Act amending the act of May 22, 1951 (P.L.317, No.69), known as The Professional Nursing Law,  further providing for title, for definitions, for State Board of Nursing, for dietitian-nutritionist license required, for unauthorized practices and acts not prohibited, for temporary practice permit, for graduates of schools of other states, territories or Dominion of Canada, for persons entitled to practice, for certified registered nurse practitioners and qualifications, for scope of practice for certified registered nurse practitioners, for prescriptive authority for certified registered nurse practitioners, for Drug Review Committee, for professional liability, for reporting of multiple licensure, for continuing nursing education, for punishment for violations, for refusal, suspension or revocation of licenses, for reinstatement of license and for injunction or other process; and providing for the expiration of the State Board of Nursing's power to license certified registered nurse practitioners.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-01-22T05:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB25/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9b5c697f-1ce9-4051-81e6-37d86bf6c1b4",
+    "identifier": "SR 273",
+    "title": "A Resolution designating the week of April 26 through May 2, 2026, as \"Conservation District Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR273/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b46a0e0a-0960-48c2-93ca-4bc01f144487",
+    "identifier": "SR 333",
+    "title": "A Resolution designating the week of June 7 through 13, 2026, as \"Chesapeake Bay Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-04T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR333/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c4358c78-5aa9-4561-b7e6-68f30a57377f",
+    "identifier": "SB 1358",
+    "title": "An Act amending the act of July 25, 1961 (P.L.825, No.359), known as the Oil and Gas Conservation Law, further providing for drilling permits.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-04T04:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1358/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bb17f746-7063-474b-9b83-25c0b9aca74a",
+    "identifier": "SB 1361",
+    "title": "An Act amending the act of April 18, 2016 (P.L.128, No.17), known as the Pennsylvania ABLE Act, in exemptions, providing for exclusion of contributions for purposes of determining need for disabled veterans' real estate tax exemption.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-05T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1361/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/53e77017-68ca-497f-83db-d1ef65226afb",
+    "identifier": "SB 1362",
+    "title": "An Act providing for the Milk Dispensary School Pilot Program; awarding grants; establishing the Milk Dispensary School Pilot Program Account; and imposing duties on the Department of Agriculture.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-05T04:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1362/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/78c4ea4e-6da3-465a-93ae-eb89f1a9123d",
+    "identifier": "SR 341",
+    "title": "A Resolution honoring the life and expressing condolences on the passing of former State Senator Jack McGregor.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-10T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR341/",
+    "sponsorship_role": "primary",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/edd974bf-62cf-4760-94c2-af489705e560",
+    "identifier": "SR 340",
+    "title": "A Resolution designating June 10, 2026, as \"National Guard and Veterans Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-10T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR340/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e8f24461-1e5f-4330-95e6-23f8712da66a",
+    "identifier": "SB 1305",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in emergency medical services system, providing for dementia care training.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-01T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1305/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d47d7586-2ffa-4858-8acd-c74a635e9600",
+    "identifier": "SR 337",
+    "title": "A Resolution recognizing June 15, 2026, as \"World Elder Abuse Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-08T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR337/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a722afb7-2989-4baa-aec7-fd52caa05b0f",
+    "identifier": "SB 1380",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in institutions of higher education, establishing the PA WORKS Scholarship Grant Program and the trade career-incentive tax credit.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-18T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1380/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d73730ae-19ab-4403-a15c-0e29196c2e30",
+    "identifier": "SB 357",
+    "title": "An Act amending Titles 18 (Crimes and Offenses), 23 (Domestic Relations) and 34 (Game) of the Pennsylvania Consolidated Statutes, in inchoate crimes, further providing for the offense of possession of firearm or other dangerous weapon in court facility; in firearms and other dangerous articles, further providing for relinquishment of firearms and firearm licenses by convicted persons, repealing provisions relating to firearms not to be carried without a license and to carrying loaded weapons other than firearms, providing for license not required, further providing for prohibited conduct during emergency, repealing provisions relating to carrying firearms on public streets or public property in Philadelphia, providing for sportsman's firearm permit and further providing for licenses, for sale or transfer of firearms, for antique firearms and for proof of license and exception; in protection from abuse, further providing for relief; in hunting and furtaking, further providing for cooperation after lawfully killing big game; in protection of property and persons, further providing for loaded firearms in vehicles; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to Senate Rule 9)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-25T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to Senate Rule 9)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB357/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/aa3df1e7-2fe4-475a-ab2a-a6df439e75d6",
+    "identifier": "SB 1397",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in mixed-use development tax credit, further providing for mixed-use development tax credits.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-25T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1397/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a8e42c5c-3671-4690-9323-ef96ef8ce3f9",
+    "identifier": "SR 344",
+    "title": "A Resolution designating September 25, 2026, as \"Disabled American Veterans Day\" in Pennsylvania in recognition of the men and women who have borne the wounds of war, and the unwavering advocacy and support of the Disabled American Veterans.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-15T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR344/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/77c08994-e8e1-4914-907b-11afaebe5d65",
+    "identifier": "SR 343",
+    "title": "A Resolution recognizing September 11, 2026, as \"25th Anniversary of the Terrorist Attacks of September 11, 2001, Day\" in Pennsylvania in memory of the civilians and emergency and armed forces personnel who lost their lives in the attacks.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-15T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR343/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/536c1e93-dc0b-4611-8581-96c8ce218509",
+    "identifier": "SR 328",
+    "title": "A Resolution honoring the service and sacrifice of American soldiers and designating the month of June 2026 as \"The Month of the American Soldier\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-28T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR328/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c80ccb8d-8b61-4a6b-9fc3-cddffc64f5cd",
+    "identifier": "SB 1398",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, establishing the Firefighter Cancer Screening Program and the Firefighter Cancer Screening Fund; and, in special funds, further providing for disposition of Budget Stabilization Reserve Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-25T04:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1398/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/84c03704-b7c7-4584-af6f-cdb4aaf93ec1",
+    "identifier": "SR 352",
+    "title": "A Resolution recognizing August 31, 2026, as \"Overdose Awareness Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-08T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR352/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b333c3ee-0f80-4060-81b1-2a1cb3c50af1",
+    "identifier": "SR 331",
+    "title": "A Resolution designating June 2, 2026, as \"Cancer Action Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-01T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR331/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d750e256-1cc6-4d3f-b60d-5858c0a046fd",
+    "identifier": "SB 364",
+    "title": "An Act amending the act of April 13, 1887 (P.L.21, No.18), entitled \"An act for the establishment of a uniform standard of time throughout the Commonwealth,\" providing for Atlantic standard time; and prohibiting the use of daylight saving time.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-03T05:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB364/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6967efd2-6551-421c-949c-a4d2a0a2f9ad",
+    "identifier": "SB 1079",
+    "title": "An Act providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+    "session": "2025-2026",
+    "status": "Referred to Community, Economic & Recreational Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-11T05:00:00+00:00",
+      "description": "Referred to Community, Economic & Recreational Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1079/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7c669d3d-5bc1-4da0-a8cf-d232681363ac",
+    "identifier": "SB 1427",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in other required equipment, further providing for restraint systems.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-08-10T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1427/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a930e222-0ed6-4cef-bcd6-be5e1e529e72",
+    "identifier": "SB 1428",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, further providing for veteran plates and placard, for special plates for recipients of Purple Heart, repealing provisions relating to special plates for Pearl Harbor survivors, further providing for special plates for veterans of Korean War, for special plates for veterans of Persian Gulf War, for Pennsylvania monument registration plate, for special plates for recipients of Expeditionary Forces Medal, for special plates for recipients of Global War on Terrorism Expeditionary Medal, repealing provisions relating to special plates for World War II veterans and further providing for special plates for individuals in the service of the United States Merchant Marine, for special plates for veterans of Vietnam Conflict, for special motorcycle plates related to veterans, for Operation Iraqi Freedom veterans plate, for Operation Inherent Resolve veterans plate, for Operation Enduring Freedom veterans plate, for Afghanistan and Iraq veterans plate, for special plates for veterans, for special plates for current members of the armed forces of the United States, for Gold Star Family plate, for special plates for recipients of Silver Star, for special plates for United States military airborne units, for Blue Star Family plate, for special plates for recipients of Air Medal, for special plates for recipients of Bronze Star, for special plates for recipients of Bronze Star for Valor, for special plates for recipients of Soldier's Medal, for special plates for recipients of Presidential Service Badge, for special plates for recipients of Legion of Merit, for special plates for recipients of Borinqueneers Congressional Gold Medal, for special plates for recipients of Distinguished Service Cross, Distinguished Flying Cross, Navy Cross or Air Force Cross, for special plates for recipients of Combat Action Badge, Combat Infantryman Badge, Combat Action Ribbon, Combat Action Medal or Combat Medical Badge and for special plates for veterans of an ally foreign country.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-08-10T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1428/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4743a097-8313-4c02-9f89-461160695f50",
+    "identifier": "SB 1426",
+    "title": "An Act designating the interchange of Interstate 81 with State Route 4007, known as Exit 119, on the border of Cass Township and Butler Township, Schuylkill County, as the PSP Trooper Michael E. Pahira, Jr. Memorial Interchange.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-08-10T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1426/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9d5022ab-cb74-4693-9f3a-76a75347160f",
+    "identifier": "SR 355",
+    "title": "A Resolution designating September 28, 2026, as \"Green Star Veterans and Families Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-08-13T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR355/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b0b9534b-1b70-4e31-9b15-3758c102dafd",
+    "identifier": "SB 1312",
+    "title": "An Act authorizing the Commonwealth of Pennsylvania to join the Athletic Trainer Interstate Compact; providing for the form of the compact; and imposing additional powers and duties on the Governor and the Secretary of the Commonwealth.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1312/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3f11c7a1-f02c-4091-baa6-1c99ad6a180f",
+    "identifier": "SB 1440",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in emergency medical services system, providing for laryngectomy patient care QR code.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-08-19T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1440/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bdccc251-1e16-4816-9af7-b8c2df056577",
+    "identifier": "SR 359",
+    "title": "A Resolution recognizing the month of September 2026 as \"Veteran Suicide Prevention and Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-08-24T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR359/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b1580a6b-1572-4911-9a6b-c30f090434dd",
+    "identifier": "SR 363",
+    "title": "A Resolution designating the month of September 2026 as \"Childhood Cancer Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-10T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR363/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/69348de0-8da3-4ad5-ab87-40a20b8dd59b",
+    "identifier": "SR 372",
+    "title": "A Resolution designating October 2, 2026, as \"Manufacturing Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-24T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR372/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a688475b-ab31-412f-8532-4ac480272a14",
+    "identifier": "SR 366",
+    "title": "A Resolution recognizing the month of September 2026 as \"National Recovery Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-24T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR366/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

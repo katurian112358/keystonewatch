@@ -13,5 +13,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2004/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4b182249-fd9e-42c7-a496-17fbfb42fe8e",
+    "identifier": "HR 600",
+    "title": "A Resolution authorizing the House of Representatives of the Commonwealth of Pennsylvania to hold session on September 9, 2026, at 5:45 p.m., at Congress Hall in Philadelphia, in celebration of the momentous and historic occasion of the 250th anniversary of the Constitution of Pennsylvania and the United States Semiquincentennial.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-23T04:00:00+00:00",
+      "description": "Originated in Committee on Rules"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR600/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/024f9bc9-7637-4c24-99ad-57954c3b6ea0",
+    "identifier": "HB 2633",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in construction and renovation of buildings by school entities, repealing provisions relating to maintenance program and to building condition assessments and further providing for project reimbursement and for applicability.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-08T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2633/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f34f85ef-a304-4a15-b6fc-bcfd5c15927b",
+    "identifier": "HR 589",
+    "title": "A Resolution celebrating the momentous and historic occasion of the United States Semiquincentennial.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-09T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR589/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/48f68607-d679-4f1b-ae66-eab4826364fa",
+    "identifier": "HR 590",
+    "title": "A Resolution celebrating the momentous occasion of the 250th anniversary of the Constitution of Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-09T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR590/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

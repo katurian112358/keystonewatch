@@ -178,5 +178,50 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR279/",
     "sponsorship_role": "primary",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d03ebae4-368c-47c1-a7f0-169ae0c423e5",
+    "identifier": "SR 304",
+    "title": "A Resolution celebrating the momentous and historic occasion of the United States Semiquincentennial.",
+    "session": "2025-2026",
+    "status": "Transmitted as directed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-05T04:00:00+00:00",
+      "description": "Transmitted as directed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR304/",
+    "sponsorship_role": "primary",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/78c4ea4e-6da3-465a-93ae-eb89f1a9123d",
+    "identifier": "SR 341",
+    "title": "A Resolution honoring the life and expressing condolences on the passing of former State Senator Jack McGregor.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-10T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR341/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/4743a097-8313-4c02-9f89-461160695f50",
+    "identifier": "SB 1426",
+    "title": "An Act designating the interchange of Interstate 81 with State Route 4007, known as Exit 119, on the border of Cass Township and Butler Township, Schuylkill County, as the PSP Trooper Michael E. Pahira, Jr. Memorial Interchange.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-08-10T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1426/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]
