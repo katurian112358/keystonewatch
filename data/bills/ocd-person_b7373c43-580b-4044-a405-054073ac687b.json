@@ -553,5 +553,140 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2396/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/377ca63f-4f61-45c4-b505-1a01f5a2220d",
+    "identifier": "HR 603",
+    "title": "A Resolution honoring the life and extending deepest condolences to the family of Berks County Police Officer Kristen M. Yeager.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR603/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/4f8dc057-3911-4985-a7cd-cae17d2e4470",
+    "identifier": "HR 339",
+    "title": "House Discharge Resolution discharging Committee on Health from further consideration of Senate Bill No. 9.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-03T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR339/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/2916c80b-fd7e-4ef4-8537-a422f4624ceb",
+    "identifier": "HR 642",
+    "title": "House Discharge Resolution discharging Committee on Environmental and Natural Resource Protection from further consideration of Senate Bill No. 403.",
+    "session": "2025-2026",
+    "status": "Referred to House Calendar Under Rule 53",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-29T04:00:00+00:00",
+      "description": "Referred to House Calendar Under Rule 53"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR642/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1c217d69-be47-4d1b-a397-f5bb6c2c8fe5",
+    "identifier": "HB 2795",
+    "title": "An Act amending Title 4 (Amusements) of the Pennsylvania Consolidated Statutes, providing for temporary authorization of skill games.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-24T04:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2795/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d0d503d8-592a-4dc7-9dac-67e9ed656f48",
+    "identifier": "HB 2855",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in inchoate crimes, further providing for prohibited offensive weapons and for use or possession of electric or electronic incapacitation device.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-14T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2855/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/86c699e9-0d2b-4039-92a2-c4d2ef8206b8",
+    "identifier": "HB 1394",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to inheritance tax; in procedure and administration, further providing for petition for reassessment; and, in governmental obligations, further providing for taxability of government obligations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-05T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1394/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f74ee303-4b6f-42c3-8b4e-a9ccd83922ec",
+    "identifier": "HB 158",
+    "title": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harms suffered by designation.",
+    "session": "2025-2026",
+    "status": "Re-referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-01T04:00:00+00:00",
+      "description": "Reported with request to re-refer to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB158/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e1f8e1fe-ae41-45d0-9c82-de00f625ce2f",
+    "identifier": "HR 157",
+    "title": "A Resolution urging the Congress of the United States to pass H.R. 1947, the Treatment and Relief through Emerging and Accessible Therapy for PTSD Act or similar legislation dealing with stellate ganglion block therapy to veterans and members of the armed forces of the United States with post-traumatic stress disorder, during the 119th United States Congress.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-27T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR157/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/60f1eaf3-b26e-4200-b1bc-0169eb69e441",
+    "identifier": "HB 1499",
+    "title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child custody, further providing for definitions, for award of custody, for standing for partial physical custody and supervised physical custody, for presumption in cases concerning primary physical custody, for factors to consider when awarding custody, for consideration of criminal conviction and for parenting plan; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-28T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1499/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

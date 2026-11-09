@@ -7,17 +7,8 @@
     "status": "Act No. 13 of 2025",
     "subjects": [],
     "latest_action": {
-      "id": "d1f4755a-d1d4-4a24-ace8-4655ebe3652d",
-      "organization": {
-        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
-        "name": "Senate",
-        "classification": "upper"
-      },
-      "description": "Signed in House",
       "date": "2025-06-30T04:00:00+00:00",
-      "classification": [],
-      "order": 16,
-      "related_entities": []
+      "description": "Signed in House"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB615/",
     "sponsorship_role": "cosponsor",
@@ -31,19 +22,8 @@
     "status": "Referred to Urban Affairs & Housing",
     "subjects": [],
     "latest_action": {
-      "id": "dc2e889e-097f-4da0-aba3-c507e345d4dd",
-      "organization": {
-        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
-        "name": "Senate",
-        "classification": "upper"
-      },
-      "description": "Referred to Urban Affairs & Housing",
       "date": "2026-06-11T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 9,
-      "related_entities": []
+      "description": "Referred to Urban Affairs & Housing"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2109/",
     "sponsorship_role": "cosponsor",
@@ -57,19 +37,8 @@
     "status": "Referred to Consumer Protection & Professional Licensure",
     "subjects": [],
     "latest_action": {
-      "id": "352510f5-6fd2-4672-bfe2-0892e58bb28f",
-      "organization": {
-        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
-        "name": "Senate",
-        "classification": "upper"
-      },
-      "description": "Referred to Consumer Protection & Professional Licensure",
       "date": "2026-06-05T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 9,
-      "related_entities": []
+      "description": "Referred to Consumer Protection & Professional Licensure"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1106/",
     "sponsorship_role": "cosponsor",
@@ -83,19 +52,8 @@
     "status": "Referred to Environmental Resources & Energy",
     "subjects": [],
     "latest_action": {
-      "id": "31e9d40a-c0ad-4911-b18c-e4b773b72611",
-      "organization": {
-        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
-        "name": "Senate",
-        "classification": "upper"
-      },
-      "description": "Referred to Environmental Resources & Energy",
       "date": "2025-10-03T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 9,
-      "related_entities": []
+      "description": "Referred to Environmental Resources & Energy"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB722/",
     "sponsorship_role": "cosponsor",
@@ -109,19 +67,8 @@
     "status": "Referred to Education",
     "subjects": [],
     "latest_action": {
-      "id": "cdbc7d8c-3999-44bc-ae0c-b69f3dc8a2fb",
-      "organization": {
-        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
-        "name": "Senate",
-        "classification": "upper"
-      },
-      "description": "Referred to Education",
       "date": "2025-02-04T05:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 9,
-      "related_entities": []
+      "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB201/",
     "sponsorship_role": "cosponsor",
@@ -135,19 +82,8 @@
     "status": "Referred to Consumer Protection & Professional Licensure",
     "subjects": [],
     "latest_action": {
-      "id": "0c93a806-32a3-4447-a397-2a0b371bffe9",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Re-reported as committed",
       "date": "2025-06-25T04:00:00+00:00",
-      "classification": [
-        "committee-passage"
-      ],
-      "order": 7,
-      "related_entities": []
+      "description": "Re-reported as committed"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB825/",
     "sponsorship_role": "cosponsor",
@@ -161,19 +97,8 @@
     "status": "Referred to Veterans Affairs & Emergency Preparedness",
     "subjects": [],
     "latest_action": {
-      "id": "a0cf2fd8-2e3b-44a8-bb5e-11809b0ce249",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Veterans Affairs & Emergency Preparedness",
       "date": "2025-04-04T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1152/",
     "sponsorship_role": "cosponsor",
@@ -184,22 +109,11 @@
     "identifier": "HB 1095",
     "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in dockets, indices and other records, providing for limited access to eviction information; and requiring the Administrative Office of Pennsylvania Courts to process records.",
     "session": "2025-2026",
-    "status": "Referred to Judiciary",
+    "status": "Re-reported as committed",
     "subjects": [],
     "latest_action": {
-      "id": "9670427b-2805-4234-af33-ae4b511b2e64",
-      "organization": {
-        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
-        "name": "Senate",
-        "classification": "upper"
-      },
-      "description": "Referred to Judiciary",
-      "date": "2025-06-24T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 9,
-      "related_entities": []
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Second consideration"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1095/",
     "sponsorship_role": "cosponsor",
@@ -213,19 +127,8 @@
     "status": "Referred to Consumer Protection, Technology & Utilities",
     "subjects": [],
     "latest_action": {
-      "id": "c00f88e2-e65b-4026-86fb-c120ea32e41a",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Consumer Protection, Technology & Utilities",
       "date": "2025-04-21T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Consumer Protection, Technology & Utilities"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1130/",
     "sponsorship_role": "cosponsor",
@@ -236,22 +139,11 @@
     "identifier": "HB 1135",
     "title": "An Act amending the act of March 1, 1974 (P.L.90, No.24), known as the Pennsylvania Pesticide Control Act of 1973, providing for prohibited pesticides.",
     "session": "2025-2026",
-    "status": "Laid on the table",
+    "status": "Removed from table",
     "subjects": [],
     "latest_action": {
-      "id": "5a34cc1c-0171-46c5-b224-4225934bc374",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Re-reported as committed",
-      "date": "2026-09-08T04:00:00+00:00",
-      "classification": [
-        "committee-passage"
-      ],
-      "order": 4,
-      "related_entities": []
+      "date": "2026-10-19T04:00:00+00:00",
+      "description": "Removed from table"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1135/",
     "sponsorship_role": "cosponsor",
@@ -265,19 +157,8 @@
     "status": "Referred to Consumer Protection, Technology & Utilities",
     "subjects": [],
     "latest_action": {
-      "id": "c2d4fcac-6019-4af9-aa46-80532471f064",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Consumer Protection, Technology & Utilities",
       "date": "2025-04-21T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Consumer Protection, Technology & Utilities"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1133/",
     "sponsorship_role": "cosponsor",
@@ -291,19 +172,8 @@
     "status": "Referred to Consumer Protection, Technology & Utilities",
     "subjects": [],
     "latest_action": {
-      "id": "191751e5-755c-4d70-8f7d-2c357a8d7fc5",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Consumer Protection, Technology & Utilities",
       "date": "2025-04-21T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Consumer Protection, Technology & Utilities"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1134/",
     "sponsorship_role": "cosponsor",
@@ -317,19 +187,8 @@
     "status": "Referred to Agriculture & Rural Affairs",
     "subjects": [],
     "latest_action": {
-      "id": "591e998a-3602-46f2-ab2b-52516b1bdd79",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Agriculture & Rural Affairs",
       "date": "2025-04-21T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Agriculture & Rural Affairs"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1132/",
     "sponsorship_role": "cosponsor",
@@ -343,19 +202,8 @@
     "status": "Referred to Consumer Protection, Technology & Utilities",
     "subjects": [],
     "latest_action": {
-      "id": "c48e847a-92ca-429f-ab80-201f3195e03c",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Consumer Protection, Technology & Utilities",
       "date": "2025-04-21T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Consumer Protection, Technology & Utilities"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1131/",
     "sponsorship_role": "cosponsor",
@@ -369,17 +217,8 @@
     "status": "Laid on the table (Pursuant to House Rule 71)",
     "subjects": [],
     "latest_action": {
-      "id": "43d9cb3e-6071-4a52-9a6f-1211bd52f291",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Laid on the table (Pursuant to House Rule 71)",
       "date": "2025-06-23T04:00:00+00:00",
-      "classification": [],
-      "order": 2,
-      "related_entities": []
+      "description": "Laid on the table (Pursuant to House Rule 71)"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR194/",
     "sponsorship_role": "cosponsor",
@@ -390,22 +229,11 @@
     "identifier": "HR 650",
     "title": "A Resolution designating the week of November 16 through 20, 2026, as \"Pennsylvania Education for Students Experiencing Homelessness Awareness Week\" and November 20, 2026, as \"Red Shirt Day\" in Pennsylvania.",
     "session": "2025-2026",
-    "status": "Referred to Education",
+    "status": "Adopted",
     "subjects": [],
     "latest_action": {
-      "id": "c8619b1f-e74b-46f2-8ea5-081ae333319f",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Education",
-      "date": "2026-10-05T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "date": "2026-10-21T04:00:00+00:00",
+      "description": "Adopted"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR650/",
     "sponsorship_role": "cosponsor",
@@ -419,19 +247,8 @@
     "status": "Referred to Urban Affairs & Housing",
     "subjects": [],
     "latest_action": {
-      "id": "7118ad5d-0799-4865-b7c0-ef3e28a03ac0",
-      "organization": {
-        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
-        "name": "Senate",
-        "classification": "upper"
-      },
-      "description": "Referred to Urban Affairs & Housing",
       "date": "2025-06-30T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 9,
-      "related_entities": []
+      "description": "Referred to Urban Affairs & Housing"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1650/",
     "sponsorship_role": "cosponsor",
@@ -520,19 +337,8 @@
     "status": "Referred to Judiciary",
     "subjects": [],
     "latest_action": {
-      "id": "b7311bda-9be7-4c3f-acf5-f429e9ed010d",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Referred to Judiciary",
       "date": "2025-05-28T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 0,
-      "related_entities": []
+      "description": "Referred to Judiciary"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1499/",
     "sponsorship_role": "cosponsor",
@@ -576,20 +382,8 @@
     "status": "Laid on the table",
     "subjects": [],
     "latest_action": {
-      "id": "4bc7c81c-fb93-43e5-9555-74074d2739f7",
-      "organization": {
-        "id": "ocd-organization/0f78429d-ec86-4333-9338-17708fe11914",
-        "name": "House",
-        "classification": "lower"
-      },
-      "description": "Reported as amended",
       "date": "2025-11-17T05:00:00+00:00",
-      "classification": [
-        "amendment-passage",
-        "committee-passage"
-      ],
-      "order": 1,
-      "related_entities": []
+      "description": "Reported as amended"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1479/",
     "sponsorship_role": "cosponsor",
@@ -603,19 +397,8 @@
     "status": "Referred to Urban Affairs & Housing",
     "subjects": [],
     "latest_action": {
-      "id": "696d9258-055d-4901-9287-31ac0ad79b62",
-      "organization": {
-        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
-        "name": "Senate",
-        "classification": "upper"
-      },
-      "description": "Referred to Urban Affairs & Housing",
       "date": "2025-04-28T04:00:00+00:00",
-      "classification": [
-        "referral-committee"
-      ],
-      "order": 9,
-      "related_entities": []
+      "description": "Referred to Urban Affairs & Housing"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB643/",
     "sponsorship_role": "cosponsor",
@@ -629,19 +412,8 @@
     "status": "Act No. 38 of 2026",
     "subjects": [],
     "latest_action": {
-      "id": "96012a14-dfb5-4ee0-9831-eca9ab6d0c37",
-      "organization": {
-        "id": "ocd-organization/9443a886-8032-4502-b99d-551735ec9606",
-        "name": "Senate",
-        "classification": "upper"
-      },
-      "description": "Approved by the Governor",
       "date": "2026-07-20T04:00:00+00:00",
-      "classification": [
-        "executive-signature"
-      ],
-      "order": 19,
-      "related_entities": []
+      "description": "Approved by the Governor"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2024/",
     "sponsorship_role": "cosponsor",
@@ -1319,6 +1091,36 @@
       "description": "Adopted"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR206/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d0d503d8-592a-4dc7-9dac-67e9ed656f48",
+    "identifier": "HB 2855",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in inchoate crimes, further providing for prohibited offensive weapons and for use or possession of electric or electronic incapacitation device.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-14T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2855/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/38216b35-69b5-4111-b166-75f727dfa89e",
+    "identifier": "HR 250",
+    "title": "A Resolution recognizing November 11, 2026, as \"Veterans Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR250/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
   }

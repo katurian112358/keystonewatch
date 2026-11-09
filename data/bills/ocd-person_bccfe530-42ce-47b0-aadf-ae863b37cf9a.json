@@ -598,5 +598,95 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2533/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2916c80b-fd7e-4ef4-8537-a422f4624ceb",
+    "identifier": "HR 642",
+    "title": "House Discharge Resolution discharging Committee on Environmental and Natural Resource Protection from further consideration of Senate Bill No. 403.",
+    "session": "2025-2026",
+    "status": "Referred to House Calendar Under Rule 53",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-29T04:00:00+00:00",
+      "description": "Referred to House Calendar Under Rule 53"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR642/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d1455ae4-df4d-4a6e-8844-5c23daeca471",
+    "identifier": "HR 636",
+    "title": "House Discharge Resolution discharging Committee on State Government from further consideration of House Bill No. 744.",
+    "session": "2025-2026",
+    "status": "Referred to House Calendar Under Rule 53",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-28T04:00:00+00:00",
+      "description": "Referred to House Calendar Under Rule 53"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR636/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d0d503d8-592a-4dc7-9dac-67e9ed656f48",
+    "identifier": "HB 2855",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in inchoate crimes, further providing for prohibited offensive weapons and for use or possession of electric or electronic incapacitation device.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-14T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2855/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f74ee303-4b6f-42c3-8b4e-a9ccd83922ec",
+    "identifier": "HB 158",
+    "title": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harms suffered by designation.",
+    "session": "2025-2026",
+    "status": "Re-referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-01T04:00:00+00:00",
+      "description": "Reported with request to re-refer to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB158/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2da6ca1e-1349-4607-b745-b0fb2f7407a2",
+    "identifier": "HB 606",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, providing for early human life development education.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-12T05:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB606/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/78bf4fa2-1a79-45f0-8e9d-32aeee747640",
+    "identifier": "HR 278",
+    "title": "A Resolution designating September 12, 2025, as \"The Day of the Bible\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-28T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR278/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

@@ -1684,11 +1684,11 @@
     "identifier": "SB 210",
     "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in miscellaneous provisions relating to operation of vehicles, providing for the offense of interference with operation or movement of a public transit vehicle.",
     "session": "2025-2026",
-    "status": "Referred to Judiciary",
+    "status": "Re-referred to Appropriations",
     "subjects": [],
     "latest_action": {
-      "date": "2025-02-10T05:00:00+00:00",
-      "description": "Referred to Judiciary"
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Second consideration"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB210/",
     "sponsorship_role": "cosponsor",
@@ -5756,6 +5756,741 @@
       "description": "Referred to Education"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1468/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ec2fe064-d684-47ed-9e8c-1e64756887a8",
+    "identifier": "SB 1035",
+    "title": "An Act amending the act of April 17, 2016 (P.L.84, No.16), known as the Medical Marijuana Act, providing for compassionate access to medical marijuana.",
+    "session": "2025-2026",
+    "status": "First consideration",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-29T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1035/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b1db617c-e970-4b39-9c0a-3ffc12f63006",
+    "identifier": "SB 1208",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in corporate net income tax, further providing for definitions, for imposition of tax, for reports and payment of tax and for consolidated reports; and, in general provisions, further providing for underpayment of estimated tax.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-12T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1208/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2e084e1b-fd2e-494f-9397-49849227f89d",
+    "identifier": "SB 72",
+    "title": "An Act amending the act of October 13, 2010 (P.L.506, No.72), known as the Construction Workplace Misclassification Act, further providing for definitions, for improper classification of employees and for criminal penalties; providing for private right of action; and further providing for administrative penalties, for retaliation for action prohibited, for availability of information, for use of penalty funds and for funding.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to Senate Rule 9)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-12T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to Senate Rule 9)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB72/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/638ddf16-743f-447e-aba7-e4ec24ea3318",
+    "identifier": "SB 1314",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, further providing for imposition of tax.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-01T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1314/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9b06e66c-7a9e-4c0d-9e06-64e2b5c9ab83",
+    "identifier": "SB 1199",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in gross receipts tax, further providing for imposition of tax.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-27T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1199/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3b79d3fd-298d-4860-9829-5389715930a2",
+    "identifier": "SB 1049",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in certificate of title and security interests, further providing for transfer to vehicle salvage dealer and for transfer to scrap metal processor.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-15T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1049/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/01ab2853-fb6d-4467-a39d-a9d3d3302dd0",
+    "identifier": "SB 1126",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, providing for coverage for epinephrine delivery systems.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-29T05:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1126/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/be4cdd35-2f53-412b-b08e-27f00b85b959",
+    "identifier": "SB 1481",
+    "title": "An Act providing for reimbursement claims methodology and for safety net reimbursement protection; providing for safety net prescription drug distribution and access protections; imposing duties on the Department of Human Services, Insurance Department and Office of Attorney General; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-25T04:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1481/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c702c232-65dc-4e67-8122-649ca96edb77",
+    "identifier": "SB 1147",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, further providing for emergency transportation services.",
+    "session": "2025-2026",
+    "status": "First consideration",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-06T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1147/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8bf942f8-85c0-4080-805e-5f9cef14f018",
+    "identifier": "SR 393",
+    "title": "A Resolution congratulating and expressing appreciation to the YMCA for 175 years of service to the nation.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-08T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR393/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/df81b650-3340-4efc-a5b2-5ff440189fd9",
+    "identifier": "SB 1465",
+    "title": "An Act establishing the Office of Health Care for the purpose of creating a universal single-payer health care system; providing for powers and duties of the Office of Health Care; establishing the Pennsylvania Health Care Board; providing for eligible participants; establishing the Health Care Restricted Account; and providing for sources of revenue.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-24T04:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1465/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4a07e6e0-0352-4bb5-9f05-103d87f5dc86",
+    "identifier": "SB 768",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in firearms and other dangerous articles, providing for safe storage of firearm when residing with a person not to possess a firearm; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB768/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fef3961a-7128-4dc3-a353-221ce5e4bbcc",
+    "identifier": "SB 1494",
+    "title": "A Joint Resolution proposing an amendment to the Constitution of the Commonwealth of Pennsylvania, repealing provisions relating to uniformity of taxation.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-13T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1494/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e0382f37-9e62-4e87-be2a-7437069fdd00",
+    "identifier": "SB 1449",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in inchoate crimes, further providing for prohibited offensive weapons.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-10T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1449/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f6f066c1-600d-4f22-b186-cd4ecbdda3e2",
+    "identifier": "SR 399",
+    "title": "A Resolution designating the month of October 2026 as \"Domestic Violence Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-15T04:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR399/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3311f71d-1204-4ef4-ae00-dbfef5bae96d",
+    "identifier": "SB 1306",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in public safety, providing for Hospital Security Grant Fund.",
+    "session": "2025-2026",
+    "status": "First consideration",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-19T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1306/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/facd508c-bfb6-4da9-8697-63f9da53ccd5",
+    "identifier": "SB 120",
+    "title": "An Act providing for cannabis; regulating the personal use and possession of cannabis; establishing the Cannabis Control Board; providing for powers and duties of the Cannabis Control Board; establishing the Cannabis Regulation Fund; providing for disproportionately impacted area, for regulation of cannabis business establishments, for enforcement and immunities, for laboratory testing, for advertising, marketing, packaging and labeling and for preparation, destruction and regulation of cannabis, edible and infused products; imposing a sales tax and excise tax on cannabis, edible and infused products; establishing the Cannabis Regulation Fund; providing for cannabis clean slate and for miscellaneous provisions; imposing penalties; consolidating provisions relating to medical use of cannabis; transferring powers and duties of the Department of Health to the Cannabis Control Board; and making repeals.",
+    "session": "2025-2026",
+    "status": "Resolution to discharge committee from further consideration of this bill dropped from calendar",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-19T04:00:00+00:00",
+      "description": "Resolution to discharge committee from further consideration of this bill dropped from calendar"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB120/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/de4c90a0-0325-4a79-93b8-f7cf6cb4f9bc",
+    "identifier": "SR 238",
+    "title": "A Resolution directing the Legislative Budget and Finance Committee to conduct a study and issue a report on reimbursement rates and workforce issues for shift nursing services provided to individuals under Pennsylvania's Medical Assistance program.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR238/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/add42d8b-32e5-40bc-8830-0aab3911c0a2",
+    "identifier": "SR 407",
+    "title": "A Resolution honoring the life and extending condolences to the family of the Honorable John J. Sweeney, Jr.",
+    "session": "2025-2026",
+    "status": "Introduced and adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-21T04:00:00+00:00",
+      "description": "Introduced and adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR407/",
+    "sponsorship_role": "primary",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/cc86f77e-9221-4fd6-9152-1c5e3375cfc2",
+    "identifier": "SB 1497",
+    "title": "An Act amending Title 15 (Corporations and Unincorporated Associations) of the Pennsylvania Consolidated Statutes, in general provisions, further providing for definitions; in corporate powers, duties and safeguards, repealing provisions relating to general powers and providing for revocation and regrant of general powers; in limited liability companies, repealing provisions relating to powers and providing for revocation and regrant of powers; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-26T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1497/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2883ef39-2b8c-422d-8a1d-b3f46ade6d53",
+    "identifier": "SB 1507",
+    "title": "An Act providing for prohibited conduct involving algorithmic pricing structures and artificial intelligence, for enforcement by Attorney General and for civil remedies; and imposing criminal penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-27T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1507/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f288779c-50a5-4c9c-a02c-44a316b11bc1",
+    "identifier": "SB 1506",
+    "title": "An Act providing for consumer rights in digital games; imposing a penalty; and providing for severability.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-27T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1506/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9bf39bf2-6544-4845-ae96-992cca170ed4",
+    "identifier": "SB 1499",
+    "title": "An Act amending Titles 23 (Domestic Relations) and 67 (Public Welfare) of the Pennsylvania Consolidated Statutes, in child protective services, further providing for employees having contact with children and adoptive and foster parents; and, in family finding and kinship care, further providing for definitions, for family finding required and for Kinship Care Program.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-27T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1499/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/142b0909-cfa1-4ec4-a90f-8675261610b6",
+    "identifier": "SB 509",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in general provisions, further providing for definitions; in rules of the road in general, further providing for maximum speed limits, providing for maximum speed limits enforced by local law enforcement officers with RADAR and further providing for speed timing devices; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-29T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB509/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3839a4d4-5292-45d1-8cf4-8587eb57d5ae",
+    "identifier": "SB 124",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, further providing for classes of income.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-23T04:00:00+00:00",
+      "description": "Re-referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB124/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e2de0bcb-b6fb-458d-914b-abba84e43f84",
+    "identifier": "SB 406",
+    "title": "An Act providing for regulation of the meat packing and food processing industry by creating facility health and safety committees in the workplace; establishing the industry workers' rights coordinator within the Department of Labor and Industry; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Second consideration",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-06T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB406/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6be103fd-f50d-47c0-b548-1decb57f18af",
+    "identifier": "SB 746",
+    "title": "An Act amending the act of November 24, 1976 (P.L.1176, No.261), known as the Manufactured Home Community Rights Act, providing for residents' right to purchase manufactured home community; and further providing for remedies.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-30T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB746/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2efb3b5c-72f5-4bf6-8440-ccdba24b8aae",
+    "identifier": "SB 993",
+    "title": "An Act amending Titles 8 (Boroughs and Incorporated Towns), 11 (Cities) and 16 (Counties) of the Pennsylvania Consolidated Statutes, in corporate power relating to boroughs, further providing for specific powers; in veterans' affairs relating to boroughs, further providing for care and erection of memorials; in corporate powers relating to third class cities, providing for control, maintenance and repair of memorials; in veterans' affairs relating to third class cities, further providing for care of memorials; in grounds and buildings, further providing for monuments, memorials and memorial halls to war veterans and for preservation, maintenance, repair and completion of public monuments; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-17T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB993/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d855b14f-27bd-4ca4-a0c9-4e244c96eddb",
+    "identifier": "SB 848",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in organization of departmental administrative boards and commissions and of advisory boards and commissions, further providing for State Planning Board.",
+    "session": "2025-2026",
+    "status": "Act No. 15 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-06T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB848/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/debe5978-bd9f-4e9e-a54c-c0b2a1686b54",
+    "identifier": "SB 971",
+    "title": "An Act amending the act of May 1, 1933 (P.L.103, No.69), known as The Second Class Township Code, in auditors and accountants, further providing for completion, filing and publication of annual township report and financial statement.",
+    "session": "2025-2026",
+    "status": "Act No. 24 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB971/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c55f5b0a-dc0a-40c9-9e85-cb3d603bf9f1",
+    "identifier": "SB 1183",
+    "title": "An Act amending the act of December 19, 1990 (P.L.1200, No.202), known as the Solicitation of Funds for Charitable Purposes Act, further providing for registration of charitable organizations, financial reports, fees and failure to file.",
+    "session": "2025-2026",
+    "status": "Act No. 104 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-22T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1183/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fce96088-c76c-4555-9773-4a263e3207eb",
+    "identifier": "SB 738",
+    "title": "An Act amending the act of November 6, 1987 (P.L.381, No.79), known as the Older Adults Protective Services Act, providing for prevention of financial exploitation.",
+    "session": "2025-2026",
+    "status": "Referred to Aging & Older Adult Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-30T04:00:00+00:00",
+      "description": "Third consideration and final passage"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB738/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a08d2f35-c836-48a7-8afb-7148e2b3d692",
+    "identifier": "SB 975",
+    "title": "An Act amending Titles 8 (Boroughs and Incorporated Towns) and 11 (Cities) of the Pennsylvania Consolidated Statutes, in powers and duties of elected officials, further providing for completion, filing and publication of auditor's report and financial statement; and, in accounts and finances, further providing for annual reports, publication, filing report with Department of Community and Economic Development and penalty.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-17T05:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB975/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/13893067-602a-43c7-9e79-b4561898b299",
+    "identifier": "SB 871",
+    "title": "An Act amending the act of May 1, 1933 (P.L.103, No.69), known as The Second Class Township Code, in contracts, further providing for letting contracts.",
+    "session": "2025-2026",
+    "status": "Re-referred to Local Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-16T05:00:00+00:00",
+      "description": "Reported with request to re-refer to Local Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB871/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/369d155b-1a70-4b47-88b3-d0f327e1c607",
+    "identifier": "SR 414",
+    "title": "A Resolution honoring the life, legacy and extraordinary contributions of Dolores Huerta, distinguished labor leader, community organizer and civic engagement advocate, for her lifelong commitment to workers' rights, civil rights, economic justice and democratic participation.",
+    "session": "2025-2026",
+    "status": "Referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-11-06T05:00:00+00:00",
+      "description": "Referred to Rules & Executive Nominations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SR414/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e6565db5-012a-44bb-a5c0-a1e78a11e342",
+    "identifier": "SB 804",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, providing for medical devices; in Commonwealth services, further providing for assistance to fire companies and EMS companies and for State Fire Commissioner and providing for protection against PFAS chemicals and for firefighting protective equipment; in grants to fire companies and emergency medical services companies, further providing for award of grants; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Act No. 98 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-22T04:00:00+00:00",
+      "description": "Signed in House"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB804/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2496e770-dfa6-42dd-a6fc-1f2a17676b7f",
+    "identifier": "SB 867",
+    "title": "An Act amending the act of November 10, 1999 (P.L.491, No.45), known as the Pennsylvania Construction Code Act, in preliminary provisions, further providing for definitions and for Accessibility Advisory Board; in Uniform Construction Code, further providing for adoption by regulations and for revised or successor codes; in training and certification of inspectors, further providing for education and training programs; and establishing the Accessibility Advisory Board Administration Account.",
+    "session": "2025-2026",
+    "status": "Act No. 16 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-06T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB867/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6787e19a-640e-4a0f-b3a1-49641c6e2605",
+    "identifier": "SB 972",
+    "title": "An Act amending the act of May 1, 1933 (P.L.103, No.69), known as The Second Class Township Code, in corporate powers, further providing for care of memorials.",
+    "session": "2025-2026",
+    "status": "Act No. 25 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB972/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9bd8d81b-fc2d-4211-ac6f-0a5528f9aa03",
+    "identifier": "SB 1053",
+    "title": "An Act amending the act of June 2, 1915 (P.L.736, No.338), known as the Workers' Compensation Act, in additional coverages, further providing for the definition of \"employe.\"",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-28T04:00:00+00:00",
+      "description": "Re-reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1053/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6287113b-78af-4ad9-8389-de4b1c7a539e",
+    "identifier": "SB 1182",
+    "title": "An Act amending the act of December 22, 1983 (P.L.306, No.84), known as the Board of Vehicles Act, further providing for title of act; in preliminary provisions, further providing for definitions; and, in vehicles, further providing for license to engage in business, for reimbursement for all parts and service required by the manufacturer or distributor and reimbursement audits, for unlawful acts by manufacturers or distributors and for manufacturer or distributor repurchase of inventory and equipment and providing for consumer data protection.",
+    "session": "2025-2026",
+    "status": "Referred to Commerce",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-01T04:00:00+00:00",
+      "description": "Referred to Commerce"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1182/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/45c23443-fe28-435f-8f06-a6553744b49c",
+    "identifier": "SB 1036",
+    "title": "An Act amending Title 73 (Townships) of the Pennsylvania Consolidated Statutes, consolidating the First Class Township Code; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Act No. 7 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-11T05:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1036/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6a01fa88-a5b5-42c7-8a14-64dbdaf2f131",
+    "identifier": "SB 88",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, repealing provisions relating to coverage for mammographic examinations and breast imaging and providing for coverage for mammographic examinations, magnetic resonance imaging and other forms of breast imaging.",
+    "session": "2025-2026",
+    "status": "Act No. 52 of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-24T05:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB88/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3e03cdbc-9a73-419d-9099-2aed531dd230",
+    "identifier": "SB 614",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, providing for primary care workforce initiative; and making an appropriation.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-24T04:00:00+00:00",
+      "description": "Third consideration and final passage"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB614/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4acd183b-76e6-46e8-8e8c-7cddb7444ae9",
+    "identifier": "SB 478",
+    "title": "An Act establishing the Office of Employee Ownership within the Department of Community and Economic Development; establishing the Employee Ownership Advisory Board; and providing technical and financial assistance to employee-owned enterprises.",
+    "session": "2025-2026",
+    "status": "Referred to Commerce",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-05T04:00:00+00:00",
+      "description": "Third consideration and final passage"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB478/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/276913e0-bcb7-40f5-ba5e-addceac24750",
+    "identifier": "SB 205",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in supplemental funding for municipal highway maintenance, further providing for supplemental funding for municipal highway maintenance; and, in taxes for highway maintenance and construction, further providing for imposition of tax.",
+    "session": "2025-2026",
+    "status": "Act No. 91 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-22T04:00:00+00:00",
+      "description": "Signed in House"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB205/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6f23a2c7-f3df-4819-b3b7-6a4a0a3a1bd8",
+    "identifier": "SB 779",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in trade and commerce, providing for the offense of unlawful towing and towing storage facility practices; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Act No. 46 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-20T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB779/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5fe56dab-449e-4764-b648-26d87c0938be",
+    "identifier": "SB 1014",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known\r\n as the Public School Code of 1949, in student supports, providing for\r\n bell-to-bell mobile device policy.",
+    "session": "2025-2026",
+    "status": "Act No. 117 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-26T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB1014/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7f978261-6532-4953-973b-19bb1219ecdb",
+    "identifier": "SB 862",
+    "title": "An Act amending Title 8 (Boroughs and Incorporated Towns) of the Pennsylvania Consolidated Statutes, in vacancies in office, further providing for filling vacancies in elective borough offices.",
+    "session": "2025-2026",
+    "status": "Act No. 9 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-01T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB862/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/82158370-826e-4b9a-8d3e-0ecbc2ea5446",
+    "identifier": "SB 416",
+    "title": "An Act amending the act of December 19, 1988 (P.L.1262, No.156), known as the Local Option Small Games of Chance Act, in games of chance, providing for payment and further providing for prize limits; in club licensees, further providing for distribution of proceeds; and abrogating a regulation.",
+    "session": "2025-2026",
+    "status": "Act No. 94 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-22T04:00:00+00:00",
+      "description": "Signed in House"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/SB416/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
   }

@@ -298,5 +298,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1375/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a3780b54-875c-4e58-9988-b5b4fd0cd795",
+    "identifier": "HB 2606",
+    "title": "An Act authorizing the Department of General Services, with the approval of the Governor, to grant and convey to the City of Hermitage, certain lands situate in Hickory Township, Mercer County.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-08T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2606/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2382b16b-ccdc-4989-ba8c-8c7f312418c3",
+    "identifier": "HR 647",
+    "title": "A Resolution recognizing October 2, 2026, as \"Manufacturing Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-02T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR647/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d0d503d8-592a-4dc7-9dac-67e9ed656f48",
+    "identifier": "HB 2855",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in inchoate crimes, further providing for prohibited offensive weapons and for use or possession of electric or electronic incapacitation device.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-14T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2855/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/86c699e9-0d2b-4039-92a2-c4d2ef8206b8",
+    "identifier": "HB 1394",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to inheritance tax; in procedure and administration, further providing for petition for reassessment; and, in governmental obligations, further providing for taxability of government obligations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-05T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1394/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

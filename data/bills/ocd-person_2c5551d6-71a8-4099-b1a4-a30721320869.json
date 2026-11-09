@@ -343,5 +343,140 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR362/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/4f8dc057-3911-4985-a7cd-cae17d2e4470",
+    "identifier": "HR 339",
+    "title": "House Discharge Resolution discharging Committee on Health from further consideration of Senate Bill No. 9.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-03T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR339/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/2916c80b-fd7e-4ef4-8537-a422f4624ceb",
+    "identifier": "HR 642",
+    "title": "House Discharge Resolution discharging Committee on Environmental and Natural Resource Protection from further consideration of Senate Bill No. 403.",
+    "session": "2025-2026",
+    "status": "Referred to House Calendar Under Rule 53",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-29T04:00:00+00:00",
+      "description": "Referred to House Calendar Under Rule 53"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR642/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d0d503d8-592a-4dc7-9dac-67e9ed656f48",
+    "identifier": "HB 2855",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in inchoate crimes, further providing for prohibited offensive weapons and for use or possession of electric or electronic incapacitation device.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-14T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2855/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/38216b35-69b5-4111-b166-75f727dfa89e",
+    "identifier": "HR 250",
+    "title": "A Resolution recognizing November 11, 2026, as \"Veterans Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR250/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a8d4cb66-bcef-405a-946d-2bfe496c6c8f",
+    "identifier": "HR 658",
+    "title": "A Resolution designating December 13, 2026, as the \"390th Birthday of the National Guard\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR658/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9fea6a72-6cdd-4e0f-9417-0e1a863a513f",
+    "identifier": "HB 2696",
+    "title": "An Act amending the act of October 24, 2018 (P.L.733, No.118), known as the Assistance and Service Animal Integrity Act, further providing for definitions; establishing the trained service dog card; providing for the documentation of service dogs and for admittance of registered service dog to public accommodations; establishing a trained service dog card database; providing for immunity from liability; providing for the offense of fraudulent misrepresentation of a service dog; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Re-referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-06T04:00:00+00:00",
+      "description": "Reported with request to re-refer to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2696/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/feb02747-fd50-4cd7-95db-82c19aa8c97a",
+    "identifier": "HR 663",
+    "title": "A Resolution designating the month of November 2026 as \"Veterans and Military Families Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR663/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/737ba6a1-5d8d-4282-96bf-6e64d90ebd04",
+    "identifier": "HB 2885",
+    "title": "An Act amending Title 16 (Counties) of the Pennsylvania Consolidated Statutes, in fiscal affairs, further providing for tax levies.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-11-04T05:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2885/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a5d37059-7717-4b5b-a4d1-31bd51cd7c3f",
+    "identifier": "HB 2024",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in State Veterans' Commission and Deputy Adjutant General for Veterans' Affairs, further providing for accreditation.",
+    "session": "2025-2026",
+    "status": "Act No. 38 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-20T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2024/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

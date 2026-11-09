@@ -373,5 +373,65 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR593/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/377ca63f-4f61-45c4-b505-1a01f5a2220d",
+    "identifier": "HR 603",
+    "title": "A Resolution honoring the life and extending deepest condolences to the family of Berks County Police Officer Kristen M. Yeager.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-29T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR603/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/f74ee303-4b6f-42c3-8b4e-a9ccd83922ec",
+    "identifier": "HB 158",
+    "title": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harms suffered by designation.",
+    "session": "2025-2026",
+    "status": "Re-referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-01T04:00:00+00:00",
+      "description": "Reported with request to re-refer to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB158/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8636fca1-358b-4d0c-96ec-ca743654aadc",
+    "identifier": "HB 1289",
+    "title": "An Act amending the act of December 14, 1988 (P.L.1192, No.147), known as the Special Ad Hoc Municipal Police and Firefighter Postretirement Adjustment Act, providing for 2026 special ad hoc municipal police and firefighter postretirement adjustment; in financing of special ad hoc adjustment, providing for reimbursement by Commonwealth for 2026 special ad hoc adjustment; in administrative provisions, further providing for municipal retirement system certification of adjustments paid and of reimbursable amounts and for municipal receipt of reimbursement payment; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-07T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1289/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a5d37059-7717-4b5b-a4d1-31bd51cd7c3f",
+    "identifier": "HB 2024",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in State Veterans' Commission and Deputy Adjutant General for Veterans' Affairs, further providing for accreditation.",
+    "session": "2025-2026",
+    "status": "Act No. 38 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-20T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2024/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

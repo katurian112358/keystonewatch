@@ -73,5 +73,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR590/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/30c3b323-9b57-4c94-800f-3b413e735942",
+    "identifier": "HB 2634",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in charter schools, further providing for funding for charter schools and for funding for cyber charter schools.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-08T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2634/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8d508a29-3b09-4436-bfc0-0b45b792d1e5",
+    "identifier": "HB 2632",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in educational tax credits, further providing for limitations and providing for termination of authority; providing for education options tax credits; establishing the Accountability for Diverted Tax Dollars Restricted Account; providing for scholarship granting organizations, for application by eligible contributors, for scholarships, for educational improvement programs, for low-achieving schools, for school participation in program and for original jurisdiction; and imposing duties on the Department of Community and Economic Development, the Department of Education, the Department of Revenue, the Auditor General, the Independent Fiscal Office and the State Treasurer.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-26T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2632/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

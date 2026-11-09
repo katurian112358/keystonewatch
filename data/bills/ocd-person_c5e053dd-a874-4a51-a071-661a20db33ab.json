@@ -733,5 +733,425 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2396/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/895bd79d-a195-4ddc-ad2a-7c84a6e9c55a",
+    "identifier": "HR 643",
+    "title": "A Resolution recognizing the month of July 2026 as \"Juvenile Arthritis Awareness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-29T04:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR643/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dcfe25fd-797d-411b-b2da-ecaa0d0f8d98",
+    "identifier": "HR 633",
+    "title": "A Resolution designating October 13, 2026, as the \"Birthday of the United States Navy\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-30T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR633/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d2279ca6-1fc7-4f9d-b4b3-a30519b59cee",
+    "identifier": "HR 194",
+    "title": "A Resolution recognizing the month of August 2025 as \"National Wellness Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-23T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR194/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ad7ff021-d3f2-4f67-9d1c-e357d96bd5b4",
+    "identifier": "HB 1131",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school health services, providing for prohibited substances in competitive foods.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1131/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8c406ff5-133e-4a46-b7c1-772b1cb95bf0",
+    "identifier": "HB 1132",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school health services, providing for unhealthy ultra-processed food prohibited in competitive foods.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1132/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3c15ed5f-91bc-49cf-b23e-2fb74ca2ab61",
+    "identifier": "HB 1134",
+    "title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated Statutes, in food protection, further providing for misbranding of food.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1134/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/071b503f-abf3-4d43-848a-25ff6c1e336c",
+    "identifier": "HB 1133",
+    "title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated Statutes, in food protection, further providing for misbranding of food.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1133/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f05b7215-edbf-4568-b5f4-08d01adbe6ed",
+    "identifier": "HB 1130",
+    "title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated Statutes, in food protection, further providing for definitions and providing for reporting of GRAS substances and for public database of GRAS reports.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-21T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1130/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9a7f5689-7564-476e-b7c5-5b2d28595ad3",
+    "identifier": "HB 2856",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in bonds and recognizances, further providing for right to bail.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-14T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2856/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7f0f009b-cf35-47c5-a74a-eaf08a31385d",
+    "identifier": "HB 1135",
+    "title": "An Act amending the act of March 1, 1974 (P.L.90, No.24), known as the Pennsylvania Pesticide Control Act of 1973, providing for prohibited pesticides.",
+    "session": "2025-2026",
+    "status": "Removed from table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-19T04:00:00+00:00",
+      "description": "Removed from table"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1135/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/38216b35-69b5-4111-b166-75f727dfa89e",
+    "identifier": "HR 250",
+    "title": "A Resolution recognizing November 11, 2026, as \"Veterans Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR250/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e24c3be5-971b-48e2-96c4-295ece6cc2e0",
+    "identifier": "HB 2344",
+    "title": "An Act amending Title 12 (Commerce and Trade) of the Pennsylvania Consolidated Statutes, providing for protections against coerced debt; and imposing duties on the Administrative Office of Pennsylvania Courts.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-08T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2344/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a76e4fa5-0d54-4d7f-bfc7-fd6f43d35f5d",
+    "identifier": "HB 2480",
+    "title": "An Act requiring automated external defibrillators at utility or electrical worksites; imposing duties on the Department of Labor and Industry; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Removed from table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-07T04:00:00+00:00",
+      "description": "Removed from table"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2480/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f362e24a-9e2d-4f2f-b3be-9d653e45bc07",
+    "identifier": "HB 1344",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, further providing for definitions; and, in employees, further providing for canine training standards for police officers.",
+    "session": "2025-2026",
+    "status": "Act No. 18 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-29T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1344/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ede8cc12-ec88-45ee-9edb-a8ee75e78235",
+    "identifier": "HB 2220",
+    "title": "An Act amending Title 12 (Commerce and Trade) of the Pennsylvania Consolidated Statutes, providing for video streaming services.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-05T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2220/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8a7463c5-23e7-4518-b02d-236a78a5ff0f",
+    "identifier": "HB 2152",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in school safety and security, further providing for School Safety and Security Grant Program; and, in terms and courses of study, providing for secondary school start times.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-04T05:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2152/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/58ccf509-6440-4617-8085-66240e3d22a8",
+    "identifier": "HB 1939",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, providing for fee schedule rates.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-06T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1939/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/89c03bd5-d425-4ae5-b013-338b187f4980",
+    "identifier": "HB 1479",
+    "title": "An Act amending Titles 23 (Domestic Relations) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in protection from abuse, further providing for definitions and for relief; and, in protection of victims of sexual violence or\r\n intimidation, further providing for definitions and for\r\n relief.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1479/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f98838a0-4863-4c15-b435-a7dc054290a9",
+    "identifier": "HB 2049",
+    "title": "An Act amending the act of June 2, 1915 (P.L.736, No.338), known as the Workers' Compensation Act, in liability and compensation, further providing for computation of benefits.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-18T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2049/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3aa6d781-7956-4f5d-b5f1-ecb511b0edea",
+    "identifier": "HB 961",
+    "title": "An Act amending Title 30 (Fish) of the Pennsylvania Consolidated Statutes, in dams, bar racks and migration devices, further providing for marking of dams.",
+    "session": "2025-2026",
+    "status": "Act No. 69 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-22T04:00:00+00:00",
+      "description": "Signed in Senate"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB961/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1c1ad720-9f43-46d6-86a8-b9fd3d806705",
+    "identifier": "HB 200",
+    "title": "An Act establishing family and medical leave benefits, the Paid Family\r\n and Medical Leave Account and the Paid Family and Medical\r\n Leave Grant Program; conferring powers and imposing duties on\r\n the Department of Labor and Industry; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-01T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB200/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d2a50f9c-843b-4467-8a48-042e6b3e85dc",
+    "identifier": "HB 2145",
+    "title": "An Act amending Title 12 (Commerce and Trade) of the Pennsylvania Consolidated Statutes, providing for consumer protection and prohibiting the use of perfluoroalkyl and polyfluoroalkyl substances in certain products; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-11T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2145/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4946d955-f0e4-45cd-8a2f-30152b82a139",
+    "identifier": "HB 1530",
+    "title": "An Act providing for duties of direct-to-consumer genetic testing companies and for prohibition on disclosure of genetic data of consumers; and imposing civil penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-22T05:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1530/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/26a871e3-863d-48bf-a192-140e30b89eab",
+    "identifier": "HB 928",
+    "title": "An Act amending Title 35 (Health and Safety) of the Pennsylvania Consolidated Statutes, in epinephrine auto-injector entities, further providing for definitions and for epinephrine auto-injectors for authorized entities; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Act No. 68 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-22T04:00:00+00:00",
+      "description": "Signed in Senate"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB928/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a5d37059-7717-4b5b-a4d1-31bd51cd7c3f",
+    "identifier": "HB 2024",
+    "title": "An Act amending Title 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, in State Veterans' Commission and Deputy Adjutant General for Veterans' Affairs, further providing for accreditation.",
+    "session": "2025-2026",
+    "status": "Act No. 38 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-20T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2024/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/82bdfa47-ad62-486a-a901-32163a7ecabf",
+    "identifier": "HB 377",
+    "title": "An Act amending the act of April 14, 1972 (P.L.233, No.64), known as The Controlled Substance, Drug, Device and Cosmetic Act, further providing for prohibited acts and penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-18T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB377/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dbb4e9d9-4138-4043-99aa-ac4a559d1e52",
+    "identifier": "HB 41",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in interscholastic athletics accountability, providing for playoffs and championships.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-01T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB41/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d43be27d-404b-4e42-8fd2-c258aed103a0",
+    "identifier": "HB 77",
+    "title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated Statutes, in food protection, further providing for definitions, providing for food allergy awareness and further providing for powers of department.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-20T05:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB77/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

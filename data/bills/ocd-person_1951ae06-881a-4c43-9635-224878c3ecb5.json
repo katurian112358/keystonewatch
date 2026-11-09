@@ -208,5 +208,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR593/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/2c060abd-bca3-4a23-96fc-1c008621f746",
+    "identifier": "HR 635",
+    "title": "A Resolution designating the month of October 2026 as \"Pennsylvania Chamber of Business and Industry - Chamber of the Year Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-05T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR635/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1f0da74d-3bf2-4f11-b8e2-2e9b1235833a",
+    "identifier": "HR 143",
+    "title": "A Resolution recognizing March 18, 2025, as \"Public Defender Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-30T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR143/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/378ae2c0-218d-45e0-9a61-8e9ad5c2394d",
+    "identifier": "HB 150",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in sentencing, repealing provisions relating to transfer of inmates in need of medical treatment and providing for modification of an imposed term of imprisonment for reasons of illness.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-22T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB150/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2727b298-41e1-473f-bb94-755aadfde003",
+    "identifier": "HB 1396",
+    "title": "An Act amending the act of June 3, 1937 (P.L.1333, No.320), known as the Pennsylvania Election Code, in preliminary provisions, further providing for definitions; in district election officers, further providing for compensation of district election officers; in election districts and polling places, providing for ballot drop boxes; in electronic voting systems, further providing for definitions and for supplies, preparation of the voting system and of polling places, providing for pre-election logic and accuracy testing, repealing provisions relating to statistical sample and providing for post-election ballot audit; providing for electronic poll books and for electronic poll books and election infrastructure equipment bonds; in preparation for and conduct of primaries and elections, further providing for manner of applying to vote, persons entitled to vote, voter's certificates, entries to be made in district register, numbered lists of voters and challenges and for deadline for receipt of valid voter registration application; providing for in-person early voting; in voting by qualified absentee electors, further providing for date of application for absentee ballot, for approval of application for absentee ballot, for envelopes for official absentee ballots and for voting by absentee electors; in voting by qualified mail-in electors, further providing for applications for official mail-in ballots, for date of application for mail-in ballot, for approval of application for mail-in ballot, for envelopes for official mail-in ballots and for voting by mail-in electors; in returns of primaries and elections, further providing for computation of returns by county board, certification and issuance of certificates of election; in Election Integrity Grant Program, further providing for funding for elections; in recounts and contests, further providing for opening ballot boxes upon petition of electors alleging fraud or error and deposit or bond, for recanvassing voting machines upon petition of electors alleging fraud or error and for correction of returns, decision not to be final and evidence for prosecution; in penalties, further providing for interference with primaries and elections, frauds and conspiracy; making an appropriation; and making an editorial change.\r\n Amending Title 25 (Elections) of the Pennsylvania Consolidated Statutes, in registration system, further providing for SURE system; in voter registration, further providing for methods of voter registration, for application with driver's license application and for government agencies and for approval of registration applications; and, in changes in records, repealing provisions relating to removal notices, to transfer of registration and to change of enrollment of political party and further providing for death of registrant.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1396/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f4b1ce0c-fff9-430f-9a6b-ba88be5cae87",
+    "identifier": "HB 439",
+    "title": "An Act amending the act of October 27, 1955 (P.L.744, No.222), known as the Pennsylvania Human Relations Act, further providing for definitions.",
+    "session": "2025-2026",
+    "status": "Act No. 54 of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-25T05:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB439/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

@@ -358,5 +358,230 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1375/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/22a2259e-63dd-4b0c-8325-86a2886f2743",
+    "identifier": "HR 610",
+    "title": "A Resolution recognizing September 26, 2026, as \"National Hunting and Fishing Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-28T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR610/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/afa30365-21d7-46bc-9c9c-8b72e70716cc",
+    "identifier": "HR 546",
+    "title": "A Resolution recognizing the week of September 28 through October 4, 2026, as \"Frontotemporal Degeneration Awareness Week\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-30T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR546/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2916c80b-fd7e-4ef4-8537-a422f4624ceb",
+    "identifier": "HR 642",
+    "title": "House Discharge Resolution discharging Committee on Environmental and Natural Resource Protection from further consideration of Senate Bill No. 403.",
+    "session": "2025-2026",
+    "status": "Referred to House Calendar Under Rule 53",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-29T04:00:00+00:00",
+      "description": "Referred to House Calendar Under Rule 53"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR642/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8766ec87-ee07-4840-b14e-3d52d6881301",
+    "identifier": "HB 368",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, further providing for antique, classic and collectible plates.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-05T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB368/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1f2db1b6-89b4-4456-a322-2aea9d9e820e",
+    "identifier": "HB 1702",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in preliminary provisions, further providing for definitions; and, in licenses and regulations, liquor, alcohol and malt and brewed beverages, further providing for unlawful acts relative to liquor, alcohol and liquor licensees.",
+    "session": "2025-2026",
+    "status": "Referred to Law & Justice",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-15T04:00:00+00:00",
+      "description": "Referred to Law & Justice"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1702/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d0d503d8-592a-4dc7-9dac-67e9ed656f48",
+    "identifier": "HB 2855",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in inchoate crimes, further providing for prohibited offensive weapons and for use or possession of electric or electronic incapacitation device.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-14T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2855/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f74ee303-4b6f-42c3-8b4e-a9ccd83922ec",
+    "identifier": "HB 158",
+    "title": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harms suffered by designation.",
+    "session": "2025-2026",
+    "status": "Re-referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-01T04:00:00+00:00",
+      "description": "Reported with request to re-refer to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB158/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/df6dfec7-1a85-48a7-be4b-bf01a63a0d70",
+    "identifier": "HB 1849",
+    "title": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harm suffered by designation.",
+    "session": "2025-2026",
+    "status": "Re-referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-01T04:00:00+00:00",
+      "description": "Reported with request to re-refer to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1849/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9ad31e44-7c8d-4174-82dc-8a1e733eb44f",
+    "identifier": "HB 1929",
+    "title": "An Act providing for the annual recognition and observance of \"Charlie Kirk Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Re-referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-14T04:00:00+00:00",
+      "description": "Reported with request to re-refer to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1929/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f984c1bf-67d5-4c46-83f5-9c20be1958b5",
+    "identifier": "HB 828",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in licenses and regulations for liquor, alcohol and malt and brewed beverages, further providing for license auction.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-09-10T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB828/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ff569594-a5f8-408f-b496-8bd789d7b144",
+    "identifier": "HB 2392",
+    "title": "An Act amending Titles 30 (Fish), 42 (Judiciary and Judicial Procedure) and 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in operation of boats, further providing for the offense of operating watercraft under influence of alcohol or controlled substance; in sentencing, further providing for conditions of probation;\r\n and, in driving after imbibing alcohol or utilizing drugs,\r\n further providing for grading and for penalties.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-08T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2392/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f362e24a-9e2d-4f2f-b3be-9d653e45bc07",
+    "identifier": "HB 1344",
+    "title": "An Act amending Titles 18 (Crimes and Offenses) and 53 (Municipalities Generally) of the Pennsylvania Consolidated Statutes, in riot, disorderly conduct and related offenses, further providing for definitions; and, in employees, further providing for canine training standards for police officers.",
+    "session": "2025-2026",
+    "status": "Act No. 18 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-29T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1344/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ad2a9c66-1bda-4a7f-8cd6-f7fadefbd317",
+    "identifier": "HB 586",
+    "title": "An Act amending the act of July 7, 1980 (P.L.380, No.97), known as the Solid Waste Management Act, in general provisions, further providing for definitions and for powers and duties of the department; in applications and permits, further providing for permits and licenses required, transition scheme and reporting requirements and providing for food processing residuals; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental Resources & Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-17T04:00:00+00:00",
+      "description": "Referred to Environmental Resources & Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB586/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4acb6780-d2c5-4f8c-8a0a-ae110ccbe3a6",
+    "identifier": "HB 467",
+    "title": "An Act amending the act of April 12, 1951 (P.L.90, No.21), known as the Liquor Code, in preliminary provisions, further providing for definitions; and, in licenses and regulations, liquor, alcohol and malt and brewed beverages, further providing for sales by liquor licensees and restrictions, providing for special sporting event permits for public venue licensees and further providing for retail dispensers' restrictions on purchases and sales, for breweries and for unlawful acts relative to liquor, malt and brewed beverages and licensees.",
+    "session": "2025-2026",
+    "status": "Act No. 56 of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-22T05:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB467/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d5a7d5b8-23c2-495f-9717-9b0e17efb3b5",
+    "identifier": "HB 587",
+    "title": "An Act amending Title 3 (Agriculture) of the Pennsylvania Consolidated\r\n Statutes, providing for commercial haulers and brokers of\r\n animal and food processing residuals; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Agriculture & Rural Affairs",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-07T04:00:00+00:00",
+      "description": "Referred to Agriculture & Rural Affairs"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB587/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

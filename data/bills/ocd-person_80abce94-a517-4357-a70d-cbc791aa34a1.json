@@ -658,5 +658,230 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2173/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/22a2259e-63dd-4b0c-8325-86a2886f2743",
+    "identifier": "HR 610",
+    "title": "A Resolution recognizing September 26, 2026, as \"National Hunting and Fishing Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-28T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR610/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4f8dc057-3911-4985-a7cd-cae17d2e4470",
+    "identifier": "HR 339",
+    "title": "House Discharge Resolution discharging Committee on Health from further consideration of Senate Bill No. 9.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-03T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR339/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
+  },
+  {
+    "id": "ocd-bill/d1455ae4-df4d-4a6e-8844-5c23daeca471",
+    "identifier": "HR 636",
+    "title": "House Discharge Resolution discharging Committee on State Government from further consideration of House Bill No. 744.",
+    "session": "2025-2026",
+    "status": "Referred to House Calendar Under Rule 53",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-28T04:00:00+00:00",
+      "description": "Referred to House Calendar Under Rule 53"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR636/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3dcd4820-0853-4568-b74f-a95854917d2f",
+    "identifier": "HR 622",
+    "title": "A Resolution designating the month of October 2026 as \"Italian and Italian American History and Culture Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-06T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR622/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/285352a3-f9c4-4a26-aedc-e23d50a447c9",
+    "identifier": "HB 1152",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, further providing for billing.",
+    "session": "2025-2026",
+    "status": "Referred to Veterans Affairs & Emergency Preparedness",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-04T04:00:00+00:00",
+      "description": "Referred to Veterans Affairs & Emergency Preparedness"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1152/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b056b561-655f-4d24-95fe-818135d5e9d7",
+    "identifier": "HB 2335",
+    "title": "An Act amending the act of May 22, 1951 (P.L.317, No.69), known as The Professional Nursing Law, further providing for definitions and for scope of practice for certified registered nurse anesthetists.",
+    "session": "2025-2026",
+    "status": "Referred to Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-30T04:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2335/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d0d503d8-592a-4dc7-9dac-67e9ed656f48",
+    "identifier": "HB 2855",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in inchoate crimes, further providing for prohibited offensive weapons and for use or possession of electric or electronic incapacitation device.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-14T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2855/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/df6dfec7-1a85-48a7-be4b-bf01a63a0d70",
+    "identifier": "HB 1849",
+    "title": "An Act providing for sport activities in public institutions of higher education and public school entities to be expressly designated male, female or coed; and creating causes of action for harm suffered by designation.",
+    "session": "2025-2026",
+    "status": "Re-referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-01T04:00:00+00:00",
+      "description": "Reported with request to re-refer to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1849/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2e545431-f079-4fe9-92c5-6311db758d32",
+    "identifier": "HB 861",
+    "title": "An Act amending the act of April 9, 1929 (P.L.343, No.176), known as The Fiscal Code, in additional special funds and restricted accounts, further providing for distributions from Pennsylvania Race Horse Development Fund.",
+    "session": "2025-2026",
+    "status": "Re-committed to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-03-19T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB861/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/65ba250d-f077-4326-ad79-53c47927dedd",
+    "identifier": "HB 1750",
+    "title": "An Act providing for disclosure of cremation services for deceased\r\n animals, for distribution and certification, for required\r\n notices, for holding facility standards, for recordkeeping\r\n requirements and for enforcement; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-25T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1750/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b59d606b-f23e-4a24-b6cf-839f7f3d0a64",
+    "identifier": "HR 152",
+    "title": "A Resolution designating April 18, 2026, as \"Lineworker Appreciation Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-05T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR152/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16372a8a-5103-468c-8ab0-2248e6b38db0",
+    "identifier": "HB 1108",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, further providing for copayments for subsidized child care; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Aging & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-03T04:00:00+00:00",
+      "description": "Referred to Aging & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1108/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ea15b52c-3e7b-4915-a1e7-0968234bda07",
+    "identifier": "HB 513",
+    "title": "An Act Amending Title 76 (Weights, Measures and Standards) of the Pennsylvania Consolidated Statutes, providing for Pennsylvania State Coordinate System, for notation requirements and for duties of State Geospatial Coordinating Board; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Act No. 52 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-08T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB513/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bcbcb1e1-fc58-4008-8792-2858614432c9",
+    "identifier": "HB 1072",
+    "title": "An Act amending the act of June 27, 2006 (1st Sp.Sess., P.L.1873, No.1), known as the Taxpayer Relief Act, in senior citizens property tax and rent rebate assistance, further providing for definitions and for filing and payment of claim. Amending the act of August 26, 1971 (P.L.351, No.91), known as the State Lottery Law, in State Lottery, further providing for disposition of funds.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-09T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1072/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a4733cae-cd81-4111-a384-84e5b306bfd1",
+    "identifier": "HB 846",
+    "title": "An Act amending the act of August 15, 1961 (P.L.987, No.442), known as the Pennsylvania Prevailing Wage Act, further providing for definitions, for specifications, for prevailing wage and for duty of secretary.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-18T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB846/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

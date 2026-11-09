@@ -403,5 +403,140 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB958/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f5e71fae-f0c3-4fb8-8a37-1a9c72a7ffd2",
+    "identifier": "HB 2342",
+    "title": "An Act amending the act of December 15, 1982 (P.L.1291, No.292), known as the Medicare Supplement Insurance Act, providing for applications for medicare supplement policies.",
+    "session": "2025-2026",
+    "status": "Referred to Aging & Older Adult Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-31T04:00:00+00:00",
+      "description": "Referred to Aging & Older Adult Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2342/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e7054ee5-3d24-44b8-bcd3-da31b5ed5169",
+    "identifier": "HB 170",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in registration of vehicles, further providing for vehicles exempt from registration; in fees, further providing for farm vehicles; and, in inspection of vehicles, further providing for requirement for periodic inspection of vehicles and for operation of vehicle without official certificate of inspection.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-17T05:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB170/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8af0cb0e-d8d2-42b2-994e-c5ab6df663a2",
+    "identifier": "HB 172",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in service and facilities, further providing for billing procedures.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-01-28T05:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB172/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/24bc1946-4736-453a-a7dc-889d8807c3f3",
+    "identifier": "HR 639",
+    "title": "A Resolution designating August 15, 2026, as \"One Million Degrees Day\" in Pennsylvania in recognition of a significant milestone in higher education and its impact on the Commonwealth's workforce, economy and communities.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR639/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3d8f8735-6b97-4529-b387-bd30360a2d82",
+    "identifier": "HB 1964",
+    "title": "An Act providing for a moratorium on the privatization of public water and wastewater systems; establishing the Water Utility Reform Working Group; and making a repeal relating to valuation of acquired water and wastewater systems.",
+    "session": "2025-2026",
+    "status": "Re-committed to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-13T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1964/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0772c263-7914-45a2-8f62-570cf611a3b7",
+    "identifier": "HB 2207",
+    "title": "An Act amending Title 12 (Commerce and Trade) of the Pennsylvania Consolidated Statutes, in small business first, further providing for capital development loans.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-25T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2207/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f7773b68-8ae6-4030-8c9b-0d96f85a5aed",
+    "identifier": "HR 630",
+    "title": "A Resolution directing the Legislative Budget and Finance Committee to conduct a study on data center decommissioning in Pennsylvania and provide recommendations.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR630/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bfd0dc14-f88d-46b6-9370-4b4111d3a6af",
+    "identifier": "HB 1106",
+    "title": "An Act amending the act of December 16, 1986 (P.L.1646, No.188), known as the Chiropractic Practice Act, in preliminary provisions, further providing for definitions; in licensure and regulation, further providing for refusal, suspension or revocation of license and for reporting of multiple licensure; providing for certified chiropractic assistants; in supportive personnel, further providing for supportive personnel; in penalty provisions, further providing for violation of other provisions and for civil penalty; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-05T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1106/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/102bee59-e4c2-40ef-a1a2-ce840d972162",
+    "identifier": "HB 414",
+    "title": "An Act amending Titles 23 (Domestic Relations) and 51 (Military Affairs) of the Pennsylvania Consolidated Statutes, enacting the Uniform Deployed Parents Custody and Visitation Act; making repeals; and making editorial changes.",
+    "session": "2025-2026",
+    "status": "Act No. 40 of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-27T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB414/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

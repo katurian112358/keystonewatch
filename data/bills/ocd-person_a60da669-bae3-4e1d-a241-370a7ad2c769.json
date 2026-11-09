@@ -253,5 +253,230 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR362/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/d0d503d8-592a-4dc7-9dac-67e9ed656f48",
+    "identifier": "HB 2855",
+    "title": "An Act amending Title 18 (Crimes and Offenses) of the Pennsylvania Consolidated Statutes, in inchoate crimes, further providing for prohibited offensive weapons and for use or possession of electric or electronic incapacitation device.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-14T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2855/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b0375a01-8a71-40e7-a91f-1fc6cf11d429",
+    "identifier": "HB 2554",
+    "title": "An Act amending Titles 30 (Fish) and 34 (Game) of the Pennsylvania Consolidated Statutes, in Pennsylvania Fish and Boat Commission, further providing for executive director; and, in Pennsylvania Game Commission, further providing for director.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-08T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2554/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/18496993-b01e-4308-a520-7473ee463a06",
+    "identifier": "HB 309",
+    "title": "An Act amending the act of October 5, 1978 (P.L.1109, No.261), known as the Osteopathic Medical Practice Act, further providing for power to license, for visiting team physician and for licenses, exemptions, nonresident practitioners, graduate students, biennial registration and continuing medical education.",
+    "session": "2025-2026",
+    "status": "Act No. 29 of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-07T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB309/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/39012240-3db4-4c34-8e90-0d64a5d7f777",
+    "identifier": "HB 1306",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in personal income tax, further providing for definitions and for classes of income.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-24T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1306/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/874d396e-df1f-4a8e-9764-78764a578621",
+    "identifier": "HR 621",
+    "title": "A Resolution urging the Congress of the United States and the United States Secretary of Defense to strengthen domestic content requirements for defense systems.",
+    "session": "2025-2026",
+    "status": "Reported as amended",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-29T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR621/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/077ce184-11bb-4c8f-ad51-87f9c53449a8",
+    "identifier": "HB 1299",
+    "title": "An Act amending the act of December 17, 1968 (P.L.1224, No.387), known as the Unfair Trade Practices and Consumer Protection Law, providing for unlawful retention policy.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1299/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bfd0dc14-f88d-46b6-9370-4b4111d3a6af",
+    "identifier": "HB 1106",
+    "title": "An Act amending the act of December 16, 1986 (P.L.1646, No.188), known as the Chiropractic Practice Act, in preliminary provisions, further providing for definitions; in licensure and regulation, further providing for refusal, suspension or revocation of license and for reporting of multiple licensure; providing for certified chiropractic assistants; in supportive personnel, further providing for supportive personnel; in penalty provisions, further providing for violation of other provisions and for civil penalty; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-05T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1106/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/58128ee9-a15f-43f6-87a8-02729a04ffb6",
+    "identifier": "HB 2003",
+    "title": "An Act amending Title 62 (Procurement) of the Pennsylvania Consolidated Statutes, providing for flags made in America.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-29T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2003/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/acc0f793-891a-40cc-b20f-fdb26aaf74eb",
+    "identifier": "HB 1433",
+    "title": "An Act amending the act of January 14, 1952 (1951 P.L.1898, No.522), known as the Funeral Director Law, further providing for duties of board.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection & Professional Licensure",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-22T04:00:00+00:00",
+      "description": "Referred to Consumer Protection & Professional Licensure"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1433/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e6fa8c0f-4aaf-4a9b-a0af-f21cb3ec8adb",
+    "identifier": "HB 2227",
+    "title": "An Act designating a bridge, identified as Bridge Key 68687, carrying Pennsylvania Route 271 over a tributary of Blacklick Creek in Blacklick Township, Cambria County, as the Martin J. Kupchella Memorial Bridge; designating a bridge, identified as Bridge Key 69488, carrying State Route 3005 over North Witmer Run in Irvona Borough, Clearfield County, as the World War II Veteran Pvt. Wilbur Russell Rea Memorial Bridge; designating the bridge, identified as Bridge Key 11527, carrying Pennsylvania Route 729 over Gazzam Run in Jordan Township, Clearfield County, as the PFC Raymond Lee McGarvey Memorial Bridge; designating a bridge, identified as Bridge Key 25406, carrying Pennsylvania Route 346 over Willow Creek in Corydon Township, McKean County, as the Private First Class Bruce A. Cobb Memorial Bridge; designating the bridge, identified as Bridge Key 5662, carrying Pennsylvania Route 866 over the Frankstown Branch of the Juniata River in Catharine Township, Blair County, as the Sergeant Edward Vernon McChessney Memorial Bridge; designating a bridge, identified as Bridge Key 11669, carrying Quehanna Highway over Mosquito Creek, Karthaus Township, Clearfield County, as the Gerald Reiter and Leon Hahn Memorial Bridge; designating a bridge, identified as Bridge Key 52427, carrying Pennsylvania Route 970 over the West Branch of the Susquehanna River in Bradford Township, Clearfield County, as the Ashley E. Woolridge Memorial Bridge; designating a portion of Pennsylvania Route 405 from segment 0270/offset 2380 to segment 220/offset 2306 on Pennsylvania Route 44 in Delaware Township and Watsontown Borough in Northumberland County as the PFC Richard F. \"Ricky\" Ritter Memorial Highway; designating a portion of Pennsylvania Route 18 from the intersection with 37th Street to the intersection with Wallace Run Road in Beaver Falls, Beaver County, as the Sgt. Allan R. Bevington Memorial Highway; designating a bridge, identified as Bridge Key 11231, on that portion of Pennsylvania Route 53 over the Beaver Run River, Houtzdale Borough, Clearfield County, as the Cpl. Melvin Philip \"Dutch\" Henry Memorial Bridge; designating a bridge, identified as Bridge Key 31485, on that portion of Pennsylvania Route 601 in Paint Borough, Somerset County, as the Staff Sergeant John P. Parks Memorial Bridge; designating a portion of Pennsylvania Route 232 from the intersection with Bustleton Pike to the intersection with Almshouse Road in Northampton Township, Bucks County, as the Captain designating bridges, identified as Bridge Keys 3973/42427, Walter Harrison Sigafoos III Memorial Highway; carrying U.S. Route 30 over the Raystown Branch of the Juniata River in Snake Spring Township, Bedford County, as the Victor E. Kidd Memorial Bridge; designating the portion of U.S. Route 222 from the intersection with Dries Road in Maidencreek Township to the intersection with Kempsville Road in Richmond Township, Berks County, as the Chief Jeffory L. Buck and Assistant Chief Robert R. Shick, Jr., Memorial Highway; designating a bridge, identified as Bridge Key 42872, carrying State Route 4013 over Norfolk Southern Railroad and 8th Avenue in the City of Altoona, Blair County, as the Vietnam War Veteran Sgt. Calvin G. Maguire Memorial Bridge; designating a bridge, identified as Bridge Key 8546, carrying State Route 1001 over RJ Corman Railroad in Allegheny Township, Cambria County, as the Technician 5th Grade Bernard C. Strohmier Memorial Bridge; designating a bridge, identified as Bridge Key 53749, carrying Pennsylvania Route 234 over the Conewago Creek in Franklin Township, Adams County, as the Firefighter Adam E. Cole Memorial Bridge; designating the bridge, identified as Bridge Key 48742, carrying State Route 4009 over Fox Run in Northern Cambria Borough, Cambria County, as the Sgt. Elwood Eugene Rumbaugh Memorial Bridge; designating a bridge, identified as Bridge Key 8455, on that portion of U.S. Route 219 over Palestine Road in Adams Township, Cambria County, as the Sgt. Jason Dale Kriedler Memorial Bridge; designating a portion of State Route 1008 in Fayetteville, Franklin County, as the Fire Chief James W. Cutchall Memorial Highway; providing for Pennsylvania and National Medal of Honor Highway; designating a bridge, identified as Bridge Key 9258, carrying Pennsylvania Route 45 over Elk Creek in Millheim Borough, Centre County, as the Lt. Col. Kenneth D. Royer Memorial Bridge; designating bridges, identified as Bridge Keys 31407 and 31408, carrying U.S. Route 219 over U.S. Route 30 in Jenner Township, Somerset County, as the Corporal Robert L. Haines Memorial Bridge; designating the bridge, identified as Bridge Key 52616, carrying Pennsylvania Route 555 over Kersey Run in Jay Township, Elk County, as the Weedville World War II Memorial Bridge; designating a bridge, identified as Bridge Key 19186, carrying Pennsylvania Route 580 over Cush Cushion Creek in Green Township, Indiana County, as the Private Robert M. Pittman Memorial Bridge; designating a bridge, identified as Bridge Key 8387, carrying Pennsylvania Route 53 over Patty's Run in Gallitzin Township, Cambria County, as the USMCWR Mary A. Lidwell Memorial Bridge; designating a bridge, identified as Bridge Key 8514, carrying Pennsylvania Route 271 over North Branch Blacklick Creek in Barr Township, Cambria County, as the Brown Brothers Memorial Bridge; designating a portion of Pennsylvania Route 611 from the intersection with Old Easton Road to the intersection with Kellers Church Road in Plumstead Township, Bucks County, as the Joseph Kay Memorial Highway; designating a bridge, identified as Bridge Key 8612, carrying U.S. Route 22 in Cresson Township, Cambria County, as the PFC Stanley J. Lassak Memorial Bridge; designating a portion of U.S. Routes 22 and 322 beginning at U.S. Route 322, segment 772/offset 1795, in Centre County and ending at U.S. Route 22, segment 573/offset 2625 in Mifflin County, as the J. Doyle Corman Memorial Highway; designating a portion of Pennsylvania Route 45, from the intersection of Pennsylvania Route 26, Segment 0140, Offset 0000, in Pine Grove Mills, Centre County, to U.S. Business Route 322, Segment 0240, Offset 0000, in Boalsburg, Centre County, as the Sergeant Adam Hartswick Highway; designating a bridge, identified as Bridge Key 36355, on that portion of Pennsylvania Route 993 over Brush Creek in North Huntingdon Township, Westmoreland County, as the Brian Keefer Memorial Bridge; designating a portion of Pennsylvania Route 11 from the intersection with Central Road to the intersection with Lows Road in Bloomsburg, Columbia County, as the Rich Ridgway Memorial Highway; and making repeals.",
+    "session": "2025-2026",
+    "status": "Act No. 80 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-22T04:00:00+00:00",
+      "description": "Signed in Senate"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2227/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/52c83cfb-09cd-4b14-985a-891c6eb87b49",
+    "identifier": "HB 2163",
+    "title": "An Act amending the act of May 1, 1933 (P.L.216, No.76), known as The Dental Law, further providing for definitions, for general powers of the State Board of Dentistry, for penalties and for restricted faculty license.",
+    "session": "2025-2026",
+    "status": "Act No. 13 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-06T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2163/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e77ba130-bec5-4d1a-823d-e618acbaab6f",
+    "identifier": "HB 1961",
+    "title": "An Act authorizing the Commonwealth of Pennsylvania to join the PA Licensure Compact; providing for the form of the compact; and imposing additional powers and duties on the Governor, the Secretary of the Commonwealth and the PA Licensure Compact.",
+    "session": "2025-2026",
+    "status": "Act No. 76 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-22T04:00:00+00:00",
+      "description": "Signed in Senate"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1961/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b17a1913-e32e-4ae8-b72a-02faa6ebbaa6",
+    "identifier": "HB 1697",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, providing for liability for false claims, for adoption of congressional intent of the Federal False Claims Act, for damages, costs and civil penalties, for powers of Attorney General, for qui tam actions and for civil investigative demands; and establishing the Fraud Prevention and Recovery Account.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-23T04:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1697/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7c014830-8177-4cc3-af4d-0e372b819fd4",
+    "identifier": "HB 1018",
+    "title": "An Act amending the act of March 3, 1978 (P.L.6, No.3), known as the Steel Products Procurement Act, further providing for contracts for public works to use or supply steel products and for restrictions on payments by public agencies under certain circumstances.",
+    "session": "2025-2026",
+    "status": "Referred to State Government",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-18T04:00:00+00:00",
+      "description": "Referred to State Government"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1018/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/84424aa3-a880-4d19-99fc-12b320759ba6",
+    "identifier": "HB 2496",
+    "title": "An Act amending the act of July 31, 1968 (P.L.805, No.247), known as the Pennsylvania Municipalities Planning Code, in general provisions, providing for pause on data center proposals.",
+    "session": "2025-2026",
+    "status": "Re-referred to Rules & Executive Nominations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-30T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2496/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

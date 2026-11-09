@@ -1183,5 +1183,335 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2533/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8bcbf067-c7d4-40d9-8a87-963137e75a70",
+    "identifier": "HR 612",
+    "title": "A Resolution recognizing the month of September 2026 as \"National Recovery Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-30T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR612/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0c76c92d-dfe5-4e69-937e-b2c56b0ebfe8",
+    "identifier": "HR 613",
+    "title": "A Resolution recognizing October 20, 2026, as \"Medium-chain Acyl-CoA Dehydrogenase Deficiency Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-06T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR613/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fc9c32bb-1d2a-4076-bd41-8df833249328",
+    "identifier": "HR 497",
+    "title": "A Resolution recognizing October 6, 2026, as \"German American Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-07T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR497/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e8897747-f462-4739-ac51-9d34aa940c2d",
+    "identifier": "HB 2372",
+    "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in restructuring of electric utility industry, further providing for declaration of policy, for standards for restructuring of electric industry and for duties of electric distribution companies.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-09T04:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2372/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/69f51f34-9159-48ad-be9c-c3773c681b7f",
+    "identifier": "HB 686",
+    "title": "An Act amending the act of February 13, 1970 (P.L.19, No.10), entitled \"An act enabling certain minors to consent to medical, dental and health services, declaring consent unnecessary under certain circumstances,\" further providing for release of medical records; and providing for parent or legal guardian access to medical records.",
+    "session": "2025-2026",
+    "status": "Referred to Health",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-02-21T05:00:00+00:00",
+      "description": "Referred to Health"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB686/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/39f08641-3b2b-4e12-81ff-84611c8db2e4",
+    "identifier": "HB 2781",
+    "title": "An Act providing for limitations on the purchase of single-family residences; and imposing powers and duties on the Pennsylvania State Real Estate Commission and the Office of the Attorney General.",
+    "session": "2025-2026",
+    "status": "Referred to Housing & Community Development",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-21T04:00:00+00:00",
+      "description": "Referred to Housing & Community Development"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2781/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/86c699e9-0d2b-4039-92a2-c4d2ef8206b8",
+    "identifier": "HB 1394",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, repealing provisions relating to inheritance tax; in procedure and administration, further providing for petition for reassessment; and, in governmental obligations, further providing for taxability of government obligations.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-05T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1394/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bbcf21e2-aa75-4b88-b963-538457acf14e",
+    "identifier": "HB 2213",
+    "title": "An Act providing for skill video gaming; imposing duties on the Department of Revenue; providing for issuance of licenses for skill video gaming; imposing a fee and criminal and civil penalties; and providing for zoning.",
+    "session": "2025-2026",
+    "status": "Referred to Gaming Oversight",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-11T05:00:00+00:00",
+      "description": "Referred to Gaming Oversight"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2213/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/36538864-a790-43e6-b409-937f5e22bbf8",
+    "identifier": "HB 1941",
+    "title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in general provisions relating to operation of vehicles, further providing for obedience to authorized persons directing traffic.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-08T04:00:00+00:00",
+      "description": "Re-reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1941/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9ad31e44-7c8d-4174-82dc-8a1e733eb44f",
+    "identifier": "HB 1929",
+    "title": "An Act providing for the annual recognition and observance of \"Charlie Kirk Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Re-referred to Intergovernmental Affairs & Operations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-14T04:00:00+00:00",
+      "description": "Reported with request to re-refer to Intergovernmental Affairs & Operations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1929/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c15bd500-a053-4729-ba75-52d415f73191",
+    "identifier": "HB 2867",
+    "title": "An Act providing for supplemental payments to households eligible for the Low-Income Home Energy Assistance Program and for emergency utility payments; imposing duties on the Department of Human Services; and making an interfund transfer.",
+    "session": "2025-2026",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-28T04:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2867/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/66218e86-fb07-4ad4-aba6-a3cf88d23532",
+    "identifier": "HR 242",
+    "title": "A Resolution recognizing June 6, 2026, as \"D-Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-03T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR242/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b3fa2168-ac63-455b-8a36-931b0725efde",
+    "identifier": "HR 253",
+    "title": "A Resolution directing the Joint State Government Commission to establish a task force and advisory committee on increasing access to drug and alcohol treatment for substance use disorders; and directing the task force to make recommendations to the General Assembly.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-09T04:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR253/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/b6062e3e-d17e-4aef-af62-54d53c5f37b0",
+    "identifier": "HR 259",
+    "title": "A Resolution recognizing August 24, 2026, as \"Ukrainian Independence Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-05-05T04:00:00+00:00",
+      "description": "Amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR259/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f1d6a7cb-2f28-456e-83b2-b1c04f42e01d",
+    "identifier": "HB 430",
+    "title": "An Act imposing the duty on Department of Environmental Protection to prohibit the construction or installation of wind turbines that negatively affect military installations.",
+    "session": "2025-2026",
+    "status": "Laid on the table (Pursuant to House Rule 71)",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-17T05:00:00+00:00",
+      "description": "Laid on the table (Pursuant to House Rule 71)"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB430/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c489a8a5-dfc7-4ac8-a5ce-e1799a5a46a9",
+    "identifier": "HB 1429",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, providing for report on transition to chip-enabled access cards.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-17T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1429/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2b3392e0-43d4-4de3-a379-70f1303d52f9",
+    "identifier": "HB 1528",
+    "title": "An Act establishing the Grand-family Assistance Program; providing for payments to area agencies on aging; imposing duties on the Department of Aging; and establishing the Grand-family Assistance Program Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Aging & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-24T05:00:00+00:00",
+      "description": "Referred to Aging & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1528/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/85d245ed-20e8-4bdc-a58c-c034d379e3b4",
+    "identifier": "HB 640",
+    "title": "An Act amending the act of April 9, 1929 (P.L.177, No.175), known as The Administrative Code of 1929, in powers and duties of the Department of Public Welfare and its\r\n departmental administrative and advisory boards and\r\n commissions, providing for managed care organization\r\n assessment, for intermediate care facilities for persons with\r\n an intellectual disability assessments, for hospital\r\n assessments, for Statewide quality care assessments and for\r\n nursing facility assessment; in powers and duties of the Department of Drug and Alcohol Programs, further providing for powers and duties; in judicial administration, further providing for surcharge and fee; and making repeals\r\n.",
+    "session": "2025-2026",
+    "status": "Act No. 14 of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-30T04:00:00+00:00",
+      "description": "Referred to Rules"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB640/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/6c2a0b42-7e20-4bf3-ab4e-8cc626041397",
+    "identifier": "HB 2540",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, providing for transition to chip-enabled access cards.",
+    "session": "2025-2026",
+    "status": "Re-referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-25T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2540/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16372a8a-5103-468c-8ab0-2248e6b38db0",
+    "identifier": "HB 1108",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, further providing for copayments for subsidized child care; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Referred to Aging & Youth",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-03T04:00:00+00:00",
+      "description": "Referred to Aging & Youth"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1108/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/16c5ae69-fefe-4e4a-bd51-8a2c33a9fe74",
+    "identifier": "HB 17",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in terms and courses of study, further providing for subjects of instruction and flag code.",
+    "session": "2025-2026",
+    "status": "Act No. 2 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-02-11T05:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB17/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/70fdc29f-738d-4add-b5cf-c37d3c4e7e5a",
+    "identifier": "HB 1590",
+    "title": "An Act amending the act of June 13, 1967 (P.L.31, No.21), known as the Human Services Code, in public assistance, providing for abrogation of regulatory requirements for payment for clinic services within physical confines of clinic facilities.",
+    "session": "2025-2026",
+    "status": "Referred to Health & Human Services",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-01T04:00:00+00:00",
+      "description": "Referred to Health & Human Services"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1590/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

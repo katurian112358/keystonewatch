@@ -283,5 +283,515 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR593/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/c79f516b-c727-48b4-ae1d-e9a0f6b9f4fd",
+    "identifier": "HB 2406",
+    "title": "An Act making an appropriation from a restricted revenue account within the General Fund to the Office of Consumer Advocate in the Office of Attorney General.",
+    "session": "2025-2026",
+    "status": "Act No. 5A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2406/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/0489cf73-c35e-47d5-bd2d-a4922d1498a1",
+    "identifier": "HB 2408",
+    "title": "An Act making appropriations from the State Employees' Retirement Fund and from the SERS Defined Contribution Fund to provide for expenses of the State Employees' Retirement Board for the fiscal year July 1, 2026, to June 30, 2027, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2026.",
+    "session": "2025-2026",
+    "status": "Act No. 7A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2408/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/86ef5915-d1e5-4970-91c6-499403b152f0",
+    "identifier": "HR 645",
+    "title": "A Resolution designating October 20, 2026, as \"Domestic Violence Awareness Day\" in Pennsylvania, in honor of the 50th anniversary of the Pennsylvania Coalition Against Domestic Violence.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR645/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/028ef527-cfd2-4cab-a03e-779fde454f88",
+    "identifier": "HB 1335",
+    "title": "An Act making an appropriation from a restricted revenue account within the General Fund to the Office of Small Business Advocate in the Department of Community and Economic Development.",
+    "session": "2025-2026",
+    "status": "Act No. 4A of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-27T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1335/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/45a77d4f-c315-4c35-9dc6-a5a18e4e0751",
+    "identifier": "HB 1334",
+    "title": "An Act making appropriations from the Workmen's Compensation Administration Fund to the Department of Labor and Industry and the Department of Community and Economic Development to provide for the expenses of administering the Workers' Compensation Act, The Pennsylvania Occupational Disease Act and the Office of Small Business Advocate for the fiscal year July 1, 2025, to June 30, 2026, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2025.",
+    "session": "2025-2026",
+    "status": "Act No. 3A of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-27T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1334/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c9452c8b-a595-4e58-baca-a905a338b9b7",
+    "identifier": "HR 63",
+    "title": "A Resolution directing the Joint State Government Commission to study diversion programs and make recommendations for improving existing diversion programs and establishing new diversion programs.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-04-27T04:00:00+00:00",
+      "description": "Amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR63/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/11189896-db32-4e6f-affc-b4c1c47276c7",
+    "identifier": "HB 2405",
+    "title": "An Act making an appropriation from a restricted revenue account within the General Fund to the Office of Small Business Advocate in the Department of Community and Economic Development.",
+    "session": "2025-2026",
+    "status": "Act No. 4A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2405/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/62a1379f-0f66-447d-bfe3-c02053b4d0d5",
+    "identifier": "HB 1332",
+    "title": "An Act providing for the capital budget for fiscal year 2025-2026 and for limitation on redevelopment assistance capital\r\n projects; and making a repeal.",
+    "session": "2025-2026",
+    "status": "Act No. 48 of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Third consideration and final passage"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1332/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bb341d93-da0c-4f89-b549-c2fcbb3b55dd",
+    "identifier": "HB 1337",
+    "title": "An Act making appropriations from the State Employees' Retirement Fund and from the SERS Defined Contribution Fund to provide for expenses of the State Employees' Retirement Board for the fiscal year July 1, 2025, to June 30, 2026, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2025.",
+    "session": "2025-2026",
+    "status": "Act No. 6A of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-27T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1337/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/87100cb8-3273-4266-834d-9d3344f0f82f",
+    "identifier": "HB 2412",
+    "title": "An Act providing for funding for State-related universities for the fiscal year beginning July 1, 2026, and ending June 30, 2027, for costs basis, for frequency of payments and for recordkeeping requirements; imposing a duty on the Auditor General; providing for financial statements, for the Agricultural College Land Scrip Fund and for restrictions; and making appropriations.",
+    "session": "2025-2026",
+    "status": "Act No. 11A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-12T04:00:00+00:00",
+      "description": "Third consideration and final passage"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2412/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ba3e6420-6d12-4fb9-9745-cffd2d63a287",
+    "identifier": "HB 1333",
+    "title": "An Act making appropriations from the Professional Licensure Augmentation Account and from restricted revenue accounts within the General Fund to the Department of State for use by the Bureau of Professional and Occupational Affairs in support of the professional licensure boards assigned thereto.",
+    "session": "2025-2026",
+    "status": "Act No. 2A of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-27T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1333/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f36a9005-d321-440d-a0bc-760f8b460335",
+    "identifier": "HB 1336",
+    "title": "An Act making appropriations from the Public School Employees' Retirement Fund and from the PSERS Defined Contribution Fund to provide for expenses of the Public School Employees' Retirement Board for the fiscal year July 1, 2025, to June 30, 2026, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2025.",
+    "session": "2025-2026",
+    "status": "Act No. 5A of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-27T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1336/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1a9f84ee-d4df-4731-b92a-244f5d698653",
+    "identifier": "HB 2401",
+    "title": "An Act providing for the capital budget for fiscal year 2026-2027.",
+    "session": "2025-2026",
+    "status": "Act No. 22 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-12T04:00:00+00:00",
+      "description": "Third consideration and final passage"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2401/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e45d4aba-2daf-4552-b6f8-91d85bd08b99",
+    "identifier": "HB 2404",
+    "title": "An Act making appropriations from the Workmen's Compensation Administration Fund to the Department of Labor and Industry and the Department of Community and Economic Development to provide for the expenses of administering the Workers' Compensation Act, The Pennsylvania Occupational Disease Act and the Office of Small Business Advocate for the fiscal year July 1, 2026, to June 30, 2027, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2026.",
+    "session": "2025-2026",
+    "status": "Act No. 3A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2404/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c0009558-1cf5-496d-b233-5b503ba48e3b",
+    "identifier": "HB 1340",
+    "title": "An Act making appropriations from the restricted revenue accounts within the State Gaming Fund and from the restricted revenue accounts within the Fantasy Contest Fund and Video Gaming Fund to the Attorney General, the Department of Revenue, the Pennsylvania State Police and the Pennsylvania Gaming Control Board for the fiscal year beginning July 1, 2025, to June 30, 2026, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2025.",
+    "session": "2025-2026",
+    "status": "Act No. 9A of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-27T04:00:00+00:00",
+      "description": "Presented to the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1340/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/650e5fe2-6999-406a-8063-2bab6c362b3a",
+    "identifier": "HB 2403",
+    "title": "An Act making appropriations from the Professional Licensure Augmentation Account and from restricted revenue accounts within the General Fund to the Department of State for use by the Bureau of Professional and Occupational Affairs in support of the professional licensure boards assigned thereto.",
+    "session": "2025-2026",
+    "status": "Act No. 2A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2403/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/5919eb4b-405b-40c7-9817-83123835593a",
+    "identifier": "HB 2084",
+    "title": "An Act amending the act of March 10, 1949 (P.L.30, No.14), known as the Public School Code of 1949, in higher education accountability and transparency, further\r\n providing for comparison tool; providing for Pennsylvania Promise Program; and establishing the Pennsylvania Promise Program Fund.",
+    "session": "2025-2026",
+    "status": "Referred to Education",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-18T04:00:00+00:00",
+      "description": "Referred to Education"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2084/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3768eaa7-a744-4fd7-a196-5c4521f9682b",
+    "identifier": "HB 1330",
+    "title": "An Act to provide appropriations from the General Fund for the expenses of certain agencies of the Executive Department for the fiscal year July 1, 2025, to June 30, 2026, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2025.",
+    "session": "2025-2026",
+    "status": "Re-committed to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-07-17T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1330/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/57d544e0-f059-4661-96bd-ccbce85ad319",
+    "identifier": "HB 2409",
+    "title": "An Act making appropriations from the Philadelphia Taxicab and Limousine Regulatory Fund to the Philadelphia Parking Authority for the fiscal year July 1, 2026, to June 30, 2027.",
+    "session": "2025-2026",
+    "status": "Act No. 8A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2409/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/cbb433fc-951b-448f-821a-61b0417c00ce",
+    "identifier": "HB 2400",
+    "title": "An Act to provide appropriations from the General Fund for the expenses of the Executive, Legislative and Judicial Departments of the Commonwealth, the public debt and the public schools for the fiscal year July 1, 2026, to June 30, 2027, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2026; to provide appropriations from special funds and accounts to the Executive and Judicial Departments for the fiscal year July 1, 2026, to June 30, 2027, and for the payment of bills remaining unpaid at the close of the fiscal year ending June 30, 2026; to provide for the appropriation of Federal funds to the Executive and Judicial Departments for the fiscal year July 1, 2026, to June 30, 2027, and for the payment of bills remaining unpaid at the close of the fiscal year ending June 30, 2026; and to provide for the additional appropriation of Federal and State funds to the Executive, Legislative and Judicial Departments for the fiscal year July 1, 2025, to June 30, 2026, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2025.",
+    "session": "2025-2026",
+    "status": "Act No. 1A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-12T04:00:00+00:00",
+      "description": "Third consideration and final passage"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2400/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1c63b111-5577-4e6a-9129-c330bc7cc0f1",
+    "identifier": "HB 1421",
+    "title": "An Act providing for funding for certain State-aided universities for the fiscal year beginning July 1, 2025, and ending June 30, 2026, for costs basis, for frequency of payments and for recordkeeping requirements; imposing a duty on the Auditor General; providing for financial statements, for the Agricultural College Land Scrip Fund and for restrictions; and making appropriations.",
+    "session": "2025-2026",
+    "status": "Act No. 11A of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-19T05:00:00+00:00",
+      "description": "Third consideration and final passage"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1421/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/d0a2c847-612e-42d7-8a51-93730cbcaba6",
+    "identifier": "HB 2413",
+    "title": "An Act making appropriations to the Trustees of the University of Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Act No. 12A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-07-12T04:00:00+00:00",
+      "description": "Third consideration and final passage"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2413/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/3e5f3657-ba01-4567-b66f-fd0a8bcb0c85",
+    "identifier": "HB 2407",
+    "title": "An Act making appropriations from the Public School Employees' Retirement Fund and from the PSERS Defined Contribution Fund to provide for expenses of the Public School Employees' Retirement Board for the fiscal year July 1, 2026, to June 30, 2027, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2026.",
+    "session": "2025-2026",
+    "status": "Act No. 6A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2407/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/eba8b89b-a694-44d0-a25d-cf011d21c49f",
+    "identifier": "HB 2411",
+    "title": "An Act making appropriations from the restricted revenue accounts within the State Gaming Fund and from the restricted revenue accounts within the Fantasy Contest Fund and Video Gaming Fund to the Attorney General, the Department of Revenue, the Pennsylvania State Police and the Pennsylvania Gaming Control Board for the fiscal year beginning July 1, 2026, to June 30, 2027, and for the payment of bills incurred and remaining unpaid at the close of the fiscal year ending June 30, 2026.",
+    "session": "2025-2026",
+    "status": "Act No. 10A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2411/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f682eefa-0e08-429a-8a44-c6fe31e01a4d",
+    "identifier": "HB 1123",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, further providing for coverage for colorectal cancer screening.",
+    "session": "2025-2026",
+    "status": "Act No. 72 of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-22T04:00:00+00:00",
+      "description": "Signed in Senate"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1123/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9d84a0f5-4992-4f08-b8be-7cee2d7b11b0",
+    "identifier": "HB 2649",
+    "title": "An Act amending the act of May 17, 1921 (P.L.682, No.284), known as The Insurance Company Law of 1921, in casualty insurance, providing for coverage for certain fertility preservation services.",
+    "session": "2025-2026",
+    "status": "Referred to Banking & Insurance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-13T04:00:00+00:00",
+      "description": "Referred to Banking & Insurance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2649/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4de7700d-af7d-408e-9788-bba2343749cc",
+    "identifier": "HB 1095",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in dockets, indices and other records, providing for limited access to eviction information; and requiring the Administrative Office of Pennsylvania Courts to process records.",
+    "session": "2025-2026",
+    "status": "Re-reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Second consideration"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1095/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/25ef8d8e-42a2-4992-a33a-1d1d8d8a8cab",
+    "identifier": "HB 1339",
+    "title": "An Act making appropriations from a restricted revenue account within the General Fund and from Federal augmentation funds to the Pennsylvania Public Utility Commission for the fiscal year July 1, 2025, to June 30, 2026.",
+    "session": "2025-2026",
+    "status": "Act No. 8A of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-27T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1339/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/7ac07397-1ef5-41bf-871f-6f9ad90edd2c",
+    "identifier": "HB 561",
+    "title": "An Act amending Title 61 (Prisons and Parole) of the Pennsylvania Consolidated Statutes, in Nonnarcotic Medication Assisted Substance Abuse Treatment Grant Pilot Program, further providing for definitions, repealing provisions relating to establishment of pilot program, providing for establishment and further providing for county participation requirements, for use of grant funding, for powers and duties of department, for report to General Assembly and for construction; imposing duties on the Pennsylvania Commission on Crime and Delinquency; and making an editorial change.",
+    "session": "2025-2026",
+    "status": "Referred to Judiciary",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-05-22T04:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB561/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/47858013-8e6b-4904-a51f-596a84ab3fb2",
+    "identifier": "HB 2410",
+    "title": "An Act making appropriations from a restricted revenue account within the General Fund and from Federal augmentation funds to the Pennsylvania Public Utility Commission for the fiscal year July 1, 2026, to June 30, 2027.",
+    "session": "2025-2026",
+    "status": "Act No. 9A of 2026",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-12T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2410/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8b348236-0fd0-4839-8254-cc78339bba03",
+    "identifier": "HB 1338",
+    "title": "An Act making appropriations from the Philadelphia Taxicab and Limousine Regulatory Fund to the Philadelphia Parking Authority for the fiscal year July 1, 2025, to June 30, 2026.",
+    "session": "2025-2026",
+    "status": "Act No. 7A of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-27T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1338/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/57f33a1f-8359-4a59-bb90-1afa689fffb0",
+    "identifier": "HB 1788",
+    "title": "An Act amending Titles 74 (Transportation) and 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in sustainable mobility options, further providing for operating program; in metropolitan transportation authorities, providing for supplemental performance reporting; providing for Public Transportation Trust Fund transfer and annual increase; establishing the Road and Bridge Project Fund and the Road and Bridge Project Sinking Fund; in public-private transportation partnerships, providing for applicable authority projects; in lighting equipment, further providing for use and display of illuminating signs; in taxes for highway maintenance and construction, further providing for supplemental funding for three and four digit highway construction; and establishing the Three and Four Digit State Route Account.",
+    "session": "2025-2026",
+    "status": "Referred to Transportation",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-08-15T04:00:00+00:00",
+      "description": "Referred to Transportation"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1788/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9504f61f-2640-4a09-b11f-aaf333996eb7",
+    "identifier": "HB 1420",
+    "title": "An Act making an appropriation from a restricted revenue account within the General Fund to the Office of Consumer Advocate in the Office of Attorney General.",
+    "session": "2025-2026",
+    "status": "Act No. 10A of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-27T04:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1420/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/68da246f-2198-4429-9f48-bbdaf0ee06c1",
+    "identifier": "HB 1331",
+    "title": "An Act providing for the capital budget for fiscal year 2025-2026; itemizing public improvement projects, furniture and equipment projects, transportation assistance, redevelopment assistance projects, flood control projects and Pennsylvania Fish and Boat Commission projects leased or assisted by the Department of General Services and other State agencies, together with their estimated financial costs; authorizing the incurring of debt without the approval of the electors for the purpose of financing the projects to be constructed, acquired or assisted by the Department of General Services and other State agencies; authorizing the use of current revenue for the purpose of financing the projects to be constructed, acquired or assisted by the Department of General Services and other State agencies stating the estimated useful life of the projects; and making appropriations.",
+    "session": "2025-2026",
+    "status": "Referred to Appropriations",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-10-03T04:00:00+00:00",
+      "description": "Referred to Appropriations"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1331/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]

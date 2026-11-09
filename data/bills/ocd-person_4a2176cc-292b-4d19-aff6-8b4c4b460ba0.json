@@ -268,5 +268,155 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR593/",
     "sponsorship_role": "cosponsor",
     "instrumental": false
+  },
+  {
+    "id": "ocd-bill/41e66743-7067-4cf3-86c0-0ecd05e38b97",
+    "identifier": "HR 646",
+    "title": "A Resolution designating November 5, 2026, as \"Frankford Yellow Jackets Championship Day\" in Pennsylvania in honor of the team's 1926 National Football League Championship.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-19T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR646/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f937ef44-1425-4e4f-826a-bc395cdaea06",
+    "identifier": "HB 109",
+    "title": "An Act amending Title 27 (Environmental Resources) of the Pennsylvania Consolidated Statutes, providing for issuance of permits in environmental justice areas.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-07T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB109/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/ef0a9dc2-908e-45b8-aead-24a00f738230",
+    "identifier": "HB 64",
+    "title": "An Act prohibiting the penalization of employees for nonparticipation in religious or political matters; providing for notice requirements; establishing the Captive Audience Meeting Enforcement Fund; and imposing penalties.",
+    "session": "2025-2026",
+    "status": "Laid on the table",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-03-23T04:00:00+00:00",
+      "description": "Reported as amended"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB64/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/bd23f09c-1b9e-4cec-8f14-6df538d447ba",
+    "identifier": "HB 2189",
+    "title": "An Act amending the act of January 17, 1968 (P.L.11, No.5), known as The Minimum Wage Act of 1968, further providing for definitions, for minimum wages and for exemptions.",
+    "session": "2025-2026",
+    "status": "Resolution to discharge committee from further consideration of this bill presented",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-30T04:00:00+00:00",
+      "description": "Resolution to discharge committee from further consideration of this bill presented"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2189/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/045308a4-085d-4fd7-b484-8dd1fa06a495",
+    "identifier": "HB 1549",
+    "title": "An Act amending the act of January 17, 1968 (P.L.11, No.5), known as The Minimum Wage Act of 1968, further providing for definitions, for minimum wages and for exemptions.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-18T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1549/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/38c76bce-3423-4dc0-b524-d59d8cbeba2f",
+    "identifier": "HB 274",
+    "title": "An Act amending the act of December 5, 1936 (2nd Sp.Sess., 1937 P.L.2897, No.1), known as the Unemployment Compensation Law, in compensation, further providing for qualifications required to secure compensation and for ineligibility for compensation, providing for eligibility related to domestic violence and further providing for rate and amount of compensation.",
+    "session": "2025-2026",
+    "status": "Act No. 55 of 2025",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-12-22T05:00:00+00:00",
+      "description": "Approved by the Governor"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB274/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e674b44c-a42a-4430-8edf-5b8819ca295e",
+    "identifier": "HB 1995",
+    "title": "An Act amending the act of December 5, 1936 (2nd Sp.Sess., 1937 P.L.2897, No.1), known as the Unemployment Compensation Law, in compensation, further providing for rate and amount of compensation.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-11-24T05:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1995/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/8a2998c3-1db8-45bc-b49e-4f122591a3bb",
+    "identifier": "HB 1678",
+    "title": "An Act amending the act of March 4, 1971 (P.L.6, No.2), known as the Tax Reform Code of 1971, in gross receipts tax, further providing for imposition of tax; and providing for additional property tax rebate.",
+    "session": "2025-2026",
+    "status": "Referred to Finance",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-06-18T04:00:00+00:00",
+      "description": "Referred to Finance"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB1678/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a4733cae-cd81-4111-a384-84e5b306bfd1",
+    "identifier": "HB 846",
+    "title": "An Act amending the act of August 15, 1961 (P.L.987, No.442), known as the Pennsylvania Prevailing Wage Act, further providing for definitions, for specifications, for prevailing wage and for duty of secretary.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-06-18T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB846/",
+    "sponsorship_role": "primary",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/e825c22c-222a-4e7b-aa13-b2cda0c6fa9d",
+    "identifier": "HB 183",
+    "title": "An Act amending the act of June 2, 1915 (P.L.736, No.338), known as the Workers' Compensation Act, in liability and compensation, further providing for schedule of compensation.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2025-04-09T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB183/",
+    "sponsorship_role": "primary",
+    "instrumental": true
   }
 ]
