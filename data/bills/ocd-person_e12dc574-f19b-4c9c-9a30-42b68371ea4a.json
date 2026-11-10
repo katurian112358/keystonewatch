@@ -3853,5 +3853,35 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2496/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/4b55237b-c9e0-446f-88f4-ad9326103401",
+    "identifier": "HR 655",
+    "title": "A Resolution designating December 19, 2026, as \"Wreaths Across America Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-11-09T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR655/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/dd36e2e6-97bf-4669-9887-25b373aeee34",
+    "identifier": "HR 659",
+    "title": "A Resolution designating November 10, 2026, as the \"251st Birthday of the United States Marine Corps\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-11-09T05:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR659/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]

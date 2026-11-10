@@ -20914,11 +20914,11 @@
     "identifier": "HR 607",
     "title": "A Resolution designating the week of November 16 through 20, 2026, as \"Certified Public Accountant Week\" in Pennsylvania.",
     "session": "2025-2026",
-    "status": "Reported as committed",
+    "status": "Adopted",
     "subjects": [],
     "latest_action": {
-      "date": "2026-10-06T04:00:00+00:00",
-      "description": "Reported as committed"
+      "date": "2026-11-09T05:00:00+00:00",
+      "description": "Adopted"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR607/",
     "sponsorship_role": "primary",
@@ -21874,11 +21874,11 @@
     "identifier": "HR 655",
     "title": "A Resolution designating December 19, 2026, as \"Wreaths Across America Day\" in Pennsylvania.",
     "session": "2025-2026",
-    "status": "Reported as committed",
+    "status": "Adopted",
     "subjects": [],
     "latest_action": {
-      "date": "2026-10-20T04:00:00+00:00",
-      "description": "Reported as committed"
+      "date": "2026-11-09T05:00:00+00:00",
+      "description": "Adopted"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR655/",
     "sponsorship_role": "cosponsor",
@@ -22474,11 +22474,11 @@
     "identifier": "HR 659",
     "title": "A Resolution designating November 10, 2026, as the \"251st Birthday of the United States Marine Corps\" in Pennsylvania.",
     "session": "2025-2026",
-    "status": "Reported as committed",
+    "status": "Adopted",
     "subjects": [],
     "latest_action": {
-      "date": "2026-10-20T04:00:00+00:00",
-      "description": "Reported as committed"
+      "date": "2026-11-09T05:00:00+00:00",
+      "description": "Adopted"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR659/",
     "sponsorship_role": "cosponsor",
@@ -30373,5 +30373,17 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB77/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/1b1e5483-3263-4ef2-8776-96530cc5e544",
+    "identifier": "HB 2891",
+    "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in juvenile matters, further providing for inspection of court files and records and for law enforcement records.",
+    "session": "2025-2026",
+    "status": "",
+    "subjects": [],
+    "latest_action": null,
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2891/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": false
   }
 ]

@@ -283,5 +283,20 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB439/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/9b783f1c-8882-4771-995c-054c916fb0fa",
+    "identifier": "HR 675",
+    "title": "A Resolution honoring the memory of the late Honorable Ronald D. Castille, former Chief Justice of the Pennsylvania Supreme Court.",
+    "session": "2025-2026",
+    "status": "INTRODUCED AS NONCONTROVERSIAL RESOLUTION UNDER RULE 35",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-11-09T05:00:00+00:00",
+      "description": "INTRODUCED AS NONCONTROVERSIAL RESOLUTION UNDER RULE 35"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR675/",
+    "sponsorship_role": "primary",
+    "instrumental": false
   }
 ]

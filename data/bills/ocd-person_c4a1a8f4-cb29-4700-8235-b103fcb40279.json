@@ -3214,11 +3214,11 @@
     "identifier": "HR 655",
     "title": "A Resolution designating December 19, 2026, as \"Wreaths Across America Day\" in Pennsylvania.",
     "session": "2025-2026",
-    "status": "Reported as committed",
+    "status": "Adopted",
     "subjects": [],
     "latest_action": {
-      "date": "2026-10-20T04:00:00+00:00",
-      "description": "Reported as committed"
+      "date": "2026-11-09T05:00:00+00:00",
+      "description": "Adopted"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR655/",
     "sponsorship_role": "cosponsor",
@@ -3349,11 +3349,11 @@
     "identifier": "HR 659",
     "title": "A Resolution designating November 10, 2026, as the \"251st Birthday of the United States Marine Corps\" in Pennsylvania.",
     "session": "2025-2026",
-    "status": "Reported as committed",
+    "status": "Adopted",
     "subjects": [],
     "latest_action": {
-      "date": "2026-10-20T04:00:00+00:00",
-      "description": "Reported as committed"
+      "date": "2026-11-09T05:00:00+00:00",
+      "description": "Adopted"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR659/",
     "sponsorship_role": "cosponsor",
@@ -4601,6 +4601,36 @@
       "description": "Referred to Transportation"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2337/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a8d4cb66-bcef-405a-946d-2bfe496c6c8f",
+    "identifier": "HR 658",
+    "title": "A Resolution designating December 13, 2026, as the \"390th Birthday of the National Guard\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR658/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/feb02747-fd50-4cd7-95db-82c19aa8c97a",
+    "identifier": "HR 663",
+    "title": "A Resolution designating the month of November 2026 as \"Veterans and Military Families Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-20T04:00:00+00:00",
+      "description": "Reported as committed"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR663/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
   }

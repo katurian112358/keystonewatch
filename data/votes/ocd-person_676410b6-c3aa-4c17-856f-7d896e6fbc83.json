@@ -1,13 +1,57 @@
 {
   "legislator_id": "ocd-person/676410b6-c3aa-4c17-856f-7d896e6fbc83",
-  "total_votes": 2539,
-  "yes_count": 2340,
+  "total_votes": 2543,
+  "yes_count": 2344,
   "no_count": 199,
   "absent_count": 0,
   "attendance_rate": 1.0,
-  "partisan_score": 0.9968,
+  "partisan_score": 0.9969,
   "party_unity_score": 0.9996,
   "recent_votes": [
+    {
+      "bill_id": "ocd-bill/4b55237b-c9e0-446f-88f4-ad9326103401",
+      "bill_identifier": "HR 655",
+      "bill_title": "A Resolution designating December 19, 2026, as \"Wreaths Across America Day\" in Pennsylvania.",
+      "vote": "yes",
+      "date": "2026-11-09T18:16:00+00:00",
+      "motion": "House Resolution 655",
+      "yes_total": 203,
+      "no_total": 0,
+      "party_majority": "yes"
+    },
+    {
+      "bill_id": "ocd-bill/dfa3fa30-e8b3-49b8-bfe5-4585bbd8a89e",
+      "bill_identifier": "HR 607",
+      "bill_title": "A Resolution designating the week of November 16 through 20, 2026, as \"Certified Public Accountant Week\" in Pennsylvania.",
+      "vote": "yes",
+      "date": "2026-11-09T18:11:00+00:00",
+      "motion": "House Resolution 607",
+      "yes_total": 201,
+      "no_total": 2,
+      "party_majority": "yes"
+    },
+    {
+      "bill_id": "ocd-bill/dd36e2e6-97bf-4669-9887-25b373aeee34",
+      "bill_identifier": "HR 659",
+      "bill_title": "A Resolution designating November 10, 2026, as the \"251st Birthday of the United States Marine Corps\" in Pennsylvania.",
+      "vote": "yes",
+      "date": "2026-11-09T18:10:00+00:00",
+      "motion": "House Resolution 659",
+      "yes_total": 203,
+      "no_total": 0,
+      "party_majority": "yes"
+    },
+    {
+      "bill_id": "ocd-bill/dd36e2e6-97bf-4669-9887-25b373aeee34",
+      "bill_identifier": "HR 659",
+      "bill_title": "A Resolution designating November 10, 2026, as the \"251st Birthday of the United States Marine Corps\" in Pennsylvania.",
+      "vote": "yes",
+      "date": "2026-11-09T18:03:00+00:00",
+      "motion": "MOTION TO SUSPEND RULES",
+      "yes_total": 199,
+      "no_total": 4,
+      "party_majority": "yes"
+    },
     {
       "bill_id": "ocd-bill/03481a15-50ed-482a-945a-28d4c51d9431",
       "bill_identifier": "HB 2474",
@@ -180,50 +224,6 @@
       "vote": "yes",
       "date": "2026-10-21T18:53:00+00:00",
       "motion": "House Resolution 536",
-      "yes_total": 202,
-      "no_total": 1,
-      "party_majority": "yes"
-    },
-    {
-      "bill_id": "ocd-bill/e08c4216-373d-4009-ba34-4fde7af60a09",
-      "bill_identifier": "HR 662",
-      "bill_title": "A Resolution designating October 27, 2026, as \"Fraternal Benefit Societies Day\" in Pennsylvania.",
-      "vote": "yes",
-      "date": "2026-10-21T18:52:00+00:00",
-      "motion": "House Resolution 662",
-      "yes_total": 202,
-      "no_total": 1,
-      "party_majority": "yes"
-    },
-    {
-      "bill_id": "ocd-bill/eb9c25f5-6cf2-4b02-a223-ccea18e48bcd",
-      "bill_identifier": "HR 650",
-      "bill_title": "A Resolution designating the week of November 16 through 20, 2026, as \"Pennsylvania Education for Students Experiencing Homelessness Awareness Week\" and November 20, 2026, as \"Red Shirt Day\" in Pennsylvania.",
-      "vote": "yes",
-      "date": "2026-10-21T18:50:00+00:00",
-      "motion": "House Resolution 650",
-      "yes_total": 200,
-      "no_total": 3,
-      "party_majority": "yes"
-    },
-    {
-      "bill_id": "ocd-bill/a0d4990c-08d0-4607-9f67-efa3864cada7",
-      "bill_identifier": "HR 648",
-      "bill_title": "A Resolution recognizing the month of January 2027 as \"National Blood Donor Month\" in Pennsylvania.",
-      "vote": "yes",
-      "date": "2026-10-21T18:47:00+00:00",
-      "motion": "House Resolution 648",
-      "yes_total": 202,
-      "no_total": 1,
-      "party_majority": "yes"
-    },
-    {
-      "bill_id": "ocd-bill/92cdfcc3-6abf-41f3-b725-2751dc09dfb2",
-      "bill_identifier": "HR 641",
-      "bill_title": "A Resolution designating November 8, 2026, as \"Frank and Athena Sarris Day\" in Pennsylvania.",
-      "vote": "yes",
-      "date": "2026-10-21T18:46:00+00:00",
-      "motion": "House Resolution 641",
       "yes_total": 202,
       "no_total": 1,
       "party_majority": "yes"
