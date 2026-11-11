@@ -11764,11 +11764,14 @@
     "identifier": "HB 2891",
     "title": "An Act amending Title 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in juvenile matters, further providing for inspection of court files and records and for law enforcement records.",
     "session": "2025-2026",
-    "status": "",
+    "status": "Referred to Judiciary",
     "subjects": [],
-    "latest_action": null,
+    "latest_action": {
+      "date": "2026-11-10T05:00:00+00:00",
+      "description": "Referred to Judiciary"
+    },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2891/",
     "sponsorship_role": "cosponsor",
-    "instrumental": false
+    "instrumental": true
   }
 ]

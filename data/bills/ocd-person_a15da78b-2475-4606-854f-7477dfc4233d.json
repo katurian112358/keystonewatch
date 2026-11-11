@@ -23,7 +23,7 @@
     "subjects": [],
     "latest_action": {
       "date": "2026-07-23T04:00:00+00:00",
-      "description": "Originated in Committee on Rules"
+      "description": "Originated in House Committee on Rules"
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR600/",
     "sponsorship_role": "primary",
@@ -102,6 +102,21 @@
     },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2632/",
     "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/fc60de65-bd31-4ca7-94d9-f105b54f46b1",
+    "identifier": "HR 676",
+    "title": "A Resolution censuring Representative Aaron Bernstine.",
+    "session": "2025-2026",
+    "status": "Reported as committed",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-11-10T05:00:00+00:00",
+      "description": "Originated in House Committee on Rules"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR676/",
+    "sponsorship_role": "primary",
     "instrumental": true
   }
 ]

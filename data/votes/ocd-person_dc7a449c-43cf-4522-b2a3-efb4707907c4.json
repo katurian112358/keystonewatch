@@ -1,13 +1,24 @@
 {
   "legislator_id": "ocd-person/dc7a449c-43cf-4522-b2a3-efb4707907c4",
-  "total_votes": 2259,
-  "yes_count": 1774,
+  "total_votes": 2260,
+  "yes_count": 1775,
   "no_count": 485,
   "absent_count": 0,
   "attendance_rate": 1.0,
-  "partisan_score": 0.7052,
+  "partisan_score": 0.7053,
   "party_unity_score": 0.9743,
   "recent_votes": [
+    {
+      "bill_id": "ocd-bill/1a0c382e-82ba-46ec-89fd-bfe17067fecf",
+      "bill_identifier": "HR 654",
+      "bill_title": "A Resolution recognizing November 10, 2026, as \"Bill White Day\" in Pennsylvania.",
+      "vote": "yes",
+      "date": "2026-11-10T17:07:00+00:00",
+      "motion": "House Resolution 654",
+      "yes_total": 200,
+      "no_total": 2,
+      "party_majority": "yes"
+    },
     {
       "bill_id": "ocd-bill/4b55237b-c9e0-446f-88f4-ad9326103401",
       "bill_identifier": "HR 655",
@@ -213,17 +224,6 @@
       "vote": "yes",
       "date": "2026-10-21T18:55:00+00:00",
       "motion": "House Resolution 538",
-      "yes_total": 202,
-      "no_total": 1,
-      "party_majority": "yes"
-    },
-    {
-      "bill_id": "ocd-bill/c43dce49-95bb-46ab-866c-0392858e7b7a",
-      "bill_identifier": "HR 536",
-      "bill_title": "A Resolution designating the week of October 11 through 17, 2026, as \"Credit Union Week\" in Pennsylvania.",
-      "vote": "yes",
-      "date": "2026-10-21T18:53:00+00:00",
-      "motion": "House Resolution 536",
       "yes_total": 202,
       "no_total": 1,
       "party_majority": "yes"
