@@ -432,7 +432,14 @@
     "url": "https://senatortartaglione.com/senator-tartagliones-senior-expo",
     "date": null,
     "raw_text": "Senator Tartaglione’s Senior Expo\nOctober 1, 2026",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Senator Tartaglione hosted a Senior Expo event, likely providing resources and information to older constituents in her district. No additional details about the event's content, location, or outcomes are available from the provided text.",
+      "action_type": "event",
+      "topics": [
+        "other"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "PA Breast Cancer Coalition Fountain Event",

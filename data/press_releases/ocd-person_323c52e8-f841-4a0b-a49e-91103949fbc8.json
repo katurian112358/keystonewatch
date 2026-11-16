@@ -543,7 +543,14 @@
     "url": "https://www.senatorcollett.com/sen-collett-tours-historic-graeme-park-in-horsham-township/",
     "date": null,
     "raw_text": "Sen. Collett Tours Historic Graeme Park in Horsham Township\nAugust 18, 2026",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "State Senator Collett visited Graeme Park, a historic site in Horsham Township. No legislative action or policy announcement was associated with the visit based on the available information. The release appears to document a tour of a historical property in the senator's district.",
+      "action_type": "event",
+      "topics": [
+        "other"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Senator Collett, Local Reps Announce Over $1.6M for Traffic Safety Improvements in Montgomery County",
@@ -944,7 +951,14 @@
     "url": "https://www.senatorcollett.com/sen-collett-shares-seasonal-vaccine-reminder/",
     "date": null,
     "raw_text": "Sen. Collett Shares Seasonal Vaccine Reminder\nOctober 20, 2026",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Senator Collett issued a public reminder encouraging residents to get seasonal vaccines. The release does not indicate any legislative action was taken. It appears to be an informational communication timed to the fall vaccine season.",
+      "action_type": "statement",
+      "topics": [
+        "healthcare"
+      ],
+      "spin_flag": false
+    }
   },
   {
     "title": "Sen. Collett Advocates for Rare Disease Patients",
@@ -986,7 +1000,14 @@
     "url": "https://www.senatorcollett.com/sen-collett-shares-remarks-at-2026-first-responder-appreciation-breakfast/",
     "date": null,
     "raw_text": "Sen. Collett Shares Remarks at 2026 First Responder Appreciation Breakfast\nOctober 29, 2026",
-    "ai_summary": null
+    "ai_summary": {
+      "summary": "Senator Collett attended and spoke at a 2026 First Responder Appreciation Breakfast. The release describes remarks she delivered at the event. No specific legislative action or policy announcement is described.",
+      "action_type": "event",
+      "topics": [
+        "public_safety"
+      ],
+      "spin_flag": true
+    }
   },
   {
     "title": "Pennsylvania Senate Democratic Caucus Announces Leadership Team for 2027-28 Legislative Session",
