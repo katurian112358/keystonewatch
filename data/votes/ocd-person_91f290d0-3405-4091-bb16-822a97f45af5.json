@@ -1,13 +1,46 @@
 {
   "legislator_id": "ocd-person/91f290d0-3405-4091-bb16-822a97f45af5",
-  "total_votes": 750,
-  "yes_count": 610,
-  "no_count": 140,
+  "total_votes": 753,
+  "yes_count": 612,
+  "no_count": 141,
   "absent_count": 0,
   "attendance_rate": 1.0,
-  "partisan_score": 0.8187,
-  "party_unity_score": 0.9772,
+  "partisan_score": 0.8181,
+  "party_unity_score": 0.9773,
   "recent_votes": [
+    {
+      "bill_id": "ocd-bill/140c58fb-60ac-4b5f-a606-4a0a6c9b20e8",
+      "bill_identifier": "SR 374",
+      "bill_title": "A Resolution directing the Joint State Government Commission to study and issue findings and recommendations on the strategic importance of this Commonwealth's conventional oil and natural gas industry in resolving the growing demand for energy in this Commonwealth.",
+      "vote": "no",
+      "date": "2026-11-17T19:24:00+00:00",
+      "motion": "Senate Resolution 374",
+      "yes_total": 29,
+      "no_total": 19,
+      "party_majority": "no"
+    },
+    {
+      "bill_id": "ocd-bill/a2d80f8f-b9a2-4ffa-b061-f067608b1104",
+      "bill_identifier": "SB 1273",
+      "bill_title": "An Act amending Title 74 (Transportation) of the Pennsylvania Consolidated Statutes, in turnpike, further providing for electronic toll collection.",
+      "vote": "yes",
+      "date": "2026-11-17T19:16:00+00:00",
+      "motion": "CONCUR IN HOUSE AMENDMENTS",
+      "yes_total": 46,
+      "no_total": 2,
+      "party_majority": "yes"
+    },
+    {
+      "bill_id": "ocd-bill/5a739fb2-43e2-478f-8bb0-8bda3b05d94b",
+      "bill_identifier": "SB 481",
+      "bill_title": "An Act amending Title 75 (Vehicles) of the Pennsylvania Consolidated Statutes, in size, weight and load, further providing for permit for movement during course of manufacture.",
+      "vote": "yes",
+      "date": "2026-11-17T19:11:00+00:00",
+      "motion": "CONCUR IN HOUSE AMENDMENTS",
+      "yes_total": 48,
+      "no_total": 0,
+      "party_majority": "yes"
+    },
     {
       "bill_id": "ocd-bill/4033dfc2-012e-4304-85c3-673743005235",
       "bill_identifier": "HB 559",
@@ -191,39 +224,6 @@
       "vote": "yes",
       "date": "2026-10-21T18:58:00+00:00",
       "motion": "Senate Resolution 377",
-      "yes_total": 50,
-      "no_total": 0,
-      "party_majority": "yes"
-    },
-    {
-      "bill_id": "ocd-bill/dc9872c3-3363-43c8-8f64-1cd7401af909",
-      "bill_identifier": "HB 2299",
-      "bill_title": "An Act amending Titles 18 (Crimes and Offenses) and 42 (Judiciary and Judicial Procedure) of the Pennsylvania Consolidated Statutes, in wiretapping and electronic surveillance, further providing for definitions; and, in recordings by law enforcement officers, further providing for definitions.",
-      "vote": "yes",
-      "date": "2026-10-21T18:54:00+00:00",
-      "motion": "FINAL PASSAGE - RECONSIDERATION",
-      "yes_total": 42,
-      "no_total": 8,
-      "party_majority": "yes"
-    },
-    {
-      "bill_id": "ocd-bill/2aecb660-0e52-4945-967c-2b1d88f556b1",
-      "bill_identifier": "HB 2443",
-      "bill_title": "An Act providing for Child Victim Recovery Fee; establishing the Child Victim Recovery Fund; and imposing duties on the Pennsylvania Commission on Crime and Delinquency.",
-      "vote": "yes",
-      "date": "2026-10-21T18:53:00+00:00",
-      "motion": "FINAL PASSAGE - RECONSIDERATION",
-      "yes_total": 47,
-      "no_total": 3,
-      "party_majority": "yes"
-    },
-    {
-      "bill_id": "ocd-bill/03481a15-50ed-482a-945a-28d4c51d9431",
-      "bill_identifier": "HB 2474",
-      "bill_title": "An Act amending Title 23 (Domestic Relations) of the Pennsylvania Consolidated Statutes, in child protective services, further providing for exclusions from child abuse and for persons required to report suspected child abuse.",
-      "vote": "yes",
-      "date": "2026-10-21T18:50:00+00:00",
-      "motion": "FINAL PASSAGE",
       "yes_total": 50,
       "no_total": 0,
       "party_majority": "yes"
