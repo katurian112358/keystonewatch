@@ -7633,5 +7633,80 @@
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB377/",
     "sponsorship_role": "cosponsor",
     "instrumental": true
+  },
+  {
+    "id": "ocd-bill/2382b16b-ccdc-4989-ba8c-8c7f312418c3",
+    "identifier": "HR 647",
+    "title": "A Resolution recognizing October 2, 2026, as \"Manufacturing Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Labor & Industry",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-02T04:00:00+00:00",
+      "description": "Referred to Labor & Industry"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR647/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a1e604b6-5d6a-41fb-bdb4-6c4bb858981e",
+    "identifier": "HR 640",
+    "title": "A Resolution recognizing October 7, 2026, as \"National Propane Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Energy",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-09-29T04:00:00+00:00",
+      "description": "Referred to Energy"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR640/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/c70116d5-f3f1-4b32-92da-e43a73b32899",
+    "identifier": "HR 649",
+    "title": "A Resolution designating November 10, 2026, as \"Chesapeake Bay Foundation Day\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Referred to Environmental & Natural Resource Protection",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-05T04:00:00+00:00",
+      "description": "Referred to Environmental & Natural Resource Protection"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR649/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/a0d4990c-08d0-4607-9f67-efa3864cada7",
+    "identifier": "HR 648",
+    "title": "A Resolution recognizing the month of January 2027 as \"National Blood Donor Month\" in Pennsylvania.",
+    "session": "2025-2026",
+    "status": "Adopted",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-21T04:00:00+00:00",
+      "description": "Adopted"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HR648/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
+  },
+  {
+    "id": "ocd-bill/f56d1a71-ba4d-4340-a685-f4b7c5d32726",
+    "identifier": "HB 2881",
+    "title": "An Act amending Title 34 (Game) of the Pennsylvania Consolidated Statutes, in hunting and furtaking licenses, providing for opening day of regular firearms deer season opinion survey and further providing for unlawful acts concerning agents.",
+    "session": "2025-2026",
+    "status": "Referred to Game & Fisheries",
+    "subjects": [],
+    "latest_action": {
+      "date": "2026-10-28T04:00:00+00:00",
+      "description": "Referred to Game & Fisheries"
+    },
+    "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2881/",
+    "sponsorship_role": "cosponsor",
+    "instrumental": true
   }
 ]
