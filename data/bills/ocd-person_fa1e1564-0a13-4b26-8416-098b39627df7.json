@@ -8674,11 +8674,14 @@
     "identifier": "HB 2893",
     "title": "An Act amending the act of July 19, 1979 (P.L.130, No.48), known as the Health Care Facilities Act, in licensing of health care facilities, further providing for definitions and for licensure.",
     "session": "2025-2026",
-    "status": "",
+    "status": "Referred to Professional Licensure",
     "subjects": [],
-    "latest_action": null,
+    "latest_action": {
+      "date": "2026-11-23T05:00:00+00:00",
+      "description": "Referred to Professional Licensure"
+    },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2893/",
     "sponsorship_role": "cosponsor",
-    "instrumental": false
+    "instrumental": true
   }
 ]

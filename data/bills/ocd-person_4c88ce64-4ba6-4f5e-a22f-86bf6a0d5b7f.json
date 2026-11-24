@@ -6514,11 +6514,14 @@
     "identifier": "HB 2892",
     "title": "An Act amending Title 66 (Public Utilities) of the Pennsylvania Consolidated Statutes, in service and facilities, providing for medical customer registries; establishing the Generator Grant Program for Medical Customers; and imposing duties on the Pennsylvania Public Utility Commission and the Department of Community and Economic Development.",
     "session": "2025-2026",
-    "status": "",
+    "status": "Referred to Consumer Protection, Technology & Utilities",
     "subjects": [],
-    "latest_action": null,
+    "latest_action": {
+      "date": "2026-11-23T05:00:00+00:00",
+      "description": "Referred to Consumer Protection, Technology & Utilities"
+    },
     "openstates_url": "https://openstates.org/pa/bills/2025-2026/HB2892/",
     "sponsorship_role": "cosponsor",
-    "instrumental": false
+    "instrumental": true
   }
 ]
